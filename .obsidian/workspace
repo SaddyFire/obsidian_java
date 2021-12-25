@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_project_003_tanhua/Ⅱ_003_完善个人信息/005 统一异常处理.md",
-            "mode": "preview"
+            "file": "Ⅰ_AAA_Config_MyPC/Ⅰ_000_temp/git测试.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "git",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_project_003_tanhua/Ⅱ_003_完善个人信息/005 统一异常处理.md"
+                "file": "Ⅰ_AAA_Config_MyPC/Ⅰ_000_temp/git测试.md"
               }
             }
           },
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_project_003_tanhua/Ⅱ_003_完善个人信息/005 统一异常处理.md",
+                "file": "Ⅰ_AAA_Config_MyPC/Ⅰ_000_temp/git测试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,15 +123,15 @@
   },
   "active": "52815d4e886c0abb",
   "lastOpenFiles": [
+    "Ⅰ_AAA_Config_MyPC/Ⅰ_000_temp/git测试.md",
+    "Ⅰ_integration_001_spring/Ⅱ_005_git/003 tortoise 推送.md",
+    "Ⅰ_integration_001_spring/Ⅱ_005_git/001 基础命令.md",
+    "Ⅰ_integration_001_spring/Ⅱ_005_git/002 (temp) idea删除git项目.md",
     "Ⅰ_project_003_tanhua/Ⅱ_003_完善个人信息/005 统一异常处理.md",
     "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/004 字段自动填充.md",
     "Ⅰ_project_003_tanhua/Ⅱ_003_完善个人信息/003 dozer_深克隆.md",
     "Ⅰ_project_003_tanhua/Ⅱ_003_完善个人信息/004 ThreadLocal工具类.md",
     "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/002 SpringData-Mongo.md",
-    "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/001 基础操作.md",
-    "Ⅰ_project_003_tanhua/Ⅱ_003_完善个人信息/001 OOS文件存储.md",
-    "Ⅰ_project_003_tanhua/Ⅱ_003_完善个人信息/002 人脸识别.md",
-    "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB.md",
-    "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/005 访问测试.md"
+    "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/001 基础操作.md"
   ]
 }
