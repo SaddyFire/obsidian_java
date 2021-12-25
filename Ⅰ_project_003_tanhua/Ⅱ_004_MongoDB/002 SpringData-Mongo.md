@@ -21,6 +21,8 @@
 </dependencies>
 ```
 
+<br/>
+
 ## 02 application.yml配置文件
 ```yml
 #配置mongo的连接地址
@@ -29,6 +31,8 @@ spring:
     mongodb:
       uri: mongodb://192.168.136.160:27017/testdb
 ```
+
+<br/>
 
 ## 03 启动类(略) & CURD
 

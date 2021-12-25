@@ -48,13 +48,13 @@ cache:
 
 > key的写法如下：
 > 
-> #user.id : #user指的是方法形参的名称, id指的是user的id属性 , 也就是使用user的id属性作为key ;
+> \#user.id : \#user指的是方法形参的名称, id指的是user的id属性 , 也就是使用user的id属性作为key ;
 > 
-> #user.name: #user指的是方法形参的名称, name指的是user的name属性 ,也就是使用user的name属性作为key ;
+> \#user.name: \#user指的是方法形参的名称, name指的是user的name属性 ,也就是使用user的name属性作为key ;
 > 
-> #result.id : #result代表方法返回值，该表达式 代表以返回对象的id属性作为key ；
+> \#result.id : \#result代表方法返回值，该表达式 代表以返回对象的id属性作为key ；
 > 
-> #result.name : #result代表方法返回值，该表达式 代表以返回对象的name属性作为key ；
+> \#result.name : \#result代表方法返回值，该表达式 代表以返回对象的name属性作为key ；
 
 ### 4.2  在 delete 方法上加注解@CacheEvict
 
