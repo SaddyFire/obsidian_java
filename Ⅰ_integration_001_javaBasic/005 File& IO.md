@@ -1,8 +1,8 @@
 ##  01 字节流
 
-#### 1.1 FileInputStream:	字节输入流
+## 1.1 FileInputStream:	字节输入流
 
-#### 1.2 FileOutputStream:   字节输出流
+## 1.2 FileOutputStream:   字节输出流
 
 ##### 3.10字节流-定义小数组拷贝【重点】（视频23）（8‘’）
 
@@ -52,11 +52,11 @@ public class Class06_flag {
 
 
 
-### 4. 字节缓冲流(buff 增强)
+## 4. 字节缓冲流(buff 增强)
 
-#### `BufferedOutputStream`: 字节缓冲输出流
+#### **BufferedOutputStream**: 字节缓冲输出流
 
-#### `BufferedIntputStream`: 字节缓冲输入流
+#### **BufferedIntputStream**: 字节缓冲输入流
 
 | 方法名                                 | 说明                   |
 | -------------------------------------- | ---------------------- |
