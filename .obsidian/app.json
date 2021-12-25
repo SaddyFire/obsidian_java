@@ -1,0 +1,10 @@
+{
+  "attachmentFolderPath": "_resources",
+  "promptDelete": false,
+  "defaultViewMode": "source",
+  "showLineNumber": true,
+  "vimMode": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showFrontmatter": true
+}

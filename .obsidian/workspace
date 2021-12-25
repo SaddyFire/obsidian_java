@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "36158530ca94399a",
+    "type": "split",
+    "children": [
+      {
+        "id": "52815d4e886c0abb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Ⅰ_project_003_tanhua/Ⅱ_003_完善个人信息/005 统一异常处理.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1fde14943e099181",
+    "type": "split",
+    "children": [
+      {
+        "id": "d83534516a49fbef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b4b466d8db2079a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "29345518bf978237",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5127389d653a6fee",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "0d57d0d7a8a436ab",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 290
+  },
+  "right": {
+    "id": "eaafcc4feb3ef58e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8afab52c5050144e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "deca9959ecc6f1b1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ⅰ_project_003_tanhua/Ⅱ_003_完善个人信息/005 统一异常处理.md"
+              }
+            }
+          },
+          {
+            "id": "47df3afa02bd9d58",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "c80cf3aef88f7c8d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ⅰ_project_003_tanhua/Ⅱ_003_完善个人信息/005 统一异常处理.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 292.3333435058594,
+    "collapsed": true
+  },
+  "active": "52815d4e886c0abb",
+  "lastOpenFiles": [
+    "Ⅰ_project_003_tanhua/Ⅱ_003_完善个人信息/005 统一异常处理.md",
+    "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/004 字段自动填充.md",
+    "Ⅰ_project_003_tanhua/Ⅱ_003_完善个人信息/003 dozer_深克隆.md",
+    "Ⅰ_project_003_tanhua/Ⅱ_003_完善个人信息/004 ThreadLocal工具类.md",
+    "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/002 SpringData-Mongo.md",
+    "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/001 基础操作.md",
+    "Ⅰ_project_003_tanhua/Ⅱ_003_完善个人信息/001 OOS文件存储.md",
+    "Ⅰ_project_003_tanhua/Ⅱ_003_完善个人信息/002 人脸识别.md",
+    "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB.md",
+    "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/005 访问测试.md"
+  ]
+}
