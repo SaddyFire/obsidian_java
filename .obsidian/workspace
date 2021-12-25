@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_integration_001_javaBasic/001 javaBasic.md",
+            "file": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/002 SpringData-Mongo.md",
             "mode": "source"
           }
         }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_integration_001_javaBasic/001 javaBasic.md"
+                "file": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/002 SpringData-Mongo.md"
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_integration_001_javaBasic/001 javaBasic.md",
+                "file": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/002 SpringData-Mongo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +122,7 @@
   },
   "active": "ad42b37a49dd23eb",
   "lastOpenFiles": [
+    "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/002 SpringData-Mongo.md",
     "Ⅰ_integration_001_javaBasic/001 javaBasic.md",
     "Ⅰ_integration_001_javaBasic/007 多线程.md",
     "Ⅰ_integration_001_javaBasic/006 字符流.md",
@@ -130,7 +131,6 @@
     "Ⅰ_integration_001_javaBasic/003 时间类&异常.md",
     "Ⅰ_integration_001_javaBasic/002 API&包装类&递归.md",
     "Ⅰ_integration_001_javaBasic/001 匿名内部类.md",
-    "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/003 驼峰命名映射配置.md",
-    "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/000 docker安装.md"
+    "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/003 驼峰命名映射配置.md"
   ]
 }
