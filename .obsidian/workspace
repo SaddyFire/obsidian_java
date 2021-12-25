@@ -7,8 +7,11 @@
         "id": "ad42b37a49dd23eb",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Ⅰ_integration_003_springCloud/Ⅱ_004_RabbitMQ/Ⅱ_004_mq.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -81,7 +84,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ⅰ_integration_003_springCloud/Ⅱ_004_RabbitMQ/Ⅱ_004_mq.md"
+              }
             }
           },
           {
@@ -98,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ⅰ_integration_003_springCloud/Ⅱ_004_RabbitMQ/Ⅱ_004_mq.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,20 +118,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.3333435058594,
-    "collapsed": true
+    "width": 292.3333435058594
   },
   "active": "ad42b37a49dd23eb",
   "lastOpenFiles": [
+    "Ⅰ_integration_003_springCloud/Ⅱ_004_RabbitMQ/Ⅱ_004_mq.md",
+    "Ⅰ_integration_003_springCloud/Ⅱ_003_docker/Ⅱ_003_docker.md",
+    "Ⅰ_integration_003_springCloud/Ⅱ_002_配置中心&Feign远程调用/Ⅱ_002_配置中心&Feign远程调用.md",
     "Ⅰ_integration_003_springCloud/Ⅱ_001_Eureka&Ribbon/Ⅱ_001_Eureka&Ribbon.md",
     "Ⅰ_integration_003_springCloud/Ⅱ_001_Eureka&Ribbon/005 Nacos与Eureka的区别.md",
     "Ⅰ_integration_003_springCloud/Ⅱ_001_Eureka&Ribbon/004 Nacos注册中心.md",
     "Ⅰ_integration_003_springCloud/Ⅱ_001_Eureka&Ribbon/003 Ribbon负载均衡.md",
     "Ⅰ_integration_003_springCloud/Ⅱ_001_Eureka&Ribbon/002 Eureka注册中心.md",
     "Ⅰ_integration_003_springCloud/Ⅱ_001_Eureka&Ribbon/001 springCloud简介.md",
-    "Ⅰ_integration_003_springCloud/Ⅱ_005_Dubbo/Ⅱ_005_Dubbo.md",
-    "Ⅰ_integration_003_springCloud/Ⅱ_003_docker/Ⅱ_003_docker.md",
-    "Ⅰ_integration_003_springCloud/Ⅱ_002_配置中心&Feign远程调用/Ⅱ_002_配置中心&Feign远程调用.md",
-    "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/002 SpringData-Mongo.md"
+    "Ⅰ_integration_003_springCloud/Ⅱ_005_Dubbo/Ⅱ_005_Dubbo.md"
   ]
 }
