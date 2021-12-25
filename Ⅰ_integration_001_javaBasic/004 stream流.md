@@ -7,7 +7,7 @@
 | 方法名                         | 说明               |
 | ------------------------------ | ------------------ |
 | R collect(Collector collector) | 把结果收集到集合中 |
-|                                |                    |
+
 
 2. 工具类Collectors提供了具体的收集方式
 
@@ -115,7 +115,6 @@ public class MyStream8 {
                 s -> Integer.parseInt(s.split(",")[1]) ));
 
         System.out.println(map);
-
 
     }
 }
