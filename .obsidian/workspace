@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/000 docker安装.md",
+            "file": "Ⅰ_integration_001_javaBasic/001 javaBasic.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290
+    "width": 290,
+    "collapsed": true
   },
   "right": {
     "id": "eaafcc4feb3ef58e",
@@ -85,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/000 docker安装.md"
+                "file": "Ⅰ_integration_001_javaBasic/001 javaBasic.md"
               }
             }
           },
@@ -103,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/000 docker安装.md",
+                "file": "Ⅰ_integration_001_javaBasic/001 javaBasic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,16 +115,16 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 292.3333435058594,
-    "collapsed": true
+    "width": 292.3333435058594
   },
   "active": "52815d4e886c0abb",
   "lastOpenFiles": [
+    "Ⅰ_integration_001_javaBasic/001 javaBasic.md",
+    "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/003 驼峰命名映射配置.md",
     "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/000 docker安装.md",
     "Ⅰ_integration_002_springcloud/Ⅱ_004_RabbitMQ/Ⅱ_004_mq.md",
     "Ⅰ_integration_002_springcloud/Ⅱ_003_docker/Ⅱ_003_docker.md",
@@ -131,8 +132,6 @@
     "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/002 SpringData-Mongo.md",
     "Ⅰ_AAA_Config_MyPC/Ⅰ_000_temp/git测试.md",
     "Ⅰ_integration_001_spring/Ⅱ_005_git/003 tortoise 推送.md",
-    "Ⅰ_integration_001_spring/Ⅱ_005_git/001 基础命令.md",
-    "Ⅰ_integration_001_spring/Ⅱ_005_git/002 (temp) idea删除git项目.md",
-    "Ⅰ_project_003_tanhua/Ⅱ_003_完善个人信息/005 统一异常处理.md"
+    "Ⅰ_integration_001_spring/Ⅱ_005_git/001 基础命令.md"
   ]
 }
