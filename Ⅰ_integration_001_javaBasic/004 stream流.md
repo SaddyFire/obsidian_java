@@ -1,20 +1,24 @@
 ## 01 Stream流的收集方法-toList和toSet【重点】
 
+
+
 1. 常用方法
 
 | 方法名                         | 说明               |
 | ------------------------------ | ------------------ |
 | R collect(Collector collector) | 把结果收集到集合中 |
+|                                |                    |
 
 2. 工具类Collectors提供了具体的收集方式
 
-| 方法名                                                       | 说明                   |
-| ------------------------------------------------------------ | ---------------------- |
-| public static <T> Collector toList()                         | 把元素收集到List集合中 |
-| public static <T> Collector toSet()                          | 把元素收集到Set集合中  |
+| 方法名                                                                  | 说明                   |
+| --------------------- | ---------------------- |
+| public static \<T\> Collector toList()     | 把元素收集到List集合中 |
+| public static \<T\> Collector toSet()   | 把元素收集到Set集合中  |
 | public static  Collector toMap(Function keyMapper,Function valueMapper) | 把元素收集到Map集合中  |
 
-	
+
+
 ```java
 
 import java.util.ArrayList;
@@ -63,8 +67,8 @@ public class MyStream7 {
 
 1.工具类Collectors提供了具体的收集方式
 
-| 方法名                                                       | 说明                  |
-| ------------------------------------------------------------ | --------------------- |
+| 方法名             | 说明                  |
+| ---------------------------- | ---------------- |
 | public static  Collector toMap(Function keyMapper,Function valueMapper) | 把元素收集到Map集合中 |
 
 ```java
