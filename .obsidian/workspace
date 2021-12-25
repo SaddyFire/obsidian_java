@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/001 mysql.md",
-            "mode": "preview"
+            "file": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/003 MongoDB在项目中启动报错.md",
+            "mode": "source"
           }
         }
       }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/001 mysql.md"
+                "file": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/003 MongoDB在项目中启动报错.md"
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/001 mysql.md",
+                "file": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/003 MongoDB在项目中启动报错.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +123,7 @@
   },
   "active": "ad42b37a49dd23eb",
   "lastOpenFiles": [
+    "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/003 MongoDB在项目中启动报错.md",
     "Ⅰ_integration_002_spring/Ⅱ_002_mysql/001 mysql.md",
     "Ⅰ_integration_002_spring/Ⅱ_002_mysql/002 mysql_advance.md",
     "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/002 idea配置.md",
@@ -131,7 +132,6 @@
     "Ⅰ_integration_002_spring/Ⅱ_003_springboot/004 异常处理类.md",
     "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/002 SpringData-Mongo.md",
     "Ⅰ_integration_002_spring/Ⅱ_006_redis/002 SpringCache注解.md",
-    "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/001 基础操作.md",
-    "Ⅰ_integration_003_springCloud/Ⅱ_001_Eureka&Ribbon/Ⅱ_001_Eureka&Ribbon.md"
+    "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/001 基础操作.md"
   ]
 }
