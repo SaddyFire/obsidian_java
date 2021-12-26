@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/003 查询功能(`).md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -124,10 +124,10 @@
   "active": "ad42b37a49dd23eb",
   "lastOpenFiles": [
     "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/003 查询功能(`).md",
-    "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/002 分页模糊查询(拦截器).md",
-    "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/001 起步配置.md",
     "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/004 字段和表明映射(记忆).md",
     "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/005 id生成策略 - 逻辑删除.md",
+    "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/002 分页模糊查询(拦截器).md",
+    "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/001 起步配置.md",
     "Ⅰ_integration_SSS_concat/Ⅱ_004_java-stream/005 多条件排序.md",
     "Ⅰ_integration_SSS_concat/Ⅱ_004_java-stream/006 去重_过滤.md",
     "Ⅰ_integration_SSS_concat/Ⅱ_004_java-stream/007 将集合流属性新建流.md",
