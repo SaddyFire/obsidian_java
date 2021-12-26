@@ -1,6 +1,7 @@
 **1. anyMatch的使用**
 anyMatch(Predicate predicate) 根据条件进行匹配返回 boolean
 
+#stram流
 ```java
 
 /**
