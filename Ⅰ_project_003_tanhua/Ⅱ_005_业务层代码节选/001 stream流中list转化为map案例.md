@@ -10,17 +10,22 @@
     public PageResult friendsMovement(Integer page, Integer pagesize) {
         Long userId = UserHolder.getUserId();
         List<Movement> friendsMovements = movementApi.getFriendsMovement(page,pagesize,userId);
-        //List<Movement>非空判断
+        //1. List<Movement>非空判断
         if(friendsMovements.size() == 0){
             return new PageResult(page,pagesize,0L,friendsMovements);
         }
-        //提取userId(方法引用)
+		
+        //2. 提取userId(方法引用)
         List<Long> userIds = friendsMovements.stream().map(Movement::getUserId).collect(Collectors.toList());
         List<UserInfo> userInfos = userInfoApi.findByCondition(userIds, null);
-		//list 映射为 map
+		
+		//3. list 映射为 map
         Map<Long, UserInfo> userInfoMap = userInfos.stream().collect(Collectors.toMap(userInfo -> userId, Function.identity()));
+		//(或者采用方法引用)
+		Map<Long, UserInfo> userInfoMap = userInfoList.stream().collect(Collectors.toMap(UserInfo::getId, Function.identity()));
         List<MovementsVo> list = new ArrayList<>();
-        //将查询到的结果映射后封装
+		
+        //4. 将查询到的结果映射后封装
         friendsMovements.stream().map(movement -> {
             MovementsVo init = MovementsVo.init(userInfoMap.get(movement.getUserId()), movement);
             //此处需return
