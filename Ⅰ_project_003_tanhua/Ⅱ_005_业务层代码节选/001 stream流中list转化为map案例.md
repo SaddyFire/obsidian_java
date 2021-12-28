@@ -6,6 +6,7 @@
 
 ```java
  @Override
+ ...
     public PageResult friendsMovement(Integer page, Integer pagesize) {
         Long userId = UserHolder.getUserId();
         List<Movement> friendsMovements = movementApi.getFriendsMovement(page,pagesize,userId);
@@ -30,4 +31,5 @@
 
         return pageResult;
     }
+...
 ```
