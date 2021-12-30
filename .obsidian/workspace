@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/002 常用命令.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290
+    "width": 290,
+    "collapsed": true
   },
   "right": {
     "id": "eaafcc4feb3ef58e",
@@ -114,13 +115,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 292.3333435058594,
-    "collapsed": true
+    "width": 292.3333435058594
   },
   "active": "ad42b37a49dd23eb",
   "lastOpenFiles": [
