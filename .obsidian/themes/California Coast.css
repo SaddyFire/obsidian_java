@@ -598,6 +598,21 @@ settings:
   --opacity-translucency: 1;
 }
 
+/*#f8f8f2*/
+/*类名颜色*/
+.theme-dark .token.class-name {
+    /*color: #e6db74;*/
+    color: #f8f8f2
+}
+/*关键字颜色*/
+.theme-dark .token.keyword {
+    color: #CC7832;
+}
+/*注解颜色*/
+.theme-dark .token.punctuation {
+    color: #BBB529;
+}
+
 .theme-dark {
   --accent-h: 210; /* Accent hue */
 
@@ -624,13 +639,7 @@ settings:
   --h5-color: #ff4500;
   --h6-color: #A17426;
 
-  --class-name: #f8f8f2;
-
-  .class-name {
-    /*color: #e6db74;*/
-    color: #f8f8f2
-  }
-
+ 
 
 
 
