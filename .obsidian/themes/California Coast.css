@@ -632,11 +632,11 @@ settings:
 
 /*基本数据 数字颜色*/
 .theme-dark .token.boolean {
-    color: #ae81ff;
+    color: #CC7832;
 }
 /*基本数据 true/false颜色*/
 .theme-dark .token.number {
-    color: #CC7832;
+    color: #ae81ff;
 }
 
 
