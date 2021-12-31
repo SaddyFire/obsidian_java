@@ -12,5 +12,7 @@
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-image-toolkit",
   "obsidian-outliner",
-  "recent-files-obsidian"
+  "recent-files-obsidian",
+  "obsidian-collapse-all-plugin",
+  "quick-explorer"
 ]
