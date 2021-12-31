@@ -36,6 +36,12 @@
   color: #F39B35;
 }
 
+/*括号颜色*/
+.theme-dark .cm-s-obsidian pre.HyperMD-codeblock {
+    color: #8168dd;
+}
+
+
 /*基本数据 数字颜色*/
 .theme-dark .cm-s-obsidian .cm-hmd-frontmatter.cm-number,
 .theme-dark .cm-s-obsidian .cm-math.cm-number,
