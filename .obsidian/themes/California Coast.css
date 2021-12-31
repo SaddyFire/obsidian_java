@@ -619,6 +619,8 @@ settings:
   --h5-color: #ff4500;
   --h6-color: #A17426;
 
+  
+
 
   --shade-90: rgba(var(--foreground-rgb), 0.9);
   --shade-80: rgba(var(--foreground-rgb), 0.8);

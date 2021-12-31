@@ -30,9 +30,10 @@ spring:
       uri: mongodb://192.168.136.160:27017/testdb
 ```
 
-<br/>
 
 ## 03 启动类(略) & CURD
+
+**jiacu**
 ```java
 import cn.itcast.mongo.MongoApplication;
 import cn.itcast.mongo.domain.Person;

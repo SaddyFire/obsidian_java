@@ -14,5 +14,7 @@
   "obsidian-california-coast-theme@@cc-block-quotes": false,
   "obsidian-california-coast-theme@@cc-em-strong": false,
   "obsidian-california-coast-theme@@cc-hr": true,
-  "obsidian-california-coast-theme@@cc-soft-wrap-code-blocks": true
+  "obsidian-california-coast-theme@@cc-soft-wrap-code-blocks": true,
+  "obsidian-california-coast-theme@@cc-pretty-preview": false,
+  "obsidian-california-coast-theme@@cc-hide-table-vertical-dividers": false
 }
