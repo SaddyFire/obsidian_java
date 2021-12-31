@@ -630,6 +630,17 @@ settings:
     color: #E2199F;
 }
 
+/*基本数据 数字颜色*/
+.theme-dark .token.boolean {
+    color: #ae81ff;
+}
+/*基本数据 true/false颜色*/
+.theme-dark .token.number {
+    color: #CC7832;
+}
+
+
+
 .theme-dark {
   --accent-h: 210; /* Accent hue */
 
