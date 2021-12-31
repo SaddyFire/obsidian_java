@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "3833020442ada1dc",
+        "id": "cf748a1aac484d22",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/001 markdown常用语法.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -54,22 +57,23 @@
             }
           },
           {
-            "id": "0d57d0d7a8a436ab",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {}
-            }
-          },
-          {
             "id": "cb23f2d60c2c11a2",
             "type": "leaf",
             "state": {
               "type": "recent-files",
               "state": {}
             }
+          },
+          {
+            "id": "0d57d0d7a8a436ab",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -88,7 +92,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/001 markdown常用语法.md"
+              }
             }
           },
           {
@@ -105,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/001 markdown常用语法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,10 +129,10 @@
     "width": 292.3333435058594,
     "collapsed": true
   },
-  "active": "3833020442ada1dc",
+  "active": "cf748a1aac484d22",
   "lastOpenFiles": [
-    "未命名.md",
     "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/001 markdown常用语法.md",
+    "未命名.md",
     "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/002 idea配置.md",
     "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/001 加快github的访问速度.md",
     "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/002 obsidian常用插件.md",
