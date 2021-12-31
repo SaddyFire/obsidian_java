@@ -65,14 +65,15 @@
             }
           },
           {
-            "id": "0d57d0d7a8a436ab",
+            "id": "98ce4e3c931fa6dd",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
