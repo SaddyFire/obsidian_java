@@ -624,6 +624,13 @@ settings:
   --h5-color: #ff4500;
   --h6-color: #A17426;
 
+  --class-name: #f8f8f2;
+
+  .class-name {
+    /*color: #e6db74;*/
+    color: #f8f8f2
+  }
+
 
 
 
