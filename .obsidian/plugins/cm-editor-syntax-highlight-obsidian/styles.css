@@ -35,13 +35,15 @@
 .theme-dark .cm-s-obsidian pre.HyperMD-codeblock .cm-atom {
   color: #F39B35;
 }
+
+/*基本数据 数字颜色*/
 .theme-dark .cm-s-obsidian .cm-hmd-frontmatter.cm-number,
 .theme-dark .cm-s-obsidian .cm-math.cm-number,
 .theme-dark .cm-s-obsidian pre.HyperMD-codeblock .cm-number {
-  color: #A06FCA;
+  color: #6897BB;
 }
 
-/*类名颜色*/
+/*返回值类型颜色颜色*/
 .theme-dark .cm-s-obsidian span.cm-hmd-frontmatter.cm-type,
 .theme-dark .cm-s-obsidian span.cm-math.cm-type,
 .theme-dark .cm-s-obsidian pre.HyperMD-codeblock span.cm-type {
@@ -61,11 +63,15 @@
 .theme-dark .cm-s-obsidian pre.HyperMD-codeblock .cm-property {
   color: #D4D4D4;
 }
+
+/*变量类型颜色*/
 .theme-dark .cm-s-obsidian span.cm-hmd-frontmatter.cm-variable,
 .theme-dark .cm-s-obsidian span.cm-math.cm-variable,
 .theme-dark .cm-s-obsidian pre.HyperMD-codeblock span.cm-variable {
-  color: #D4D4D4;
+  color: #A9B7C6;
 }
+
+
 .theme-dark .cm-s-obsidian span.cm-hmd-frontmatter.cm-variable-2,
 .theme-dark .cm-s-obsidian span.cm-math.cm-variable-2,
 .theme-dark .cm-s-obsidian pre.HyperMD-codeblock span.cm-variable-2 {
