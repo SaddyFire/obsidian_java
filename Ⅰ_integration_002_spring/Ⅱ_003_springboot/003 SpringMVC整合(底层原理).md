@@ -1,8 +1,8 @@
-## 1\. springMVC的底层原理
+## 1. springMVC的底层原理
 
 ![[b3e6ef8496b743b78014b82e108ff86b.png]]
 
-## 1. Controller类
+## 2. Controller类
 
 ```java
 @RestController
