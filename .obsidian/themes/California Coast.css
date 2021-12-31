@@ -611,6 +611,15 @@ settings:
   --foreground-rgb: 204, 204, 204;
   --background-rgb: 30, 30, 30;
 
+  /*saddyfire更改标题颜色*/
+  --h1-color: #bababa;	
+  --h2-color: #A12674;
+  --h3-color: #2668A1;
+  --h4-color: #9E1EB1;
+  --h5-color: #ff4500;
+  --h6-color: #A17426;
+
+
   --shade-90: rgba(var(--foreground-rgb), 0.9);
   --shade-80: rgba(var(--foreground-rgb), 0.8);
   --shade-70: rgba(var(--foreground-rgb), 0.7);
