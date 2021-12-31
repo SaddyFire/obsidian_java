@@ -513,8 +513,10 @@ settings:
   --cursor: pointer;
 
   --strong-weight: var(--bold-weight);
-  --strong-color: inherit;
-  --em-color: inherit;
+  /*saffyfire 加粗字体的颜色*/
+  --strong-color: #ff9933;
+  /*saddyfire 斜体颜色*/
+  --em-color: #26cee3;
   --workspace-drawer-ribbon-width: 46px;
 }
 
@@ -619,7 +621,7 @@ settings:
   --h5-color: #ff4500;
   --h6-color: #A17426;
 
-  
+
 
 
   --shade-90: rgba(var(--foreground-rgb), 0.9);
