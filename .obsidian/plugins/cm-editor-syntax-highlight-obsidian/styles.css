@@ -22,11 +22,12 @@
 .theme-dark .cm-s-obsidian pre.HyperMD-codeblock {
   color: #d4d4d4;
 }
+
+/*关键字颜色*/
 .theme-dark .cm-s-obsidian .cm-hmd-frontmatter.cm-keyword,
 .theme-dark .cm-s-obsidian .cm-math.cm-keyword,
 .theme-dark .cm-s-obsidian pre.HyperMD-codeblock .cm-keyword {
-  color: #00A7AA;
-  /*color: #CC7832*/
+  color: #CC7832;
   font-weight: normal;
 }
 .theme-dark .cm-s-obsidian .cm-hmd-frontmatter.cm-atom,
@@ -109,10 +110,11 @@
 .theme-dark .cm-s-obsidian pre.HyperMD-codeblock .cm-attribute {
   color: #A06FCA;
 }
+/*注释颜色*/
 .theme-dark .cm-s-obsidian .cm-hmd-frontmatter.cm-comment,
 .theme-dark .cm-s-obsidian .cm-math.cm-comment,
 .theme-dark .cm-s-obsidian pre.HyperMD-codeblock .cm-comment {
-  color: #696d70;
+  color: #E2199F;
 }
 .theme-dark .cm-s-obsidian .cm-hmd-frontmatter.cm-comment.cm-tag,
 .theme-dark .cm-s-obsidian .cm-math.cm-comment.cm-tag,
@@ -134,12 +136,16 @@
 .theme-dark .cm-s-obsidian pre.HyperMD-codeblock .cm-string-2 {
   color: #F39B35;
 }
+
+/*注解颜色,括号颜色*/
 .theme-dark .cm-s-obsidian .cm-hmd-frontmatter.cm-meta,
 .theme-dark .cm-s-obsidian .cm-math.cm-meta,
 .theme-dark .cm-s-obsidian pre.HyperMD-codeblock .cm-meta {
-  color: #D4D4D4;
+  color: #BBB529;
   background: inherit;
 }
+
+
 .theme-dark .cm-s-obsidian .cm-hmd-frontmatter.cm-builtin,
 .theme-dark .cm-s-obsidian .cm-math.cm-builtin,
 .theme-dark .cm-s-obsidian pre.HyperMD-codeblock .cm-builtin {
