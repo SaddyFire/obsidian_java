@@ -151,7 +151,7 @@
         "Alt",
         "Mod"
       ],
-      "key": "ArrowUp"
+      "key": "ArrowDown"
     }
   ],
   "obsidian-outliner:move-list-item-up": [
@@ -160,7 +160,7 @@
         "Alt",
         "Mod"
       ],
-      "key": "ArrowDown"
+      "key": "ArrowUp"
     }
   ]
 }
