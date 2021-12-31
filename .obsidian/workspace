@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/001 markdown常用语法.md",
-            "mode": "source"
+            "file": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/002 obsidian常用插件.md",
+            "mode": "preview"
           }
         }
       }
@@ -63,13 +63,20 @@
               "type": "file-tree-view",
               "state": {}
             }
+          },
+          {
+            "id": "cb23f2d60c2c11a2",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 365,
-    "collapsed": true
+    "width": 365
   },
   "right": {
     "id": "eaafcc4feb3ef58e",
@@ -85,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/001 markdown常用语法.md"
+                "file": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/002 obsidian常用插件.md"
               }
             }
           },
@@ -103,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/001 markdown常用语法.md",
+                "file": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/002 obsidian常用插件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,8 +129,8 @@
   },
   "active": "3833020442ada1dc",
   "lastOpenFiles": [
-    "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/001 markdown常用语法.md",
     "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/002 obsidian常用插件.md",
+    "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/001 markdown常用语法.md",
     "未命名.md",
     "Ⅰ_integration_002_spring/Ⅱ_003_springboot/003 SpringMVC整合(底层原理).md",
     "Ⅰ_project_001_reggie/Ⅱ_002_技术汇总/001 md5加密.md",

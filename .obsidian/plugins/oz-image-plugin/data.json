@@ -6,10 +6,10 @@
   "renderExcalidraw": true,
   "renderRichLink": true,
   "renderTransclusion": false,
-  "renderAdmonition": false,
-  "renderMermaid": false,
-  "renderMathJax": false,
-  "previewOnHoverInternalLink": false,
+  "renderAdmonition": true,
+  "renderMermaid": true,
+  "renderMathJax": true,
+  "previewOnHoverInternalLink": true,
   "refreshImagesAfterChange": true,
-  "WYSIWYG": false
+  "WYSIWYG": true
 }
