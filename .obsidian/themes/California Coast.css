@@ -616,7 +616,7 @@ settings:
 .theme-dark .token.function{
 	color: #A9B7C6
 }
-/*参数名颜色/代码基础颜色 A9B7C6*/
+/*参数名颜色/代码基础颜色 */
 .theme-dark code[class*="language-"], .theme-dark pre[class*="language-"] {
 	color: #A9B7C6
 }
