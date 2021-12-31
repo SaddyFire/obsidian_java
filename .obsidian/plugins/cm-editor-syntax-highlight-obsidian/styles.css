@@ -26,6 +26,7 @@
 .theme-dark .cm-s-obsidian .cm-math.cm-keyword,
 .theme-dark .cm-s-obsidian pre.HyperMD-codeblock .cm-keyword {
   color: #00A7AA;
+  /*color: #CC7832*/
   font-weight: normal;
 }
 .theme-dark .cm-s-obsidian .cm-hmd-frontmatter.cm-atom,
