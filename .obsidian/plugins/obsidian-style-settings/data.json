@@ -5,16 +5,16 @@
   "obsidian-california-coast-theme@@cc-truncated-explorer-titles": true,
   "obsidian-california-coast-theme@@cc-no-sidebar-animation": false,
   "obsidian-california-coast-theme@@cc-editor-heading-hash": true,
-  "obsidian-california-coast-theme@@scale-small": 90,
   "obsidian-california-coast-theme@@line-width": 100,
   "obsidian-california-coast-theme@@h2-size": "1.5em",
   "obsidian-california-coast-theme@@h2-margin-top": 1,
   "obsidian-california-coast-theme@@h2-weight": 700,
   "obsidian-california-coast-theme@@cc-soft-blink-cursor": true,
-  "obsidian-california-coast-theme@@cc-block-quotes": false,
+  "obsidian-california-coast-theme@@cc-block-quotes": true,
   "obsidian-california-coast-theme@@cc-em-strong": false,
-  "obsidian-california-coast-theme@@cc-hr": true,
+  "obsidian-california-coast-theme@@cc-hr": false,
   "obsidian-california-coast-theme@@cc-soft-wrap-code-blocks": true,
   "obsidian-california-coast-theme@@cc-pretty-preview": false,
-  "obsidian-california-coast-theme@@cc-hide-table-vertical-dividers": false
+  "obsidian-california-coast-theme@@cc-hide-table-vertical-dividers": false,
+  "obsidian-california-coast-theme@@editor-line-height": 2
 }

@@ -1,9 +1,24 @@
 要配合主题California Coast
 
+Custom Fonts>>
+Body line height : 2编辑模式行间距
 
-Line width: 编辑框宽度
+Line width:  100编辑框宽度
 
+
+Misc>>
 Truncate file titles : 文件名在一行
 
+Disable sidebar animations: 侧边栏动画关闭
+
+Disable tree animations : 树状列表动画关闭
+
+
+Editor Customization>>
+
 Flush headings: 立刻展示标题的效果
+
+
+Bold and italics : 编辑模式下不展示加粗和斜体效果
+
 
