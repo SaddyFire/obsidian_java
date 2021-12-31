@@ -1,0 +1,9 @@
+要配合主题California Coast
+
+
+Line width: 编辑框宽度
+
+Truncate file titles : 文件名在一行
+
+Flush headings: 立刻展示标题的效果
+
