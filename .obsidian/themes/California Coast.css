@@ -630,13 +630,19 @@ settings:
     color: #E2199F;
 }
 
-/*基本数据 数字颜色*/
+/*基本数据 true/false颜色*/
 .theme-dark .token.boolean {
     color: #CC7832;
 }
-/*基本数据 true/false颜色*/
+
+/*基本数据 数字颜色*/
 .theme-dark .token.number {
-    color: #ae81ff;
+    color: #6897BB;
+}
+
+/*分隔符颜色*/
+.theme-dark .token.operator{
+	color: #6897BB;
 }
 
 
