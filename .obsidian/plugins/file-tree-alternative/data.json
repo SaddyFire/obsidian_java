@@ -3,7 +3,7 @@
   "showRootFolder": true,
   "showFilesFromSubFolders": false,
   "searchFunction": true,
-  "allSearchOnlyInFocusedFolder": false,
+  "allSearchOnlyInFocusedFolder": true,
   "showFilesFromSubFoldersButton": true,
   "excludedExtensions": "",
   "excludedFolders": "Ⅰ_integration_SSS_复习",
@@ -11,7 +11,7 @@
   "folderCount": true,
   "folderCountOption": "notes",
   "evernoteView": true,
-  "filePreviewOnHover": false,
+  "filePreviewOnHover": true,
   "sortFilesBy": "name",
-  "fixedHeaderInFileList": false
+  "fixedHeaderInFileList": true
 }
