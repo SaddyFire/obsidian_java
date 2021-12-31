@@ -598,7 +598,6 @@ settings:
   --opacity-translucency: 1;
 }
 
-/*#f8f8f2*/
 /*类名颜色*/
 .theme-dark .token.class-name {
     /*color: #e6db74;*/
@@ -615,6 +614,20 @@ settings:
 /*方法名颜色*/
 .theme-dark .token.function{
 	color: #A9B7C6
+}
+/*参数名颜色/代码基础颜色 A9B7C6*/
+.theme-dark code[class*="language-"], .theme-dark pre[class*="language-"] {
+	color: #A9B7C6
+}
+
+/*引号内部字体颜色*/
+.theme-dark .token.selector, .theme-dark .token.attr-name, .theme-dark .token.string, .theme-dark .token.char, .theme-dark .token.builtin, .theme-dark .token.inserted {
+    color: #6A8759;
+}
+
+/*注释颜色*/
+.theme-dark .token.comment, .theme-dark .token.prolog, .theme-dark .token.doctype, .theme-dark .token.cdata {
+    color: #E2199F;
 }
 
 .theme-dark {
