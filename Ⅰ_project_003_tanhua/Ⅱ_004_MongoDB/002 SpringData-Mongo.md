@@ -33,7 +33,6 @@ spring:
 <br/>
 
 ## 03 启动类(略) & CURD
-
 ```java
 import cn.itcast.mongo.MongoApplication;
 import cn.itcast.mongo.domain.Person;
