@@ -1,3 +1,8 @@
 {
-  "obsidian-california-coast-theme@@cc-fancy-cursor": false
+  "obsidian-california-coast-theme@@cc-fancy-cursor": true,
+  "obsidian-california-coast-theme@@accent": "#138492",
+  "obsidian-california-coast-theme@@cc-no-tree-animation": false,
+  "obsidian-california-coast-theme@@cc-truncated-explorer-titles": true,
+  "obsidian-california-coast-theme@@cc-no-sidebar-animation": false,
+  "obsidian-california-coast-theme@@cc-editor-heading-hash": false
 }

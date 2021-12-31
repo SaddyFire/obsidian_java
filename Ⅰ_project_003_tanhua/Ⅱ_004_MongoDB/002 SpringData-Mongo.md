@@ -21,8 +21,6 @@
 </dependencies>
 ```
 
-<br/>
-
 ## 02 application.yml配置文件
 ```yml
 #配置mongo的连接地址
