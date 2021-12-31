@@ -602,15 +602,19 @@ settings:
 /*类名颜色*/
 .theme-dark .token.class-name {
     /*color: #e6db74;*/
-    color: #f8f8f2
+    color: #A9B7C6
 }
 /*关键字颜色*/
 .theme-dark .token.keyword {
     color: #CC7832;
 }
-/*注解颜色*/
+/*注解颜色,括号颜色*/
 .theme-dark .token.punctuation {
     color: #BBB529;
+}
+/*方法名颜色*/
+.theme-dark .token.function{
+	color: #A9B7C6
 }
 
 .theme-dark {
