@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/001 markdown常用语法.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -114,13 +114,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 292.3333435058594,
-    "collapsed": true
+    "width": 292.3333435058594
   },
   "active": "ad42b37a49dd23eb",
   "lastOpenFiles": [
