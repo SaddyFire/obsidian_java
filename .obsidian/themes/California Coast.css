@@ -597,6 +597,7 @@ settings:
 
   --opacity-translucency: 1;
 }
+/*-----------------------------预览模式--------------------------------*/
 
 /*类名颜色*/
 .theme-dark .token.class-name {
@@ -643,6 +644,15 @@ settings:
 /*分隔符颜色*/
 .theme-dark .token.operator{
 	color: #6897BB;
+}
+
+
+/*----------------------------------------------------------------------*/
+
+/*注解*/
+.theme-dark .cm-s-obsidian pre.HyperMD-codeblock .cm-meta {
+    color: #D4D4D4;
+    background: inherit;
 }
 
 
