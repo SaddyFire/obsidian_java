@@ -1,3 +1,14 @@
+
+## 一般更新
+
+```java
+//update
+UpdateDefinition update = Update.update("isLike",isLike)  
+ 								.set("updated", System.currentTimeMillis());  
+mongoTemplate.updateFirst(query,update,UserLike.class);
+```
+
+
 ## MongoDB更新并获取更新后的数据
 ```java
 @Override
@@ -34,13 +45,4 @@
         //获取最新评论数量/用于日志打印
         return modifyMovement.statisCount(comment.getCommentType());
     }
-```
-
-
-
-```java
-//update
-UpdateDefinition update = Update.update("isLike",isLike)  
- 								.set("updated", System.currentTimeMillis());  
-mongoTemplate.updateFirst(query,update,UserLike.class);
 ```
