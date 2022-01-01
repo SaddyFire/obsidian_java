@@ -18,8 +18,7 @@
   */
   /**/
 }
-.theme-dark .cm-s-obsidian .cm-hmd-frontmatter,
-.theme-dark .cm-s-obsidian pre.HyperMD-codeblock {
+.theme-dark .cm-s-obsidian .cm-hmd-frontmatter {
   color: #d4d4d4;
 }
 
@@ -36,9 +35,10 @@
   color: #F39B35;
 }
 
-/*括号颜色*/
+/*括号颜色, 编辑区代码块背景颜色*/
 .theme-dark .cm-s-obsidian pre.HyperMD-codeblock {
     color: #8168dd;
+    background: #232323;
 }
 
 
