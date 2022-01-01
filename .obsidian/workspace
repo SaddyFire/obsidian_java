@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_integration_002_spring/Ⅱ_006_redis/001 大纲.md",
-            "mode": "source"
+            "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(待续)/007 redis整理.md",
+            "mode": "preview"
           }
         }
       }
@@ -74,22 +74,6 @@
           }
         ],
         "currentTab": 4
-      },
-      {
-        "id": "4e4854e331d99506",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "deca9959ecc6f1b1",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_006_redis/001 大纲.md"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -100,8 +84,26 @@
     "type": "split",
     "children": [
       {
+        "id": "46a8d4e371e8f0bf",
+        "type": "tabs",
+        "dimension": 54.70941883767535,
+        "children": [
+          {
+            "id": "ff5bc65d102c5c97",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(待续)/007 redis整理.md"
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "8afab52c5050144e",
         "type": "tabs",
+        "dimension": 45.29058116232465,
         "children": [
           {
             "id": "47df3afa02bd9d58",
@@ -117,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_006_redis/001 大纲.md",
+                "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(待续)/007 redis整理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,6 +138,7 @@
   },
   "active": "cf748a1aac484d22",
   "lastOpenFiles": [
+    "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(待续)/007 redis整理.md",
     "Ⅰ_integration_002_spring/Ⅱ_006_redis/001 大纲.md",
     "Ⅰ_integration_002_spring/Ⅱ_006_redis/002 SpringCache注解.md",
     "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/005 MongoDB更新并获取更新后的数据.md",
@@ -144,7 +147,6 @@
     "Ⅰ_integration_003_springCloud/Ⅱ_002_配置中心&Feign远程调用/002 gateway入门.md",
     "Ⅰ_integration_003_springCloud/Ⅱ_002_配置中心&Feign远程调用/001 过滤工厂.md",
     "Ⅰ_integration_003_springCloud/Ⅱ_002_配置中心&Feign远程调用/003 GlobalFilter.md",
-    "Ⅰ_integration_003_springCloud/Ⅱ_001_Eureka&Ribbon/005 Nacos与Eureka的区别.md",
-    "Ⅰ_integration_003_springCloud/Ⅱ_001_Eureka&Ribbon/004 Nacos注册中心.md"
+    "Ⅰ_integration_003_springCloud/Ⅱ_001_Eureka&Ribbon/005 Nacos与Eureka的区别.md"
   ]
 }
