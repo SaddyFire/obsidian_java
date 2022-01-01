@@ -1,8 +1,8 @@
 要配合主题California Coast
 
 Custom Fonts>>
-Body line height : 2编辑模式行间距
-Line width:  100编辑框宽度
+Body line height : 2 编辑模式行间距
+Line width:  80 编辑框宽度
 
 
 Misc>>
