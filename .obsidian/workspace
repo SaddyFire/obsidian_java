@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365
+    "width": 365,
+    "collapsed": true
   },
   "right": {
     "id": "eaafcc4feb3ef58e",
@@ -140,6 +141,7 @@
   "active": "cf748a1aac484d22",
   "lastOpenFiles": [
     "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/006 MongoDB地理位置检索.md",
+    "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/001 markdown常用语法.md",
     "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/005 MongoDB更新并获取更新后的数据.md",
     "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(待续)/007 redis整理.md",
     "Ⅰ_integration_002_spring/Ⅱ_006_redis/001 大纲.md",
@@ -147,7 +149,6 @@
     "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/002 SpringData-Mongo.md",
     "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/002 obsidian常用插件.md",
     "Ⅰ_integration_003_springCloud/Ⅱ_002_配置中心&Feign远程调用/002 gateway入门.md",
-    "Ⅰ_integration_003_springCloud/Ⅱ_002_配置中心&Feign远程调用/001 过滤工厂.md",
-    "Ⅰ_integration_003_springCloud/Ⅱ_002_配置中心&Feign远程调用/003 GlobalFilter.md"
+    "Ⅰ_integration_003_springCloud/Ⅱ_002_配置中心&Feign远程调用/001 过滤工厂.md"
   ]
 }

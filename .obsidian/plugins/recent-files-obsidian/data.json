@@ -5,6 +5,10 @@
       "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/006 MongoDB地理位置检索.md"
     },
     {
+      "basename": "001 markdown常用语法",
+      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/001 markdown常用语法.md"
+    },
+    {
       "basename": "005 MongoDB更新并获取更新后的数据",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/005 MongoDB更新并获取更新后的数据.md"
     },
@@ -59,10 +63,6 @@
     {
       "basename": "001 springCloud简介",
       "path": "Ⅰ_integration_003_springCloud/Ⅱ_001_Eureka&Ribbon/001 springCloud简介.md"
-    },
-    {
-      "basename": "001 markdown常用语法",
-      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/001 markdown常用语法.md"
     },
     {
       "basename": "002 idea配置",

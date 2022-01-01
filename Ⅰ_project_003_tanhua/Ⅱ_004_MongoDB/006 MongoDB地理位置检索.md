@@ -4,6 +4,8 @@
 >
 > MongoDB内部支持多种GeoJson对象类型：
 
+## 01 查询附近且获取间距
+
 ## 
 ```java
 //查询附近且获取间距
@@ -23,4 +25,39 @@ public void testNear1() {
     }
 }
 ```
+
+## 02 地理位置信息对应的MongoDB实体类
+
+**注意:** <font color=#bbb529>@CompoundIndex</font>(name = "location_index", def = "{'location': '2dsphere'}")  
+
+#6a8759
+```java
+  
+@Data  
+@NoArgsConstructor  
+@AllArgsConstructor  
+@Builder  
+@Document(collection = "user_location")  
+@CompoundIndex(name = "location_index", def = "{'location': '2dsphere'}")  
+public class UserLocation implements java.io.Serializable {  
+  
+ private static final long serialVersionUID = 4508868382007529970L;  
+  
+ @Id  
+ private ObjectId id;  
+ @Indexed  
+ private Long userId; //用户id  
+ private GeoJsonPoint location; //x:经度 y:纬度  
+ private String address; //位置描述  
+ private Long created; //创建时间  
+ private Long updated; //更新时间  
+ private Long lastUpdated; //上次更新时间  
+}
+```
+
+
+
+
+
+
 
