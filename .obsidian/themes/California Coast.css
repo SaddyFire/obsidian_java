@@ -597,7 +597,7 @@ settings:
 
   --opacity-translucency: 1;
 }
-/*-----------------------------预览模式--------------------------------*/
+/*-----------------------------saddyfire预览模式--------------------------------*/
 
 /*类名颜色*/
 .theme-dark .token.class-name {
@@ -669,6 +669,8 @@ settings:
     margin-inline-start: unset;
     border-left: 2px solid var(--shade-plus-darker);
 }
+
+
 /*----------------------------------------------------------------------*/
 
 
@@ -693,7 +695,8 @@ settings:
   --foreground-rgb: 204, 204, 204;
   --background-rgb: 30, 30, 30;
 
-  /*saddyfire更改标题颜色*/
+/*---------------------------saddyfire更改标题颜色-----------------------------*/
+  
   --h1-color: #bababa;	
   --h2-color: #A12674;
   --h3-color: #2668A1;
@@ -6374,9 +6377,6 @@ body {
 .markdown-preview-view .footnotes li > p + p {
   margin-top: 0.3rem;
 }
-
-
-
 
 
 .markdown-preview-view table {
