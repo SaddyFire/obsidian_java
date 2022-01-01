@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_integration_002_spring/Ⅱ_006_redis/002 SpringCache注解.md",
-            "mode": "preview"
+            "file": "Ⅰ_integration_002_spring/Ⅱ_006_redis/001 大纲.md",
+            "mode": "source"
           }
         }
       }
@@ -74,6 +74,22 @@
           }
         ],
         "currentTab": 4
+      },
+      {
+        "id": "4e4854e331d99506",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "deca9959ecc6f1b1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ⅰ_integration_002_spring/Ⅱ_006_redis/001 大纲.md"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -88,16 +104,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "deca9959ecc6f1b1",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_006_redis/002 SpringCache注解.md"
-              }
-            }
-          },
-          {
             "id": "47df3afa02bd9d58",
             "type": "leaf",
             "state": {
@@ -111,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_006_redis/002 SpringCache注解.md",
+                "file": "Ⅰ_integration_002_spring/Ⅱ_006_redis/001 大纲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,16 +128,15 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 292.3333435058594,
-    "collapsed": true
+    "width": 292.3333435058594
   },
   "active": "cf748a1aac484d22",
   "lastOpenFiles": [
+    "Ⅰ_integration_002_spring/Ⅱ_006_redis/001 大纲.md",
     "Ⅰ_integration_002_spring/Ⅱ_006_redis/002 SpringCache注解.md",
     "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/005 MongoDB更新并获取更新后的数据.md",
     "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/002 SpringData-Mongo.md",
@@ -140,7 +145,6 @@
     "Ⅰ_integration_003_springCloud/Ⅱ_002_配置中心&Feign远程调用/001 过滤工厂.md",
     "Ⅰ_integration_003_springCloud/Ⅱ_002_配置中心&Feign远程调用/003 GlobalFilter.md",
     "Ⅰ_integration_003_springCloud/Ⅱ_001_Eureka&Ribbon/005 Nacos与Eureka的区别.md",
-    "Ⅰ_integration_003_springCloud/Ⅱ_001_Eureka&Ribbon/004 Nacos注册中心.md",
-    "Ⅰ_integration_003_springCloud/Ⅱ_001_Eureka&Ribbon/003 Ribbon负载均衡.md"
+    "Ⅰ_integration_003_springCloud/Ⅱ_001_Eureka&Ribbon/004 Nacos注册中心.md"
   ]
 }
