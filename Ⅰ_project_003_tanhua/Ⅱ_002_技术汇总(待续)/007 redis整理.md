@@ -6,6 +6,7 @@
 探花喜欢, 用于保存用户双方喜欢关系
 
 ```java
+...
 //更新后存储至redis
 redisTemplate.opsForSet().add(Constants.USER_LIKE_KEY + currentUserId, userId.toString());
 
@@ -16,6 +17,7 @@ Boolean islike = redisTemplate.opsForSet().isMember(Constants.USER_LIKE_KEY + us
 if (islike) {
 	friendApi.save(userId,currentUserId);
 }
+...
 ```
 
 

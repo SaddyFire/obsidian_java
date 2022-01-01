@@ -8,6 +8,7 @@
 
 ## 
 ```java
+...
 //查询附近且获取间距
 @Test
 public void testNear1() {
@@ -24,11 +25,13 @@ public void testNear1() {
         System.out.println(places+"---距离："+value + "km");
     }
 }
+...
 ```
 
 
 ## 02 查询附近的人
 ```java
+...
 @Override  
 public List<UserLocation> searchNearUser(Long userId, String gender, String distance) {  
 	//获取当前用户地理信息  
@@ -48,7 +51,7 @@ public List<UserLocation> searchNearUser(Long userId, String gender, String dist
 	List<UserLocation> userLocationList = mongoTemplate.find(locationQuery, UserLocation.class);  
  return userLocationList;  
 }
-
+...
 ```
 
 

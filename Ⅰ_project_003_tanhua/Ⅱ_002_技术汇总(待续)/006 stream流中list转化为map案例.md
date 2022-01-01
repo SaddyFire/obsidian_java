@@ -38,3 +38,16 @@
     }
 ...
 ```
+
+
+
+#### 非空Lambda表达式 , 
+
+```java
+...
+List<NearUserVo> nearUserVoList = userInfoList.stream()
+											  .filter(Objects::nonNull)
+											  .map(NearUserVo::init)
+											  .collect(Collectors.toList());
+...
+```
