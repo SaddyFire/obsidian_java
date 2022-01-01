@@ -26,7 +26,33 @@ public void testNear1() {
 }
 ```
 
-## 02 地理位置信息对应的MongoDB实体类
+
+## 02 查询附近的人
+```java
+@Override  
+public List<UserLocation> searchNearUser(Long userId, String gender, String distance) {  
+	//获取当前用户地理信息  
+	Query query = Query.query(Criteria.where("userId").is(userId));  
+	UserLocation userLocation = mongoTemplate.findOne(query, UserLocation.class);  
+	if(userLocation == null){  
+	return null;  
+	}  
+	//构造圆心  
+	GeoJsonPoint point = userLocation.getLocation();  
+	//构造半径  
+	Distance userDistance = new Distance(Double.parseDouble(distance) / 1000, Metrics.KILOMETERS);  
+	//绘制原形  
+	Circle circle = new Circle(point, userDistance);  
+	//查询, withSphere()方法  
+	Query locationQuery = Query.query(Criteria.where("location").withinSphere(circle));  
+	List<UserLocation> userLocationList = mongoTemplate.find(locationQuery, UserLocation.class);  
+ return userLocationList;  
+}
+
+```
+
+
+## 03 地理位置信息对应的MongoDB实体类
 
 **注意:** <font color=#bbb529>@CompoundIndex</font>(name = <font color=#6a8759>"location_index"</font>, def = <font color=#6a8759>"{'location': '2dsphere'}"</font>)  
 
