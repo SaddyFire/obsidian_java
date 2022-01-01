@@ -7,6 +7,6 @@
   "foldHeading": true,
   "foldIndent": true,
   "showFrontmatter": true,
-  "legacyEditor": false,
+  "legacyEditor": true,
   "livePreview": true
 }

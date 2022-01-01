@@ -9,9 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/002 obsidian常用插件.md",
-            "mode": "preview",
-            "source": false
+            "file": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/005 MongoDB更新并获取更新后的数据.md",
+            "mode": "source"
           }
         }
       }
@@ -78,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365,
-    "collapsed": true
+    "width": 365
   },
   "right": {
     "id": "eaafcc4feb3ef58e",
@@ -95,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/002 obsidian常用插件.md"
+                "file": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/005 MongoDB更新并获取更新后的数据.md"
               }
             }
           },
@@ -113,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/002 obsidian常用插件.md",
+                "file": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/005 MongoDB更新并获取更新后的数据.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,13 +127,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.3333435058594,
-    "collapsed": true
+    "width": 292.3333435058594
   },
   "active": "cf748a1aac484d22",
   "lastOpenFiles": [
-    "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/002 obsidian常用插件.md",
     "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/005 MongoDB更新并获取更新后的数据.md",
+    "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/002 obsidian常用插件.md",
     "Ⅰ_integration_003_springCloud/Ⅱ_002_配置中心&Feign远程调用/002 gateway入门.md",
     "Ⅰ_integration_003_springCloud/Ⅱ_002_配置中心&Feign远程调用/001 过滤工厂.md",
     "Ⅰ_integration_003_springCloud/Ⅱ_002_配置中心&Feign远程调用/003 GlobalFilter.md",
