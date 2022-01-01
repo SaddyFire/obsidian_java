@@ -8,7 +8,6 @@
   "file-tree-alternative",
   "obsidian-git",
   "obsidian-style-settings",
-  "cm-editor-syntax-highlight-obsidian",
   "obsidian-image-toolkit",
   "obsidian-outliner",
   "recent-files-obsidian",
@@ -17,5 +16,6 @@
   "number-headings-obsidian",
   "find-unlinked-files",
   "obsidian-Editor",
-  "ProxyGithub"
+  "ProxyGithub",
+  "cm-editor-syntax-highlight-obsidian"
 ]

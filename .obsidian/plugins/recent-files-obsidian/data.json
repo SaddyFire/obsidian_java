@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "002 obsidian常用插件",
+      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/002 obsidian常用插件.md"
+    },
+    {
+      "basename": "005 MongoDB更新并获取更新后的数据",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/005 MongoDB更新并获取更新后的数据.md"
+    },
+    {
+      "basename": "002 gateway入门",
+      "path": "Ⅰ_integration_003_springCloud/Ⅱ_002_配置中心&Feign远程调用/002 gateway入门.md"
+    },
+    {
+      "basename": "001 过滤工厂",
+      "path": "Ⅰ_integration_003_springCloud/Ⅱ_002_配置中心&Feign远程调用/001 过滤工厂.md"
+    },
+    {
+      "basename": "003 GlobalFilter",
+      "path": "Ⅰ_integration_003_springCloud/Ⅱ_002_配置中心&Feign远程调用/003 GlobalFilter.md"
+    },
+    {
+      "basename": "005 Nacos与Eureka的区别",
+      "path": "Ⅰ_integration_003_springCloud/Ⅱ_001_Eureka&Ribbon/005 Nacos与Eureka的区别.md"
+    },
+    {
       "basename": "004 Nacos注册中心",
       "path": "Ⅰ_integration_003_springCloud/Ⅱ_001_Eureka&Ribbon/004 Nacos注册中心.md"
     },
@@ -15,14 +39,6 @@
     {
       "basename": "001 springCloud简介",
       "path": "Ⅰ_integration_003_springCloud/Ⅱ_001_Eureka&Ribbon/001 springCloud简介.md"
-    },
-    {
-      "basename": "002 obsidian常用插件",
-      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/002 obsidian常用插件.md"
-    },
-    {
-      "basename": "005 MongoDB更新并获取更新后的数据",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/005 MongoDB更新并获取更新后的数据.md"
     },
     {
       "basename": "001 markdown常用语法",
