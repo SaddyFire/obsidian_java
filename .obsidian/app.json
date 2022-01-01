@@ -6,5 +6,7 @@
   "vimMode": false,
   "foldHeading": true,
   "foldIndent": true,
-  "showFrontmatter": true
+  "showFrontmatter": true,
+  "legacyEditor": false,
+  "livePreview": true
 }

@@ -1,6 +1,6 @@
 {
   "ribbonIcon": true,
-  "showRootFolder": true,
+  "showRootFolder": false,
   "showFilesFromSubFolders": false,
   "searchFunction": true,
   "allSearchOnlyInFocusedFolder": true,
@@ -13,5 +13,5 @@
   "evernoteView": true,
   "filePreviewOnHover": true,
   "sortFilesBy": "name",
-  "fixedHeaderInFileList": true
+  "fixedHeaderInFileList": false
 }
