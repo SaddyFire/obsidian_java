@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "002 SpringCache注解",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_006_redis/002 SpringCache注解.md"
+    },
+    {
+      "basename": "005 MongoDB更新并获取更新后的数据",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/005 MongoDB更新并获取更新后的数据.md"
+    },
+    {
       "basename": "002 SpringData-Mongo",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/002 SpringData-Mongo.md"
     },
     {
       "basename": "002 obsidian常用插件",
       "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/002 obsidian常用插件.md"
-    },
-    {
-      "basename": "005 MongoDB更新并获取更新后的数据",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/005 MongoDB更新并获取更新后的数据.md"
     },
     {
       "basename": "002 gateway入门",

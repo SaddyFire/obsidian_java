@@ -39,13 +39,8 @@
 
 
 ```java
-//取消喜欢  
-@GetMapping("/{id}/unlove")  
-public ResponseEntity unloveMovement(@RequestHeader("Authorization")String token,  
-	@PathVariable("id") String movementId){  
-	Integer loveCount = movementsService.unloveMovement(movementId);  
-	return ResponseEntity.ok(loveCount);  
-}
-
-
+//update
+UpdateDefinition update = Update.update("isLike",isLike)  
+ 								.set("updated", System.currentTimeMillis());  
+mongoTemplate.updateFirst(query,update,UserLike.class);
 ```
