@@ -646,14 +646,32 @@ settings:
 	color: #6897BB;
 }
 
+/*引用区块字体*/
+.markdown-preview-view code {
+    color: #FF0080;
+    font-size: 0.9em;
+    margin: -2px 0;
+}
+.markdown-preview-view blockquote p {
+    margin: 0;
+    color: #FF0080;
+}
 
+/*引用区块背景*/
+.markdown-preview-view blockquote {
+    font-style: italic;
+    border-radius: unset;
+    border: unset;
+    border-width: unset;
+    background-color: #232323;
+    color: unset;
+    padding: 0 0 0 1.4375rem;
+    margin-inline-start: unset;
+    border-left: 2px solid var(--shade-plus-darker);
+}
 /*----------------------------------------------------------------------*/
 
-/*注解*/
-.theme-dark .cm-s-obsidian pre.HyperMD-codeblock .cm-meta {
-    color: #D4D4D4;
-    background: inherit;
-}
+
 
 
 
@@ -805,9 +823,7 @@ body.is-mobile {
   padding-top: 0px;
 }
 
-/* 
-    ------------------------------------------------------------------
-*/
+
 
 body:not(.hider-ribbon):not(.hider-frameless) .workspace-ribbon.mod-left {
   padding-top: 5px;
@@ -4695,17 +4711,7 @@ iframe {
   font-size: var(--font-small);
 }
 
-/* Blockquotes */
 
-.markdown-preview-view blockquote {
-  border-radius: 0;
-  border: solid var(--quote-opening-modifier);
-  border-width: 0px 0px 0px 1px;
-  background-color: transparent;
-  color: var(--text-muted);
-  padding: 0 0 0 calc(var(--nested-padding) / 2);
-  margin-inline-start: var(--nested-padding);
-}
 
 /* Tables */
 
@@ -6369,21 +6375,9 @@ body {
   margin-top: 0.3rem;
 }
 
-.markdown-preview-view blockquote {
-  font-style: italic;
-  border-radius: unset;
-  border: unset;
-  border-width: unset;
-  background-color: unset;
-  color: unset;
-  padding: 0 0 0 1.4375rem;
-  margin-inline-start: unset;
-  border-left: 2px solid var(--shade-plus-darker);
-}
 
-.markdown-preview-view blockquote p {
-  margin: 0;
-}
+
+
 
 .markdown-preview-view table {
   border: 1px solid var(--shade-plus-darker);
@@ -6438,11 +6432,7 @@ body .table-view-table > tbody > tr > td {
   vertical-align: baseline;
 }
 
-.markdown-preview-view code {
-  color: var(--text-normal);
-  font-size: 0.9em;
-  margin: -2px 0;
-}
+
 
 .markdown-preview-view pre > code {
   margin: 0;
