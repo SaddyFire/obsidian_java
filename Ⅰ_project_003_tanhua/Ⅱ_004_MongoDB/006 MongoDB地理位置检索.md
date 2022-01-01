@@ -4,7 +4,7 @@
 >
 > MongoDB内部支持多种GeoJson对象类型：
 
-
+## 
 ```java
 //查询附近且获取间距
 @Test
