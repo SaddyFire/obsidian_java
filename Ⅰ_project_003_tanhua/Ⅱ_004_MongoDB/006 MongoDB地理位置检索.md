@@ -28,9 +28,8 @@ public void testNear1() {
 
 ## 02 地理位置信息对应的MongoDB实体类
 
-**注意:** <font color=#bbb529>@CompoundIndex</font>(name = "location_index", def = "{'location': '2dsphere'}")  
+**注意:** <font color=#bbb529>@CompoundIndex</font>(name = <font color=#6a8759>"location_index"</font>, def = <font color=#6a8759>"{'location': '2dsphere'}"</font>)  
 
-#6a8759
 ```java
   
 @Data  
