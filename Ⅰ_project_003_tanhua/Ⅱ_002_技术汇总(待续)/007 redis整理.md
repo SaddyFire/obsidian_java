@@ -20,7 +20,8 @@ if (islike) {
 ...
 ```
 	
-```
+	
+### 3.1 guava中的交集、并集、差集
 ```java
 Set<Integer> set1 = Sets.newHashSet(1, 2, 4, 5, 6, 8);
 Set<Integer> set2 = Sets.newHashSet(2, 3, 4, 5, 6, 7, 9);
@@ -34,7 +35,7 @@ Set<Integer> result3 = Sets.difference(set1, set2);
 //相对差集 1中有2中没有  2中有1中没有的 取出来做结果 [1, 8, 3, 7, 9]
 Set<Integer> result4 = Sets.symmetricDifference(set1, set2);
 
-
+```
 
 
 
