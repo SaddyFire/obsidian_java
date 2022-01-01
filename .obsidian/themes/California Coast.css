@@ -6488,6 +6488,8 @@ body .table-view-table > tbody > tr > td {
   margin-top: 0;
 }
 
+/*-----------------------------saddyfire h1-h6标题设置--------------------------------*/
+
 :root {
   --h1-size: 1.602em;
   --h1-line-height: 1.4;
@@ -6531,14 +6533,7 @@ body .table-view-table > tbody > tr > td {
   --h6-weight: 500;
   --h6-style: italic;
 
-  /* Hidden settings */
 
-  --h1-color: var(--text-normal);
-  --h2-color: var(--text-normal);
-  --h3-color: var(--text-normal);
-  --h4-color: var(--text-normal);
-  --h5-color: var(--text-normal);
-  --h5-color: var(--text-normal);
 }
 
 .cc-pretty-preview .markdown-preview-view h1,
@@ -6590,6 +6585,7 @@ body .table-view-table > tbody > tr > td {
   margin-bottom: calc(var(--h3-margin-bottom) * var(--editor-line-height-rem));
   font-weight: var(--h3-weight);
   font-style: var(--h3-style);
+  text-decoration: overline;
 }
 
 .popover .markdown-embed .markdown-preview-view h3,
