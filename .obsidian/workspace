@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/002 SpringData-Mongo.md",
-            "mode": "source"
+            "file": "Ⅰ_integration_002_spring/Ⅱ_006_redis/002 SpringCache注解.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "缓存",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,13 +72,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 352,
-    "collapsed": true
+    "width": 352
   },
   "right": {
     "id": "eaafcc4feb3ef58e",
@@ -102,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/002 SpringData-Mongo.md",
+                "file": "Ⅰ_integration_002_spring/Ⅱ_006_redis/002 SpringCache注解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/002 SpringData-Mongo.md"
+                "file": "Ⅰ_integration_002_spring/Ⅱ_006_redis/002 SpringCache注解.md"
               }
             }
           }
@@ -128,10 +126,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.3333435058594
+    "width": 292.3333435058594,
+    "collapsed": true
   },
   "active": "cf748a1aac484d22",
   "lastOpenFiles": [
+    "Ⅰ_integration_002_spring/Ⅱ_006_redis/002 SpringCache注解.md",
     "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/002 SpringData-Mongo.md",
     "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/001 基础操作(不重要).md",
     "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/003 MongoDB在项目中启动报错.md",
@@ -140,7 +140,6 @@
     "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/006 MongoDB地理位置检索.md",
     "Ⅰ_integration_002_spring/Ⅱ_002_mysql/001 mysql.md",
     "Ⅰ_integration_002_spring/Ⅱ_002_mysql/002 mysql_advance.md",
-    "Ⅰ_integration_002_spring/Ⅱ_001_maven详解/02 IDEA中Maven指令含义.md",
-    "Ⅰ_integration_002_spring/Ⅱ_001_maven详解/01 maven详解.md"
+    "Ⅰ_integration_002_spring/Ⅱ_001_maven详解/02 IDEA中Maven指令含义.md"
   ]
 }

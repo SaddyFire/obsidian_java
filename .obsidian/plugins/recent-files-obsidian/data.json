@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "002 SpringCache注解",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_006_redis/002 SpringCache注解.md"
+    },
+    {
       "basename": "002 SpringData-Mongo",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/002 SpringData-Mongo.md"
     },
@@ -103,10 +107,6 @@
     {
       "basename": "001 大纲",
       "path": "Ⅰ_integration_002_spring/Ⅱ_006_redis/001 大纲.md"
-    },
-    {
-      "basename": "002 SpringCache注解",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_006_redis/002 SpringCache注解.md"
     },
     {
       "basename": "002 gateway入门",
