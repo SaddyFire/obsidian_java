@@ -2427,16 +2427,14 @@ input[type="range"] {
 .nav-files-container {
   overflow-x: hidden;
 }
+
+/*---------------------------saddyfire 文件夹左侧对齐线-----------------------------*/
 .nav-folder-children .nav-folder-children {
-    margin-left: 0.71875rem;
-    padding-left: 0;
-    border-left: 2px solid var(--background-modifier-border);
-    border-radius: 0;
+    margin-left: 0.58rem;	/*偏移量*/
+    border-left: 1px dashed;	/*虚线*/
+    border-left-color: var(--text-muted);	/*颜色*/
     transition: all 400ms ease-in;
 }
-
-
-
 
 
 .hider-ribbon .nav-files-container {
