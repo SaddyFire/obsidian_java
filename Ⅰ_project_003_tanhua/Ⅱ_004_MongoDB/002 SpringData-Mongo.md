@@ -144,5 +144,18 @@ public class MongoTest {
 
 ```
 
-
+## 04 综合查询
+1. skip  跳页
+2. limit  分页
+3. with(Sort.by(Sort.Order))  排序
+```java
+...
+	Query query = Query.query(
+			Criteria.where("friendId").is(userId))
+			.skip(pagesize*(page - 1))
+			.limit(pagesize)
+			.with(Sort.by(Sort.Order.desc("created")));
+	List<MovementTimeLine> movementTimeLines = mongoTemplate.find(query,MovementTimeLine.class);
+...
+```
 

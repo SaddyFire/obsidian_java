@@ -1,24 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "001 基础操作",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/001 基础操作.md"
-    },
-    {
       "basename": "002 SpringData-Mongo",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/002 SpringData-Mongo.md"
+    },
+    {
+      "basename": "001 基础操作(不重要)",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/001 基础操作(不重要).md"
     },
     {
       "basename": "003 MongoDB在项目中启动报错",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/003 MongoDB在项目中启动报错.md"
     },
     {
+      "basename": "004 随机获取MongoDB表中的数据",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/004 随机获取MongoDB表中的数据.md"
+    },
+    {
       "basename": "005 MongoDB更新并获取更新后的数据",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/005 MongoDB更新并获取更新后的数据.md"
     },
     {
-      "basename": "004 随机获取MongoDB表中的数据",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/004 随机获取MongoDB表中的数据.md"
+      "basename": "006 MongoDB地理位置检索",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/006 MongoDB地理位置检索.md"
     },
     {
       "basename": "001 mysql",
@@ -63,10 +67,6 @@
     {
       "basename": "008 FastDFS",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(待续)/008 FastDFS.md"
-    },
-    {
-      "basename": "006 MongoDB地理位置检索",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/006 MongoDB地理位置检索.md"
     },
     {
       "basename": "001 markdown常用语法",
