@@ -4,7 +4,7 @@
 3. 使用stream流collect.toMap 将**list映射为map**
 4. stream中的map映射要注意总结何时**return**
 
-*未过滤版*
+*未实现过滤版*
 ```java
  @Override
  ...
@@ -40,7 +40,7 @@
 ...
 ```
 
-*过滤版*
+*增加过滤版*
 ```java
 ...
 	List<Visitors> visitorsList = visitorsApi.findVisitorRecord(currentUserId,date);
