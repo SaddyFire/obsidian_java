@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "008 FastDFS",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(待续)/008 FastDFS.md"
+    },
+    {
       "basename": "007 redis整理",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(待续)/007 redis整理.md"
+    },
+    {
+      "basename": "000 docker安装",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/000 docker安装.md"
+    },
+    {
+      "basename": "Ⅱ_003_docker",
+      "path": "Ⅰ_integration_003_springCloud/Ⅱ_003_docker(未加载)/Ⅱ_003_docker.md"
     },
     {
       "basename": "003 时间类&异常",
