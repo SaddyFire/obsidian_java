@@ -41,7 +41,7 @@ if (islike) {
 ```
 	
 	
-### 3.1 guava中的交集、并集、差集
+#### 3.1 guava中的交集、并集、差集
 ```java
 Set<Integer> set1 = Sets.newHashSet(1, 2, 4, 5, 6, 8);
 Set<Integer> set2 = Sets.newHashSet(2, 3, 4, 5, 6, 7, 9);
