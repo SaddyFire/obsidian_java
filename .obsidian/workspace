@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/001 基础操作.md",
+            "file": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/002 SpringData-Mongo.md",
             "mode": "preview"
           }
         }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/001 基础操作.md",
+                "file": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/002 SpringData-Mongo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/001 基础操作.md"
+                "file": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/002 SpringData-Mongo.md"
               }
             }
           }
@@ -132,11 +132,11 @@
   },
   "active": "cf748a1aac484d22",
   "lastOpenFiles": [
-    "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/001 基础操作.md",
     "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/002 SpringData-Mongo.md",
+    "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/003 MongoDB在项目中启动报错.md",
+    "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/001 基础操作.md",
     "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/005 MongoDB更新并获取更新后的数据.md",
     "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/004 随机获取MongoDB表中的数据.md",
-    "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/003 MongoDB在项目中启动报错.md",
     "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(待续)/008 FastDFS.md",
     "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(待续)/007 redis整理.md",
     "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/000 docker安装.md",

@@ -5,11 +5,11 @@
   "renderIframe": true,
   "renderExcalidraw": true,
   "renderRichLink": true,
-  "renderTransclusion": false,
+  "renderTransclusion": true,
   "renderAdmonition": true,
   "renderMermaid": true,
   "renderMathJax": true,
   "previewOnHoverInternalLink": true,
   "refreshImagesAfterChange": true,
-  "WYSIWYG": true
+  "WYSIWYG": false
 }

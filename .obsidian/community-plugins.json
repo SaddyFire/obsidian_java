@@ -1,7 +1,6 @@
 [
   "obsidian-hider",
   "obsidian-minimal-settings",
-  "table-editor-obsidian",
   "obsidian-local-images",
   "copy-url-in-preview",
   "file-tree-alternative",
@@ -16,6 +15,7 @@
   "find-unlinked-files",
   "obsidian-Editor",
   "ProxyGithub",
-  "oz-image-plugin",
-  "cm-editor-syntax-highlight-obsidian"
+  "cm-editor-syntax-highlight-obsidian",
+  "table-editor-obsidian",
+  "oz-image-plugin"
 ]
