@@ -6565,6 +6565,8 @@ body .table-view-table > tbody > tr > td {
   margin-bottom: calc(var(--h2-margin-bottom) * var(--editor-line-height-rem));
   font-weight: var(--h2-weight);
   font-style: var(--h2-style);
+    /*标题上标线*/
+  text-decoration: overline;
 }
 
 .popover .markdown-embed .markdown-preview-view h2,
@@ -6585,6 +6587,7 @@ body .table-view-table > tbody > tr > td {
   margin-bottom: calc(var(--h3-margin-bottom) * var(--editor-line-height-rem));
   font-weight: var(--h3-weight);
   font-style: var(--h3-style);
+  /*标题上标线*/
   text-decoration: overline;
 }
 
