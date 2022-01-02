@@ -6,11 +6,11 @@
 
 ```java
 ...动态点赞...
-	String key = Constants.MOVEMENT_LIKE_HASHKEY + movementId;
-	String haskey = Constants.MOVEMENT_LIKE_HASHKEY + UserHolder.getUserId();
-	//将动态点赞结果存至redis
-	redisTemplate.opsForHash().put(key,haskey,"留着以后用");
-...
+String key = Constants.MOVEMENT_LIKE_HASHKEY + movementId;
+String haskey = Constants.MOVEMENT_LIKE_HASHKEY + UserHolder.getUserId();
+//将动态点赞结果存至redis
+redisTemplate.opsForHash().put(key,haskey,"留着以后用");
+.............
 ...取消点赞...
 
 ...
@@ -19,14 +19,15 @@
 - 保存上一次访问访问访客列表访问时间 , hset  \=\=>  `Constants.VISITORS_USER`      hkey\=\=>`userId`     hvalue \=\=> `访问时间`
 
 ```java
-	//查询设置访问时间
-	String key = Constants.VISITORS_USER;
-	String hashKey = String.valueOf(UserHolder.getUserId());
-	//从redis获取上次查看访问的时间
-	String value = (String) redisTemplate.opsForHash().get(key, hashKey);
 ...
-	//设置当前访问时间
-	redisTemplate.opsForHash().put(key, hashKey, System.currentTimeMillis());
+//查询设置访问时间
+String key = Constants.VISITORS_USER;
+String hashKey = String.valueOf(UserHolder.getUserId());
+//从redis获取上次查看访问的时间
+String value = (String) redisTemplate.opsForHash().get(key, hashKey);
+...
+//设置当前访问时间
+redisTemplate.opsForHash().put(key, hashKey, System.currentTimeMillis());
 ```
 
 ## 03 set 使用场景
