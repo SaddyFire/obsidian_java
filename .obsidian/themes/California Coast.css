@@ -4387,10 +4387,13 @@ input[type="checkbox"]:checked:before {
 .markdown-preview-section > .contains-task-list {
   padding-bottom: 0.5em;
 }
-/*-------------------------saddyfire 列表项选择过后----------------------*/
+/*-------------------------saddyfire 列表项选择过后字体设置----------------------*/
 .markdown-preview-view ul > li.task-list-item.is-checked {
-  color: darksalmon;
-  text-decoration: line-through 1px;
+  color: darksalmon;	/*颜色*/
+  text-decoration: line-through;	/*删除线*/
+  font-style: italic;	/*斜体*/
+  text-decoration-color: var(--text-muted);
+  text-decoration-thickness: 3px;
 }
 
 .markdown-preview-view .task-list-item-checkbox {
