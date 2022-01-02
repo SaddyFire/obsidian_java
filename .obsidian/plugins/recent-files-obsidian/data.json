@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "007 redis整理",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(待续)/007 redis整理.md"
+    },
+    {
+      "basename": "003 时间类&异常",
+      "path": "Ⅰ_integration_001_javaBasic/003 时间类&异常.md"
+    },
+    {
       "basename": "002 obsidian常用插件",
       "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/002 obsidian常用插件.md"
     },
@@ -15,14 +23,6 @@
     {
       "basename": "003 时间类完整版",
       "path": "Ⅰ_integration_001_javaBasic/003 时间类完整版.md"
-    },
-    {
-      "basename": "003 时间类&异常",
-      "path": "Ⅰ_integration_001_javaBasic/003 时间类&异常.md"
-    },
-    {
-      "basename": "007 redis整理",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(待续)/007 redis整理.md"
     },
     {
       "basename": "006 stream流中list转化为map案例",
