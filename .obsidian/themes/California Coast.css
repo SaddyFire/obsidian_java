@@ -4387,10 +4387,12 @@ input[type="checkbox"]:checked:before {
 .markdown-preview-section > .contains-task-list {
   padding-bottom: 0.5em;
 }
+/*-------------------------saddyfire 列表项选择过后----------------------*/
 .markdown-preview-view ul > li.task-list-item.is-checked {
-  text-decoration: none;
-  color: var(--text-normal);
+  color: darksalmon;
+  text-decoration: line-through 1px;
 }
+
 .markdown-preview-view .task-list-item-checkbox {
   width: 0.866em;
   height: 0.866em;
@@ -6371,15 +6373,20 @@ body {
   overflow: hidden;
 }
 
+/*-------------------------saddyfire 序号,列表项颜色修改-----------------------*/
+/*列表项颜色*/
 .markdown-preview-view ul {
   margin-left: 0;
   padding-inline-start: 1.2em;
   list-style: disc;
+  color: darksalmon;
 }
+/*序号颜色*/
 .markdown-preview-view ol {
   margin-left: 0;
   padding-inline-start: 1.2em;
   list-style: decimal;
+  color: burlywood;
 }
 
 .markdown-preview-view .footnotes li > p {
