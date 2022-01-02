@@ -512,10 +512,13 @@ settings:
 
   --cursor: pointer;
 
+/*-----------------------------saddyfire 加粗/斜体颜色--------------------------------*/
+
+  /*加粗宽度*/
   --strong-weight: var(--bold-weight);
-  /*saffyfire 加粗字体的颜色*/
+  /*加粗颜色*/
   --strong-color: #ff9933;
-  /*saddyfire 斜体颜色*/
+  /*斜体颜色*/
   --em-color: #26cee3;
   --workspace-drawer-ribbon-width: 46px;
 
