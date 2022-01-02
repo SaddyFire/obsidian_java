@@ -2,11 +2,20 @@
 - 存储验证码
 
 ## 02 hash 使用场景
-1. 动态点赞(将点赞结果存储至redis):
-	String key = `Constants.MOVEMENT_LIKE_HASHKEY + movementId;`
-	String haskey = `Constants.MOVEMENT_LIKE_HASHKEY + UserHolder.getUserId();`
-	`redisTemplate.opsForHash().put(key,haskey,"留着以后用");`
-2. 保存上一次访问访问访客列表访问时间 , hset  hkey==>userId  hvalue ==> 访问时间  
+- 动态点赞 (将点赞结果存储至redis) :
+
+```java
+String key = Constants.MOVEMENT_LIKE_HASHKEY + movementId;
+String haskey = Constants.MOVEMENT_LIKE_HASHKEY + UserHolder.getUserId();
+redisTemplate.opsForHash().put(key,haskey,"留着以后用");
+```
+	
+- 保存上一次访问访问访客列表访问时间 , hset  hkey==>userId  hvalue ==> 访问时间  
+```java
+String key = Constants.VISITORS_USER;
+String hashKey = String.valueOf(UserHolder.getUserId());
+String value = (String) redisTemplate.opsForHash().get(key, hashKey);
+```
 
 ## 03 set 使用场景
 - 探花喜欢, 用于保存用户双方喜欢关系
