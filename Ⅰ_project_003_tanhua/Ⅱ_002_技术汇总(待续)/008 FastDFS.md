@@ -52,9 +52,16 @@ fdfs:
   #TrackerList参数,支持多个
   tracker-list: 192.168.136.160:22122
   web-server-url: http://192.168.136.160:8888/
+
+#配置请求文件和请求体 , 设置文件大小
+spring:
+  servlet:
+    multipart:
+      max-file-size: 30MB
+      max-request-size: 30MB
 ```
 
-
+## 02 测试代码
 - 核心代码
 ```java
 ...
@@ -110,5 +117,73 @@ public class TestFastDFS {
 ```
 
 
+## 03 tanhua业务代码
 
+service层
+```java
+import com.github.tobato.fastdfs.domain.conn.FdfsWebServer;
+import com.github.tobato.fastdfs.domain.fdfs.StorePath;
+import com.github.tobato.fastdfs.service.FastFileStorageClient;
+import com.tanhua.autoconfig.template.OssTemplate;
+import com.tanhua.dubbo.api.VideoApi;
+import com.tanhua.model.mongo.Video;
+import com.tanhua.server.interceptor.UserHolder;
+import com.tanhua.server.service.SmallVideosService;
+import org.apache.dubbo.config.annotation.DubboReference;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+import org.springframework.web.multipart.MultipartFile;
+
+import java.io.FileInputStream;
+import java.io.IOException;
+
+/**
+ * @author SaddyFire
+ * @date 2022/1/2
+ * @TIME:19:10
+ */
+@Service
+public class SmallVideosServiceImpl implements SmallVideosService {
+
+    @Autowired
+    private OssTemplate ossTemplate;
+
+    @Autowired
+    private FastFileStorageClient fastFileStorageClient;
+
+    @Autowired
+    private FdfsWebServer webServer;
+
+
+    @DubboReference
+    private VideoApi videoApi;
+
+    @Override
+    public void publishSmallVideos(MultipartFile videoThumbnail, MultipartFile videoFile) throws IOException {
+        Long currentUserId = UserHolder.getUserId();
+        //非空判断
+        if(videoThumbnail.isEmpty() || videoFile.isEmpty()){
+            throw new RuntimeException("参数非法");
+        }
+        //上传图片
+        String pictureUrl = ossTemplate.upload(videoThumbnail.getOriginalFilename(), videoThumbnail.getInputStream());
+        //上传视频
+        String filename = videoFile.getOriginalFilename();
+        filename = filename.substring(0,filename.lastIndexOf(".")+1);
+        StorePath storePath = fastFileStorageClient.uploadFile(videoFile.getInputStream(), videoFile.getSize(), filename, null);
+        String videoUrl = webServer.getWebServerUrl() + storePath.getFullPath();
+
+        Video video = new Video();
+        video.setUserId(currentUserId);
+        video.setVideoUrl(videoUrl);
+        video.setPicUrl(pictureUrl);
+        Boolean result = videoApi.saveVideos(video);
+
+        if(!result){
+            throw new RuntimeException("上传失败");
+        }
+    }
+}
+
+```
 
