@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "001 markdown常用语法",
+      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/001 markdown常用语法.md"
+    },
+    {
+      "basename": "002 obsidian常用插件",
+      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/002 obsidian常用插件.md"
+    },
+    {
+      "basename": "008 FastDFS",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(待续)/008 FastDFS.md"
+    },
+    {
+      "basename": "007 redis整理",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(待续)/007 redis整理.md"
+    },
+    {
       "basename": "002 SpringCache注解",
       "path": "Ⅰ_integration_002_spring/Ⅱ_006_redis/002 SpringCache注解.md"
+    },
+    {
+      "basename": "001 大纲",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_006_redis/001 大纲.md"
     },
     {
       "basename": "002 SpringData-Mongo",
@@ -45,10 +65,6 @@
       "path": "Ⅰ_integration_002_spring/Ⅱ_001_maven详解/01 maven详解.md"
     },
     {
-      "basename": "007 redis整理",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(待续)/007 redis整理.md"
-    },
-    {
       "basename": "002 人脸识别",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(待续)/002 人脸识别.md"
     },
@@ -67,18 +83,6 @@
     {
       "basename": "006 stream流中list转化为map案例",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(待续)/006 stream流中list转化为map案例.md"
-    },
-    {
-      "basename": "008 FastDFS",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(待续)/008 FastDFS.md"
-    },
-    {
-      "basename": "001 markdown常用语法",
-      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/001 markdown常用语法.md"
-    },
-    {
-      "basename": "002 obsidian常用插件",
-      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/002 obsidian常用插件.md"
     },
     {
       "basename": "000 docker安装",
@@ -103,10 +107,6 @@
     {
       "basename": "014 springboot请求参数详解",
       "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/014 springboot请求参数详解.md"
-    },
-    {
-      "basename": "001 大纲",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_006_redis/001 大纲.md"
     },
     {
       "basename": "002 gateway入门",
