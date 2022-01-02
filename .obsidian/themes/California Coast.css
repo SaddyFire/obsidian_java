@@ -1,3 +1,17 @@
+/*
+=============================saddyfire 设置目录==============================
+saddyfire1 加粗/斜体颜色
+saddyfire2 预览模式
+saddyfire3 更改标题颜色
+saddyfire4 文件夹左侧对齐线
+saddyfire5 文件列表目录字体设置
+saddyfire6 大纲字体设置
+saddyfire7 列表项选择过后字体设置
+saddyfire8 序号,列表项颜色修改
+saddyfire9 h1-h6标题设置
+
+=============================saddyfire 设置目录==============================
+*/
 /* @settings
 
 name: California Coast Theme
@@ -512,7 +526,7 @@ settings:
 
   --cursor: pointer;
 
-/*-----------------------------saddyfire 加粗/斜体颜色--------------------------------*/
+/*-----------------------------saddyfire1 加粗/斜体颜色--------------------------------*/
 
   /*加粗宽度*/
   --strong-weight: var(--bold-weight);
@@ -600,7 +614,7 @@ settings:
 
   --opacity-translucency: 1;
 }
-/*-----------------------------saddyfire预览模式--------------------------------*/
+/*-----------------------------saddyfire2 预览模式--------------------------------*/
 
 /*类名颜色*/
 .theme-dark .token.class-name {
@@ -698,7 +712,7 @@ settings:
   --foreground-rgb: 204, 204, 204;
   --background-rgb: 30, 30, 30;
 
-/*---------------------------saddyfire更改标题颜色-----------------------------*/
+/*---------------------------saddyfire3 更改标题颜色-----------------------------*/
   
   --h1-color: #bababa;	
   --h2-color: #A12674;
@@ -2431,7 +2445,7 @@ input[type="range"] {
   overflow-x: hidden;
 }
 
-/*---------------------------saddyfire 文件夹左侧对齐线-----------------------------*/
+/*---------------------------saddyfire4 文件夹左侧对齐线-----------------------------*/
 .nav-folder-children .nav-folder-children {
     margin-left: 0.58rem;	/*偏移量*/
     border-left: 1px dashed;	/*虚线*/
@@ -2552,7 +2566,7 @@ body:not(.is-grabbing) .nav-file-title.is-active:hover {
   vertical-align: middle;
 }
 
-/*----------------------saddyfire 文件列表目录字体设置--------------------------*/
+/*----------------------saddyfire5 文件列表目录字体设置--------------------------*/
 .nav-file-title-content {
   padding: 4px 0;
   border: none;
@@ -2689,7 +2703,7 @@ body:not(.is-grabbing) .nav-folder-title:hover {
   opacity: unset;
 }
 
-/*--------------------------saddyfire 大纲字体设置---------------------------*/
+/*--------------------------saddyfire6 大纲字体设置---------------------------*/
 .outline .tree-item-inner {
   display: flex;
   align-items: flex-start;
@@ -4399,7 +4413,7 @@ input[type="checkbox"]:checked:before {
 .markdown-preview-section > .contains-task-list {
   padding-bottom: 0.5em;
 }
-/*-------------------------saddyfire 列表项选择过后字体设置----------------------*/
+/*-------------------------saddyfire7 列表项选择过后字体设置----------------------*/
 .markdown-preview-view ul > li.task-list-item.is-checked {
   color: darksalmon;	/*颜色*/
   text-decoration: line-through;	/*删除线*/
@@ -6388,7 +6402,7 @@ body {
   overflow: hidden;
 }
 
-/*-------------------------saddyfire 序号,列表项颜色修改-----------------------*/
+/*-------------------------saddyfire8 序号,列表项颜色修改-----------------------*/
 /*列表项颜色*/
 .markdown-preview-view ul {
   margin-left: 0;
@@ -6523,7 +6537,7 @@ body .table-view-table > tbody > tr > td {
   margin-top: 0;
 }
 
-/*-----------------------------saddyfire h1-h6标题设置--------------------------------*/
+/*-----------------------------saddyfire9 h1-h6标题设置--------------------------------*/
 
 :root {
   --h1-size: 1.602em;

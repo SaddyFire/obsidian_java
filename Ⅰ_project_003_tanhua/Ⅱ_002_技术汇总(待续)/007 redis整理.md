@@ -12,8 +12,11 @@ String haskey = Constants.MOVEMENT_LIKE_HASHKEY + UserHolder.getUserId();
 redisTemplate.opsForHash().put(key,haskey,"留着以后用");
 .............
 ...取消点赞...
-
-...
+//清除对应redis缓存  
+String key = Constants.MOVEMENTS_INTERACT_KEY + movementId;  
+String hasKey = Constants.MOVEMENT_LOVE_HASHKEY + UserHolder.getUserId();  
+redisTemplate.opsForHash().delete(key,hasKey);
+.............
 ```
 	
 - 保存上一次访问访问访客列表访问时间 , hset  \=\=>  `Constants.VISITORS_USER`      hkey\=\=>`userId`     hvalue \=\=> `访问时间`
