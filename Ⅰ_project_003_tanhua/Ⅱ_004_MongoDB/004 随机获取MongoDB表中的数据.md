@@ -1,5 +1,7 @@
 ## 随机获取MongoDB表中的数据
 
+**(返回 AggregationResults)**
+
 ```java
 @Override
 ...
@@ -21,7 +23,7 @@
 ```
 
 
-**加强版**
+**多条件查询(返回List对象)**
 
 ```java
 ...
