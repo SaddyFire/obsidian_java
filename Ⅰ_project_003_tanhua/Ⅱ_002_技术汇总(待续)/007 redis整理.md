@@ -17,6 +17,7 @@ String key = Constants.MOVEMENTS_INTERACT_KEY + movementId;
 String hasKey = Constants.MOVEMENT_LOVE_HASHKEY + UserHolder.getUserId();  
 redisTemplate.opsForHash().delete(key,hasKey);
 .............
+
 ```
 	
 - 保存上一次访问访问访客列表访问时间 , hset  \=\=>  `Constants.VISITORS_USER`      hkey\=\=>`userId`     hvalue \=\=> `访问时间`
@@ -31,6 +32,19 @@ String value = (String) redisTemplate.opsForHash().get(key, hashKey);
 ...
 //设置当前访问时间
 redisTemplate.opsForHash().put(key, hashKey, System.currentTimeMillis());
+```
+
+- 小视频点赞
+```java
+...视频点赞...
+//获取当前用户  
+Long userId = UserHolder.getUserId();  
+//redis上查询是否有点赞数据  
+Boolean exist = redisTemplate.opsForHash().hasKey(Constants.VIDEO_LIKE_HASHKEY + videoId, userId);
+
+//redis记录数据  
+redisTemplate.opsForHash().put(Constants.VIDEO_LIKE_HASHKEY + videoId,userId,1);
+.............
 ```
 
 ## 03 set 使用场景
