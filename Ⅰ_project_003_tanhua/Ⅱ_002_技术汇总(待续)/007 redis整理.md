@@ -10,7 +10,7 @@ String haskey = Constants.MOVEMENT_LIKE_HASHKEY + UserHolder.getUserId();
 redisTemplate.opsForHash().put(key,haskey,"留着以后用");
 ```
 	
-- 保存上一次访问访问访客列表访问时间 , hset  hkey==>userId  hvalue ==> 访问时间  
+- 保存上一次访问访问访客列表访问时间 , hset  \=\=>  `Constants.VISITORS_USER`      hkey\=\=>`userId`     hvalue \=\=> 访问时间  
 
 ```java
 //查询设置访问时间
