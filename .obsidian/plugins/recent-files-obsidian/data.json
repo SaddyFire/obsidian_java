@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "001 markdown常用语法",
-      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/001 markdown常用语法.md"
+      "basename": "006 MongoDB地理位置检索",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/006 MongoDB地理位置检索.md"
     },
     {
       "basename": "002 obsidian常用插件",
       "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/002 obsidian常用插件.md"
+    },
+    {
+      "basename": "001 markdown常用语法",
+      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/001 markdown常用语法.md"
     },
     {
       "basename": "008 FastDFS",
@@ -43,10 +47,6 @@
     {
       "basename": "005 MongoDB更新并获取更新后的数据",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/005 MongoDB更新并获取更新后的数据.md"
-    },
-    {
-      "basename": "006 MongoDB地理位置检索",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/006 MongoDB地理位置检索.md"
     },
     {
       "basename": "001 mysql",
