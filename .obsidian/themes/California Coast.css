@@ -2427,6 +2427,18 @@ input[type="range"] {
 .nav-files-container {
   overflow-x: hidden;
 }
+.nav-folder-children .nav-folder-children {
+    margin-left: 0.71875rem;
+    padding-left: 0;
+    border-left: 2px solid var(--background-modifier-border);
+    border-radius: 0;
+    transition: all 400ms ease-in;
+}
+
+
+
+
+
 .hider-ribbon .nav-files-container {
   padding-bottom: 50px;
 }
