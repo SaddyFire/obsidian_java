@@ -5,16 +5,20 @@
       "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(待续)/008 FastDFS.md"
     },
     {
+      "basename": "005 MongoDB更新并获取更新后的数据",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/005 MongoDB更新并获取更新后的数据.md"
+    },
+    {
+      "basename": "006 MongoDB地理位置检索",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/006 MongoDB地理位置检索.md"
+    },
+    {
       "basename": "007 redis整理",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(待续)/007 redis整理.md"
     },
     {
       "basename": "006 stream流中list转化为map案例",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(待续)/006 stream流中list转化为map案例.md"
-    },
-    {
-      "basename": "006 MongoDB地理位置检索",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/006 MongoDB地理位置检索.md"
     },
     {
       "basename": "002 obsidian常用插件",
@@ -47,10 +51,6 @@
     {
       "basename": "004 随机获取MongoDB表中的数据",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/004 随机获取MongoDB表中的数据.md"
-    },
-    {
-      "basename": "005 MongoDB更新并获取更新后的数据",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/005 MongoDB更新并获取更新后的数据.md"
     },
     {
       "basename": "001 mysql",

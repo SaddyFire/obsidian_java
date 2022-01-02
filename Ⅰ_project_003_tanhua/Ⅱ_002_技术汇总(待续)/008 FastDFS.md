@@ -21,3 +21,35 @@ docker update --restart=always tracker
 ```
 
 >FastDFS**调度服务器**地址：192.168.136.160:22122 FastDFS**存储服务器**地址：[http://192.168.136.160:8888/](http://192.168.136.160:8888/)
+
+- 依赖
+```xml
+<dependency>
+    <groupId>com.github.tobato</groupId>
+    <artifactId>fastdfs-client</artifactId>
+    <version>1.26.7</version>
+    <exclusions>
+        <exclusion>
+            <groupId>ch.qos.logback</groupId>
+            <artifactId>logback-classic</artifactId>
+        </exclusion>
+    </exclusions>
+</dependency>
+```
+
+- application.yml
+
+注意缩进
+```yml
+# 分布式文件系统FDFS配置
+fdfs:
+  so-timeout: 1500
+  connect-timeout: 600
+  #缩略图生成参数
+  thumb-image:
+    width: 150
+    height: 150
+  #TrackerList参数,支持多个
+  tracker-list: 192.168.136.160:22122
+  web-server-url: http://192.168.136.160:8888/
+```
