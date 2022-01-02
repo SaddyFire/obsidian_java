@@ -1,6 +1,6 @@
 {
   "attachmentFolderPath": "_resources",
-  "promptDelete": false,
+  "promptDelete": true,
   "defaultViewMode": "source",
   "showLineNumber": true,
   "vimMode": false,
@@ -8,5 +8,6 @@
   "foldIndent": true,
   "showFrontmatter": true,
   "legacyEditor": true,
-  "livePreview": true
+  "livePreview": true,
+  "alwaysUpdateLinks": true
 }
