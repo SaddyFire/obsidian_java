@@ -1,7 +1,7 @@
 {
   "attachmentFolderPath": "_resources",
   "promptDelete": true,
-  "defaultViewMode": "source",
+  "defaultViewMode": "preview",
   "showLineNumber": true,
   "vimMode": false,
   "foldHeading": true,
