@@ -38,7 +38,7 @@
 /*括号颜色, 编辑区代码块背景颜色*/
 .theme-dark .cm-s-obsidian pre.HyperMD-codeblock {
     color: #8168dd;
-    background: #232323;
+    /*background: #232323;*/
 }
 
 

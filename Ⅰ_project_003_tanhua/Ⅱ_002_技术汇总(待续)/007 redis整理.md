@@ -11,10 +11,12 @@ redisTemplate.opsForHash().put(key,haskey,"留着以后用");
 ```
 	
 - 保存上一次访问访问访客列表访问时间 , hset  hkey==>userId  hvalue ==> 访问时间  
+
 ```java
 String key = Constants.VISITORS_USER;
 String hashKey = String.valueOf(UserHolder.getUserId());
 String value = (String) redisTemplate.opsForHash().get(key, hashKey);
+
 ```
 
 ## 03 set 使用场景
