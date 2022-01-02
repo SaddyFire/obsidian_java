@@ -2557,6 +2557,7 @@ body:not(.is-grabbing) .nav-file-title.is-active:hover {
   padding: 4px 0;
   border: none;
   line-height: 1.3;
+  
 }
 
 .is-mobile .nav-file-title-content,
@@ -2679,12 +2680,15 @@ body:not(.is-grabbing) .nav-folder-title:hover {
 .outline > .tree-item > .tree-item-self .right-triangle {
   opacity: unset;
 }
+
+/*--------------------------saddyfire 大纲字体设置---------------------------*/
 .outline .tree-item-inner {
   display: flex;
   align-items: flex-start;
   position: relative;
   padding: 4px 6px;
   line-height: 1.4;
+  color: darkturquoise;
 }
 .outline .tree-item-inner::before {
   flex-shrink: 0;
