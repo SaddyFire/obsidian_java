@@ -5916,7 +5916,7 @@ body.cc-custom-icons .view-action[aria-label^="Preview"] > svg {
 
 .markdown-source-view.mod-cm6 .cm-scroller,
 .cm-s-obsidian {
-  font-family: var(--text-editor);
+  
   font-size: var(--editor-font-size);
   font-weight: var(--editor-font-weight);
   line-height: var(--editor-line-height);
