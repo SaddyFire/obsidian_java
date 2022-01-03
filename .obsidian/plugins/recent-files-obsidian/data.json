@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "008 FastDFS",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/008 FastDFS.md"
+    },
+    {
       "basename": "010 Nacos配置中心",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/010 Nacos配置中心.md"
     },
@@ -103,10 +107,6 @@
     {
       "basename": "006 stream流中list转化为map案例",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/006 stream流中list转化为map案例.md"
-    },
-    {
-      "basename": "008 FastDFS",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/008 FastDFS.md"
     },
     {
       "basename": "002 SpringCache注解",
