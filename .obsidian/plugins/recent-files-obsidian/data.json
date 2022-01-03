@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "002 SpringData-Mongo",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/002 SpringData-Mongo.md"
+    },
+    {
+      "basename": "003 MongoDB在项目中启动报错",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/003 MongoDB在项目中启动报错.md"
+    },
+    {
       "basename": "002 分页模糊查询(拦截器)",
       "path": "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/002 分页模糊查询(拦截器).md"
     },
@@ -131,14 +139,6 @@
     {
       "basename": "001 大纲",
       "path": "Ⅰ_integration_002_spring/Ⅱ_006_redis/001 大纲.md"
-    },
-    {
-      "basename": "002 SpringData-Mongo",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/002 SpringData-Mongo.md"
-    },
-    {
-      "basename": "003 MongoDB在项目中启动报错",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/003 MongoDB在项目中启动报错.md"
     },
     {
       "basename": "001 mysql",
