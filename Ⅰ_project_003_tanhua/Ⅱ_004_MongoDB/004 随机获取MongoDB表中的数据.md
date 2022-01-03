@@ -40,3 +40,4 @@ AggregationResults<RecommendUser> results = mongoTemplate.aggregate(aggregation,
 List<RecommendUser> recommendUserList = results.getMappedResults();
 ...
 ```
+
