@@ -1,5 +1,6 @@
 /*
 =============================saddyfire 设置目录==============================
+saddyfire01 主配置编辑样式
 saddyfire1 加粗/斜体颜色
 saddyfire2 预览模式
 saddyfire3 更改标题颜色
@@ -496,7 +497,8 @@ settings:
 
   --rem: 18px;
 
-  --editor-font-size: 18px;
+/*saddyfire01 主配置编辑样式*/
+  --editor-font-size: 18px;		
   --editor-line-height: 1.88889;
   --editor-font-weight: 400;
   --editor-font-features: "";
@@ -1057,6 +1059,7 @@ button,
 .cm-s-obsidian .cm-formatting-hashtag,
 .cm-s-obsidian {
   font-size: var(--rem);
+  /*font-size: 10px;*/
   font-family: var(--text) !important;
   font-weight: var(--normal-weight);
   line-height: var(--line-height);
