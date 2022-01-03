@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ipage",
+                "query": "tag:#",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,7 +72,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -144,6 +145,7 @@
   "active": "7e1caba8c33f4dfb",
   "lastOpenFiles": [
     "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/002 分页模糊查询(拦截器).md",
+    "Ⅰ_project_001_reggie/Ⅱ_002_技术汇总/005 分页拦截器.md",
     "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/001 起步配置.md",
     "Ⅰ_integration_003_springCloud/Ⅱ_003_docker(未加载)/Ⅱ_003_docker.md",
     "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/008 FastDFS.md",
@@ -151,7 +153,6 @@
     "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md",
     "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/000 docker安装.md",
     "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/000 temp.md",
-    "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/005 MongoDB更新并获取更新后的数据.md",
-    "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/002 obsidian常用插件.md"
+    "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/005 MongoDB更新并获取更新后的数据.md"
   ]
 }
