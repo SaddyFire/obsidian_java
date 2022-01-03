@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "001 过滤工厂",
+      "path": "Ⅰ_integration_003_springCloud/Ⅱ_002_配置中心&Feign远程调用/001 过滤工厂.md"
+    },
+    {
+      "basename": "002 gateway网关入门",
+      "path": "Ⅰ_integration_003_springCloud/Ⅱ_002_配置中心&Feign远程调用/002 gateway网关入门.md"
+    },
+    {
+      "basename": "009 GateWay网关",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md"
+    },
+    {
+      "basename": "003 GlobalFilter",
+      "path": "Ⅰ_integration_003_springCloud/Ⅱ_002_配置中心&Feign远程调用/003 GlobalFilter.md"
+    },
+    {
       "basename": "005 MongoDB更新并获取更新后的数据",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/005 MongoDB更新并获取更新后的数据.md"
     },
     {
       "basename": "006 MongoDB地理位置检索",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/006 MongoDB地理位置检索.md"
-    },
-    {
-      "basename": "009 GateWay网关",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md"
     },
     {
       "basename": "003 过滤器_用户鉴权",
@@ -39,10 +51,6 @@
     {
       "basename": "004 字段自动填充",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/004 字段自动填充.md"
-    },
-    {
-      "basename": "002 gateway入门",
-      "path": "Ⅰ_integration_003_springCloud/Ⅱ_002_配置中心&Feign远程调用/002 gateway入门.md"
     },
     {
       "basename": "001 基础操作(不重要)",
@@ -143,14 +151,6 @@
     {
       "basename": "003 时间类完整版",
       "path": "Ⅰ_integration_001_javaBasic/003 时间类完整版.md"
-    },
-    {
-      "basename": "001 过滤工厂",
-      "path": "Ⅰ_integration_003_springCloud/Ⅱ_002_配置中心&Feign远程调用/001 过滤工厂.md"
-    },
-    {
-      "basename": "003 GlobalFilter",
-      "path": "Ⅰ_integration_003_springCloud/Ⅱ_002_配置中心&Feign远程调用/003 GlobalFilter.md"
     },
     {
       "basename": "005 Nacos与Eureka的区别",
