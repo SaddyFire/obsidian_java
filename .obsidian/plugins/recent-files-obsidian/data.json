@@ -1,20 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "003 JWT-鉴权",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/003 JWT-鉴权.md"
+      "basename": "009 GateWay网关",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md"
     },
     {
-      "basename": "004 字段自动填充",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/004 字段自动填充.md"
+      "basename": "003 过滤器_用户鉴权",
+      "path": "Ⅰ_project_001_reggie/Ⅱ_002_技术汇总/003 过滤器_用户鉴权.md"
+    },
+    {
+      "basename": "003 dozer_深克隆",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/003 dozer_深克隆.md"
+    },
+    {
+      "basename": "004 ThreadLocal工具类",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/004 ThreadLocal工具类.md"
+    },
+    {
+      "basename": "001 阿里云短信发送",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/001 阿里云短信发送.md"
+    },
+    {
+      "basename": "003 JWT-鉴权",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/003 JWT-鉴权.md"
     },
     {
       "basename": "001 springboot_bean的制作",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/001 springboot_bean的制作.md"
     },
     {
-      "basename": "009 GateWay网关",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(待续)/009 GateWay网关.md"
+      "basename": "004 字段自动填充",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/004 字段自动填充.md"
     },
     {
       "basename": "002 gateway入门",
@@ -30,7 +46,7 @@
     },
     {
       "basename": "007 redis整理",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(待续)/007 redis整理.md"
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/007 redis整理.md"
     },
     {
       "basename": "004 随机获取MongoDB表中的数据",
@@ -42,31 +58,27 @@
     },
     {
       "basename": "000 temp",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(待续)/000 temp.md"
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/000 temp.md"
     },
     {
       "basename": "001 OOS文件存储",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(待续)/001 OOS文件存储.md"
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/001 OOS文件存储.md"
     },
     {
       "basename": "002 人脸识别",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(待续)/002 人脸识别.md"
-    },
-    {
-      "basename": "003 dozer_深克隆",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(待续)/003 dozer_深克隆.md"
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/002 人脸识别.md"
     },
     {
       "basename": "005 统一异常处理",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(待续)/005 统一异常处理.md"
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/005 统一异常处理.md"
     },
     {
       "basename": "006 stream流中list转化为map案例",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(待续)/006 stream流中list转化为map案例.md"
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/006 stream流中list转化为map案例.md"
     },
     {
       "basename": "008 FastDFS",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(待续)/008 FastDFS.md"
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/008 FastDFS.md"
     },
     {
       "basename": "006 MongoDB地理位置检索",
@@ -111,10 +123,6 @@
     {
       "basename": "01 maven详解",
       "path": "Ⅰ_integration_002_spring/Ⅱ_001_maven详解/01 maven详解.md"
-    },
-    {
-      "basename": "004 ThreadLocal工具类",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(待续)/004 ThreadLocal工具类.md"
     },
     {
       "basename": "000 docker安装",
