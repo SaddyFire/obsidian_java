@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md",
-            "mode": "preview"
+            "file": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/005 MongoDB更新并获取更新后的数据.md",
+            "mode": "source"
           }
         }
       }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md",
+                "file": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/005 MongoDB更新并获取更新后的数据.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md"
+                "file": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/005 MongoDB更新并获取更新后的数据.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md",
+                "file": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/005 MongoDB更新并获取更新后的数据.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,6 +144,8 @@
   },
   "active": "7e1caba8c33f4dfb",
   "lastOpenFiles": [
+    "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/005 MongoDB更新并获取更新后的数据.md",
+    "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/006 MongoDB地理位置检索.md",
     "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md",
     "Ⅰ_project_001_reggie/Ⅱ_002_技术汇总/003 过滤器_用户鉴权.md",
     "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/003 dozer_深克隆.md",
@@ -151,8 +153,6 @@
     "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/001 阿里云短信发送.md",
     "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/003 JWT-鉴权.md",
     "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/001 springboot_bean的制作.md",
-    "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/004 字段自动填充.md",
-    "Ⅰ_integration_003_springCloud/Ⅱ_002_配置中心&Feign远程调用/002 gateway入门.md",
-    "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/005 MongoDB更新并获取更新后的数据.md"
+    "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/004 字段自动填充.md"
   ]
 }

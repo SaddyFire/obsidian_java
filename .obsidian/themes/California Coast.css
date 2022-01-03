@@ -1061,7 +1061,7 @@ button,
   font-weight: var(--normal-weight);
   line-height: var(--line-height);
   -webkit-font-smoothing: antialiased !important;
-  -moz-osx-font-smoothing: grayscale;
+  /*-moz-osx-font-smoothing: grayscale;*/
 }
 .view-header-title,
 .file-embed-title,
@@ -4210,12 +4210,6 @@ html .plugin-sliding-panes-rotate-header.embedded-note-title .CodeMirror-lines {
   height: 4px;
 }
 
-.markdown-source-view,
-.cm-s-obsidian .cm-formatting-hashtag,
-.cm-s-obsidian {
-  line-height: var(--line-height);
-  font-family: var(--text-editor) !important;
-}
 .cm-s-obsidian .cm-header {
   font-weight: var(--bold-weight);
 }
@@ -5916,13 +5910,8 @@ body.cc-custom-icons .view-action[aria-label^="Preview"] > svg {
 
 .markdown-source-view.mod-cm6 .cm-scroller,
 .cm-s-obsidian {
-  
-  font-size: var(--editor-font-size);
   font-weight: var(--editor-font-weight);
-  line-height: var(--editor-line-height);
   font-feature-settings: var(--editor-font-features);
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
 }
 
 .cm-s-obsidian .HyperMD-codeblock {
