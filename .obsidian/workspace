@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(待续)/009 GateWay网关.md",
+            "file": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/003 JWT-鉴权.md",
             "mode": "preview"
           }
         }
@@ -72,8 +72,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(待续)/009 GateWay网关.md",
+                "file": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/003 JWT-鉴权.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(待续)/009 GateWay网关.md"
+                "file": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/003 JWT-鉴权.md"
               }
             }
           },
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(待续)/009 GateWay网关.md",
+                "file": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/003 JWT-鉴权.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,15 +143,15 @@
   },
   "active": "7e1caba8c33f4dfb",
   "lastOpenFiles": [
+    "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/003 JWT-鉴权.md",
+    "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/004 字段自动填充.md",
+    "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/001 springboot_bean的制作.md",
     "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(待续)/009 GateWay网关.md",
     "Ⅰ_integration_003_springCloud/Ⅱ_002_配置中心&Feign远程调用/002 gateway入门.md",
     "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/005 MongoDB更新并获取更新后的数据.md",
     "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/001 基础操作(不重要).md",
     "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(待续)/007 redis整理.md",
     "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/004 随机获取MongoDB表中的数据.md",
-    "Ⅰ_integration_002_spring/Ⅱ_003_springboot/014 springboot请求参数详解.md",
-    "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(待续)/000 temp.md",
-    "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(待续)/001 OOS文件存储.md",
-    "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(待续)/002 人脸识别.md"
+    "Ⅰ_integration_002_spring/Ⅱ_003_springboot/014 springboot请求参数详解.md"
   ]
 }
