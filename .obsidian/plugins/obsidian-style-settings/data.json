@@ -35,5 +35,7 @@
   "obsidian-california-coast-theme@@h5-margin-top": 1,
   "obsidian-california-coast-theme@@h6-line-height": 1,
   "obsidian-california-coast-theme@@h6-margin-top": 1,
-  "obsidian-california-coast-theme@@line-width": 80
+  "obsidian-california-coast-theme@@line-width": 80,
+  "obsidian-california-coast-theme@@h5-size": "1.1em",
+  "obsidian-california-coast-theme@@editor-font-features": "\"\""
 }
