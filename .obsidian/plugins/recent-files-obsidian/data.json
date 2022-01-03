@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "009 GateWay网关",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(待续)/009 GateWay网关.md"
+    },
+    {
+      "basename": "002 gateway入门",
+      "path": "Ⅰ_integration_003_springCloud/Ⅱ_002_配置中心&Feign远程调用/002 gateway入门.md"
+    },
+    {
       "basename": "005 MongoDB更新并获取更新后的数据",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/005 MongoDB更新并获取更新后的数据.md"
     },
@@ -115,10 +123,6 @@
     {
       "basename": "003 时间类完整版",
       "path": "Ⅰ_integration_001_javaBasic/003 时间类完整版.md"
-    },
-    {
-      "basename": "002 gateway入门",
-      "path": "Ⅰ_integration_003_springCloud/Ⅱ_002_配置中心&Feign远程调用/002 gateway入门.md"
     },
     {
       "basename": "001 过滤工厂",
