@@ -135,6 +135,8 @@ gateway:
 ```
 
 ## 02 配置鉴权管理器
+##### 鉴权过滤器
+
 `tanhua-gateway.com.tanhua.gateway.filter.AuthFilter`
 
 ```java
