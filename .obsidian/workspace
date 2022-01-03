@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md",
-            "mode": "preview"
+            "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/000 temp.md",
+            "mode": "source"
           }
         }
       }
@@ -76,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352,
-    "collapsed": true
+    "width": 352
   },
   "right": {
     "id": "eaafcc4feb3ef58e",
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md",
+                "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/000 temp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md"
+                "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/000 temp.md"
               }
             }
           },
@@ -128,13 +127,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md",
+                "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/000 temp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -143,6 +143,7 @@
   },
   "active": "7e1caba8c33f4dfb",
   "lastOpenFiles": [
+    "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/000 temp.md",
     "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md",
     "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/005 MongoDB更新并获取更新后的数据.md",
     "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/002 obsidian常用插件.md",
@@ -151,7 +152,6 @@
     "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/001 markdown常用语法.md",
     "Ⅰ_integration_003_springCloud/Ⅱ_002_配置中心&Feign远程调用/001 过滤工厂.md",
     "Ⅰ_integration_003_springCloud/Ⅱ_002_配置中心&Feign远程调用/002 gateway网关入门.md",
-    "Ⅰ_integration_003_springCloud/Ⅱ_002_配置中心&Feign远程调用/003 GlobalFilter.md",
-    "Ⅰ_project_001_reggie/Ⅱ_002_技术汇总/003 过滤器_用户鉴权.md"
+    "Ⅰ_integration_003_springCloud/Ⅱ_002_配置中心&Feign远程调用/003 GlobalFilter.md"
   ]
 }
