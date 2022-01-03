@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "003 JWT-鉴权",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/003 JWT-鉴权.md"
+    },
+    {
       "basename": "002 SpringData-Mongo",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/002 SpringData-Mongo.md"
     },
@@ -91,10 +95,6 @@
     {
       "basename": "001 阿里云短信发送",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/001 阿里云短信发送.md"
-    },
-    {
-      "basename": "003 JWT-鉴权",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/003 JWT-鉴权.md"
     },
     {
       "basename": "001 springboot_bean的制作",
