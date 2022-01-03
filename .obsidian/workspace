@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -76,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352,
-    "collapsed": true
+    "width": 352
   },
   "right": {
     "id": "eaafcc4feb3ef58e",
