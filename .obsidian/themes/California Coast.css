@@ -689,7 +689,7 @@ settings:
 /*引用区块字体*/
 .markdown-preview-view code {
     color: #FF0080;
-    font-size: 0.9em;
+    font-size: 1.0em;
     margin: -2px 0;
 }
 .markdown-preview-view blockquote p {

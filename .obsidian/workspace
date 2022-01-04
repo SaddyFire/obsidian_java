@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/007 redis整理.md",
+            "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/005 统一异常处理.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "鉴权",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/007 redis整理.md",
+                "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/005 统一异常处理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/007 redis整理.md"
+                "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/005 统一异常处理.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/007 redis整理.md",
+                "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/005 统一异常处理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,15 +144,15 @@
   },
   "active": "7e1caba8c33f4dfb",
   "lastOpenFiles": [
+    "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/005 统一异常处理.md",
+    "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/001 基础操作(不重要).md",
+    "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/000 docker安装.md",
+    "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/002 SpringData-Mongo.md",
     "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/007 redis整理.md",
     "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/003 JWT-鉴权.md",
-    "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/002 SpringData-Mongo.md",
     "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/003 MongoDB在项目中启动报错.md",
     "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/002 分页模糊查询(拦截器).md",
     "Ⅰ_project_001_reggie/Ⅱ_002_技术汇总/005 分页拦截器.md",
-    "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/001 起步配置.md",
-    "Ⅰ_integration_003_springCloud/Ⅱ_003_docker(未加载)/Ⅱ_003_docker.md",
-    "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/008 FastDFS.md",
-    "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/010 Nacos配置中心.md"
+    "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/001 起步配置.md"
   ]
 }
