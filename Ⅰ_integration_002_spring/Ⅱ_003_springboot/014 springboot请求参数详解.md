@@ -6,6 +6,8 @@ public ResponseEntity aaa(`@RequestParam("userId")` Long userId)
 	1. 我们用多个参数接收,每个参数前加上@RequestParam注解
 	public ResponseEntity aaa(`@RequestParam("userId")` Long userId ,`@RequestParam("name")`String name)
 	
+	注意:
+	
 	2. 可以用Map集合接收用 Map接收需要加上@RequestParam(required = false)
 	public ResponseEntity aaa(`@RequestParam(required = false)` Map map)
 	

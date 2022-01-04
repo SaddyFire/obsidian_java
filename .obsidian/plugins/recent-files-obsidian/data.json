@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "014 springboot请求参数详解",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/014 springboot请求参数详解.md"
+    },
+    {
       "basename": "005 统一异常处理",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/005 统一异常处理.md"
     },
@@ -115,10 +119,6 @@
     {
       "basename": "004 字段自动填充",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/004 字段自动填充.md"
-    },
-    {
-      "basename": "014 springboot请求参数详解",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/014 springboot请求参数详解.md"
     },
     {
       "basename": "001 OOS文件存储",
