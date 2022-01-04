@@ -1,5 +1,36 @@
 ## 01 string 使用场景
 - 存储验证码
+- 存储封禁用户, 可设置封禁时间
+
+```java
+    /**
+     * 冻结用户
+     * @param freezeDto
+     */
+    public void freeze(FreezeDto freezeDto) {
+        Long userId = freezeDto.getUserId();
+        Integer freezingTime = freezeDto.getFreezingTime();
+        //先查询redis是否有数据
+        Object freezeRedis = redisTemplate.opsForValue().get(Constants.FREEZE_USER + userId);
+
+        if(freezeRedis != null){
+            throw new BusinessException("异常请求");
+        }
+        //冻结时间，1为冻结3天，2为冻结7天，3为永久冻结
+        int day = 0;
+        if (freezingTime == 1) {
+            day = 7;
+        } else if (freezingTime == 2) {
+            day = 1;
+        } else if (freezingTime == 3) {
+            day = -1;
+        }
+        String freezeJson = JSON.toJSONString(freezeDto);
+        //存储封禁redis
+        redisTemplate.opsForValue().set(Constants.FREEZE_USER + userId,freezeJson,day, TimeUnit.DAYS);
+
+    }
+```
 
 ## 02 hash 使用场景
 - 动态点赞 (将点赞结果存储至redis) :
