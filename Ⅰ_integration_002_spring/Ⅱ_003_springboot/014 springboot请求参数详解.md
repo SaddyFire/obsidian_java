@@ -6,7 +6,9 @@ public ResponseEntity aaa(`@RequestParam("userId")` Long userId)
 	1. 我们用多个参数接收,每个参数前加上@RequestParam注解
 	public ResponseEntity aaa(`@RequestParam("userId")` Long userId ,`@RequestParam("name")`String name)
 	
-	**注意:** 如果用 `@RequestPram`注解要加映射的字段名
+	**注意:\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=** 
+	如果用 `@RequestPram`注解要加映射的字段名
+	**注意:\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=** 
 	
 	2. 可以用Map集合接收用 Map接收需要加上@RequestParam(required = false)
 	public ResponseEntity aaa(`@RequestParam(required = false)` Map map)
@@ -20,7 +22,9 @@ public ResponseEntity aaa(`@RequestParam("userId")` Long userId)
 
 ## 02 请求参数为Body
 前端传递过来的为json,我们可以用Map 接收
-
+**注意:\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=** 
+当请求方式为get时, 无法用`@RequestBody`接收
+**注意:\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=** 
 spring默认会把数据写到Map中 我们在从map中获取即可
 public ResponseEntity aaa(`@RequsetBody` Map map)
 
