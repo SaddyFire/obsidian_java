@@ -10,6 +10,7 @@ mongoTemplate.updateFirst(query,update,UserLike.class);
 
 
 ## MongoDB更新并获取更新后的数据
+##### 自增更新
 ```java
 @Override
     public Integer savePublishComment(CommentDto commentDto) {
@@ -46,3 +47,7 @@ mongoTemplate.updateFirst(query,update,UserLike.class);
         return modifyMovement.statisCount(comment.getCommentType());
     }
 ```
+
+
+
+
