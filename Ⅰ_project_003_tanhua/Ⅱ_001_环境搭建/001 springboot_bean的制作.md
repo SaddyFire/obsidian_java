@@ -32,8 +32,6 @@ public class SmsTemplate {
 
 		注意: 确定参数与返回值类型
 		
-<br/>
-		
 
 ## 04 **项目名+**AutoConfiguration 自动装配类
 
@@ -71,8 +69,6 @@ public class TanhuaAutoConfiguration {
 
 ```
 
-<br/>
-
 ## 05 自动装配配置(只需一次)
 
 根据自动装配原则，在**tanhua-autoconfig**模块创建 **/resources/META-INF/spring.factories** 文件
@@ -82,7 +78,6 @@ org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
 com.tanhua.autoconfig.TanhuaAutoConfiguration
 ```
 
-<br/>
 
 ## 06 消费者的 ->  application.yml文件
 格式: 以tanhua为例
@@ -98,7 +93,6 @@ tanhua:
     templateId: MD8B7116BC
 ```
 
-<br/>
 
 ## 07 工程编写单元测试类
 ```java
