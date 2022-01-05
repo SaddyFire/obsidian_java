@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "001 阿里云短信发送",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/001 阿里云短信发送.md"
+    },
+    {
       "basename": "011 验证码生成",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/011 验证码生成.md"
     },
@@ -171,10 +175,6 @@
     {
       "basename": "004 ThreadLocal工具类",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/004 ThreadLocal工具类.md"
-    },
-    {
-      "basename": "001 阿里云短信发送",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/001 阿里云短信发送.md"
     },
     {
       "basename": "004 字段自动填充",
