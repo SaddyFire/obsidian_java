@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "005 topicExchange",
+      "path": "Ⅰ_integration_003_springCloud/Ⅱ_004_RabbitMQ/005 topicExchange.md"
+    },
+    {
+      "basename": "002 workQueue",
+      "path": "Ⅰ_integration_003_springCloud/Ⅱ_004_RabbitMQ/002 workQueue.md"
+    },
+    {
       "basename": "001 安装RabbitMQ",
       "path": "Ⅰ_integration_003_springCloud/Ⅱ_004_RabbitMQ/001 安装RabbitMQ.md"
     },
     {
-      "basename": "005 topicExchange",
-      "path": "Ⅰ_integration_003_springCloud/Ⅱ_004_RabbitMQ/005 topicExchange.md"
+      "basename": "006 对象的传输",
+      "path": "Ⅰ_integration_003_springCloud/Ⅱ_004_RabbitMQ/006 对象的传输.md"
     },
     {
       "basename": "001 阿里云短信发送",
@@ -27,10 +35,6 @@
     {
       "basename": "010 Nacos配置中心",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/010 Nacos配置中心.md"
-    },
-    {
-      "basename": "002 workQueue",
-      "path": "Ⅰ_integration_003_springCloud/Ⅱ_004_RabbitMQ/002 workQueue.md"
     },
     {
       "basename": "Ⅱ_003_docker",
@@ -195,10 +199,6 @@
     {
       "basename": "002 SpringCache注解",
       "path": "Ⅰ_integration_002_spring/Ⅱ_006_redis/002 SpringCache注解.md"
-    },
-    {
-      "basename": "001 大纲",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_006_redis/001 大纲.md"
     }
   ],
   "omittedPaths": [],

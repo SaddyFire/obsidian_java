@@ -1,3 +1,11 @@
+
+![[Pasted image 20220105192257.png]]
+
+**实现步骤:**
+发布者/publisher/server:
+1. 
+
+
 ## 1.publisher
 
 ```java
