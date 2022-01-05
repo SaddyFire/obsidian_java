@@ -2,6 +2,7 @@
 1. 路由转发
 2. 负载均衡
 3. 统一鉴权
+4. 网关映射图 ![[009 GateWay网关#03 网关映射图]]
 
 
 ## 01 搭建网关
@@ -203,7 +204,8 @@ public class AuthFilter implements GlobalFilter, Ordered {
 ```
 
 
-
+## 03 网关映射图
+![[Pasted image 20220105100852.png]]
 
 
 
