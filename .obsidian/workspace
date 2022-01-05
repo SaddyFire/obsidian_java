@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_integration_003_springCloud/Ⅱ_004_RabbitMQ/005 topicExchange(重要).md",
+            "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/012 日志_行为记录.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352
+    "width": 352,
+    "collapsed": true
   },
   "right": {
     "id": "eaafcc4feb3ef58e",
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_integration_003_springCloud/Ⅱ_004_RabbitMQ/005 topicExchange(重要).md",
+                "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/012 日志_行为记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_integration_003_springCloud/Ⅱ_004_RabbitMQ/005 topicExchange(重要).md"
+                "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/012 日志_行为记录.md"
               }
             }
           },
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_integration_003_springCloud/Ⅱ_004_RabbitMQ/005 topicExchange(重要).md",
+                "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/012 日志_行为记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,13 +144,13 @@
   },
   "active": "cac097f6ec6cd2e8",
   "lastOpenFiles": [
+    "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/012 日志_行为记录.md",
     "Ⅰ_integration_003_springCloud/Ⅱ_004_RabbitMQ/005 topicExchange(重要).md",
     "Ⅰ_integration_003_springCloud/Ⅱ_004_RabbitMQ/002 workQueue.md",
     "Ⅰ_integration_003_springCloud/Ⅱ_004_RabbitMQ/001 安装RabbitMQ.md",
     "Ⅰ_integration_003_springCloud/Ⅱ_004_RabbitMQ/006 对象的传输.md",
     "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/001 阿里云短信发送.md",
     "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/011 验证码生成.md",
-    "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/012 日志_行为记录.md",
     "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/013 简单工厂模式.md",
     "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/010 Nacos配置中心.md",
     "Ⅰ_integration_003_springCloud/Ⅱ_003_docker(未加载)/Ⅱ_003_docker.md"
