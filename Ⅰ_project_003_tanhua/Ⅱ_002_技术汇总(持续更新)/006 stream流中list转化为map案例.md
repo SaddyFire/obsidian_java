@@ -67,7 +67,7 @@
 ```
 
 
-#### 非空Lambda表达式 -> 非空判断 , 单变量的方法引用 -> 初始化类型
+##### 非空**Lambda表达式** -> 非空判断 , 单变量的方法引用 -> 初始化类型
 
 ```java
 ...
@@ -77,3 +77,14 @@ List<NearUserVo> nearUserVoList = userInfoList.stream()
 											  .collect(Collectors.toList());
 ...
 ```
+
+
+##### stream流取交集
+
+
+
+
+
+
+
+
