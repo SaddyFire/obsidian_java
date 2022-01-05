@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Ⅱ_003_docker",
+      "path": "Ⅰ_integration_003_springCloud/Ⅱ_003_docker(未加载)/Ⅱ_003_docker.md"
+    },
+    {
       "basename": "005 MongoDB更新并获取更新后的数据",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/005 MongoDB更新并获取更新后的数据.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "001 起步配置",
       "path": "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/001 起步配置.md"
-    },
-    {
-      "basename": "Ⅱ_003_docker",
-      "path": "Ⅰ_integration_003_springCloud/Ⅱ_003_docker(未加载)/Ⅱ_003_docker.md"
     },
     {
       "basename": "008 FastDFS",
