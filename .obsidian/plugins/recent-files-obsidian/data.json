@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "^891ba3",
+      "path": "^891ba3.md"
+    },
+    {
       "basename": "009 GateWay网关",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "01 maven详解",
       "path": "Ⅰ_integration_002_spring/Ⅱ_001_maven详解/01 maven详解.md"
-    },
-    {
-      "basename": "003 时间类&异常",
-      "path": "Ⅰ_integration_001_javaBasic/003 时间类&异常.md"
     }
   ],
   "omittedPaths": [],
