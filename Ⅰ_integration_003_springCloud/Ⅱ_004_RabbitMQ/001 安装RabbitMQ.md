@@ -1,9 +1,9 @@
 ## 1. 软件安装
-```linux
+```shell
 docker pull rabbitmq:3.8-management
 ```
 ## 2.创建mq容器
-```linux
+```shell
 docker run \
  -e RABBITMQ_DEFAULT_USER=root \
  -e RABBITMQ_DEFAULT_PASS=root \
