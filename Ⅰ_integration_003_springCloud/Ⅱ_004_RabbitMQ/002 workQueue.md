@@ -22,7 +22,7 @@ spring:
     password: root # 密码
 ```
 
-*<u>测试类</u>*
+`测试类`
 ```java
 @Autowired  
 private RabbitTemplate rabbitTemplate;
@@ -46,7 +46,7 @@ public void testWorkQueue() throws InterruptedException {
 ```
 
 ## 3.consumer
-*<u>模拟两个消费者接收</u>*
+`模拟两个消费者接收`
 ```java
 @RabbitListener(queues = "simple.queue")
 public void listenSimpleQueue1(String msg) throws InterruptedException {
