@@ -3,7 +3,12 @@
 
 **实现步骤:**
 发布者/publisher/server:
-1. 
+- 定义 exchange\_交换机, routingKey\_路由, message_消息
+
+
+订阅者/监听者/消费者/cumuser/listener
+- 注解 CV
+- 注入参数 例如: (String message)
 
 
 ## 1.publisher

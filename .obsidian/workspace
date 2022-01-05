@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_integration_003_springCloud/Ⅱ_004_RabbitMQ/005 topicExchange.md",
-            "mode": "source"
+            "file": "Ⅰ_integration_003_springCloud/Ⅱ_004_RabbitMQ/005 topicExchange(重要).md",
+            "mode": "preview"
           }
         }
       }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_integration_003_springCloud/Ⅱ_004_RabbitMQ/005 topicExchange.md",
+                "file": "Ⅰ_integration_003_springCloud/Ⅱ_004_RabbitMQ/005 topicExchange(重要).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_integration_003_springCloud/Ⅱ_004_RabbitMQ/005 topicExchange.md"
+                "file": "Ⅰ_integration_003_springCloud/Ⅱ_004_RabbitMQ/005 topicExchange(重要).md"
               }
             }
           },
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_integration_003_springCloud/Ⅱ_004_RabbitMQ/005 topicExchange.md",
+                "file": "Ⅰ_integration_003_springCloud/Ⅱ_004_RabbitMQ/005 topicExchange(重要).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
   },
   "active": "cac097f6ec6cd2e8",
   "lastOpenFiles": [
-    "Ⅰ_integration_003_springCloud/Ⅱ_004_RabbitMQ/005 topicExchange.md",
+    "Ⅰ_integration_003_springCloud/Ⅱ_004_RabbitMQ/005 topicExchange(重要).md",
     "Ⅰ_integration_003_springCloud/Ⅱ_004_RabbitMQ/002 workQueue.md",
     "Ⅰ_integration_003_springCloud/Ⅱ_004_RabbitMQ/001 安装RabbitMQ.md",
     "Ⅰ_integration_003_springCloud/Ⅱ_004_RabbitMQ/006 对象的传输.md",
