@@ -8,7 +8,7 @@
 ```
 
 ## 2.publisher
-*<u>application.yml配置类</u>*
+`application.yml配置类`
 ```yml
 logging:
   pattern:

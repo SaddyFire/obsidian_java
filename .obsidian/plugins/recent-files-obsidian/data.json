@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "002 workQueue",
+      "path": "Ⅰ_integration_003_springCloud/Ⅱ_004_RabbitMQ/002 workQueue.md"
+    },
+    {
+      "basename": "001 安装RabbitMQ",
+      "path": "Ⅰ_integration_003_springCloud/Ⅱ_004_RabbitMQ/001 安装RabbitMQ.md"
+    },
+    {
+      "basename": "Ⅱ_003_docker",
+      "path": "Ⅰ_integration_003_springCloud/Ⅱ_003_docker(未加载)/Ⅱ_003_docker.md"
+    },
+    {
       "basename": "012 日志_行为记录",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/012 日志_行为记录.md"
     },
@@ -75,10 +87,6 @@
     {
       "basename": "003 JWT-鉴权",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/003 JWT-鉴权.md"
-    },
-    {
-      "basename": "Ⅱ_003_docker",
-      "path": "Ⅰ_integration_003_springCloud/Ⅱ_003_docker(未加载)/Ⅱ_003_docker.md"
     },
     {
       "basename": "005 MongoDB更新并获取更新后的数据",
@@ -191,14 +199,6 @@
     {
       "basename": "002 mysql_advance",
       "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/002 mysql_advance.md"
-    },
-    {
-      "basename": "02 IDEA中Maven指令含义",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_001_maven详解/02 IDEA中Maven指令含义.md"
-    },
-    {
-      "basename": "01 maven详解",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_001_maven详解/01 maven详解.md"
     }
   ],
   "omittedPaths": [],
