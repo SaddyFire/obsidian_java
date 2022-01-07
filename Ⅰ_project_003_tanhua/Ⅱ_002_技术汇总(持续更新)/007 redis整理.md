@@ -1,6 +1,6 @@
-redis的使用注意事项:
+redis的使用注意事项: ^ff4d46
 1. 要使用 `redisTemplate.opsForValue().decrement("VOICE_TIME_" +today + userId,1L);` 方法, 尽量不要泛型, 可能会报integer转换错误
-2. 
+2. 若要使用`increment()/decrement()`方法, 要添加`redisTemplate`的配置`bean`, 见 [[007 redis整理#04 设置 redisTemplate 的序列化设置|序列化配置链接]],否则会报类型转换错误
 
 
 ## 01 string 使用场景
@@ -120,10 +120,31 @@ Set<Integer> result4 = Sets.symmetricDifference(set1, set2);
 ```
 
 
-## 04 
+## 04 设置 redisTemplate 的序列化设置
 
+```java
+/**
+     * 设置 redisTemplate 的序列化设置
+     * @param redisConnectionFactory
+     * @return
+     */
+    @Bean
+    public RedisTemplate<Object, Object> redisTemplate(RedisConnectionFactory redisConnectionFactory) {
+        // 1.创建 redisTemplate 模版
+        RedisTemplate<Object, Object> template = new RedisTemplate<>();
+        // 2.关联 redisConnectionFactory
+        template.setConnectionFactory(redisConnectionFactory);
+        // 3.创建 序列化类
+        GenericToStringSerializer genericToStringSerializer = new GenericToStringSerializer(Object.class);
+        // 6.序列化类，对象映射设置
+        // 7.设置 value 的转化格式和 key 的转化格式
+        template.setValueSerializer(genericToStringSerializer);
+        template.setKeySerializer(new StringRedisSerializer());
+        template.afterPropertiesSet();
+        return template;
+    }
+```
 
-
-
+[[007 redis整理#^ff4d46|返回顶部]]
 
 
