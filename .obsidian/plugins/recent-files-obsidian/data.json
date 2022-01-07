@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "002 SpringData-Mongo",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/002 SpringData-Mongo.md"
+    },
+    {
+      "basename": "002 文件的上传下载",
+      "path": "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/002 文件的上传下载.md"
+    },
+    {
+      "basename": "005 访问测试",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/005 访问测试.md"
+    },
+    {
+      "basename": "004 字段自动填充",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/004 字段自动填充.md"
+    },
+    {
+      "basename": "001 OOS文件存储",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/001 OOS文件存储.md"
+    },
+    {
       "basename": "005 MongoDB更新并获取更新后的数据",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/005 MongoDB更新并获取更新后的数据.md"
     },
@@ -11,10 +31,6 @@
     {
       "basename": "013 简单工厂模式",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/013 简单工厂模式.md"
-    },
-    {
-      "basename": "004 字段自动填充",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/004 字段自动填充.md"
     },
     {
       "basename": "005 topicExchange(重要)",
@@ -117,10 +133,6 @@
       "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/006 MongoDB地理位置检索.md"
     },
     {
-      "basename": "002 SpringData-Mongo",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/002 SpringData-Mongo.md"
-    },
-    {
       "basename": "014 springboot请求参数详解",
       "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/014 springboot请求参数详解.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "004 ThreadLocal工具类",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/004 ThreadLocal工具类.md"
-    },
-    {
-      "basename": "001 OOS文件存储",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/001 OOS文件存储.md"
-    },
-    {
-      "basename": "002 人脸识别",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/002 人脸识别.md"
-    },
-    {
-      "basename": "002 SpringCache注解",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_006_redis/002 SpringCache注解.md"
     }
   ],
   "omittedPaths": [],

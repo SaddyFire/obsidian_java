@@ -152,10 +152,44 @@ public class MongoTest {
 ...
 	Query query = Query.query(
 			Criteria.where("friendId").is(userId))
-			.skip(pagesize*(page - 1))
-			.limit(pagesize)
-			.with(Sort.by(Sort.Order.desc("created")));
+			.skip(pagesize*(page - 1))	//跳页
+			.limit(pagesize)	//分页
+			.with(Sort.by(Sort.Order.desc("created")));	//排序
 	List<MovementTimeLine> movementTimeLines = mongoTemplate.find(query,MovementTimeLine.class);
 ...
 ```
+
+## MongoDB实体类模板案例
+注意:
+1. 注解**@Document(collection = "  ")**
+2. 可序列化 implements **Serializable**
+3. id类型为 **ObjectId**
+
+```java
+/**
+ * 用户关注表
+ * @author SaddyFire
+ * @date 2022/1/6
+ * @TIME:19:35
+ */
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
+@Builder
+@Document(collection = "focus_user")
+public class FocusUser implements Serializable {
+    private ObjectId id;
+    private Long userId;    //当前用户
+    private Long followUserId;  //关注的用户 对方
+    private Long created;   //创建时间
+
+}
+
+```
+
+
+
+
+
+
 
