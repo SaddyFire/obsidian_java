@@ -1,5 +1,6 @@
 redis的使用注意事项:
-1. 要使用
+1. 要使用 `redisTemplate.opsForValue().decrement("VOICE_TIME_" +today + userId,1L);` 方法, 尽量不要泛型, 可能会报integer转换错误
+2. 
 
 
 ## 01 string 使用场景
