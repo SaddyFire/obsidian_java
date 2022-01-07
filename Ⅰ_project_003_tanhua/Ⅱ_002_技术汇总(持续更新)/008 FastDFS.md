@@ -171,11 +171,15 @@ public class SmallVideosServiceImpl implements SmallVideosService {
         }
         //上传图片
         String pictureUrl = ossTemplate.upload(videoThumbnail.getOriginalFilename(), videoThumbnail.getInputStream());
-        //上传视频
+        /**
+		 * 上传视频
+		*/ 
         String filename = videoFile.getOriginalFilename();
 		//提取扩展名
         filename = filename.substring(filename.lastIndexOf(".")+1);
+		//上传文件
         StorePath storePath = fastFileStorageClient.uploadFile(videoFile.getInputStream(), videoFile.getSize(), filename, null);
+		//拼接url
         String videoUrl = webServer.getWebServerUrl() + storePath.getFullPath();
 
         Video video = new Video();

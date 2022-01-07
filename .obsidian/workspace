@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/008 FastDFS.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -139,7 +139,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.3333435058594
+    "width": 292.3333435058594,
+    "collapsed": true
   },
   "active": "cac097f6ec6cd2e8",
   "lastOpenFiles": [
