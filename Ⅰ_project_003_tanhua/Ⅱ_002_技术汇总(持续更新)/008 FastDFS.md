@@ -151,12 +151,13 @@ public class SmallVideosServiceImpl implements SmallVideosService {
     @Autowired
     private OssTemplate ossTemplate;
 
+	//上传文件
     @Autowired
     private FastFileStorageClient fastFileStorageClient;
 
+	//获取url
     @Autowired
     private FdfsWebServer webServer;
-
 
     @DubboReference
     private VideoApi videoApi;
@@ -172,6 +173,7 @@ public class SmallVideosServiceImpl implements SmallVideosService {
         String pictureUrl = ossTemplate.upload(videoThumbnail.getOriginalFilename(), videoThumbnail.getInputStream());
         //上传视频
         String filename = videoFile.getOriginalFilename();
+		//提取扩展名
         filename = filename.substring(filename.lastIndexOf(".")+1);
         StorePath storePath = fastFileStorageClient.uploadFile(videoFile.getInputStream(), videoFile.getSize(), filename, null);
         String videoUrl = webServer.getWebServerUrl() + storePath.getFullPath();
