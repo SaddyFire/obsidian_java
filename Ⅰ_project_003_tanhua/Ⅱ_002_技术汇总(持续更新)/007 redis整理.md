@@ -1,3 +1,7 @@
+redis的使用注意事项:
+1. 要使用
+
+
 ## 01 string 使用场景
 - 存储验证码
 - 存储封禁用户, 可设置封禁时间
@@ -98,7 +102,7 @@ if (islike) {
 ```
 	
 	
-#### 3.1 guava中的交集、并集、差集
+## 3.1 guava中的交集、并集、差集
 ```java
 Set<Integer> set1 = Sets.newHashSet(1, 2, 4, 5, 6, 8);
 Set<Integer> set2 = Sets.newHashSet(2, 3, 4, 5, 6, 7, 9);
@@ -113,6 +117,9 @@ Set<Integer> result3 = Sets.difference(set1, set2);
 Set<Integer> result4 = Sets.symmetricDifference(set1, set2);
 
 ```
+
+
+## 04 
 
 
 
