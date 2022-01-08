@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "001 驼峰命名注意事项",
+      "path": "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/001 驼峰命名注意事项.md"
+    },
+    {
+      "basename": "002 文件的上传下载",
+      "path": "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/002 文件的上传下载.md"
+    },
+    {
+      "basename": "003 驼峰命名映射配置",
+      "path": "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/003 驼峰命名映射配置.md"
+    },
+    {
+      "basename": "005 自制注解的调用",
+      "path": "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/005 自制注解的调用.md"
+    },
+    {
+      "basename": "004 注解制作_元注解_幂等",
+      "path": "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/004 注解制作_元注解_幂等.md"
+    },
+    {
+      "basename": "008 FastDFS",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/008 FastDFS.md"
+    },
+    {
       "basename": "007 redis整理",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/007 redis整理.md"
     },
@@ -11,10 +35,6 @@
     {
       "basename": "005 MongoDB更新并获取更新后的数据",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/005 MongoDB更新并获取更新后的数据.md"
-    },
-    {
-      "basename": "008 FastDFS",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/008 FastDFS.md"
     },
     {
       "basename": "004 随机获取MongoDB表中的数据",
@@ -51,10 +71,6 @@
     {
       "basename": "013 简单工厂模式",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/013 简单工厂模式.md"
-    },
-    {
-      "basename": "002 文件的上传下载",
-      "path": "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/002 文件的上传下载.md"
     },
     {
       "basename": "001 OOS文件存储",
@@ -183,22 +199,6 @@
     {
       "basename": "001 过滤工厂",
       "path": "Ⅰ_integration_003_springCloud/Ⅱ_002_配置中心&Feign远程调用/001 过滤工厂.md"
-    },
-    {
-      "basename": "002 gateway网关入门",
-      "path": "Ⅰ_integration_003_springCloud/Ⅱ_002_配置中心&Feign远程调用/002 gateway网关入门.md"
-    },
-    {
-      "basename": "003 GlobalFilter",
-      "path": "Ⅰ_integration_003_springCloud/Ⅱ_002_配置中心&Feign远程调用/003 GlobalFilter.md"
-    },
-    {
-      "basename": "003 过滤器_用户鉴权",
-      "path": "Ⅰ_project_001_reggie/Ⅱ_002_技术汇总/003 过滤器_用户鉴权.md"
-    },
-    {
-      "basename": "003 dozer_深克隆",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/003 dozer_深克隆.md"
     }
   ],
   "omittedPaths": [],
