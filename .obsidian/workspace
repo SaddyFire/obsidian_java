@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_integration_001_javaBasic/003 时间类完整版.md",
-            "mode": "preview"
+            "file": "Ⅰ_integration_001_javaBasic/003 时间类&异常.md",
+            "mode": "source"
           }
         }
       }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_integration_001_javaBasic/003 时间类完整版.md",
+                "file": "Ⅰ_integration_001_javaBasic/003 时间类&异常.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_integration_001_javaBasic/003 时间类完整版.md"
+                "file": "Ⅰ_integration_001_javaBasic/003 时间类&异常.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_integration_001_javaBasic/003 时间类完整版.md",
+                "file": "Ⅰ_integration_001_javaBasic/003 时间类&异常.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,12 +139,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.3333435058594
+    "width": 292.3333435058594,
+    "collapsed": true
   },
   "active": "cac097f6ec6cd2e8",
   "lastOpenFiles": [
-    "Ⅰ_integration_001_javaBasic/003 时间类完整版.md",
     "Ⅰ_integration_001_javaBasic/003 时间类&异常.md",
+    "Ⅰ_integration_001_javaBasic/003 时间类完整版.md",
     "Ⅰ_integration_002_spring/Ⅱ_002_mysql/001 mysql.md",
     "Ⅰ_project_001_reggie/Ⅱ_002_技术汇总/007 创建时间-创建人等自动填充功能.md",
     "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/001 驼峰命名注意事项.md",
