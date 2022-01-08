@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_project_001_reggie/Ⅱ_002_技术汇总/007 创建时间-创建人等自动填充功能.md",
+            "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/001 mysql.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mul",
+                "query": "distin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,12 +72,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 352,
-    "collapsed": true
+    "width": 352
   },
   "right": {
     "id": "eaafcc4feb3ef58e",
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_project_001_reggie/Ⅱ_002_技术汇总/007 创建时间-创建人等自动填充功能.md",
+                "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/001 mysql.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_project_001_reggie/Ⅱ_002_技术汇总/007 创建时间-创建人等自动填充功能.md"
+                "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/001 mysql.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_project_001_reggie/Ⅱ_002_技术汇总/007 创建时间-创建人等自动填充功能.md",
+                "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/001 mysql.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,6 +144,7 @@
   },
   "active": "cac097f6ec6cd2e8",
   "lastOpenFiles": [
+    "Ⅰ_integration_002_spring/Ⅱ_002_mysql/001 mysql.md",
     "Ⅰ_project_001_reggie/Ⅱ_002_技术汇总/007 创建时间-创建人等自动填充功能.md",
     "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/001 驼峰命名注意事项.md",
     "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/002 文件的上传下载.md",
@@ -152,7 +153,6 @@
     "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/004 注解制作_元注解_幂等.md",
     "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/008 FastDFS.md",
     "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/007 redis整理.md",
-    "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/002 SpringData-Mongo.md",
-    "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/005 MongoDB更新并获取更新后的数据.md"
+    "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/002 SpringData-Mongo.md"
   ]
 }
