@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "003 时间类完整版",
+      "path": "Ⅰ_integration_001_javaBasic/003 时间类完整版.md"
+    },
+    {
+      "basename": "003 时间类&异常",
+      "path": "Ⅰ_integration_001_javaBasic/003 时间类&异常.md"
+    },
+    {
       "basename": "001 mysql",
       "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/001 mysql.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "005 分页拦截器",
       "path": "Ⅰ_project_001_reggie/Ⅱ_002_技术汇总/005 分页拦截器.md"
-    },
-    {
-      "basename": "001 起步配置",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/001 起步配置.md"
-    },
-    {
-      "basename": "002 obsidian常用插件",
-      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/002 obsidian常用插件.md"
     }
   ],
   "omittedPaths": [],

@@ -28,6 +28,11 @@ select * from homework01;	-- 全部查询
 SELECT pid,pname from homework01;	-- 基本查询
 SELECT pid,pname,price+10,category_name FROM homework01 ; -- 运算查询
 select distinct * from homework01;		-- 去重查询
+
+SELECT count(*) FROM 
+(SELECT DISTINCT user_id FROM tb_log WHERE log_time > '2020-09-15') 
+as id_class -- 去重计数查询
+
 select name,math as 数学成绩,english as 英文成绩 from stu;	-- 起别名
 ```
 
