@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "007 创建时间-创建人等自动填充功能",
+      "path": "Ⅰ_project_001_reggie/Ⅱ_002_技术汇总/007 创建时间-创建人等自动填充功能.md"
+    },
+    {
       "basename": "001 驼峰命名注意事项",
       "path": "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/001 驼峰命名注意事项.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "001 markdown常用语法",
       "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/001 markdown常用语法.md"
-    },
-    {
-      "basename": "001 过滤工厂",
-      "path": "Ⅰ_integration_003_springCloud/Ⅱ_002_配置中心&Feign远程调用/001 过滤工厂.md"
     }
   ],
   "omittedPaths": [],
