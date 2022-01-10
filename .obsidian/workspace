@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/013 简单工厂模式.md",
-            "mode": "source"
+            "file": "Ⅰ_integration_001_javaBasic/008 网络编程.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352,
-    "collapsed": true
+    "width": 352
   },
   "right": {
     "id": "eaafcc4feb3ef58e",
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/013 简单工厂模式.md",
+                "file": "Ⅰ_integration_001_javaBasic/008 网络编程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/013 简单工厂模式.md"
+                "file": "Ⅰ_integration_001_javaBasic/008 网络编程.md"
               }
             }
           },
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/013 简单工厂模式.md",
+                "file": "Ⅰ_integration_001_javaBasic/008 网络编程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,15 +143,15 @@
   },
   "active": "cac097f6ec6cd2e8",
   "lastOpenFiles": [
-    "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/013 简单工厂模式.md",
-    "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/007 redis整理.md",
-    "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/008 FastDFS.md",
-    "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/002 文件的上传下载.md",
-    "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/003 驼峰命名映射配置.md",
-    "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/004 注解制作_元注解_幂等.md",
-    "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/005 自制注解的调用.md",
-    "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/010 Nacos配置中心.md",
-    "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md",
-    "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/011 验证码生成.md"
+    "Ⅰ_integration_001_javaBasic/008 网络编程.md",
+    "Ⅰ_integration_001_javaBasic/007 多线程.md",
+    "Ⅰ_integration_001_javaBasic/006 字符流.md",
+    "Ⅰ_integration_001_javaBasic/005 File& IO.md",
+    "Ⅰ_integration_001_javaBasic/004 stream流.md",
+    "Ⅰ_integration_001_javaBasic/003 时间类完整版.md",
+    "Ⅰ_integration_001_javaBasic/003 时间类&异常.md",
+    "Ⅰ_integration_001_javaBasic/002 API&包装类&递归.md",
+    "Ⅰ_integration_001_javaBasic/001 匿名内部类.md",
+    "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/002 idea配置.md"
   ]
 }
