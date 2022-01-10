@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/007 redis整理.md",
-            "mode": "preview"
+            "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/013 简单工厂模式.md",
+            "mode": "source"
           }
         }
       }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/007 redis整理.md",
+                "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/013 简单工厂模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/007 redis整理.md"
+                "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/013 简单工厂模式.md"
               }
             }
           },
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/007 redis整理.md",
+                "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/013 简单工厂模式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,6 +143,7 @@
   },
   "active": "cac097f6ec6cd2e8",
   "lastOpenFiles": [
+    "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/013 简单工厂模式.md",
     "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/007 redis整理.md",
     "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/008 FastDFS.md",
     "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/002 文件的上传下载.md",
@@ -151,7 +152,6 @@
     "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/005 自制注解的调用.md",
     "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/010 Nacos配置中心.md",
     "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md",
-    "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/011 验证码生成.md",
-    "Ⅰ_integration_001_javaBasic/003 时间类&异常.md"
+    "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/011 验证码生成.md"
   ]
 }
