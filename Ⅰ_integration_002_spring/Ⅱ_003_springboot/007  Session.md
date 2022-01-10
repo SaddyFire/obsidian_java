@@ -1,4 +1,4 @@
-## 1\. 装配 **HttpServletRequest (具体见06test)**
+## 1. 装配 **HttpServletRequest (具体见06test)**
 
 ```java
 //1.装配 HttpServletRequest
@@ -6,7 +6,7 @@
 private HttpServletRequest httpServletRequest;
 ```
 
-- ### 补充:  通过HttpServletRequest对象可以拿到URI和URD
+- 补充:  通过HttpServletRequest对象可以拿到URI和URD
     
 
 ```java
@@ -17,7 +17,7 @@ String requestURI = httpServletRequest.getRequestURI();
 StringBuffer requestURL = httpServletRequest.getRequestURL();
 ```
 
-## 2\. 获取session对象 - 设置参数 - 使用参数
+## 2. 获取session对象 - 设置参数 - 使用参数
 
 ```java
 //2. 获取session对象
@@ -30,7 +30,7 @@ session.setAttribute(number,code);
 Integer code = (Integer) session.getAttribute(phone.getPhone());
 ```
 
-## 3\. 举例
+## 3. 举例
 
 ```java
 /**

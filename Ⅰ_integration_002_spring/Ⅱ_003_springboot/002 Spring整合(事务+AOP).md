@@ -1,4 +1,4 @@
-# 1. 事务 - 主入口类添加注解
+## 1. 事务 - 主入口类添加注解
 
 - 添加@EnableTransactionManagement
 
@@ -15,7 +15,7 @@ public class Mytest20211115SpringbootApplication {
 
 - 在dao接口添加注解@Transactional, 参照上个代码块
 
-# 2. AOP - 通知类
+## 2. AOP - 通知类
 
 - 追加aop依赖
 

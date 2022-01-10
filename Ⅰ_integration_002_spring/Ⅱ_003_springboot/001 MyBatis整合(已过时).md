@@ -1,6 +1,5 @@
-- ## 追加druid依赖
+## 追加druid依赖
     
-
 ```xml
 <dependency>
     <groupId>com.alibaba</groupId>
@@ -14,7 +13,7 @@
 </dependency>
 ```
 
-# 1\. application.yml类
+## 1. application.yml类
 
 ```yml
 #指定特性配置
@@ -34,7 +33,7 @@ server:
     type: com.alibaba.druid.pool.DruidDataSource
 ```
 
-# 2\. dao接口
+## 2. dao接口
 
 - MyBatisPlus(继承BaseMapper&lt; T&gt;)
 
@@ -92,7 +91,7 @@ public interface BookDao {
 }
 ```
 
-# ~~3\. sql难点语句(已过时)~~
+## ~~3. sql难点语句(已过时)~~
 
 ```xml
 <delete id="delete">

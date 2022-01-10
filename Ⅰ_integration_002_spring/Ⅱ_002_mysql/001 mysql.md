@@ -1,6 +1,5 @@
 ## 1 DDL
 **Data Definition Language** : 数据定义语言
-</br>
 
 ## 2 DML
 **Data Manipulation Language** : 数据操作语言
@@ -16,7 +15,6 @@ update stu set sex = '女'... where name = '张三';		-- 修改表数据
 
 delete from stu where name = '张三';		-- 删除数据
 ```
-</br>
 
 ## 3 DQL
 **Data Query Language** : 数据查询语言
@@ -60,7 +58,7 @@ select * from stu order by math desc , english asc ;	-- 升序
 
 ##### 3.3.4 聚合函数
 
-*(null值不参与所有聚合函数运算)*
+- (null值不参与所有聚合函数运算)
 
 ```sql
 select count(*) from stu;		-- 统计所有数据

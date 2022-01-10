@@ -59,4 +59,8 @@ select d.did,d.dname,d.loc, count(*) count from dept d join emp e on d.did = e.d
 ```
 
 #### 3.5 union
+```sql
 (SELECT * from student  ORDER BY score DESC limit 0,2 ) UNION all ( SELECT * from student  ORDER BY score2 DESC limit 0,2)
+```
+
+

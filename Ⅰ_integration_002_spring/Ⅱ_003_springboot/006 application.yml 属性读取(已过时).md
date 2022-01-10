@@ -29,9 +29,9 @@ server:
 
 ## 2. 属性读取
 
-- Ⅰ: 通过@Value("${bookdata.book_id}")
-- Ⅱ: 通过装配Environment => 调用environment.getProperty()
-- Ⅲ: 通过对象自动装配
+1. 通过@Value("${bookdata.book_id}")
+2. 通过装配Environment => 调用environment.getProperty()
+3. 通过对象自动装配
 
 ```java
 @RestController

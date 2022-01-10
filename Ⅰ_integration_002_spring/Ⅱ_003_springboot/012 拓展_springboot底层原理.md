@@ -11,10 +11,10 @@
 
 ![daa322b537872fc3bcad980223f7ef11.png](:/34da8c7a0f0c4281b3b7bfbb4f1ab4da)
 
-##### DTO (Data Transfer Object): 数据转换对象
+- dto (Data Transfer Object): 数据转换对象
     
-##### VO (View Object): 图对象
+- vo (View Object): 图对象
     
-##### POJO (Plain Ordinary Java Object): 简单无规则的 Java 对象
+- pojo (Plain Ordinary Java Object): 简单无规则的 Java 对象
     
-##### DAO (Data access object): 数据访问对象
+- dao (Data access object): 数据访问对象
