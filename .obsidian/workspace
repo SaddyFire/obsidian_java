@@ -144,14 +144,14 @@
   "active": "cac097f6ec6cd2e8",
   "lastOpenFiles": [
     "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/007 redis整理.md",
-    "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/005 自制注解的调用.md",
-    "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/004 注解制作_元注解_幂等.md",
     "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/003 驼峰命名映射配置.md",
     "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/002 文件的上传下载.md",
-    "Ⅰ_integration_001_javaBasic/003 时间类完整版.md",
-    "Ⅰ_integration_001_javaBasic/003 时间类&异常.md",
-    "Ⅰ_integration_001_javaBasic/004 stream流.md",
-    "Ⅰ_integration_001_javaBasic/005 File& IO.md",
-    "Ⅰ_project_002_health&kaoshi/Ⅱ_002_点名考试系统/002 枚举类.md"
+    "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/004 注解制作_元注解_幂等.md",
+    "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/005 自制注解的调用.md",
+    "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/008 FastDFS.md",
+    "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/010 Nacos配置中心.md",
+    "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md",
+    "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/011 验证码生成.md",
+    "Ⅰ_integration_001_javaBasic/003 时间类&异常.md"
   ]
 }

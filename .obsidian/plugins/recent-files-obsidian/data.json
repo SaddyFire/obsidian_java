@@ -5,14 +5,6 @@
       "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/007 redis整理.md"
     },
     {
-      "basename": "005 自制注解的调用",
-      "path": "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/005 自制注解的调用.md"
-    },
-    {
-      "basename": "004 注解制作_元注解_幂等",
-      "path": "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/004 注解制作_元注解_幂等.md"
-    },
-    {
       "basename": "003 驼峰命名映射配置",
       "path": "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/003 驼峰命名映射配置.md"
     },
@@ -21,12 +13,36 @@
       "path": "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/002 文件的上传下载.md"
     },
     {
-      "basename": "003 时间类完整版",
-      "path": "Ⅰ_integration_001_javaBasic/003 时间类完整版.md"
+      "basename": "004 注解制作_元注解_幂等",
+      "path": "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/004 注解制作_元注解_幂等.md"
+    },
+    {
+      "basename": "005 自制注解的调用",
+      "path": "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/005 自制注解的调用.md"
+    },
+    {
+      "basename": "008 FastDFS",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/008 FastDFS.md"
+    },
+    {
+      "basename": "010 Nacos配置中心",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/010 Nacos配置中心.md"
+    },
+    {
+      "basename": "009 GateWay网关",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md"
+    },
+    {
+      "basename": "011 验证码生成",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/011 验证码生成.md"
     },
     {
       "basename": "003 时间类&异常",
       "path": "Ⅰ_integration_001_javaBasic/003 时间类&异常.md"
+    },
+    {
+      "basename": "003 时间类完整版",
+      "path": "Ⅰ_integration_001_javaBasic/003 时间类完整版.md"
     },
     {
       "basename": "004 stream流",
@@ -57,10 +73,6 @@
       "path": "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/001 驼峰命名注意事项.md"
     },
     {
-      "basename": "008 FastDFS",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/008 FastDFS.md"
-    },
-    {
       "basename": "002 SpringData-Mongo",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/002 SpringData-Mongo.md"
     },
@@ -83,18 +95,6 @@
     {
       "basename": "005 访问测试",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/005 访问测试.md"
-    },
-    {
-      "basename": "009 GateWay网关",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md"
-    },
-    {
-      "basename": "010 Nacos配置中心",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/010 Nacos配置中心.md"
-    },
-    {
-      "basename": "011 验证码生成",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/011 验证码生成.md"
     },
     {
       "basename": "012 日志_行为记录_动态监听",
