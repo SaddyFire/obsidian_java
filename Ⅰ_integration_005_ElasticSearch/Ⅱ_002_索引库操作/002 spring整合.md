@@ -60,7 +60,7 @@ GET _search
 
 
 ## 02 实体类
-注意: 几个注解
+注意: 几个注解的含义及使用
 
 ```java
 
@@ -247,7 +247,6 @@ public class MyTest {
 
 ##### 3.7 完整test代码及需求
 ```java
-
 import cn.itcast.hotel.mapper.GoodsMapper;
 import cn.itcast.hotel.pojo.Goods;
 import com.alibaba.fastjson.JSON;

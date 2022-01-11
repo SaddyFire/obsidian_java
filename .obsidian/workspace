@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/002 spring整合.md",
+            "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/005 统一异常处理.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "temp",
+                "query": "tag:#全局异常",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,7 +72,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -101,14 +102,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/002 spring整合.md",
+                "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/005 统一异常处理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -118,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/002 spring整合.md"
+                "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/005 统一异常处理.md"
               }
             }
           },
@@ -128,30 +129,31 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/002 spring整合.md",
+                "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/005 统一异常处理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 292.3333435058594
+    "width": 292.3333435058594,
+    "collapsed": true
   },
   "active": "6b9f268455afceb3",
   "lastOpenFiles": [
-    "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/002 spring整合.md",
-    "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/001 索引库操作_文档操作.md",
-    "Ⅰ_integration_005_ElasticSearch/Ⅱ_001_概述及安装/002 es安装.md",
-    "Ⅰ_integration_005_ElasticSearch/Ⅱ_001_概述及安装/001 概述.md",
+    "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/005 统一异常处理.md",
+    "Ⅰ_integration_002_spring/Ⅱ_003_springboot/004 异常处理类.md",
+    "Ⅰ_project_001_reggie/Ⅱ_002_技术汇总/004 全局异常处理器.md",
     "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/002 obsidian常用插件.md",
+    "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/001 markdown常用语法.md",
     "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/005 访问测试.md",
-    "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md",
-    "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/010 Nacos配置中心.md",
-    "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/011 验证码生成.md",
-    "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/012 日志_行为记录_动态监听.md"
+    "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/004 字段自动填充.md",
+    "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/003 JWT-鉴权.md",
+    "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/001 springboot_bean的制作.md",
+    "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/001 阿里云短信发送.md"
   ]
 }
