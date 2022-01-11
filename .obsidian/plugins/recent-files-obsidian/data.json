@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Ⅱ_003_docker",
+      "path": "Ⅰ_integration_003_springCloud/Ⅱ_003_docker(未加载)/Ⅱ_003_docker.md"
+    },
+    {
+      "basename": "000 docker安装",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/000 docker安装.md"
+    },
+    {
+      "basename": "002 常用命令",
+      "path": "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/002 常用命令.md"
+    },
+    {
+      "basename": "001 Linux各目录介绍",
+      "path": "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/001 Linux各目录介绍.md"
+    },
+    {
       "basename": "005 访问测试",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/005 访问测试.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "001 加快github的访问速度",
       "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/001 加快github的访问速度.md"
-    },
-    {
-      "basename": "git测试",
-      "path": "Ⅰ_AAA_Config_MyPC/Ⅰ_000_temp/git测试.md"
-    },
-    {
-      "basename": "005 自制注解的调用",
-      "path": "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/005 自制注解的调用.md"
-    },
-    {
-      "basename": "004 注解制作_元注解_幂等",
-      "path": "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/004 注解制作_元注解_幂等.md"
-    },
-    {
-      "basename": "003 驼峰命名映射配置",
-      "path": "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/003 驼峰命名映射配置.md"
     }
   ],
   "omittedPaths": [],
