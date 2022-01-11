@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "002 idea配置",
+      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/002 idea配置.md"
+    },
+    {
       "basename": "git测试",
       "path": "Ⅰ_AAA_Config_MyPC/Ⅰ_000_temp/git测试.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "002 API&包装类&递归",
       "path": "Ⅰ_integration_001_javaBasic/002 API&包装类&递归.md"
-    },
-    {
-      "basename": "001 匿名内部类",
-      "path": "Ⅰ_integration_001_javaBasic/001 匿名内部类.md"
     }
   ],
   "omittedPaths": [],
