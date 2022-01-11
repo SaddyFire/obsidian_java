@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "001 Linux各目录介绍",
+      "path": "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/001 Linux各目录介绍.md"
+    },
+    {
       "basename": "002 常用命令",
       "path": "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/002 常用命令.md"
     },
     {
-      "basename": "001 Linux各目录介绍",
-      "path": "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/001 Linux各目录介绍.md"
+      "basename": "003 软件安装",
+      "path": "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/003 软件安装.md"
     },
     {
       "basename": "Ⅱ_003_docker",
@@ -195,10 +199,6 @@
     {
       "basename": "002 idea配置",
       "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/002 idea配置.md"
-    },
-    {
-      "basename": "001 加快github的访问速度",
-      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/001 加快github的访问速度.md"
     }
   ],
   "omittedPaths": [],
