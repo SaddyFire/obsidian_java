@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "000 temp",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/000 temp.md"
+    },
+    {
       "basename": "002 idea配置",
       "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/002 idea配置.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "003 时间类&异常",
       "path": "Ⅰ_integration_001_javaBasic/003 时间类&异常.md"
-    },
-    {
-      "basename": "002 API&包装类&递归",
-      "path": "Ⅰ_integration_001_javaBasic/002 API&包装类&递归.md"
     }
   ],
   "omittedPaths": [],
