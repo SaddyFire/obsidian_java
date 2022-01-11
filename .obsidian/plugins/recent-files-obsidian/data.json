@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "git测试",
+      "path": "Ⅰ_AAA_Config_MyPC/Ⅰ_000_temp/git测试.md"
+    },
+    {
       "basename": "Ⅱ_003_docker",
       "path": "Ⅰ_integration_003_springCloud/Ⅱ_003_docker(未加载)/Ⅱ_003_docker.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "001 匿名内部类",
       "path": "Ⅰ_integration_001_javaBasic/001 匿名内部类.md"
-    },
-    {
-      "basename": "002 idea配置",
-      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/002 idea配置.md"
     }
   ],
   "omittedPaths": [],
