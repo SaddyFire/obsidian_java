@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cac097f6ec6cd2e8",
+        "id": "6b9f268455afceb3",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Ⅰ_integration_003_springCloud/Ⅱ_003_docker(未加载)/Ⅱ_003_docker.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -101,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_integration_003_springCloud/Ⅱ_003_docker(未加载)/Ⅱ_003_docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,9 +113,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Ⅰ_integration_003_springCloud/Ⅱ_003_docker(未加载)/Ⅱ_003_docker.md"
-              }
+              "state": {}
             }
           },
           {
@@ -128,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_integration_003_springCloud/Ⅱ_003_docker(未加载)/Ⅱ_003_docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +135,7 @@
     "width": 292.3333435058594,
     "collapsed": true
   },
-  "active": "cac097f6ec6cd2e8",
+  "active": "6b9f268455afceb3",
   "lastOpenFiles": [
     "Ⅰ_integration_003_springCloud/Ⅱ_003_docker(未加载)/Ⅱ_003_docker.md",
     "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/002 常用命令.md",
