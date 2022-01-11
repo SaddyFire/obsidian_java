@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "001 概述",
+      "path": "Ⅰ_integration_005_ElasticSearch/Ⅱ_001_概述及安装/001 概述.md"
+    },
+    {
+      "basename": "002 es安装",
+      "path": "Ⅰ_integration_005_ElasticSearch/Ⅱ_001_概述及安装/002 es安装.md"
+    },
+    {
+      "basename": "001 索引库操作_文档操作",
+      "path": "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/001 索引库操作_文档操作.md"
+    },
+    {
+      "basename": "005 访问测试",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/005 访问测试.md"
+    },
+    {
+      "basename": "009 GateWay网关",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md"
+    },
+    {
+      "basename": "010 Nacos配置中心",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/010 Nacos配置中心.md"
+    },
+    {
+      "basename": "011 验证码生成",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/011 验证码生成.md"
+    },
+    {
       "basename": "012 日志_行为记录_动态监听",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/012 日志_行为记录_动态监听.md"
     },
@@ -23,22 +51,6 @@
     {
       "basename": "004 字段自动填充",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/004 字段自动填充.md"
-    },
-    {
-      "basename": "005 访问测试",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/005 访问测试.md"
-    },
-    {
-      "basename": "001 索引库操作_文档操作",
-      "path": "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/001 索引库操作_文档操作.md"
-    },
-    {
-      "basename": "001 概述",
-      "path": "Ⅰ_integration_005_ElasticSearch/Ⅱ_001_概述及安装/001 概述.md"
-    },
-    {
-      "basename": "002 es安装",
-      "path": "Ⅰ_integration_005_ElasticSearch/Ⅱ_001_概述及安装/002 es安装.md"
     },
     {
       "basename": "002 idea配置",
@@ -187,18 +199,6 @@
     {
       "basename": "002 mysql_advance",
       "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/002 mysql_advance.md"
-    },
-    {
-      "basename": "001 mysql",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/001 mysql.md"
-    },
-    {
-      "basename": "02 IDEA中Maven指令含义",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_001_maven详解/02 IDEA中Maven指令含义.md"
-    },
-    {
-      "basename": "01 maven详解",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_001_maven详解/01 maven详解.md"
     }
   ],
   "omittedPaths": [],
