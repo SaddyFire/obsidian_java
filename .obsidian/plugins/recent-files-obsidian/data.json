@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "005 访问测试",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/005 访问测试.md"
+    },
+    {
       "basename": "013 简单工厂模式",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/013 简单工厂模式.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "003 驼峰命名映射配置",
       "path": "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/003 驼峰命名映射配置.md"
-    },
-    {
-      "basename": "002 文件的上传下载",
-      "path": "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/002 文件的上传下载.md"
     }
   ],
   "omittedPaths": [],

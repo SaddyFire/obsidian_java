@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/013 简单工厂模式.md",
-            "mode": "preview"
+            "file": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/005 访问测试.md",
+            "mode": "source"
           }
         }
       }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/013 简单工厂模式.md",
+                "file": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/005 访问测试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/013 简单工厂模式.md"
+                "file": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/005 访问测试.md"
               }
             }
           },
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/013 简单工厂模式.md",
+                "file": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/005 访问测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,6 +143,7 @@
   },
   "active": "cac097f6ec6cd2e8",
   "lastOpenFiles": [
+    "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/005 访问测试.md",
     "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/013 简单工厂模式.md",
     "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/001 markdown常用语法.md",
     "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/002 obsidian常用插件.md",
@@ -151,7 +152,6 @@
     "Ⅰ_integration_002_spring/Ⅱ_005_git/003 tortoise 推送.md",
     "Ⅰ_integration_002_spring/Ⅱ_005_git/002 (temp) idea删除git项目.md",
     "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md",
-    "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/007 代码生成器.md",
-    "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/006 乐观锁(拦截器).md"
+    "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/007 代码生成器.md"
   ]
 }
