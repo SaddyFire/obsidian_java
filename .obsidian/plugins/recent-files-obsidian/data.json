@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "012 日志_行为记录_动态监听",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/012 日志_行为记录_动态监听.md"
+    },
+    {
+      "basename": "013 简单工厂模式",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/013 简单工厂模式.md"
+    },
+    {
+      "basename": "014 vo对象的静态init制作案例",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/014 vo对象的静态init制作案例.md"
+    },
+    {
+      "basename": "001 springboot_bean的制作",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/001 springboot_bean的制作.md"
+    },
+    {
+      "basename": "003 JWT-鉴权",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/003 JWT-鉴权.md"
+    },
+    {
+      "basename": "004 字段自动填充",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/004 字段自动填充.md"
+    },
+    {
+      "basename": "005 访问测试",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/005 访问测试.md"
+    },
+    {
       "basename": "001 索引库操作_文档操作",
       "path": "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/001 索引库操作_文档操作.md"
     },
@@ -43,14 +71,6 @@
     {
       "basename": "000 docker安装",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/000 docker安装.md"
-    },
-    {
-      "basename": "005 访问测试",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/005 访问测试.md"
-    },
-    {
-      "basename": "013 简单工厂模式",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/013 简单工厂模式.md"
     },
     {
       "basename": "001 markdown常用语法",
@@ -179,26 +199,6 @@
     {
       "basename": "01 maven详解",
       "path": "Ⅰ_integration_002_spring/Ⅱ_001_maven详解/01 maven详解.md"
-    },
-    {
-      "basename": "009 类加载器&反射",
-      "path": "Ⅰ_integration_001_javaBasic/009 类加载器&反射.md"
-    },
-    {
-      "basename": "008 网络编程",
-      "path": "Ⅰ_integration_001_javaBasic/008 网络编程.md"
-    },
-    {
-      "basename": "007 多线程",
-      "path": "Ⅰ_integration_001_javaBasic/007 多线程.md"
-    },
-    {
-      "basename": "006 字符流",
-      "path": "Ⅰ_integration_001_javaBasic/006 字符流.md"
-    },
-    {
-      "basename": "005 File& IO",
-      "path": "Ⅰ_integration_001_javaBasic/005 File& IO.md"
     }
   ],
   "omittedPaths": [],
