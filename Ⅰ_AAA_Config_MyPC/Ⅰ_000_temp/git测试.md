@@ -1,2 +1,4 @@
 git key配置
-ssh-keygen
+cmd -> ssh-keygen
+
+![[Pasted image 20220111144646.png]]
