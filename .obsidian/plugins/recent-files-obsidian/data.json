@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "001 索引库操作_文档操作",
+      "path": "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/001 索引库操作_文档操作.md"
+    },
+    {
       "basename": "001 概述",
       "path": "Ⅰ_integration_005_ElasticSearch/Ⅱ_001_概述及安装/001 概述.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "005 File& IO",
       "path": "Ⅰ_integration_001_javaBasic/005 File& IO.md"
-    },
-    {
-      "basename": "004 stream流",
-      "path": "Ⅰ_integration_001_javaBasic/004 stream流.md"
     }
   ],
   "omittedPaths": [],
