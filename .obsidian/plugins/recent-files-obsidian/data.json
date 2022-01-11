@@ -5,6 +5,10 @@
       "path": "Ⅰ_integration_005_ElasticSearch/Ⅱ_001_概述及安装/001 概述.md"
     },
     {
+      "basename": "002 es安装",
+      "path": "Ⅰ_integration_005_ElasticSearch/Ⅱ_001_概述及安装/002 es安装.md"
+    },
+    {
       "basename": "002 idea配置",
       "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/002 idea配置.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "004 stream流",
       "path": "Ⅰ_integration_001_javaBasic/004 stream流.md"
-    },
-    {
-      "basename": "003 时间类完整版",
-      "path": "Ⅰ_integration_001_javaBasic/003 时间类完整版.md"
     }
   ],
   "omittedPaths": [],
