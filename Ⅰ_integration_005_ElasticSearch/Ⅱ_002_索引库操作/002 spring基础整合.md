@@ -16,6 +16,7 @@ delete /goods/_doc/562379
 delete /goods
 
 
+# 查询全部
 GET _search
 {
   "query": {

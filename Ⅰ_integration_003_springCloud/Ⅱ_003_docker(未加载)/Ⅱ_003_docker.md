@@ -26,6 +26,9 @@ docker logs
 
 docker
 docker start es***
+
+#docker加载镜像
+dockers load 
 ```
 
 

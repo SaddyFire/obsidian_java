@@ -5,16 +5,20 @@
       "path": "Ⅰ_integration_003_springCloud/Ⅱ_003_docker(未加载)/Ⅱ_003_docker.md"
     },
     {
-      "basename": "003 软件安装",
-      "path": "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/003 软件安装.md"
+      "basename": "000 docker安装",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/000 docker安装.md"
+    },
+    {
+      "basename": "003 查询整合",
+      "path": "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/003 查询整合.md"
     },
     {
       "basename": "002 spring基础整合",
       "path": "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/002 spring基础整合.md"
     },
     {
-      "basename": "003 查询整合",
-      "path": "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/003 查询整合.md"
+      "basename": "003 软件安装",
+      "path": "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/003 软件安装.md"
     },
     {
       "basename": "002 常用命令",
@@ -115,10 +119,6 @@
     {
       "basename": "git测试",
       "path": "Ⅰ_AAA_Config_MyPC/Ⅰ_000_temp/git测试.md"
-    },
-    {
-      "basename": "000 docker安装",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/000 docker安装.md"
     },
     {
       "basename": "002 SpringCache注解",
