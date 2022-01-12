@@ -23,6 +23,9 @@ docker update --restart=always rabbit
 
 #查看日志
 docker logs
+
+docker
+docker start es***
 ```
 
 
