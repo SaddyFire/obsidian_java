@@ -27,9 +27,10 @@ server:
   #配置数据源的四个信息 -- 创建DataSource并添加到容器
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://127.0.0.1:3306/mybatis?serverTimezone=TUC
+    url: jdbc:mysql://localhost:3306/es-demo?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC
     username: root
     password: 2323
+    driver-class-name: com.mysql.jdbc.Driver
     type: com.alibaba.druid.pool.DruidDataSource
 ```
 
