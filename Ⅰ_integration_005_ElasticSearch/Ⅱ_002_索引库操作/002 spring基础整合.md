@@ -24,6 +24,7 @@ GET _search
 }
 
 # 映射, 如果在java中是创建索引的同时映射则需要加mapping , 如果已存在索引后则不需要
+PUT /goods
 {
   "mappings":{
     "properties":{
