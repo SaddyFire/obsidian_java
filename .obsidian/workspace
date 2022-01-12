@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/002 spring整合.md",
-            "mode": "preview"
+            "file": "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/003 查询整合.md",
+            "mode": "source"
           }
         }
       }
@@ -76,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352,
-    "collapsed": true
+    "width": 352
   },
   "right": {
     "id": "eaafcc4feb3ef58e",
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/002 spring整合.md",
+                "file": "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/003 查询整合.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/002 spring整合.md"
+                "file": "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/003 查询整合.md"
               }
             }
           },
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/002 spring整合.md",
+                "file": "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/003 查询整合.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,6 +143,7 @@
   },
   "active": "6b9f268455afceb3",
   "lastOpenFiles": [
+    "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/003 查询整合.md",
     "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/002 spring整合.md",
     "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/001 索引库操作_文档操作.md",
     "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/005 统一异常处理.md",
@@ -152,7 +152,6 @@
     "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/002 obsidian常用插件.md",
     "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/001 markdown常用语法.md",
     "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/005 访问测试.md",
-    "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/004 字段自动填充.md",
-    "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/003 JWT-鉴权.md"
+    "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/004 字段自动填充.md"
   ]
 }
