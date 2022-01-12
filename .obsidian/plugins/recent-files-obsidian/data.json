@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "003 查询整合",
+      "path": "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/003 查询整合.md"
+    },
+    {
+      "basename": "002 spring基础整合",
+      "path": "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/002 spring基础整合.md"
+    },
+    {
+      "basename": "002 常用命令",
+      "path": "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/002 常用命令.md"
+    },
+    {
       "basename": "001 MyBatis整合(已过时)",
       "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/001 MyBatis整合(已过时).md"
     },
@@ -17,20 +29,8 @@
       "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/000 docker安装.md"
     },
     {
-      "basename": "003 查询整合",
-      "path": "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/003 查询整合.md"
-    },
-    {
-      "basename": "002 spring基础整合",
-      "path": "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/002 spring基础整合.md"
-    },
-    {
       "basename": "003 软件安装",
       "path": "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/003 软件安装.md"
-    },
-    {
-      "basename": "002 常用命令",
-      "path": "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/002 常用命令.md"
     },
     {
       "basename": "001 Linux各目录介绍",
