@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/003 查询整合.md",
+            "file": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/003 MongoDB在项目中启动报错.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:mybatis",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352,
-    "collapsed": true
+    "width": 352
   },
   "right": {
     "id": "eaafcc4feb3ef58e",
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/003 查询整合.md",
+                "file": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/003 MongoDB在项目中启动报错.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/003 查询整合.md"
+                "file": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/003 MongoDB在项目中启动报错.md"
               }
             }
           },
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/003 查询整合.md",
+                "file": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/003 MongoDB在项目中启动报错.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,15 +142,15 @@
   },
   "active": "6b9f268455afceb3",
   "lastOpenFiles": [
+    "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/003 MongoDB在项目中启动报错.md",
+    "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/002 SpringData-Mongo.md",
+    "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/000 docker安装.md",
+    "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/012 日志_行为记录_动态监听.md",
+    "Ⅰ_integration_003_springCloud/Ⅱ_001_Eureka&Ribbon/003 Ribbon负载均衡.md",
+    "Ⅰ_integration_003_springCloud/Ⅱ_005_Dubbo/002 SpringCloud整合Dubbo.md",
     "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/003 查询整合.md",
     "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/002 spring基础整合.md",
     "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/002 常用命令.md",
-    "Ⅰ_integration_002_spring/Ⅱ_003_springboot/001 MyBatis整合(已过时).md",
-    "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/001 起步配置.md",
-    "Ⅰ_integration_003_springCloud/Ⅱ_003_docker(未加载)/Ⅱ_003_docker.md",
-    "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/000 docker安装.md",
-    "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/003 软件安装.md",
-    "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/001 Linux各目录介绍.md",
-    "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/001 索引库操作_文档操作.md"
+    "Ⅰ_integration_002_spring/Ⅱ_003_springboot/001 MyBatis整合(已过时).md"
   ]
 }
