@@ -1,18 +1,18 @@
 ## 01 需要用到的控制台命令(用于检测)
 ```json
-\#快速查看索引
+# 快速查看索引
 get /goods/
 
-\#快速查看文档
+# 快速查看文档
 get /goods/_doc/974401
 
-\#查询全部
+# 查询全部
 get /goods/_search
 
-\#快速删除文档
+# 快速删除文档
 delete /goods/_doc/562379
 
-\#快速删除索引
+# 快速删除索引
 delete /goods
 
 
@@ -23,7 +23,7 @@ GET _search
   }
 }
 
-\# 映射
+# 映射
 {
   "mappings":{
     "properties":{
