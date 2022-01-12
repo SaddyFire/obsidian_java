@@ -27,8 +27,10 @@ docker logs
 docker
 docker start es***
 
+doker network create es-net
+
 #docker加载镜像
-dockers load 
+dockers load -i es.tar
 ```
 
 
