@@ -144,6 +144,7 @@
   "active": "6b9f268455afceb3",
   "lastOpenFiles": [
     "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/003 查询整合.md",
+    "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/002 spring基础整合.md",
     "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/002 obsidian常用插件.md",
     "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/003 MongoDB在项目中启动报错.md",
     "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/002 SpringData-Mongo.md",
@@ -151,7 +152,6 @@
     "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/012 日志_行为记录_动态监听.md",
     "Ⅰ_integration_003_springCloud/Ⅱ_001_Eureka&Ribbon/003 Ribbon负载均衡.md",
     "Ⅰ_integration_003_springCloud/Ⅱ_005_Dubbo/002 SpringCloud整合Dubbo.md",
-    "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/002 spring基础整合.md",
     "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/002 常用命令.md"
   ]
 }

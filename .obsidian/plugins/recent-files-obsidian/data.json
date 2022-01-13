@@ -5,6 +5,10 @@
       "path": "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/003 查询整合.md"
     },
     {
+      "basename": "002 spring基础整合",
+      "path": "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/002 spring基础整合.md"
+    },
+    {
       "basename": "002 obsidian常用插件",
       "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/002 obsidian常用插件.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "002 SpringCloud整合Dubbo",
       "path": "Ⅰ_integration_003_springCloud/Ⅱ_005_Dubbo/002 SpringCloud整合Dubbo.md"
-    },
-    {
-      "basename": "002 spring基础整合",
-      "path": "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/002 spring基础整合.md"
     },
     {
       "basename": "002 常用命令",
