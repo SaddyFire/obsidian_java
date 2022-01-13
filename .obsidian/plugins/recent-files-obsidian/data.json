@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "004 聚合查询",
+      "path": "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/004 聚合查询.md"
+    },
+    {
       "basename": "003 查询整合",
       "path": "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/003 查询整合.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "013 幂等性",
       "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/013 幂等性.md"
-    },
-    {
-      "basename": "012 拓展_springboot底层原理",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/012 拓展_springboot底层原理.md"
     }
   ],
   "omittedPaths": [],
