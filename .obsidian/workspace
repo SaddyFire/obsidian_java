@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/004 聚合查询.md",
+            "file": "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/003 查询整合.md",
             "mode": "preview"
           }
         }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/004 聚合查询.md",
+                "file": "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/003 查询整合.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/004 聚合查询.md"
+                "file": "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/003 查询整合.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/004 聚合查询.md",
+                "file": "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/003 查询整合.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,8 +143,8 @@
   },
   "active": "6b9f268455afceb3",
   "lastOpenFiles": [
-    "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/004 聚合查询.md",
     "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/003 查询整合.md",
+    "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/004 聚合查询.md",
     "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/002 spring基础整合.md",
     "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/002 obsidian常用插件.md",
     "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/003 MongoDB在项目中启动报错.md",
