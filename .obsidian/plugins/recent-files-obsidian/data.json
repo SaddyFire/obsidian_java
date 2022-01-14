@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "003 SpringMVC整合(底层原理)",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/003 SpringMVC整合(底层原理).md"
-    },
-    {
       "basename": "003 查询整合",
       "path": "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/003 查询整合.md"
     },
     {
       "basename": "004 聚合查询",
       "path": "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/004 聚合查询.md"
+    },
+    {
+      "basename": "004 随机获取MongoDB表中的数据",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/004 随机获取MongoDB表中的数据.md"
+    },
+    {
+      "basename": "003 SpringMVC整合(底层原理)",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/003 SpringMVC整合(底层原理).md"
     },
     {
       "basename": "002 spring基础整合",
@@ -195,10 +199,6 @@
     {
       "basename": "002 分页模糊查询(拦截器)",
       "path": "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/002 分页模糊查询(拦截器).md"
-    },
-    {
-      "basename": "014 springboot请求参数详解",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/014 springboot请求参数详解.md"
     }
   ],
   "omittedPaths": [],
