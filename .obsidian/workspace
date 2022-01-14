@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/004 聚合查询.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -76,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352,
-    "collapsed": true
+    "width": 352
   },
   "right": {
     "id": "eaafcc4feb3ef58e",
@@ -139,7 +138,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.3333435058594
+    "width": 292.3333435058594,
+    "collapsed": true
   },
   "active": "6b9f268455afceb3",
   "lastOpenFiles": [
