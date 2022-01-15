@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "f8fff9913e5e9315",
+        "id": "ef7dd04a2fe29759",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -69,7 +69,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -126,15 +127,14 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 292.3333435058594,
     "collapsed": true
   },
-  "active": "f8fff9913e5e9315",
+  "active": "ef7dd04a2fe29759",
   "lastOpenFiles": [
     "Untitled Diagram.svg",
     "unlinked files output.md",
