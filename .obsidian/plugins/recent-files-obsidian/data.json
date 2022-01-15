@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "003 时间类&异常",
+      "path": "Ⅰ_integration_001_javaBasic/003 时间类&异常.md"
+    },
+    {
+      "basename": "003 购物车商品过滤",
+      "path": "Ⅰ_integration_SSS_concat/Ⅱ_004_java-stream/003 购物车商品过滤.md"
+    },
+    {
+      "basename": "001 markdown常用语法",
+      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/001 markdown常用语法.md"
+    },
+    {
+      "basename": "002 SpringCache注解",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_006_redis/002 SpringCache注解.md"
+    },
+    {
+      "basename": "001 大纲",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_006_redis/001 大纲.md"
+    },
+    {
       "basename": "004 聚合查询",
       "path": "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/004 聚合查询.md"
     },
@@ -89,10 +109,6 @@
       "path": "Ⅰ_project_001_reggie/Ⅱ_002_技术汇总/004 全局异常处理器.md"
     },
     {
-      "basename": "001 markdown常用语法",
-      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/001 markdown常用语法.md"
-    },
-    {
       "basename": "005 访问测试",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/005 访问测试.md"
     },
@@ -157,14 +173,6 @@
       "path": "Ⅰ_AAA_Config_MyPC/Ⅰ_000_temp/git测试.md"
     },
     {
-      "basename": "002 SpringCache注解",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_006_redis/002 SpringCache注解.md"
-    },
-    {
-      "basename": "001 大纲",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_006_redis/001 大纲.md"
-    },
-    {
       "basename": "003 tortoise 推送",
       "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/003 tortoise 推送.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "004 字段和表明映射(记忆)",
       "path": "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/004 字段和表明映射(记忆).md"
-    },
-    {
-      "basename": "003 查询功能(`)",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/003 查询功能(`).md"
-    },
-    {
-      "basename": "002 分页模糊查询(拦截器)",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/002 分页模糊查询(拦截器).md"
     }
   ],
   "omittedPaths": [],
