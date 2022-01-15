@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Ⅰ_integration_SSS_concat/Ⅱ_003_微信支付/000 二维码的生成细节和原理.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "29934bb79cb34e62b5f",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,8 +72,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",

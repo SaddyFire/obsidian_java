@@ -9,5 +9,6 @@
   "showFrontmatter": true,
   "legacyEditor": true,
   "livePreview": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true
 }
