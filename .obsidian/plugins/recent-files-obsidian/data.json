@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "005 统一异常处理",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/005 统一异常处理.md"
+    },
+    {
       "basename": "002 处理方式",
       "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/002 处理方式.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "001 索引库操作_文档操作",
       "path": "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/001 索引库操作_文档操作.md"
-    },
-    {
-      "basename": "005 统一异常处理",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/005 统一异常处理.md"
     }
   ],
   "omittedPaths": [],
