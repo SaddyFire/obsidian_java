@@ -27,7 +27,7 @@ SpringCloud底层其实是利用了一个名为Ribbon的组件，来实现负载
 - getLoadBalancer(serviceId)：根据服务id获取ILoadBalancer，而ILoadBalancer会拿着服务id去eureka中获取服务列表并保存起来。
 - getServer(loadBalancer)：利用内置的负载均衡算法，从服务列表中选择一个。本例中，可以看到获取了8082端口的服务 !
 
-![[2021122004 1.png]]
+![[2021122004.png]]
 
 ## 2 负载均衡策略IRule
 
