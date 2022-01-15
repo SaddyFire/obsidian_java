@@ -4,13 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "06b1dab4528da3b7",
+        "id": "2e6c6ba215cbc5d7",
         "type": "leaf",
         "state": {
-          "type": "diagram-edit",
-          "state": {
-            "file": "Untitled Diagram 1.svg"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -75,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352,
-    "collapsed": true
+    "width": 352
   },
   "right": {
     "id": "eaafcc4feb3ef58e",
@@ -100,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled Diagram 1.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,9 +112,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled Diagram 1.svg"
-              }
+              "state": {}
             }
           },
           {
@@ -127,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled Diagram 1.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +134,7 @@
     "width": 292.3333435058594,
     "collapsed": true
   },
-  "active": "06b1dab4528da3b7",
+  "active": "2e6c6ba215cbc5d7",
   "lastOpenFiles": [
     "Untitled Diagram 1.svg",
     "Untitled Diagram.svg",
