@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "001 基础命令",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md"
+    },
+    {
+      "basename": "002 (temp) idea删除git项目",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/002 (temp) idea删除git项目.md"
+    },
+    {
+      "basename": "003 tortoise 推送",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/003 tortoise 推送.md"
+    },
+    {
       "basename": "005 统一异常处理",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/005 统一异常处理.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Ⅱ_003_docker",
       "path": "Ⅰ_integration_003_springCloud/Ⅱ_003_docker(未加载)/Ⅱ_003_docker.md"
-    },
-    {
-      "basename": "003 软件安装",
-      "path": "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/003 软件安装.md"
-    },
-    {
-      "basename": "001 Linux各目录介绍",
-      "path": "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/001 Linux各目录介绍.md"
-    },
-    {
-      "basename": "001 索引库操作_文档操作",
-      "path": "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/001 索引库操作_文档操作.md"
     }
   ],
   "omittedPaths": [],
