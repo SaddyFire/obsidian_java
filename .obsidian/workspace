@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c0c76bcf1e5ac75f",
+        "id": "40ec703241c96cf7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/001 markdown常用语法.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -100,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/001 markdown常用语法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,9 +112,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/001 markdown常用语法.md"
-              }
+              "state": {}
             }
           },
           {
@@ -127,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/001 markdown常用语法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,17 +134,17 @@
     "width": 292.3333435058594,
     "collapsed": true
   },
-  "active": "c0c76bcf1e5ac75f",
+  "active": "40ec703241c96cf7",
   "lastOpenFiles": [
+    "unlinked files output.md",
     "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/001 markdown常用语法.md",
-    "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/002 obsidian常用插件.md",
     "Untitled Diagram.svg",
-    "Untitled Diagram 1.svg",
-    "Ⅰ_integration_003_springCloud/Ⅱ_002_配置中心&Feign远程调用/003 GlobalFilter.md",
-    "Ⅰ_integration_003_springCloud/Ⅱ_002_配置中心&Feign远程调用/002 gateway网关入门.md",
-    "Ⅰ_integration_003_springCloud/Ⅱ_002_配置中心&Feign远程调用/001 过滤工厂.md",
-    "Ⅰ_integration_001_javaBasic/003 时间类&异常.md",
-    "Ⅰ_integration_SSS_concat/Ⅱ_004_java-stream/003 购物车商品过滤.md",
-    "Ⅰ_integration_002_spring/Ⅱ_006_redis/002 SpringCache注解.md"
+    "_resources/Pasted image 20220101133233.png",
+    "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/004 字段自动填充.md",
+    "_resources/2021122004.png",
+    "_resources/29934bb79cb34e62b5faa8f6c58c4925.png",
+    "_resources/8d90256c688343498ab7beffdecf5a01.png",
+    "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/013 简单工厂模式.md",
+    "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/002 obsidian常用插件.md"
   ]
 }

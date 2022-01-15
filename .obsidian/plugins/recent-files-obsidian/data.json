@@ -1,16 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "unlinked files output",
+      "path": "unlinked files output.md"
+    },
+    {
       "basename": "001 markdown常用语法",
       "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/001 markdown常用语法.md"
     },
     {
-      "basename": "002 obsidian常用插件",
-      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/002 obsidian常用插件.md"
-    },
-    {
       "basename": "Untitled Diagram",
       "path": "Untitled Diagram.svg"
+    },
+    {
+      "basename": "Pasted image 20220101133233",
+      "path": "_resources/Pasted image 20220101133233.png"
+    },
+    {
+      "basename": "004 字段自动填充",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/004 字段自动填充.md"
+    },
+    {
+      "basename": "2021122004",
+      "path": "_resources/2021122004.png"
+    },
+    {
+      "basename": "29934bb79cb34e62b5faa8f6c58c4925",
+      "path": "_resources/29934bb79cb34e62b5faa8f6c58c4925.png"
+    },
+    {
+      "basename": "8d90256c688343498ab7beffdecf5a01",
+      "path": "_resources/8d90256c688343498ab7beffdecf5a01.png"
+    },
+    {
+      "basename": "013 简单工厂模式",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/013 简单工厂模式.md"
+    },
+    {
+      "basename": "002 obsidian常用插件",
+      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/002 obsidian常用插件.md"
     },
     {
       "basename": "003 GlobalFilter",
@@ -129,10 +157,6 @@
       "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/005 访问测试.md"
     },
     {
-      "basename": "004 字段自动填充",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/004 字段自动填充.md"
-    },
-    {
       "basename": "003 JWT-鉴权",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/003 JWT-鉴权.md"
     },
@@ -169,32 +193,12 @@
       "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/011 验证码生成.md"
     },
     {
-      "basename": "013 简单工厂模式",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/013 简单工厂模式.md"
-    },
-    {
       "basename": "014 vo对象的静态init制作案例",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/014 vo对象的静态init制作案例.md"
     },
     {
       "basename": "002 idea配置",
       "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/002 idea配置.md"
-    },
-    {
-      "basename": "000 temp",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/000 temp.md"
-    },
-    {
-      "basename": "git测试",
-      "path": "Ⅰ_AAA_Config_MyPC/Ⅰ_000_temp/git测试.md"
-    },
-    {
-      "basename": "003 tortoise 推送",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/003 tortoise 推送.md"
-    },
-    {
-      "basename": "002 (temp) idea删除git项目",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/002 (temp) idea删除git项目.md"
     }
   ],
   "omittedPaths": [],

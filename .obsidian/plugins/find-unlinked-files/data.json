@@ -1,7 +1,9 @@
 {
   "outputFileName": "unlinked files output",
   "disableWorkingLinks": false,
-  "directoriesToIgnore": [],
+  "directoriesToIgnore": [
+    ""
+  ],
   "filesToIgnore": [],
   "fileTypesToIgnore": [],
   "linksToIgnore": [],
