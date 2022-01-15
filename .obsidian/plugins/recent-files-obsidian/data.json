@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "000 核心点",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/000 核心点.md"
+    },
+    {
+      "basename": "001 阿里云短信发送",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/001 阿里云短信发送.md"
+    },
+    {
+      "basename": "001 springboot_bean的制作",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/001 springboot_bean的制作.md"
+    },
+    {
+      "basename": "003 JWT-鉴权",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/003 JWT-鉴权.md"
+    },
+    {
+      "basename": "004 字段自动填充",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/004 字段自动填充.md"
+    },
+    {
+      "basename": "005 访问测试",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/005 访问测试.md"
+    },
+    {
       "basename": "Untitled Diagram",
       "path": "Untitled Diagram.svg"
     },
@@ -51,30 +75,6 @@
     {
       "basename": "009 GateWay网关",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md"
-    },
-    {
-      "basename": "000 核心点",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/000 核心点.md"
-    },
-    {
-      "basename": "001 阿里云短信发送",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/001 阿里云短信发送.md"
-    },
-    {
-      "basename": "001 springboot_bean的制作",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/001 springboot_bean的制作.md"
-    },
-    {
-      "basename": "003 JWT-鉴权",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/003 JWT-鉴权.md"
-    },
-    {
-      "basename": "004 字段自动填充",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/004 字段自动填充.md"
-    },
-    {
-      "basename": "005 访问测试",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/005 访问测试.md"
     },
     {
       "basename": "001 基础操作(不重要)",
@@ -195,10 +195,6 @@
     {
       "basename": "001 MyBatis整合(已过时)",
       "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/001 MyBatis整合(已过时).md"
-    },
-    {
-      "basename": "001 起步配置",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/001 起步配置.md"
     }
   ],
   "omittedPaths": [],
