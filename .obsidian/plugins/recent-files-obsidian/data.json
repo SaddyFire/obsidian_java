@@ -1,24 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "000 二维码的生成细节和原理",
-      "path": "Ⅰ_integration_SSS_concat/Ⅱ_003_微信支付/000 二维码的生成细节和原理.md"
+      "basename": "002 处理方式",
+      "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/002 处理方式.md"
     },
     {
       "basename": "unlinked files output",
       "path": "unlinked files output.md"
     },
     {
+      "basename": "000 二维码的生成细节和原理",
+      "path": "Ⅰ_integration_SSS_concat/Ⅱ_003_微信支付/000 二维码的生成细节和原理.md"
+    },
+    {
       "basename": "29934bb79cb34e62b5faa8f6c58c4925",
       "path": "_resources/29934bb79cb34e62b5faa8f6c58c4925.png"
+    },
+    {
+      "basename": "8d90256c688343498ab7beffdecf5a01",
+      "path": "_resources/8d90256c688343498ab7beffdecf5a01.png"
     },
     {
       "basename": "Untitled Diagram",
       "path": "Untitled Diagram.svg"
     },
     {
-      "basename": "002 处理方式",
-      "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/002 处理方式.md"
+      "basename": "01 maven详解",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_001_maven详解/01 maven详解.md"
+    },
+    {
+      "basename": "02 IDEA中Maven指令含义",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_001_maven详解/02 IDEA中Maven指令含义.md"
     },
     {
       "basename": "000 核心点",
@@ -125,10 +137,6 @@
       "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/001 markdown常用语法.md"
     },
     {
-      "basename": "8d90256c688343498ab7beffdecf5a01",
-      "path": "_resources/8d90256c688343498ab7beffdecf5a01.png"
-    },
-    {
       "basename": "013 简单工厂模式",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/013 简单工厂模式.md"
     },
@@ -187,14 +195,6 @@
     {
       "basename": "002 SpringCloud整合Dubbo",
       "path": "Ⅰ_integration_003_springCloud/Ⅱ_005_Dubbo/002 SpringCloud整合Dubbo.md"
-    },
-    {
-      "basename": "002 常用命令",
-      "path": "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/002 常用命令.md"
-    },
-    {
-      "basename": "001 MyBatis整合(已过时)",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/001 MyBatis整合(已过时).md"
     }
   ],
   "omittedPaths": [],
