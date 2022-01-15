@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "003 GlobalFilter",
+      "path": "Ⅰ_integration_003_springCloud/Ⅱ_002_配置中心&Feign远程调用/003 GlobalFilter.md"
+    },
+    {
+      "basename": "002 gateway网关入门",
+      "path": "Ⅰ_integration_003_springCloud/Ⅱ_002_配置中心&Feign远程调用/002 gateway网关入门.md"
+    },
+    {
+      "basename": "001 过滤工厂",
+      "path": "Ⅰ_integration_003_springCloud/Ⅱ_002_配置中心&Feign远程调用/001 过滤工厂.md"
+    },
+    {
       "basename": "003 时间类&异常",
       "path": "Ⅰ_integration_001_javaBasic/003 时间类&异常.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "007 代码生成器",
       "path": "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/007 代码生成器.md"
-    },
-    {
-      "basename": "006 乐观锁(拦截器)",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/006 乐观锁(拦截器).md"
-    },
-    {
-      "basename": "005 id生成策略 - 逻辑删除",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/005 id生成策略 - 逻辑删除.md"
-    },
-    {
-      "basename": "004 字段和表明映射(记忆)",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/004 字段和表明映射(记忆).md"
     }
   ],
   "omittedPaths": [],
