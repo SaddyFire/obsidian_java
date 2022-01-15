@@ -7,8 +7,11 @@
         "id": "3aac1dd4027b141d",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/001 流量控制.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -97,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/001 流量控制.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/001 流量控制.md"
+              }
             }
           },
           {
@@ -121,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/001 流量控制.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,6 +143,8 @@
   },
   "active": "3aac1dd4027b141d",
   "lastOpenFiles": [
+    "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/001 流量控制.md",
+    "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/002 降级.md",
     "Untitled Diagram.svg",
     "Untitled Diagram 1.svg",
     "Ⅰ_integration_003_springCloud/Ⅱ_001_Eureka&Ribbon/001 springCloud简介.md",
@@ -143,8 +152,6 @@
     "unlinked files output.md",
     "Ⅰ_integration_003_springCloud/Ⅱ_001_Eureka&Ribbon/002 Eureka注册中心.md",
     "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md",
-    "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/000 核心点.md",
-    "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/001 阿里云短信发送.md",
-    "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/001 springboot_bean的制作.md"
+    "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/000 核心点.md"
   ]
 }

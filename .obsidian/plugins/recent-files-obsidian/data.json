@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "001 流量控制",
+      "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/001 流量控制.md"
+    },
+    {
+      "basename": "002 降级",
+      "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/002 降级.md"
+    },
+    {
       "basename": "Untitled Diagram",
       "path": "Untitled Diagram.svg"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "005 统一异常处理",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/005 统一异常处理.md"
-    },
-    {
-      "basename": "004 异常处理类",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/004 异常处理类.md"
     }
   ],
   "omittedPaths": [],
