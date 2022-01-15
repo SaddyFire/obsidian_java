@@ -169,5 +169,13 @@
       ],
       "key": "ArrowUp"
     }
+  ],
+  "open-with-default-app:show": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F"
+    }
   ]
 }

@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "000 二维码的生成细节和原理",
+      "path": "Ⅰ_integration_SSS_concat/Ⅱ_003_微信支付/000 二维码的生成细节和原理.md"
+    },
+    {
+      "basename": "unlinked files output",
+      "path": "unlinked files output.md"
+    },
+    {
+      "basename": "29934bb79cb34e62b5faa8f6c58c4925",
+      "path": "_resources/29934bb79cb34e62b5faa8f6c58c4925.png"
+    },
+    {
+      "basename": "Untitled Diagram",
+      "path": "Untitled Diagram.svg"
+    },
+    {
+      "basename": "002 处理方式",
+      "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/002 处理方式.md"
+    },
+    {
       "basename": "000 核心点",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/000 核心点.md"
     },
@@ -25,14 +45,6 @@
       "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/005 访问测试.md"
     },
     {
-      "basename": "Untitled Diagram",
-      "path": "Untitled Diagram.svg"
-    },
-    {
-      "basename": "unlinked files output",
-      "path": "unlinked files output.md"
-    },
-    {
       "basename": "004 gitignore文件",
       "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/004 gitignore文件.md"
     },
@@ -51,10 +63,6 @@
     {
       "basename": "005 统一异常处理",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/005 统一异常处理.md"
-    },
-    {
-      "basename": "002 处理方式",
-      "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/002 处理方式.md"
     },
     {
       "basename": "001 雪崩效应",
@@ -113,16 +121,8 @@
       "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/014 springboot请求参数详解.md"
     },
     {
-      "basename": "Pasted image 20220101133233",
-      "path": "_resources/Pasted image 20220101133233.png"
-    },
-    {
       "basename": "001 markdown常用语法",
       "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/001 markdown常用语法.md"
-    },
-    {
-      "basename": "29934bb79cb34e62b5faa8f6c58c4925",
-      "path": "_resources/29934bb79cb34e62b5faa8f6c58c4925.png"
     },
     {
       "basename": "8d90256c688343498ab7beffdecf5a01",
