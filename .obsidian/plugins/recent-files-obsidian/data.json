@@ -195,10 +195,6 @@
     {
       "basename": "004 异常处理类",
       "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/004 异常处理类.md"
-    },
-    {
-      "basename": "004 全局异常处理器",
-      "path": "Ⅰ_project_001_reggie/Ⅱ_002_技术汇总/004 全局异常处理器.md"
     }
   ],
   "omittedPaths": [],

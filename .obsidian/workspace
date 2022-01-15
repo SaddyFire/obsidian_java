@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "4a8a69ee93222f67",
+        "id": "1778d80ac1f322e3",
         "type": "leaf",
         "state": {
           "type": "diagram-edit",
@@ -141,9 +141,10 @@
     "width": 292.3333435058594,
     "collapsed": true
   },
-  "active": "4a8a69ee93222f67",
+  "active": "1778d80ac1f322e3",
   "lastOpenFiles": [
     "Untitled Diagram.svg",
+    "Untitled Diagram 1.svg",
     "Ⅰ_integration_003_springCloud/Ⅱ_001_Eureka&Ribbon/001 springCloud简介.md",
     "Ⅰ_integration_003_springCloud/Ⅱ_001_Eureka&Ribbon/003 Ribbon负载均衡.md",
     "unlinked files output.md",
@@ -151,7 +152,6 @@
     "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md",
     "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/000 核心点.md",
     "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/001 阿里云短信发送.md",
-    "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/001 springboot_bean的制作.md",
-    "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/003 JWT-鉴权.md"
+    "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/001 springboot_bean的制作.md"
   ]
 }
