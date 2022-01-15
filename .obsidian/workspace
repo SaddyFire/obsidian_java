@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "603a0cdeb8a405b2",
+        "id": "4a8a69ee93222f67",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Ⅰ_integration_003_springCloud/Ⅱ_001_Eureka&Ribbon/003 Ribbon负载均衡.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -97,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ⅰ_integration_003_springCloud/Ⅱ_001_Eureka&Ribbon/003 Ribbon负载均衡.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ⅰ_integration_003_springCloud/Ⅱ_001_Eureka&Ribbon/003 Ribbon负载均衡.md"
+              }
             }
           },
           {
@@ -121,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ⅰ_integration_003_springCloud/Ⅱ_001_Eureka&Ribbon/003 Ribbon负载均衡.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,17 +141,17 @@
     "width": 292.3333435058594,
     "collapsed": true
   },
-  "active": "603a0cdeb8a405b2",
+  "active": "4a8a69ee93222f67",
   "lastOpenFiles": [
-    "_resources/2021122004.png",
-    "unlinked files output.md",
-    "_resources/Pasted image 20220101133233.png",
-    "Untitled Diagram.svg",
-    "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/001 markdown常用语法.md",
+    "Ⅰ_integration_003_springCloud/Ⅱ_001_Eureka&Ribbon/003 Ribbon负载均衡.md",
+    "Ⅰ_integration_003_springCloud/Ⅱ_001_Eureka&Ribbon/001 springCloud简介.md",
+    "Ⅰ_integration_003_springCloud/Ⅱ_001_Eureka&Ribbon/002 Eureka注册中心.md",
+    "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md",
+    "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/000 核心点.md",
+    "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/001 阿里云短信发送.md",
+    "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/001 springboot_bean的制作.md",
+    "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/003 JWT-鉴权.md",
     "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/004 字段自动填充.md",
-    "_resources/29934bb79cb34e62b5faa8f6c58c4925.png",
-    "_resources/8d90256c688343498ab7beffdecf5a01.png",
-    "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/013 简单工厂模式.md",
-    "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/002 obsidian常用插件.md"
+    "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/005 访问测试.md"
   ]
 }

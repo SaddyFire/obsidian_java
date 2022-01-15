@@ -1,3 +1,9 @@
+数据从浏览器进入到Contorller有几种格式
+3种	application/json(请求体)	application/x-www-form-urlencoded(可以在请求体/可以在请求行)
+		multipart/form-data(只能是在请求体中)
+		数据从浏览器进入到Controller中可以是请求体 也可以是在请求行
+
+
 ## 01 请求参数为Query简单类型
 1. 如果只有一个 我们直接接受即可 参数名要和传递的参数名字一致 如果非要不一致的可以在参数前添加@RequestParam(“userId”)
 public ResponseEntity aaa(`@RequestParam("userId")` Long userId)
