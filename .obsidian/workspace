@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md",
-            "mode": "source"
+            "file": "Ⅰ_integration_002_spring/Ⅱ_005_git/004 gitignore文件.md",
+            "mode": "preview"
           }
         }
       }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md",
+                "file": "Ⅰ_integration_002_spring/Ⅱ_005_git/004 gitignore文件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md"
+                "file": "Ⅰ_integration_002_spring/Ⅱ_005_git/004 gitignore文件.md"
               }
             }
           },
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md",
+                "file": "Ⅰ_integration_002_spring/Ⅱ_005_git/004 gitignore文件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,15 +143,15 @@
   },
   "active": "3aac1dd4027b141d",
   "lastOpenFiles": [
-    "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md",
+    "Ⅰ_integration_002_spring/Ⅱ_005_git/004 gitignore文件.md",
+    "Ⅰ_integration_002_spring/Ⅱ_005_git/.gitignore文件.md",
     "Ⅰ_integration_002_spring/Ⅱ_005_git/002 (temp) idea删除git项目.md",
+    "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md",
     "Ⅰ_integration_002_spring/Ⅱ_005_git/003 tortoise 推送.md",
     "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/005 统一异常处理.md",
     "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/002 处理方式.md",
     "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/001 雪崩效应.md",
     "Untitled Diagram.svg",
-    "Untitled Diagram 1.svg",
-    "Ⅰ_integration_003_springCloud/Ⅱ_001_Eureka&Ribbon/001 springCloud简介.md",
-    "Ⅰ_integration_003_springCloud/Ⅱ_001_Eureka&Ribbon/003 Ribbon负载均衡.md"
+    "Untitled Diagram 1.svg"
   ]
 }

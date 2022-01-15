@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "001 基础命令",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md"
+      "basename": "004 gitignore文件",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/004 gitignore文件.md"
     },
     {
       "basename": "002 (temp) idea删除git项目",
       "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/002 (temp) idea删除git项目.md"
+    },
+    {
+      "basename": "001 基础命令",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md"
     },
     {
       "basename": "003 tortoise 推送",
@@ -195,10 +199,6 @@
     {
       "basename": "001 起步配置",
       "path": "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/001 起步配置.md"
-    },
-    {
-      "basename": "Ⅱ_003_docker",
-      "path": "Ⅰ_integration_003_springCloud/Ⅱ_003_docker(未加载)/Ⅱ_003_docker.md"
     }
   ],
   "omittedPaths": [],
