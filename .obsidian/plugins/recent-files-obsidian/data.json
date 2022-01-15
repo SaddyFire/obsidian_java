@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "001 markdown常用语法",
+      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/001 markdown常用语法.md"
+    },
+    {
+      "basename": "002 obsidian常用插件",
+      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/002 obsidian常用插件.md"
+    },
+    {
+      "basename": "Untitled Diagram",
+      "path": "Untitled Diagram.svg"
+    },
+    {
       "basename": "003 GlobalFilter",
       "path": "Ⅰ_integration_003_springCloud/Ⅱ_002_配置中心&Feign远程调用/003 GlobalFilter.md"
     },
@@ -19,10 +31,6 @@
     {
       "basename": "003 购物车商品过滤",
       "path": "Ⅰ_integration_SSS_concat/Ⅱ_004_java-stream/003 购物车商品过滤.md"
-    },
-    {
-      "basename": "001 markdown常用语法",
-      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/001 markdown常用语法.md"
     },
     {
       "basename": "002 SpringCache注解",
@@ -51,10 +59,6 @@
     {
       "basename": "002 spring基础整合",
       "path": "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/002 spring基础整合.md"
-    },
-    {
-      "basename": "002 obsidian常用插件",
-      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/002 obsidian常用插件.md"
     },
     {
       "basename": "003 MongoDB在项目中启动报错",
