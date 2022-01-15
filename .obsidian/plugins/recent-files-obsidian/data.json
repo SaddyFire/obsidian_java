@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled Diagram 1",
+      "path": "Untitled Diagram 1.svg"
+    },
+    {
+      "basename": "Untitled Diagram",
+      "path": "Untitled Diagram.svg"
+    },
+    {
       "basename": "003 GlobalFilter",
       "path": "Ⅰ_integration_003_springCloud/Ⅱ_002_配置中心&Feign远程调用/003 GlobalFilter.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "002 (temp) idea删除git项目",
       "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/002 (temp) idea删除git项目.md"
-    },
-    {
-      "basename": "001 基础命令",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md"
-    },
-    {
-      "basename": "007 代码生成器",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/007 代码生成器.md"
     }
   ],
   "omittedPaths": [],
