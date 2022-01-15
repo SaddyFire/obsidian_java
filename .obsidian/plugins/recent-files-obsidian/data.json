@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled Diagram",
+      "path": "Untitled Diagram.svg"
+    },
+    {
       "basename": "001 springCloud简介",
       "path": "Ⅰ_integration_003_springCloud/Ⅱ_001_Eureka&Ribbon/001 springCloud简介.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "004 全局异常处理器",
       "path": "Ⅰ_project_001_reggie/Ⅱ_002_技术汇总/004 全局异常处理器.md"
-    },
-    {
-      "basename": "002 es安装",
-      "path": "Ⅰ_integration_005_ElasticSearch/Ⅱ_001_概述及安装/002 es安装.md"
     }
   ],
   "omittedPaths": [],
