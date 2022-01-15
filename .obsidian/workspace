@@ -4,13 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1778d80ac1f322e3",
+        "id": "57ec5e2d5370359a",
         "type": "leaf",
         "state": {
-          "type": "diagram-edit",
-          "state": {
-            "file": "Untitled Diagram.svg"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -100,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled Diagram.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,9 +113,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled Diagram.svg"
-              }
+              "state": {}
             }
           },
           {
@@ -127,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled Diagram.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +135,7 @@
     "width": 292.3333435058594,
     "collapsed": true
   },
-  "active": "1778d80ac1f322e3",
+  "active": "57ec5e2d5370359a",
   "lastOpenFiles": [
     "Untitled Diagram.svg",
     "Untitled Diagram 1.svg",
