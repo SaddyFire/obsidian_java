@@ -16,5 +16,5 @@ TM		Transaction Manager
 RM		Resource Manager
 
 XA   -->  X/Open DTP, Distributed Transaction Processing
-
+AT	 -->  undo-log
 
