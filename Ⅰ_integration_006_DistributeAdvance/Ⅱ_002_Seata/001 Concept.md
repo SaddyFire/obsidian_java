@@ -15,6 +15,6 @@ TC		Transaction Coordinator
 TM		Transaction Manager
 RM		Resource Manager
 
-XA 
+XA   -->  X/Open DTP, Distributed Transaction Processing
 
 
