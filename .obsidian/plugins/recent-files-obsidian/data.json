@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Ⅱ_003_docker",
+      "path": "Ⅰ_integration_003_springCloud/Ⅱ_003_docker(未加载)/Ⅱ_003_docker.md"
+    },
+    {
+      "basename": "000 docker安装",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/000 docker安装.md"
+    },
+    {
+      "basename": "002 常用命令",
+      "path": "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/002 常用命令.md"
+    },
+    {
+      "basename": "003 软件安装",
+      "path": "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/003 软件安装.md"
+    },
+    {
+      "basename": "001 Linux各目录介绍",
+      "path": "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/001 Linux各目录介绍.md"
+    },
+    {
       "basename": "001 concept",
       "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_003_DistributedRedis/001 concept.md"
     },
@@ -113,10 +133,6 @@
       "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/001 基础操作(不重要).md"
     },
     {
-      "basename": "000 docker安装",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/000 docker安装.md"
-    },
-    {
       "basename": "002 SpringData-Mongo",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/002 SpringData-Mongo.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "001 大纲",
       "path": "Ⅰ_integration_002_spring/Ⅱ_006_redis/001 大纲.md"
-    },
-    {
-      "basename": "004 聚合查询",
-      "path": "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/004 聚合查询.md"
-    },
-    {
-      "basename": "003 查询整合",
-      "path": "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/003 查询整合.md"
-    },
-    {
-      "basename": "003 SpringMVC整合(底层原理)",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/003 SpringMVC整合(底层原理).md"
-    },
-    {
-      "basename": "002 spring基础整合",
-      "path": "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/002 spring基础整合.md"
     }
   ],
   "omittedPaths": [],
