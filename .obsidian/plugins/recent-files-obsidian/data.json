@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "001 concept",
+      "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_003_DistributedRedis/001 concept.md"
+    },
+    {
       "basename": "001 Concept",
       "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_002_Seata/001 Concept.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "002 spring基础整合",
       "path": "Ⅰ_integration_005_ElasticSearch/Ⅱ_002_索引库操作/002 spring基础整合.md"
-    },
-    {
-      "basename": "012 日志_行为记录_动态监听",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/012 日志_行为记录_动态监听.md"
     }
   ],
   "omittedPaths": [],

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_002_Seata/001 Concept.md",
+            "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_003_DistributedRedis/001 concept.md",
             "mode": "source"
           }
         }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_002_Seata/001 Concept.md",
+                "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_003_DistributedRedis/001 concept.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_002_Seata/001 Concept.md"
+                "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_003_DistributedRedis/001 concept.md"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_002_Seata/001 Concept.md",
+                "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_003_DistributedRedis/001 concept.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,6 +144,7 @@
   },
   "active": "2f3dc63bcd456ed6",
   "lastOpenFiles": [
+    "Ⅰ_integration_006_DistributeAdvance/Ⅱ_003_DistributedRedis/001 concept.md",
     "Ⅰ_integration_006_DistributeAdvance/Ⅱ_002_Seata/001 Concept.md",
     "Ⅰ_integration_006_DistributeAdvance/Ⅱ_002_Seata/002 Seata.md",
     "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/001 雪崩效应.md",
@@ -152,7 +153,6 @@
     "_resources/29934bb79cb34e62b5faa8f6c58c4925 1.png",
     "Ⅰ_integration_SSS_concat/Ⅱ_003_微信支付/000 二维码的生成细节和原理.md",
     "_resources/29934bb79cb34e62b5faa8f6c58c4925.png",
-    "_resources/8d90256c688343498ab7beffdecf5a01.png",
-    "_resources/8d90256c688343498ab7beffdecf5a01 1.png"
+    "_resources/8d90256c688343498ab7beffdecf5a01.png"
   ]
 }
