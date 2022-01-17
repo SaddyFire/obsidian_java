@@ -15,5 +15,6 @@ TC		Transaction Coordinator
 TM		Transaction Manager
 RM		Resource Manager
 
+XA 
 
 
