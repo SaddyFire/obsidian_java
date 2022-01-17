@@ -18,6 +18,8 @@ RM		Resource Manager
 XA   -->  X/Open DTP, Distributed Transaction Processing
 AT	 -->  undo-log
 TCC -->  Try Confirm Cancel
+空回滚、业务悬挂
+
 
 
 
