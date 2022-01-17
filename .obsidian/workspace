@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_002_Seata/001 Concept.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -135,13 +135,11 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 292.3333435058594,
-    "collapsed": true
+    "width": 292.3333435058594
   },
   "active": "2f3dc63bcd456ed6",
   "lastOpenFiles": [
