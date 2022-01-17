@@ -3,8 +3,8 @@ C	Consistency
 I	 Isolation
 D  Durability
 
-A	Availability
 C	Consistency
+A	Availability
 P	Partition Tolerance
 
 BA	Basically Available
@@ -14,3 +14,6 @@ E	 Eventually Consistent
 TC		Transaction Coordinator
 TM		Transaction Manager
 RM		Resource Manager
+
+
+
