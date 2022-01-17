@@ -18,6 +18,7 @@ docker ps -a
 ```
 
 设置开机启动
+
 ```shell
 docker update --restart=always rabbit
 
