@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "unlinked files output",
+      "path": "unlinked files output.md"
+    },
+    {
+      "basename": "Ⅱ_003_docker",
+      "path": "Ⅰ_integration_004_linux/Ⅱ_002_docker(未加载)/Ⅱ_003_docker.md"
+    },
+    {
       "basename": "001 Concept",
       "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_002_Seata/001 Concept.md"
     },
@@ -25,10 +33,6 @@
       "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/000 docker安装.md"
     },
     {
-      "basename": "Ⅱ_003_docker",
-      "path": "Ⅰ_integration_003_springCloud/Ⅱ_003_docker(未加载)/Ⅱ_003_docker.md"
-    },
-    {
       "basename": "002 Seata",
       "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_002_Seata/002 Seata.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "002 处理方式",
       "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/002 处理方式.md"
-    },
-    {
-      "basename": "unlinked files output",
-      "path": "unlinked files output.md"
     },
     {
       "basename": "000 二维码的生成细节和原理",
