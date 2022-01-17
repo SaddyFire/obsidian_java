@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/001 雪崩效应.md",
+            "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_002_Seata/001 Concept.md",
             "mode": "source"
           }
         }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/001 雪崩效应.md",
+                "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_002_Seata/001 Concept.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/001 雪崩效应.md"
+                "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_002_Seata/001 Concept.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/001 雪崩效应.md",
+                "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_002_Seata/001 Concept.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,6 +144,7 @@
   },
   "active": "2f3dc63bcd456ed6",
   "lastOpenFiles": [
+    "Ⅰ_integration_006_DistributeAdvance/Ⅱ_002_Seata/001 Concept.md",
     "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/001 雪崩效应.md",
     "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/002 处理方式.md",
     "unlinked files output.md",
@@ -152,7 +153,6 @@
     "_resources/29934bb79cb34e62b5faa8f6c58c4925.png",
     "_resources/8d90256c688343498ab7beffdecf5a01.png",
     "_resources/8d90256c688343498ab7beffdecf5a01 1.png",
-    "Untitled Diagram.svg",
-    "Ⅰ_integration_002_spring/Ⅱ_001_maven详解/01 maven详解.md"
+    "Untitled Diagram.svg"
   ]
 }
