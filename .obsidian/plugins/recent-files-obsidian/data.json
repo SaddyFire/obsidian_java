@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "001 Concept",
+      "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_002_Seata/001 Concept.md"
+    },
+    {
+      "basename": "002 Seata",
+      "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_002_Seata/002 Seata.md"
+    },
+    {
+      "basename": "001 concept",
+      "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_003_DistributedRedis/001 concept.md"
+    },
+    {
       "basename": "unlinked files output",
       "path": "unlinked files output.md"
     },
     {
       "basename": "Ⅱ_003_docker",
       "path": "Ⅰ_integration_004_linux/Ⅱ_002_docker(未加载)/Ⅱ_003_docker.md"
-    },
-    {
-      "basename": "001 Concept",
-      "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_002_Seata/001 Concept.md"
-    },
-    {
-      "basename": "001 concept",
-      "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_003_DistributedRedis/001 concept.md"
     },
     {
       "basename": "001 Linux各目录介绍",
@@ -31,10 +35,6 @@
     {
       "basename": "000 docker安装",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/000 docker安装.md"
-    },
-    {
-      "basename": "002 Seata",
-      "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_002_Seata/002 Seata.md"
     },
     {
       "basename": "001 雪崩效应",

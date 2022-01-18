@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "unlinked files output.md",
-            "mode": "source"
+            "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_002_Seata/001 Concept.md",
+            "mode": "preview"
           }
         }
       }
@@ -72,11 +72,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 352
+    "width": 352,
+    "collapsed": true
   },
   "right": {
     "id": "eaafcc4feb3ef58e",
@@ -100,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unlinked files output.md",
+                "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_002_Seata/001 Concept.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "unlinked files output.md"
+                "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_002_Seata/001 Concept.md"
               }
             }
           },
@@ -127,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "unlinked files output.md",
+                "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_002_Seata/001 Concept.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,19 +139,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.3333435058594
+    "width": 292.3333435058594,
+    "collapsed": true
   },
   "active": "2f3dc63bcd456ed6",
   "lastOpenFiles": [
+    "Ⅰ_integration_006_DistributeAdvance/Ⅱ_002_Seata/001 Concept.md",
+    "Ⅰ_integration_006_DistributeAdvance/Ⅱ_002_Seata/002 Seata.md",
+    "Ⅰ_integration_006_DistributeAdvance/Ⅱ_003_DistributedRedis/001 concept.md",
     "unlinked files output.md",
     "Ⅰ_integration_004_linux/Ⅱ_002_docker(未加载)/Ⅱ_003_docker.md",
-    "Ⅰ_integration_006_DistributeAdvance/Ⅱ_002_Seata/001 Concept.md",
-    "Ⅰ_integration_006_DistributeAdvance/Ⅱ_003_DistributedRedis/001 concept.md",
     "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/001 Linux各目录介绍.md",
     "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/003 软件安装.md",
     "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/002 常用命令.md",
     "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/000 docker安装.md",
-    "Ⅰ_integration_006_DistributeAdvance/Ⅱ_002_Seata/002 Seata.md",
     "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/001 雪崩效应.md"
   ]
 }
