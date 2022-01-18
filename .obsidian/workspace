@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_003_DistributedRedis/001 concept.md",
-            "mode": "source"
+            "file": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/001 基础操作(不重要).md",
+            "mode": "preview"
           }
         }
       }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_003_DistributedRedis/001 concept.md",
+                "file": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/001 基础操作(不重要).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_003_DistributedRedis/001 concept.md"
+                "file": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/001 基础操作(不重要).md"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_003_DistributedRedis/001 concept.md",
+                "file": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/001 基础操作(不重要).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,6 +144,8 @@
   },
   "active": "2f3dc63bcd456ed6",
   "lastOpenFiles": [
+    "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/001 基础操作(不重要).md",
+    "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/000 docker安装.md",
     "Ⅰ_integration_006_DistributeAdvance/Ⅱ_003_DistributedRedis/001 concept.md",
     "Ⅰ_integration_006_DistributeAdvance/Ⅱ_002_Seata/001 Concept.md",
     "Ⅰ_integration_006_DistributeAdvance/Ⅱ_002_Seata/002 Seata.md",
@@ -151,8 +153,6 @@
     "Ⅰ_integration_004_linux/Ⅱ_002_docker(未加载)/Ⅱ_003_docker.md",
     "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/001 Linux各目录介绍.md",
     "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/003 软件安装.md",
-    "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/002 常用命令.md",
-    "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/000 docker安装.md",
-    "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/001 雪崩效应.md"
+    "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/002 常用命令.md"
   ]
 }
