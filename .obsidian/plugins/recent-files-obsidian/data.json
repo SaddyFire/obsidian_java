@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "004 网卡加入托管",
+      "path": "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/004 网卡加入托管.md"
+    },
+    {
       "basename": "Ⅱ_003_docker",
       "path": "Ⅰ_integration_004_linux/Ⅱ_002_docker(未加载)/Ⅱ_003_docker.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "003 时间类&异常",
       "path": "Ⅰ_integration_001_javaBasic/003 时间类&异常.md"
-    },
-    {
-      "basename": "003 购物车商品过滤",
-      "path": "Ⅰ_integration_SSS_concat/Ⅱ_004_java-stream/003 购物车商品过滤.md"
     }
   ],
   "omittedPaths": [],
