@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled Diagram",
+      "path": "Untitled Diagram.svg"
+    },
+    {
       "basename": "002 常用命令",
       "path": "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/002 常用命令.md"
     },
@@ -79,10 +83,6 @@
     {
       "basename": "8d90256c688343498ab7beffdecf5a01",
       "path": "_resources/8d90256c688343498ab7beffdecf5a01.png"
-    },
-    {
-      "basename": "Untitled Diagram",
-      "path": "Untitled Diagram.svg"
     },
     {
       "basename": "01 maven详解",

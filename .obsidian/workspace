@@ -7,11 +7,9 @@
         "id": "2f3dc63bcd456ed6",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "diagram-edit",
           "state": {
-            "file": "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/002 常用命令.md",
-            "mode": "preview",
-            "source": false
+            "file": "Untitled Diagram.svg"
           }
         }
       }
@@ -102,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/002 常用命令.md",
+                "file": "Untitled Diagram.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/002 常用命令.md"
+                "file": "Untitled Diagram.svg"
               }
             }
           },
@@ -129,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/002 常用命令.md",
+                "file": "Untitled Diagram.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,6 +142,7 @@
   },
   "active": "2f3dc63bcd456ed6",
   "lastOpenFiles": [
+    "Untitled Diagram.svg",
     "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/002 常用命令.md",
     "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/001 Linux各目录介绍.md",
     "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/004 网卡加入托管.md",
@@ -152,7 +151,6 @@
     "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/002 obsidian常用插件.md",
     "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/001 markdown常用语法 1.md",
     "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/001 markdown常用语法.md",
-    "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/008 FastDFS.md",
-    "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/001 基础操作(不重要).md"
+    "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/008 FastDFS.md"
   ]
 }
