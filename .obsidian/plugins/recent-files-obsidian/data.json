@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "002 obsidian常用插件",
+      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/002 obsidian常用插件.md"
+    },
+    {
+      "basename": "001 markdown常用语法 1",
+      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/001 markdown常用语法 1.md"
+    },
+    {
       "basename": "001 markdown常用语法",
       "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/001 markdown常用语法.md"
     },
@@ -173,10 +181,6 @@
       "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/013 简单工厂模式.md"
     },
     {
-      "basename": "002 obsidian常用插件",
-      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/002 obsidian常用插件.md"
-    },
-    {
       "basename": "003 GlobalFilter",
       "path": "Ⅰ_integration_003_springCloud/Ⅱ_002_配置中心&Feign远程调用/003 GlobalFilter.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "003 购物车商品过滤",
       "path": "Ⅰ_integration_SSS_concat/Ⅱ_004_java-stream/003 购物车商品过滤.md"
-    },
-    {
-      "basename": "002 SpringCache注解",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_006_redis/002 SpringCache注解.md"
     }
   ],
   "omittedPaths": [],
