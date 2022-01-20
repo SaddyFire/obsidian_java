@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4e3df94b732434e0",
+        "id": "52142e5f30e6ce72",
         "type": "leaf",
         "state": {
           "type": "excalidraw",
           "state": {
-            "file": "Ⅰ_integration_005_ElasticSearch/Drawing 2022-01-20 10.10.27.excalidraw.md"
+            "file": "Drawing 2022-01-20 10.10.27.excalidraw.md"
           }
         }
       }
@@ -75,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352,
-    "collapsed": true
+    "width": 352
   },
   "right": {
     "id": "eaafcc4feb3ef58e",
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_integration_005_ElasticSearch/Drawing 2022-01-20 10.10.27.excalidraw.md",
+                "file": "Drawing 2022-01-20 10.10.27.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_integration_005_ElasticSearch/Drawing 2022-01-20 10.10.27.excalidraw.md"
+                "file": "Drawing 2022-01-20 10.10.27.excalidraw.md"
               }
             }
           },
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_integration_005_ElasticSearch/Drawing 2022-01-20 10.10.27.excalidraw.md",
+                "file": "Drawing 2022-01-20 10.10.27.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +139,9 @@
     "width": 292.3333435058594,
     "collapsed": true
   },
-  "active": "4e3df94b732434e0",
+  "active": "52142e5f30e6ce72",
   "lastOpenFiles": [
-    "Ⅰ_integration_005_ElasticSearch/Drawing 2022-01-20 10.10.27.excalidraw.md",
+    "Drawing 2022-01-20 10.10.27.excalidraw.md",
     "unlinked files output.md",
     "Untitled Diagram.svg",
     "Ⅰ_integration_006_DistributeAdvance/Ⅱ_004_mutillevelCache/框架.md",
