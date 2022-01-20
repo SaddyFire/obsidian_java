@@ -13,9 +13,9 @@ nginx.conf  ^PhOZE1NH
 
 反向代理至openresty ^4TYuVAcq
 
-OpenResty下的nginx.conf ^XZBpMCmz
+OpenResty下的nginx.conf ^aW1b1KbG
 
-监听8081端口 ^oL0KefZM
+监听8081端口 ^0eZ5ml1P
 
 
 # Embedded files
@@ -49,16 +49,11 @@ OpenResty下的nginx.conf ^XZBpMCmz
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1289751327,
-			"version": 337,
-			"versionNonce": 257084273,
+			"version": 345,
+			"versionNonce": 1760052671,
 			"isDeleted": false,
-			"boundElements": [
-				{
-					"id": "zVji1GQrpmTubK39VVDvA",
-					"type": "arrow"
-				}
-			],
-			"updated": 1642668362886,
+			"boundElements": [],
+			"updated": 1642668415324,
 			"status": "pending",
 			"fileId": "064c91a6ff71ca28216638e8e906b75cc56147d1",
 			"scale": [
@@ -203,8 +198,8 @@ OpenResty下的nginx.conf ^XZBpMCmz
 		},
 		{
 			"type": "rectangle",
-			"version": 116,
-			"versionNonce": 1115515825,
+			"version": 118,
+			"versionNonce": 1237601841,
 			"isDeleted": false,
 			"id": "vS2iTyxpnul0tQdCrYBwO",
 			"fillStyle": "hachure",
@@ -224,24 +219,24 @@ OpenResty下的nginx.conf ^XZBpMCmz
 			"strokeSharpness": "sharp",
 			"boundElements": [
 				{
-					"id": "zVji1GQrpmTubK39VVDvA",
-					"type": "arrow"
-				},
-				{
 					"id": "-SCTJfZgrm8FULRo9FBky",
 					"type": "arrow"
 				},
 				{
 					"id": "na8am5kX4pjYh3DjezWRY",
 					"type": "arrow"
+				},
+				{
+					"id": "zVji1GQrpmTubK39VVDvA",
+					"type": "arrow"
 				}
 			],
-			"updated": 1642662967296
+			"updated": 1642668445448
 		},
 		{
 			"type": "arrow",
-			"version": 533,
-			"versionNonce": 1554423839,
+			"version": 839,
+			"versionNonce": 2103271441,
 			"isDeleted": false,
 			"id": "zVji1GQrpmTubK39VVDvA",
 			"fillStyle": "hachure",
@@ -250,26 +245,22 @@ OpenResty下的nginx.conf ^XZBpMCmz
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 946.5494799708911,
-			"y": -99.64644031422154,
+			"x": 911.2162280177661,
+			"y": -91.64647083179966,
 			"strokeColor": "#ff9933",
 			"backgroundColor": "transparent",
-			"width": 163.39824852611252,
-			"height": 108.73069804577244,
+			"width": 174.73162254955002,
+			"height": 122.06401103405369,
 			"seed": 1622141030,
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1642668362886,
-			"startBinding": {
-				"elementId": "deSA3AE8jtP0rtjk0uTQI",
-				"gap": 9.539691989333171,
-				"focus": 0.4852922711655342
-			},
+			"updated": 1642668445526,
+			"startBinding": null,
 			"endBinding": {
 				"elementId": "vS2iTyxpnul0tQdCrYBwO",
-				"gap": 1.9350644621687454,
-				"focus": -0.4841321956551898
+				"focus": -0.5737895223513875,
+				"gap": 2.601690438731225
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -280,12 +271,12 @@ OpenResty下的nginx.conf ^XZBpMCmz
 					0
 				],
 				[
-					68.5812854312237,
-					-66.19965209547877
+					115.9145373843487,
+					-76.86627807204127
 				],
 				[
-					-94.81696309488882,
-					-108.73069804577244
+					-58.81708516520132,
+					-122.06401103405369
 				]
 			]
 		},
@@ -353,7 +344,7 @@ OpenResty下的nginx.conf ^XZBpMCmz
 			]
 		},
 		{
-			"id": "XZBpMCmz",
+			"id": "aW1b1KbG",
 			"type": "text",
 			"x": 146.53499191733385,
 			"y": 89.14410386896742,
@@ -419,7 +410,7 @@ OpenResty下的nginx.conf ^XZBpMCmz
 			"updated": 1642662967296
 		},
 		{
-			"id": "oL0KefZM",
+			"id": "0eZ5ml1P",
 			"type": "text",
 			"x": 266.868429882363,
 			"y": 475.0012292874943,
