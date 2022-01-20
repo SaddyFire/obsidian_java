@@ -7,9 +7,11 @@
         "id": "52142e5f30e6ce72",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "nginx反向代理举例.excalidraw.md"
+            "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md",
+            "mode": "preview",
+            "source": false
           }
         }
       }
@@ -75,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352
+    "width": 352,
+    "collapsed": true
   },
   "right": {
     "id": "eaafcc4feb3ef58e",
@@ -99,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nginx反向代理举例.excalidraw.md",
+                "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nginx反向代理举例.excalidraw.md"
+                "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md"
               }
             }
           },
@@ -126,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nginx反向代理举例.excalidraw.md",
+                "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,6 +144,8 @@
   },
   "active": "52142e5f30e6ce72",
   "lastOpenFiles": [
+    "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md",
+    "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/000 核心点.md",
     "nginx反向代理举例.excalidraw.md",
     "unlinked files output.md",
     "Untitled Diagram.svg",
@@ -148,8 +153,6 @@
     "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/002 处理方式.md",
     "_resources/Pasted image 20220116180139.png",
     "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/002 常用命令.md",
-    "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/001 Linux各目录介绍.md",
-    "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/004 网卡加入托管.md",
-    "Ⅰ_integration_004_linux/Ⅱ_002_docker(未加载)/Ⅱ_003_docker.md"
+    "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/001 Linux各目录介绍.md"
   ]
 }

@@ -7,11 +7,11 @@ excalidraw-plugin: parsed
 
 
 # Text Elements
-item.html 发起路由请求 ^Ba6Hq8dT
+item.html 发起路由请求 ^NjcwGmhp
 
-nginx.conf  ^qAjgF6dP
+nginx.conf  ^PhOZE1NH
 
-反向代理 ^TLSZXl7i
+反向代理 ^4TYuVAcq
 
 
 # Embedded files
@@ -57,7 +57,7 @@ nginx.conf  ^qAjgF6dP
 			]
 		},
 		{
-			"id": "Ba6Hq8dT",
+			"id": "NjcwGmhp",
 			"type": "text",
 			"x": 171.5,
 			"y": -420.5,
@@ -129,7 +129,7 @@ nginx.conf  ^qAjgF6dP
 			]
 		},
 		{
-			"id": "qAjgF6dP",
+			"id": "PhOZE1NH",
 			"type": "text",
 			"x": 615.666748046875,
 			"y": -413.0544866636478,
@@ -280,7 +280,7 @@ nginx.conf  ^qAjgF6dP
 			"endArrowhead": "arrow"
 		},
 		{
-			"id": "TLSZXl7i",
+			"id": "4TYuVAcq",
 			"type": "text",
 			"x": 962.464078390396,
 			"y": -221.8460924097003,

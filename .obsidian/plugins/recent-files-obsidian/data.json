@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "009 GateWay网关",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md"
+    },
+    {
+      "basename": "000 核心点",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/000 核心点.md"
+    },
+    {
       "basename": "nginx反向代理举例.excalidraw",
       "path": "nginx反向代理举例.excalidraw.md"
     },
@@ -105,10 +113,6 @@
       "path": "Ⅰ_integration_002_spring/Ⅱ_001_maven详解/02 IDEA中Maven指令含义.md"
     },
     {
-      "basename": "000 核心点",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/000 核心点.md"
-    },
-    {
       "basename": "001 阿里云短信发送",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/001 阿里云短信发送.md"
     },
@@ -159,10 +163,6 @@
     {
       "basename": "002 Eureka注册中心",
       "path": "Ⅰ_integration_003_springCloud/Ⅱ_001_Eureka&Ribbon/002 Eureka注册中心.md"
-    },
-    {
-      "basename": "009 GateWay网关",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md"
     },
     {
       "basename": "002 SpringData-Mongo",
