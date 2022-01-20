@@ -11,7 +11,7 @@ item.html 发起路由请求 ^NjcwGmhp
 
 nginx.conf  ^PhOZE1NH
 
-反向代理 ^4TYuVAcq
+反向代理至openresty ^4TYuVAcq
 
 
 # Embedded files
@@ -28,8 +28,8 @@ nginx.conf  ^PhOZE1NH
 	"elements": [
 		{
 			"type": "image",
-			"version": 121,
-			"versionNonce": 1463490705,
+			"version": 122,
+			"versionNonce": 1740389663,
 			"isDeleted": false,
 			"id": "k-CRcT7oKm1l9T7UE8Gje",
 			"fillStyle": "hachure",
@@ -48,7 +48,7 @@ nginx.conf  ^PhOZE1NH
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1642658769680,
+			"updated": 1642660552837,
 			"status": "pending",
 			"fileId": "35644f22570fff38adc5b4ae32b5e04dba680a88",
 			"scale": [
@@ -91,8 +91,8 @@ nginx.conf  ^PhOZE1NH
 		},
 		{
 			"type": "image",
-			"version": 175,
-			"versionNonce": 537736447,
+			"version": 176,
+			"versionNonce": 789112913,
 			"isDeleted": false,
 			"id": "YCj3021317hULbSmRKvak",
 			"fillStyle": "hachure",
@@ -120,7 +120,7 @@ nginx.conf  ^PhOZE1NH
 					"type": "arrow"
 				}
 			],
-			"updated": 1642658769680,
+			"updated": 1642660552837,
 			"status": "pending",
 			"fileId": "32297cd4938818a8213caa3cfe68c65356ffb1ae",
 			"scale": [
@@ -278,8 +278,8 @@ nginx.conf  ^PhOZE1NH
 		},
 		{
 			"type": "text",
-			"version": 23,
-			"versionNonce": 503224314,
+			"version": 42,
+			"versionNonce": 1239049887,
 			"isDeleted": false,
 			"id": "4TYuVAcq",
 			"fillStyle": "hachure",
@@ -292,22 +292,22 @@ nginx.conf  ^PhOZE1NH
 			"y": -221.8460924097003,
 			"strokeColor": "#ff9933",
 			"backgroundColor": "transparent",
-			"width": 80,
+			"width": 207,
 			"height": 27,
 			"seed": 87166906,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1642648816657,
+			"updated": 1642660588186,
 			"fontSize": 20,
 			"fontFamily": 3,
-			"text": "反向代理",
-			"rawText": "反向代理",
+			"text": "反向代理至openresty",
+			"rawText": "反向代理至openresty",
 			"baseline": 22,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "反向代理"
+			"originalText": "反向代理至openresty"
 		}
 	],
 	"appState": {
