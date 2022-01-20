@@ -13,9 +13,9 @@ nginx.conf  ^PhOZE1NH
 
 反向代理至openresty ^4TYuVAcq
 
-OpenResty下的nginx.conf ^BdF02joB
+OpenResty下的nginx.conf ^mNOQt0vm
 
-监听8081端口 ^bVuEBCj4
+监听8081端口 ^tg2beydQ
 
 
 # Embedded files
@@ -344,7 +344,7 @@ OpenResty下的nginx.conf ^BdF02joB
 			]
 		},
 		{
-			"id": "BdF02joB",
+			"id": "mNOQt0vm",
 			"type": "text",
 			"x": 146.53499191733385,
 			"y": 89.14410386896742,
@@ -410,7 +410,7 @@ OpenResty下的nginx.conf ^BdF02joB
 			"updated": 1642662967296
 		},
 		{
-			"id": "bVuEBCj4",
+			"id": "tg2beydQ",
 			"type": "text",
 			"x": 266.868429882363,
 			"y": 475.0012292874943,
