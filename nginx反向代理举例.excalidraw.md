@@ -13,10 +13,15 @@ nginx.conf  ^PhOZE1NH
 
 反向代理至openresty ^4TYuVAcq
 
+OpenResty下的nginx.conf ^cQu0baUP
+
+监听8081端口 ^VcNwVwvB
+
 
 # Embedded files
 35644f22570fff38adc5b4ae32b5e04dba680a88: [[_resources/Pasted Image 20220120102910_336.png]]
 32297cd4938818a8213caa3cfe68c65356ffb1ae: [[_resources/Pasted Image 20220120111610_175.png]]
+6373b3fc2bccd894c5c4536c2a6892bff1866af9: [[_resources/Pasted Image 20220120145109_339.png]]
 
 %%
 # Drawing
@@ -308,10 +313,130 @@ nginx.conf  ^PhOZE1NH
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "反向代理至openresty"
+		},
+		{
+			"id": "Zg9vv1a3vog4l47w09uWY",
+			"type": "image",
+			"x": 100.6850476968757,
+			"y": 300.32064401143066,
+			"width": 521.2514156285392,
+			"height": 945.1026694045177,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 255005873,
+			"version": 209,
+			"versionNonce": 177143665,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1642661597726,
+			"status": "pending",
+			"fileId": "6373b3fc2bccd894c5c4536c2a6892bff1866af9",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"id": "cQu0baUP",
+			"type": "text",
+			"x": 150.02692946383695,
+			"y": 256.12824780730443,
+			"width": 263,
+			"height": 27,
+			"angle": 0,
+			"strokeColor": "#ff9933",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1946368849,
+			"version": 52,
+			"versionNonce": 1217909087,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1642661543923,
+			"text": "OpenResty下的nginx.conf",
+			"rawText": "OpenResty下的nginx.conf",
+			"fontSize": 20,
+			"fontFamily": 3,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 22,
+			"containerId": null,
+			"originalText": "OpenResty下的nginx.conf"
+		},
+		{
+			"id": "6GHLdhRX-uD0fr2695_wj",
+			"type": "rectangle",
+			"x": 137.3127076911428,
+			"y": 830.6521561499382,
+			"width": 397.1428571428571,
+			"height": 37.14276994977695,
+			"angle": 0,
+			"strokeColor": "#ff9933",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1337541215,
+			"version": 143,
+			"versionNonce": 595147615,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1642661578888
+		},
+		{
+			"id": "VcNwVwvB",
+			"type": "text",
+			"x": 307.3127076911428,
+			"y": 790.652068956858,
+			"width": 128,
+			"height": 27,
+			"angle": 0,
+			"strokeColor": "#ff9933",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1253781407,
+			"version": 62,
+			"versionNonce": 1489458591,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1642661601138,
+			"text": "监听8081端口",
+			"rawText": "监听8081端口",
+			"fontSize": 20,
+			"fontFamily": 3,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 22,
+			"containerId": null,
+			"originalText": "监听8081端口"
 		}
 	],
 	"appState": {
-		"theme": "dark",
+		"theme": "light",
 		"viewBackgroundColor": "#1e1e1e",
 		"currentItemStrokeColor": "#ff9933",
 		"currentItemBackgroundColor": "transparent",
