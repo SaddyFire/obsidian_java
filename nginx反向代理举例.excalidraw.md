@@ -13,9 +13,9 @@ nginx.conf  ^PhOZE1NH
 
 反向代理至openresty ^4TYuVAcq
 
-OpenResty下的nginx.conf ^sVVS0Qpx
+OpenResty下的nginx.conf ^HgLRGOiV
 
-监听8081端口 ^u3n6uLhw
+监听8081端口 ^QSYaD4UB
 
 
 # Embedded files
@@ -207,8 +207,8 @@ OpenResty下的nginx.conf ^sVVS0Qpx
 		},
 		{
 			"type": "rectangle",
-			"version": 115,
-			"versionNonce": 1668416159,
+			"version": 116,
+			"versionNonce": 1115515825,
 			"isDeleted": false,
 			"id": "vS2iTyxpnul0tQdCrYBwO",
 			"fillStyle": "hachure",
@@ -234,9 +234,13 @@ OpenResty下的nginx.conf ^sVVS0Qpx
 				{
 					"id": "-SCTJfZgrm8FULRo9FBky",
 					"type": "arrow"
+				},
+				{
+					"id": "na8am5kX4pjYh3DjezWRY",
+					"type": "arrow"
 				}
 			],
-			"updated": 1642661804354
+			"updated": 1642662967296
 		},
 		{
 			"type": "arrow",
@@ -287,8 +291,8 @@ OpenResty下的nginx.conf ^sVVS0Qpx
 		},
 		{
 			"type": "text",
-			"version": 103,
-			"versionNonce": 2019227281,
+			"version": 235,
+			"versionNonce": 208759505,
 			"isDeleted": false,
 			"id": "4TYuVAcq",
 			"fillStyle": "hachure",
@@ -297,8 +301,8 @@ OpenResty下的nginx.conf ^sVVS0Qpx
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 861.5117555667352,
-			"y": 409.5825008171413,
+			"x": 657.5117555667352,
+			"y": 366.24918782886004,
 			"strokeColor": "#ff9933",
 			"backgroundColor": "transparent",
 			"width": 207,
@@ -307,7 +311,7 @@ OpenResty下的nginx.conf ^sVVS0Qpx
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1642661833086,
+			"updated": 1642662970327,
 			"fontSize": 20,
 			"fontFamily": 3,
 			"text": "反向代理至openresty",
@@ -321,10 +325,10 @@ OpenResty下的nginx.conf ^sVVS0Qpx
 		{
 			"id": "Zg9vv1a3vog4l47w09uWY",
 			"type": "image",
-			"x": 95.2882901168905,
-			"y": 132.38409005635248,
-			"width": 521.2514156285392,
-			"height": 945.1026694045177,
+			"x": 126.05022684959135,
+			"y": 141.62220563949995,
+			"width": 358.09632990796536,
+			"height": 649.2793825641343,
 			"angle": 0,
 			"strokeColor": "transparent",
 			"backgroundColor": "transparent",
@@ -336,11 +340,11 @@ OpenResty下的nginx.conf ^sVVS0Qpx
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 255005873,
-			"version": 444,
-			"versionNonce": 1776960255,
+			"version": 691,
+			"versionNonce": 37600177,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1642662031254,
+			"updated": 1642662837212,
 			"status": "pending",
 			"fileId": "6373b3fc2bccd894c5c4536c2a6892bff1866af9",
 			"scale": [
@@ -349,7 +353,7 @@ OpenResty下的nginx.conf ^sVVS0Qpx
 			]
 		},
 		{
-			"id": "sVVS0Qpx",
+			"id": "HgLRGOiV",
 			"type": "text",
 			"x": 146.53499191733385,
 			"y": 89.14410386896742,
@@ -384,10 +388,10 @@ OpenResty下的nginx.conf ^sVVS0Qpx
 		{
 			"id": "6GHLdhRX-uD0fr2695_wj",
 			"type": "rectangle",
-			"x": 135.72559017812182,
-			"y": 659.8585465307975,
-			"width": 397.1428571428571,
-			"height": 37.14276994977695,
+			"x": 144.5826545614927,
+			"y": 512.0490023762217,
+			"width": 244.5714634486606,
+			"height": 18.85705566406273,
 			"angle": 0,
 			"strokeColor": "#ff9933",
 			"backgroundColor": "transparent",
@@ -399,22 +403,26 @@ OpenResty下的nginx.conf ^sVVS0Qpx
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"seed": 1337541215,
-			"version": 479,
-			"versionNonce": 1321700127,
+			"version": 790,
+			"versionNonce": 202821009,
 			"isDeleted": false,
 			"boundElements": [
 				{
 					"id": "-SCTJfZgrm8FULRo9FBky",
 					"type": "arrow"
+				},
+				{
+					"id": "na8am5kX4pjYh3DjezWRY",
+					"type": "arrow"
 				}
 			],
-			"updated": 1642662031254
+			"updated": 1642662967296
 		},
 		{
-			"id": "u3n6uLhw",
+			"id": "QSYaD4UB",
 			"type": "text",
-			"x": 303.8207701446397,
-			"y": 623.667925018521,
+			"x": 266.868429882363,
+			"y": 475.0012292874943,
 			"width": 128,
 			"height": 27,
 			"angle": 0,
@@ -428,11 +436,11 @@ OpenResty下的nginx.conf ^sVVS0Qpx
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"seed": 1253781407,
-			"version": 269,
-			"versionNonce": 352767807,
+			"version": 343,
+			"versionNonce": 1309069951,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1642662031254,
+			"updated": 1642662884594,
 			"text": "监听8081端口",
 			"rawText": "监听8081端口",
 			"fontSize": 20,
@@ -444,12 +452,12 @@ OpenResty下的nginx.conf ^sVVS0Qpx
 			"originalText": "监听8081端口"
 		},
 		{
-			"id": "-SCTJfZgrm8FULRo9FBky",
+			"id": "na8am5kX4pjYh3DjezWRY",
 			"type": "arrow",
-			"x": 809.5880200325633,
-			"y": -183.68997451454118,
-			"width": 305.77125108624006,
-			"height": 840.6912694360457,
+			"x": 808.7549960206629,
+			"y": -183.29677448857979,
+			"width": 413.333251953125,
+			"height": 707.3333282470703,
 			"angle": 0,
 			"strokeColor": "#ff9933",
 			"backgroundColor": "transparent",
@@ -460,39 +468,39 @@ OpenResty下的nginx.conf ^sVVS0Qpx
 			"opacity": 100,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 800617905,
-			"version": 930,
-			"versionNonce": 195131985,
+			"seed": 507415025,
+			"version": 358,
+			"versionNonce": 2142457855,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1642662031254,
+			"updated": 1642662967303,
 			"points": [
 				[
-					-0.8306566688092218,
+					0,
 					0
 				],
 				[
-					25.867248096198242,
-					627.5212298951207
+					-166.6666259765625,
+					532.6666412353516
 				],
 				[
-					-279.9040029900418,
-					840.6912694360457
+					-413.333251953125,
+					707.3333282470703
 				]
 			],
 			"lastCommittedPoint": [
-				-299.04758998325883,
-				998.0952889578683
+				-413.333251953125,
+				707.3333282470703
 			],
 			"startBinding": {
 				"elementId": "vS2iTyxpnul0tQdCrYBwO",
-				"gap": 1.679886728864404,
-				"focus": -0.6767335748040925
+				"focus": -0.7138682631847505,
+				"gap": 1.1207203346249344
 			},
 			"endBinding": {
 				"elementId": "6GHLdhRX-uD0fr2695_wj",
-				"focus": 0.7310935339257775,
-				"gap": 2.85725160929303
+				"focus": 0.974678770862868,
+				"gap": 6.267626057384604
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
