@@ -13,9 +13,9 @@ nginx.conf  ^PhOZE1NH
 
 反向代理至openresty ^4TYuVAcq
 
-OpenResty下的nginx.conf ^aW1b1KbG
+OpenResty下的nginx.conf ^BdF02joB
 
-监听8081端口 ^0eZ5ml1P
+监听8081端口 ^bVuEBCj4
 
 
 # Embedded files
@@ -344,7 +344,7 @@ OpenResty下的nginx.conf ^aW1b1KbG
 			]
 		},
 		{
-			"id": "aW1b1KbG",
+			"id": "BdF02joB",
 			"type": "text",
 			"x": 146.53499191733385,
 			"y": 89.14410386896742,
@@ -410,7 +410,7 @@ OpenResty下的nginx.conf ^aW1b1KbG
 			"updated": 1642662967296
 		},
 		{
-			"id": "0eZ5ml1P",
+			"id": "bVuEBCj4",
 			"type": "text",
 			"x": 266.868429882363,
 			"y": 475.0012292874943,
@@ -512,7 +512,7 @@ OpenResty下的nginx.conf ^aW1b1KbG
 		"currentItemTextAlign": "left",
 		"currentItemStrokeSharpness": "sharp",
 		"currentItemStartArrowhead": null,
-		"currentItemEndArrowhead": "arrow",
+		"currentItemEndArrowhead": null,
 		"currentItemLinearStrokeSharpness": "round",
 		"gridSize": null
 	},
