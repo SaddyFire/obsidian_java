@@ -13,15 +13,15 @@ nginx.conf  ^PhOZE1NH
 
 反向代理至openresty ^4TYuVAcq
 
-OpenResty下的nginx.conf ^NT6zOIh3
+OpenResty下的nginx.conf ^XZBpMCmz
 
-监听8081端口 ^ozbXAAM0
+监听8081端口 ^oL0KefZM
 
 
 # Embedded files
 35644f22570fff38adc5b4ae32b5e04dba680a88: [[_resources/Pasted Image 20220120102910_336.png]]
-32297cd4938818a8213caa3cfe68c65356ffb1ae: [[_resources/Pasted Image 20220120111610_175.png]]
 6373b3fc2bccd894c5c4536c2a6892bff1866af9: [[_resources/Pasted Image 20220120145109_339.png]]
+064c91a6ff71ca28216638e8e906b75cc56147d1: [[_resources/Pasted Image 20220120164545_371.png]]
 
 %%
 # Drawing
@@ -31,6 +31,41 @@ OpenResty下的nginx.conf ^NT6zOIh3
 	"version": 2,
 	"source": "https://excalidraw.com",
 	"elements": [
+		{
+			"id": "deSA3AE8jtP0rtjk0uTQI",
+			"type": "image",
+			"x": 554.9913335186554,
+			"y": -373.9635072766657,
+			"width": 382.0184544629024,
+			"height": 509.56332554971027,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1289751327,
+			"version": 337,
+			"versionNonce": 257084273,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"id": "zVji1GQrpmTubK39VVDvA",
+					"type": "arrow"
+				}
+			],
+			"updated": 1642668362886,
+			"status": "pending",
+			"fileId": "064c91a6ff71ca28216638e8e906b75cc56147d1",
+			"scale": [
+				1,
+				1
+			]
+		},
 		{
 			"type": "image",
 			"version": 122,
@@ -93,45 +128,6 @@ OpenResty下的nginx.conf ^NT6zOIh3
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "item.html 发起路由请求"
-		},
-		{
-			"type": "image",
-			"version": 176,
-			"versionNonce": 789112913,
-			"isDeleted": false,
-			"id": "YCj3021317hULbSmRKvak",
-			"fillStyle": "hachure",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 557.9278203079473,
-			"y": -374.88776913435095,
-			"strokeColor": "transparent",
-			"backgroundColor": "transparent",
-			"width": 372.81122950129287,
-			"height": 496.69570638526284,
-			"seed": 750579686,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [
-				{
-					"id": "Mc-NchC5xzEPrWmi2BkOI",
-					"type": "arrow"
-				},
-				{
-					"id": "Xj2JQzH8N8BVHL1yjNyof",
-					"type": "arrow"
-				}
-			],
-			"updated": 1642660552837,
-			"status": "pending",
-			"fileId": "32297cd4938818a8213caa3cfe68c65356ffb1ae",
-			"scale": [
-				1,
-				1
-			]
 		},
 		{
 			"type": "text",
@@ -244,8 +240,8 @@ OpenResty下的nginx.conf ^NT6zOIh3
 		},
 		{
 			"type": "arrow",
-			"version": 316,
-			"versionNonce": 1148037759,
+			"version": 533,
+			"versionNonce": 1554423839,
 			"isDeleted": false,
 			"id": "zVji1GQrpmTubK39VVDvA",
 			"fillStyle": "hachure",
@@ -254,18 +250,22 @@ OpenResty下的nginx.conf ^NT6zOIh3
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 900.464078390396,
-			"y": -91.8460924097003,
+			"x": 946.5494799708911,
+			"y": -99.64644031422154,
 			"strokeColor": "#ff9933",
 			"backgroundColor": "transparent",
 			"width": 163.39824852611252,
-			"height": 116.53104595029367,
+			"height": 108.73069804577244,
 			"seed": 1622141030,
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1642661804354,
-			"startBinding": null,
+			"updated": 1642668362886,
+			"startBinding": {
+				"elementId": "deSA3AE8jtP0rtjk0uTQI",
+				"gap": 9.539691989333171,
+				"focus": 0.4852922711655342
+			},
 			"endBinding": {
 				"elementId": "vS2iTyxpnul0tQdCrYBwO",
 				"gap": 1.9350644621687454,
@@ -280,12 +280,12 @@ OpenResty下的nginx.conf ^NT6zOIh3
 					0
 				],
 				[
-					114.66668701171875,
-					-74
+					68.5812854312237,
+					-66.19965209547877
 				],
 				[
-					-48.731561514393775,
-					-116.53104595029367
+					-94.81696309488882,
+					-108.73069804577244
 				]
 			]
 		},
@@ -353,7 +353,7 @@ OpenResty下的nginx.conf ^NT6zOIh3
 			]
 		},
 		{
-			"id": "NT6zOIh3",
+			"id": "XZBpMCmz",
 			"type": "text",
 			"x": 146.53499191733385,
 			"y": 89.14410386896742,
@@ -419,7 +419,7 @@ OpenResty下的nginx.conf ^NT6zOIh3
 			"updated": 1642662967296
 		},
 		{
-			"id": "ozbXAAM0",
+			"id": "oL0KefZM",
 			"type": "text",
 			"x": 266.868429882363,
 			"y": 475.0012292874943,
