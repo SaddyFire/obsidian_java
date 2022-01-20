@@ -13,9 +13,9 @@ nginx.conf  ^PhOZE1NH
 
 反向代理至openresty ^4TYuVAcq
 
-OpenResty下的nginx.conf ^HgLRGOiV
+OpenResty下的nginx.conf ^NT6zOIh3
 
-监听8081端口 ^QSYaD4UB
+监听8081端口 ^ozbXAAM0
 
 
 # Embedded files
@@ -353,7 +353,7 @@ OpenResty下的nginx.conf ^HgLRGOiV
 			]
 		},
 		{
-			"id": "HgLRGOiV",
+			"id": "NT6zOIh3",
 			"type": "text",
 			"x": 146.53499191733385,
 			"y": 89.14410386896742,
@@ -419,7 +419,7 @@ OpenResty下的nginx.conf ^HgLRGOiV
 			"updated": 1642662967296
 		},
 		{
-			"id": "QSYaD4UB",
+			"id": "ozbXAAM0",
 			"type": "text",
 			"x": 266.868429882363,
 			"y": 475.0012292874943,
