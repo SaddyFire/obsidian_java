@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名",
+      "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_004_mutillevelCache/未命名.md"
+    },
+    {
       "basename": "002 处理方式",
       "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/002 处理方式.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "002 gateway网关入门",
       "path": "Ⅰ_integration_003_springCloud/Ⅱ_002_配置中心&Feign远程调用/002 gateway网关入门.md"
-    },
-    {
-      "basename": "001 过滤工厂",
-      "path": "Ⅰ_integration_003_springCloud/Ⅱ_002_配置中心&Feign远程调用/001 过滤工厂.md"
     }
   ],
   "omittedPaths": [],
