@@ -17,12 +17,23 @@ OpenResty下的nginx.conf ^mNOQt0vm
 
 监听8081端口 ^tg2beydQ
 
+在http{}下添加对OpenResty的Lua模块的加载 ^I2trET8K
+
+在server{}下添加监听路径 ^rQUDCzpA
+
+这个监听，就类似于SpringMVC中的
+@GetMapping("/api/item")做路径映射。
+而content_by_lua_file lua/item.lua则相当于调用item.lua这个文件，
+执行其中的业务，把结果返回给用户。相当于java中调用service。
+ ^S3GwveU2
+
 
 # Embedded files
 35644f22570fff38adc5b4ae32b5e04dba680a88: [[_resources/Pasted Image 20220120102910_336.png]]
 6373b3fc2bccd894c5c4536c2a6892bff1866af9: [[_resources/Pasted Image 20220120145109_339.png]]
 064c91a6ff71ca28216638e8e906b75cc56147d1: [[_resources/Pasted Image 20220120164545_371.png]]
 349e8921d9ecdc371e108a03e358841f15f86541: [[_resources/Pasted Image 20220120231442_426.png]]
+9b1f54d7db309d1aae95d721978d257ce6770bbd: [[_resources/Pasted Image 20220120231542_430.png]]
 
 %%
 # Drawing
@@ -34,8 +45,8 @@ OpenResty下的nginx.conf ^mNOQt0vm
 	"elements": [
 		{
 			"type": "image",
-			"version": 346,
-			"versionNonce": 22881002,
+			"version": 347,
+			"versionNonce": 1727831542,
 			"isDeleted": false,
 			"id": "deSA3AE8jtP0rtjk0uTQI",
 			"fillStyle": "hachure",
@@ -54,7 +65,7 @@ OpenResty下的nginx.conf ^mNOQt0vm
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1642691082973,
+			"updated": 1642691936714,
 			"status": "pending",
 			"fileId": "064c91a6ff71ca28216638e8e906b75cc56147d1",
 			"scale": [
@@ -64,8 +75,8 @@ OpenResty下的nginx.conf ^mNOQt0vm
 		},
 		{
 			"type": "image",
-			"version": 123,
-			"versionNonce": 682252470,
+			"version": 124,
+			"versionNonce": 186442858,
 			"isDeleted": false,
 			"id": "k-CRcT7oKm1l9T7UE8Gje",
 			"fillStyle": "hachure",
@@ -84,7 +95,7 @@ OpenResty下的nginx.conf ^mNOQt0vm
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1642691082973,
+			"updated": 1642691936714,
 			"status": "pending",
 			"fileId": "35644f22570fff38adc5b4ae32b5e04dba680a88",
 			"scale": [
@@ -94,8 +105,8 @@ OpenResty下的nginx.conf ^mNOQt0vm
 		},
 		{
 			"type": "text",
-			"version": 57,
-			"versionNonce": 1577500090,
+			"version": 58,
+			"versionNonce": 1826713398,
 			"isDeleted": false,
 			"id": "NjcwGmhp",
 			"fillStyle": "hachure",
@@ -114,7 +125,7 @@ OpenResty下的nginx.conf ^mNOQt0vm
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1642645793593,
+			"updated": 1642691936714,
 			"fontSize": 20,
 			"fontFamily": 3,
 			"text": "item.html 发起路由请求",
@@ -127,8 +138,8 @@ OpenResty下的nginx.conf ^mNOQt0vm
 		},
 		{
 			"type": "text",
-			"version": 15,
-			"versionNonce": 372909178,
+			"version": 16,
+			"versionNonce": 1603847978,
 			"isDeleted": false,
 			"id": "PhOZE1NH",
 			"fillStyle": "hachure",
@@ -147,7 +158,7 @@ OpenResty下的nginx.conf ^mNOQt0vm
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1642648593751,
+			"updated": 1642691936714,
 			"fontSize": 20,
 			"fontFamily": 3,
 			"text": "nginx.conf ",
@@ -160,8 +171,8 @@ OpenResty下的nginx.conf ^mNOQt0vm
 		},
 		{
 			"type": "arrow",
-			"version": 82,
-			"versionNonce": 626697574,
+			"version": 83,
+			"versionNonce": 412751990,
 			"isDeleted": false,
 			"id": "ein1Cvil0OPXuHPFZT7b4",
 			"fillStyle": "hachure",
@@ -180,7 +191,7 @@ OpenResty下的nginx.conf ^mNOQt0vm
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1642648625173,
+			"updated": 1642691936714,
 			"startBinding": null,
 			"endBinding": null,
 			"lastCommittedPoint": null,
@@ -199,8 +210,8 @@ OpenResty下的nginx.conf ^mNOQt0vm
 		},
 		{
 			"type": "rectangle",
-			"version": 118,
-			"versionNonce": 1237601841,
+			"version": 119,
+			"versionNonce": 1745506794,
 			"isDeleted": false,
 			"id": "vS2iTyxpnul0tQdCrYBwO",
 			"fillStyle": "hachure",
@@ -232,12 +243,12 @@ OpenResty下的nginx.conf ^mNOQt0vm
 					"type": "arrow"
 				}
 			],
-			"updated": 1642668445448
+			"updated": 1642691936714
 		},
 		{
 			"type": "arrow",
-			"version": 839,
-			"versionNonce": 2103271441,
+			"version": 840,
+			"versionNonce": 837523894,
 			"isDeleted": false,
 			"id": "zVji1GQrpmTubK39VVDvA",
 			"fillStyle": "hachure",
@@ -256,7 +267,7 @@ OpenResty下的nginx.conf ^mNOQt0vm
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1642668445526,
+			"updated": 1642691936714,
 			"startBinding": null,
 			"endBinding": {
 				"elementId": "vS2iTyxpnul0tQdCrYBwO",
@@ -283,8 +294,8 @@ OpenResty下的nginx.conf ^mNOQt0vm
 		},
 		{
 			"type": "text",
-			"version": 235,
-			"versionNonce": 208759505,
+			"version": 491,
+			"versionNonce": 2146974518,
 			"isDeleted": false,
 			"id": "4TYuVAcq",
 			"fillStyle": "hachure",
@@ -293,8 +304,8 @@ OpenResty下的nginx.conf ^mNOQt0vm
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 657.5117555667352,
-			"y": 366.24918782886004,
+			"x": 650.0118318606806,
+			"y": 201.2491496818874,
 			"strokeColor": "#ff9933",
 			"backgroundColor": "transparent",
 			"width": 205,
@@ -303,7 +314,7 @@ OpenResty下的nginx.conf ^mNOQt0vm
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1642662970327,
+			"updated": 1642692079872,
 			"fontSize": 20,
 			"fontFamily": 3,
 			"text": "反向代理至openresty",
@@ -316,8 +327,8 @@ OpenResty下的nginx.conf ^mNOQt0vm
 		},
 		{
 			"type": "image",
-			"version": 692,
-			"versionNonce": 1347237290,
+			"version": 694,
+			"versionNonce": 1073410806,
 			"isDeleted": false,
 			"id": "Zg9vv1a3vog4l47w09uWY",
 			"fillStyle": "hachure",
@@ -335,8 +346,13 @@ OpenResty下的nginx.conf ^mNOQt0vm
 			"seed": 255005873,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1642691082973,
+			"boundElements": [
+				{
+					"id": "jTeS1jcCjJuatg2vKrM6v",
+					"type": "arrow"
+				}
+			],
+			"updated": 1642691936714,
 			"status": "pending",
 			"fileId": "6373b3fc2bccd894c5c4536c2a6892bff1866af9",
 			"scale": [
@@ -346,8 +362,8 @@ OpenResty下的nginx.conf ^mNOQt0vm
 		},
 		{
 			"type": "text",
-			"version": 259,
-			"versionNonce": 856600689,
+			"version": 260,
+			"versionNonce": 127557482,
 			"isDeleted": false,
 			"id": "mNOQt0vm",
 			"fillStyle": "hachure",
@@ -366,7 +382,7 @@ OpenResty下的nginx.conf ^mNOQt0vm
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1642662031254,
+			"updated": 1642691936714,
 			"fontSize": 20,
 			"fontFamily": 3,
 			"text": "OpenResty下的nginx.conf",
@@ -379,8 +395,8 @@ OpenResty下的nginx.conf ^mNOQt0vm
 		},
 		{
 			"type": "rectangle",
-			"version": 790,
-			"versionNonce": 202821009,
+			"version": 791,
+			"versionNonce": 491594806,
 			"isDeleted": false,
 			"id": "6GHLdhRX-uD0fr2695_wj",
 			"fillStyle": "hachure",
@@ -408,12 +424,12 @@ OpenResty下的nginx.conf ^mNOQt0vm
 					"type": "arrow"
 				}
 			],
-			"updated": 1642662967296
+			"updated": 1642691936714
 		},
 		{
 			"type": "text",
-			"version": 343,
-			"versionNonce": 1309069951,
+			"version": 344,
+			"versionNonce": 78570026,
 			"isDeleted": false,
 			"id": "tg2beydQ",
 			"fillStyle": "hachure",
@@ -432,7 +448,7 @@ OpenResty下的nginx.conf ^mNOQt0vm
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"boundElements": [],
-			"updated": 1642662884594,
+			"updated": 1642691936715,
 			"fontSize": 20,
 			"fontFamily": 3,
 			"text": "监听8081端口",
@@ -445,8 +461,8 @@ OpenResty下的nginx.conf ^mNOQt0vm
 		},
 		{
 			"type": "arrow",
-			"version": 358,
-			"versionNonce": 2142457855,
+			"version": 400,
+			"versionNonce": 197602678,
 			"isDeleted": false,
 			"id": "na8am5kX4pjYh3DjezWRY",
 			"fillStyle": "hachure",
@@ -465,7 +481,7 @@ OpenResty下的nginx.conf ^mNOQt0vm
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1642662967303,
+			"updated": 1642691936715,
 			"startBinding": {
 				"elementId": "vS2iTyxpnul0tQdCrYBwO",
 				"focus": -0.7138682631847505,
@@ -485,8 +501,8 @@ OpenResty下的nginx.conf ^mNOQt0vm
 					0
 				],
 				[
-					-166.6666259765625,
-					532.6666412353516
+					-228.33326721191406,
+					490.16664123535156
 				],
 				[
 					-413.333251953125,
@@ -497,10 +513,10 @@ OpenResty下的nginx.conf ^mNOQt0vm
 		{
 			"id": "aAYBkAPfpGXVdfAjteCuW",
 			"type": "image",
-			"x": 618.0038360772418,
-			"y": 556.4646490822861,
-			"width": 387,
-			"height": 194,
+			"x": 553.8370422539996,
+			"y": 580.631366611583,
+			"width": 413.5979888758708,
+			"height": 207.3333587646484,
 			"angle": 0,
 			"strokeColor": "transparent",
 			"backgroundColor": "transparent",
@@ -512,17 +528,237 @@ OpenResty下的nginx.conf ^mNOQt0vm
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1429008490,
-			"version": 49,
-			"versionNonce": 1529667894,
+			"version": 468,
+			"versionNonce": 1503988970,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1642691682420,
+			"updated": 1642691936715,
 			"status": "pending",
 			"fileId": "349e8921d9ecdc371e108a03e358841f15f86541",
 			"scale": [
 				1,
 				1
 			]
+		},
+		{
+			"id": "Xyhw0LFfmU_PxmOR-4s1f",
+			"type": "image",
+			"x": 550.6704773125933,
+			"y": 392.08968722925874,
+			"width": 423.25581395348837,
+			"height": 104,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 233374634,
+			"version": 122,
+			"versionNonce": 1219366582,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"id": "jTeS1jcCjJuatg2vKrM6v",
+					"type": "arrow"
+				},
+				{
+					"id": "gCFio93M7Kld94DjPBYEq",
+					"type": "arrow"
+				}
+			],
+			"updated": 1642691936715,
+			"status": "pending",
+			"fileId": "9b1f54d7db309d1aae95d721978d257ce6770bbd",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"id": "I2trET8K",
+			"type": "text",
+			"x": 559.8371948418901,
+			"y": 348.25629031763765,
+			"width": 432,
+			"height": 27,
+			"angle": 0,
+			"strokeColor": "#ff9933",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 685884394,
+			"version": 181,
+			"versionNonce": 1167706282,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1642691967511,
+			"text": "在http{}下添加对OpenResty的Lua模块的加载",
+			"rawText": "在http{}下添加对OpenResty的Lua模块的加载",
+			"fontSize": 20,
+			"fontFamily": 3,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 22,
+			"containerId": null,
+			"originalText": "在http{}下添加对OpenResty的Lua模块的加载"
+		},
+		{
+			"id": "gCFio93M7Kld94DjPBYEq",
+			"type": "arrow",
+			"x": 548.4661852742029,
+			"y": 434.4070227033121,
+			"width": 346.5362932869792,
+			"height": 35.52860091656447,
+			"angle": 0,
+			"strokeColor": "#ff9933",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 396850294,
+			"version": 91,
+			"versionNonce": 2086632746,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1642691936715,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-346.5362932869792,
+					35.52860091656447
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "Xyhw0LFfmU_PxmOR-4s1f",
+				"focus": 0.42886052812247094,
+				"gap": 2.204292038390406
+			},
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "yB2iW3c1BEsMdtEdh6hpo",
+			"type": "arrow",
+			"x": 554.4204773125933,
+			"y": 605.131366611583,
+			"width": 335.83335876464844,
+			"height": 36.66664123535156,
+			"angle": 0,
+			"strokeColor": "#ff9933",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1720338410,
+			"version": 57,
+			"versionNonce": 871687402,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1642691943038,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-335.83335876464844,
+					36.66664123535156
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "rQUDCzpA",
+			"type": "text",
+			"x": 566.7121185479449,
+			"y": 534.0896490822861,
+			"width": 255,
+			"height": 27,
+			"angle": 0,
+			"strokeColor": "#ff9933",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1916547690,
+			"version": 42,
+			"versionNonce": 1047576374,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1642691981022,
+			"text": "在server{}下添加监听路径",
+			"rawText": "在server{}下添加监听路径",
+			"fontSize": 20,
+			"fontFamily": 3,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 22,
+			"containerId": null,
+			"originalText": "在server{}下添加监听路径"
+		},
+		{
+			"id": "S3GwveU2",
+			"type": "text",
+			"x": 545.8787979302691,
+			"y": 798.6729696999619,
+			"width": 709,
+			"height": 131,
+			"angle": 0,
+			"strokeColor": "#ff9933",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1139206582,
+			"version": 30,
+			"versionNonce": 380409590,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1642692071033,
+			"text": "这个监听，就类似于SpringMVC中的\n@GetMapping(\"/api/item\")做路径映射。\n而content_by_lua_file lua/item.lua则相当于调用item.lua这个文件，\n执行其中的业务，把结果返回给用户。相当于java中调用service。\n",
+			"rawText": "这个监听，就类似于SpringMVC中的\n@GetMapping(\"/api/item\")做路径映射。\n而content_by_lua_file lua/item.lua则相当于调用item.lua这个文件，\n执行其中的业务，把结果返回给用户。相当于java中调用service。\n",
+			"fontSize": 20,
+			"fontFamily": 3,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 126,
+			"containerId": null,
+			"originalText": "这个监听，就类似于SpringMVC中的\n@GetMapping(\"/api/item\")做路径映射。\n而content_by_lua_file lua/item.lua则相当于调用item.lua这个文件，\n执行其中的业务，把结果返回给用户。相当于java中调用service。\n"
 		}
 	],
 	"appState": {
@@ -540,7 +776,7 @@ OpenResty下的nginx.conf ^mNOQt0vm
 		"currentItemTextAlign": "left",
 		"currentItemStrokeSharpness": "sharp",
 		"currentItemStartArrowhead": null,
-		"currentItemEndArrowhead": null,
+		"currentItemEndArrowhead": "arrow",
 		"currentItemLinearStrokeSharpness": "round",
 		"gridSize": null
 	},
