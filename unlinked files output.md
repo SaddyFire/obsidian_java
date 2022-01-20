@@ -1,1 +1,8 @@
+- [[Pasted image 20220116180139.png]]
+- [[Pasted image 20220116175732.png]]
+- [[Pasted image 20220116175655.png]]
+- [[Pasted image 20220116175342.png]]
+- [[Pasted image 20220115205154.png]]
+- [[Pasted image 20220115202226.png]]
+- [[Pasted image 20220115203328.png]]
 - [[Untitled Diagram.svg]]

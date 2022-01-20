@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "002 处理方式",
+      "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/002 处理方式.md"
+    },
+    {
+      "basename": "unlinked files output",
+      "path": "unlinked files output.md"
+    },
+    {
       "basename": "Untitled Diagram",
       "path": "Untitled Diagram.svg"
+    },
+    {
+      "basename": "Pasted image 20220116180139",
+      "path": "_resources/Pasted image 20220116180139.png"
     },
     {
       "basename": "002 常用命令",
@@ -61,16 +73,8 @@
       "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_002_Seata/002 Seata.md"
     },
     {
-      "basename": "unlinked files output",
-      "path": "unlinked files output.md"
-    },
-    {
       "basename": "001 雪崩效应",
       "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/001 雪崩效应.md"
-    },
-    {
-      "basename": "002 处理方式",
-      "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/002 处理方式.md"
     },
     {
       "basename": "000 二维码的生成细节和原理",
@@ -195,10 +199,6 @@
     {
       "basename": "001 过滤工厂",
       "path": "Ⅰ_integration_003_springCloud/Ⅱ_002_配置中心&Feign远程调用/001 过滤工厂.md"
-    },
-    {
-      "basename": "003 时间类&异常",
-      "path": "Ⅰ_integration_001_javaBasic/003 时间类&异常.md"
     }
   ],
   "omittedPaths": [],
