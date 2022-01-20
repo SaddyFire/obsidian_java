@@ -9,7 +9,7 @@
         "state": {
           "type": "excalidraw",
           "state": {
-            "file": "nginx反向代理.excalidraw.md"
+            "file": "nginx反向代理举例.excalidraw.md"
           }
         }
       }
@@ -75,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352,
-    "collapsed": true
+    "width": 352
   },
   "right": {
     "id": "eaafcc4feb3ef58e",
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nginx反向代理.excalidraw.md",
+                "file": "nginx反向代理举例.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nginx反向代理.excalidraw.md"
+                "file": "nginx反向代理举例.excalidraw.md"
               }
             }
           },
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nginx反向代理.excalidraw.md",
+                "file": "nginx反向代理举例.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
   },
   "active": "52142e5f30e6ce72",
   "lastOpenFiles": [
-    "nginx反向代理.excalidraw.md",
+    "nginx反向代理举例.excalidraw.md",
     "unlinked files output.md",
     "Untitled Diagram.svg",
     "Ⅰ_integration_006_DistributeAdvance/Ⅱ_004_mutillevelCache/框架.md",
