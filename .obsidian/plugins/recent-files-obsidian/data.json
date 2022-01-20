@@ -1,12 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "框架",
-      "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_004_mutillevelCache/框架.md"
-    },
-    {
-      "basename": "002 处理方式",
-      "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/002 处理方式.md"
+      "basename": "Drawing 2022-01-20 10.10.27.excalidraw",
+      "path": "Ⅰ_integration_005_ElasticSearch/Drawing 2022-01-20 10.10.27.excalidraw.md"
     },
     {
       "basename": "unlinked files output",
@@ -15,6 +11,14 @@
     {
       "basename": "Untitled Diagram",
       "path": "Untitled Diagram.svg"
+    },
+    {
+      "basename": "框架",
+      "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_004_mutillevelCache/框架.md"
+    },
+    {
+      "basename": "002 处理方式",
+      "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/002 处理方式.md"
     },
     {
       "basename": "Pasted image 20220116180139",
@@ -195,10 +199,6 @@
     {
       "basename": "003 GlobalFilter",
       "path": "Ⅰ_integration_003_springCloud/Ⅱ_002_配置中心&Feign远程调用/003 GlobalFilter.md"
-    },
-    {
-      "basename": "002 gateway网关入门",
-      "path": "Ⅰ_integration_003_springCloud/Ⅱ_002_配置中心&Feign远程调用/002 gateway网关入门.md"
     }
   ],
   "omittedPaths": [],
