@@ -8,7 +8,7 @@ saddyfire3 更改标题颜色
 saddyfire4 文件夹左侧对齐线
 saddyfire5 文件列表目录字体设置
 saddyfire6 大纲字体设置
-saddyfire7 列表项选择过后字体设置
+saddyfire7 列表项勾选过后字体设置
 saddyfire8 (序号),(列表项+选择项)颜色修改
 saddyfire9 h1-h6标题设置
 
@@ -519,9 +519,9 @@ settings:
 }
 
 /*选取内容字体颜色, 目前是橙色*/
-.markdown-source-view.mod-cm6 .cm-selection{
+/*.markdown-source-view.mod-cm6 .cm-selection{
     color: #CC7832;
-}
+}*/
 
 .markdown-source-view.mod-cm6.is-line-wrap.is-readable-line-width .cm-line:not(.HyperMD-table-row) {
     width: 700px;
