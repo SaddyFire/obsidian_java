@@ -27,7 +27,8 @@ OpenResty下的nginx.conf ^mNOQt0vm
 执行其中的业务，把结果返回给用户。相当于java中调用service。
  ^4OEjEZs4
 
- ^oyDWMCnv
+添加响应, 将浏览器的请求
+再次反向代理至java服务器 ^crbHkkRT
 
 
 # Embedded files
@@ -797,8 +798,8 @@ OpenResty下的nginx.conf ^mNOQt0vm
 		{
 			"id": "OGCMp3maXMiEmjRbPGCQN",
 			"type": "image",
-			"x": 141.40266594610375,
-			"y": 1065.911077653715,
+			"x": 135.40266594610375,
+			"y": 1087.911077653715,
 			"width": 519,
 			"height": 159.9924812030075,
 			"angle": 0,
@@ -812,11 +813,11 @@ OpenResty下的nginx.conf ^mNOQt0vm
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 930481590,
-			"version": 150,
-			"versionNonce": 797682678,
+			"version": 190,
+			"versionNonce": 520330102,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1642692779665,
+			"updated": 1642693038638,
 			"status": "pending",
 			"fileId": "0c0c441623c1bd12837152a87312b975163403d4",
 			"scale": [
@@ -871,12 +872,12 @@ OpenResty下的nginx.conf ^mNOQt0vm
 			"endArrowhead": "arrow"
 		},
 		{
-			"id": "oyDWMCnv",
+			"id": "crbHkkRT",
 			"type": "text",
-			"x": 173.06926140508813,
-			"y": 845.911077653715,
-			"width": 13,
-			"height": 24,
+			"x": 185.73594841680688,
+			"y": 819.911077653715,
+			"width": 228,
+			"height": 48,
 			"angle": 0,
 			"strokeColor": "#ff9933",
 			"backgroundColor": "transparent",
@@ -888,20 +889,20 @@ OpenResty下的nginx.conf ^mNOQt0vm
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"seed": 1904121270,
-			"version": 2,
-			"versionNonce": 1537689770,
+			"version": 278,
+			"versionNonce": 1027201898,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1642692871596,
-			"text": "",
-			"rawText": "",
-			"fontSize": 20,
+			"updated": 1642693035155,
+			"text": "添加响应, 将浏览器的请求\n再次反向代理至java服务器",
+			"rawText": "添加响应, 将浏览器的请求\n再次反向代理至java服务器",
+			"fontSize": 18.370672097759698,
 			"fontFamily": 3,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 20,
+			"baseline": 44,
 			"containerId": null,
-			"originalText": ""
+			"originalText": "添加响应, 将浏览器的请求\n再次反向代理至java服务器"
 		}
 	],
 	"appState": {
