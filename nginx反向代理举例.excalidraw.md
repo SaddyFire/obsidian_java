@@ -39,6 +39,7 @@ OpenResty下的nginx.conf ^mNOQt0vm
 9b1f54d7db309d1aae95d721978d257ce6770bbd: [[_resources/Pasted Image 20220120231542_430.png]]
 9a1f770ca3a1b052124ce9495b3bbca897f46ede: [[_resources/Pasted Image 20220120232832_867.png]]
 0c0c441623c1bd12837152a87312b975163403d4: [[_resources/Pasted Image 20220120233252_882.png]]
+499bea4f5338072f1064f49a9e47b21c24004d4b: [[_resources/Pasted Image 20220121210853_860.png]]
 
 %%
 # Drawing
@@ -948,6 +949,36 @@ OpenResty下的nginx.conf ^mNOQt0vm
 			"strokeSharpness": "sharp",
 			"boundElements": [],
 			"updated": 1642693676381
+		},
+		{
+			"id": "T-qGMgpMEfjtOzA4KSVZT",
+			"type": "image",
+			"x": 1421.367570614973,
+			"y": -301.6316556302327,
+			"width": 822,
+			"height": 614,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "#868e96",
+			"fillStyle": "cross-hatch",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1367458443,
+			"version": 59,
+			"versionNonce": 400695525,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1642770532163,
+			"status": "pending",
+			"fileId": "499bea4f5338072f1064f49a9e47b21c24004d4b",
+			"scale": [
+				1,
+				1
+			]
 		}
 	],
 	"appState": {
