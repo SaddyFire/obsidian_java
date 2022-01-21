@@ -9,7 +9,7 @@
         "state": {
           "type": "excalidraw",
           "state": {
-            "file": "nginx反向代理举例.excalidraw.md"
+            "file": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/Drawing 2022-01-21 20.17.45.excalidraw.md"
           }
         }
       }
@@ -75,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352
+    "width": 352,
+    "collapsed": true
   },
   "right": {
     "id": "eaafcc4feb3ef58e",
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nginx反向代理举例.excalidraw.md",
+                "file": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/Drawing 2022-01-21 20.17.45.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nginx反向代理举例.excalidraw.md"
+                "file": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/Drawing 2022-01-21 20.17.45.excalidraw.md"
               }
             }
           },
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nginx反向代理举例.excalidraw.md",
+                "file": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/Drawing 2022-01-21 20.17.45.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,15 +142,15 @@
   },
   "active": "52142e5f30e6ce72",
   "lastOpenFiles": [
+    "Ⅰ_integration_002_spring/Ⅱ_003_springboot/Drawing 2022-01-21 20.17.45.excalidraw.md",
+    "Untitled Diagram 1.svg",
+    "Ⅰ_integration_002_spring/Ⅱ_003_springboot/003 SpringMVC整合(底层原理).md",
+    "Ⅰ_integration_002_spring/Ⅱ_003_springboot/Untitled Diagram.svg",
     "nginx反向代理举例.excalidraw.md",
     "unlinked files output.md",
-    "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/000 核心点.md",
-    "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md",
-    "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md",
     "Untitled Diagram.svg",
-    "Ⅰ_integration_006_DistributeAdvance/Ⅱ_004_mutillevelCache/框架.md",
-    "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/002 处理方式.md",
-    "_resources/Pasted image 20220116180139.png",
-    "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/002 常用命令.md"
+    "Ⅰ_integration_002_spring/Ⅱ_003_springboot/015 springboot.md",
+    "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/000 核心点.md",
+    "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md"
   ]
 }
