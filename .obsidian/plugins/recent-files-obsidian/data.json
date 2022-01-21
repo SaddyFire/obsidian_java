@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Drawing 2022-01-21 20.17.45.excalidraw",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/Drawing 2022-01-21 20.17.45.excalidraw.md"
-    },
-    {
-      "basename": "003 SpringMVC整合(底层原理)",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/003 SpringMVC整合(底层原理).md"
+      "basename": "009 GateWay网关",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md"
     },
     {
       "basename": "nginx反向代理举例.excalidraw",
       "path": "nginx反向代理举例.excalidraw.md"
+    },
+    {
+      "basename": "015 springboot自动装配流程图",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/015 springboot自动装配流程图.md"
+    },
+    {
+      "basename": "014 springboot请求参数详解",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/014 springboot请求参数详解.md"
+    },
+    {
+      "basename": "003 SpringMVC整合(底层原理)",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/003 SpringMVC整合(底层原理).md"
     },
     {
       "basename": "unlinked files output",
@@ -27,10 +35,6 @@
     {
       "basename": "001 基础命令",
       "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md"
-    },
-    {
-      "basename": "009 GateWay网关",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md"
     },
     {
       "basename": "框架",
@@ -195,10 +199,6 @@
     {
       "basename": "2021122004",
       "path": "_resources/2021122004.png"
-    },
-    {
-      "basename": "014 springboot请求参数详解",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/014 springboot请求参数详解.md"
     }
   ],
   "omittedPaths": [],

@@ -4,12 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "52142e5f30e6ce72",
+        "id": "e4dd72292215b83c",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/Drawing 2022-01-21 20.17.45.excalidraw.md"
+            "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md",
+            "mode": "preview",
+            "source": false
           }
         }
       }
@@ -71,12 +73,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 352,
-    "collapsed": true
+    "width": 352
   },
   "right": {
     "id": "eaafcc4feb3ef58e",
@@ -100,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/Drawing 2022-01-21 20.17.45.excalidraw.md",
+                "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/Drawing 2022-01-21 20.17.45.excalidraw.md"
+                "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md"
               }
             }
           },
@@ -127,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/Drawing 2022-01-21 20.17.45.excalidraw.md",
+                "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,17 +142,17 @@
     "width": 292.3333435058594,
     "collapsed": true
   },
-  "active": "52142e5f30e6ce72",
+  "active": "e4dd72292215b83c",
   "lastOpenFiles": [
-    "Ⅰ_integration_002_spring/Ⅱ_003_springboot/Drawing 2022-01-21 20.17.45.excalidraw.md",
+    "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md",
+    "nginx反向代理举例.excalidraw.md",
+    "Ⅰ_integration_002_spring/Ⅱ_003_springboot/015 springboot自动装配流程图.md",
+    "Ⅰ_integration_002_spring/Ⅱ_003_springboot/014 springboot请求参数详解.md",
     "Untitled Diagram 1.svg",
     "Ⅰ_integration_002_spring/Ⅱ_003_springboot/003 SpringMVC整合(底层原理).md",
     "Ⅰ_integration_002_spring/Ⅱ_003_springboot/Untitled Diagram.svg",
-    "nginx反向代理举例.excalidraw.md",
     "unlinked files output.md",
     "Untitled Diagram.svg",
-    "Ⅰ_integration_002_spring/Ⅱ_003_springboot/015 springboot.md",
-    "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/000 核心点.md",
-    "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md"
+    "Ⅰ_integration_002_spring/Ⅱ_003_springboot/015 springboot.md"
   ]
 }
