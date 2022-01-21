@@ -4,13 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e4dd72292215b83c",
+        "id": "5487dab386785bea",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
-          "state": {
-            "file": "nginx反向代理举例.excalidraw.md"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -99,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nginx反向代理举例.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,9 +112,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "nginx反向代理举例.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -126,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nginx反向代理举例.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,17 +133,17 @@
     "width": 292.3333435058594,
     "collapsed": true
   },
-  "active": "e4dd72292215b83c",
+  "active": "5487dab386785bea",
   "lastOpenFiles": [
-    "nginx反向代理举例.excalidraw.md",
     "unlinked files output.md",
+    "_resources/Pasted image 20220115202226.png",
+    "Untitled Diagram.svg",
+    "_resources/Pasted Image 20220120232707_200.png",
+    "_resources/Pasted Image 20220121203125_903.png",
+    "Ⅰ_integration_006_DistributeAdvance/Ⅱ_004_mutillevelCache/nginx反向代理举例.excalidraw.md",
+    "Ⅰ_integration_006_DistributeAdvance/Ⅱ_004_mutillevelCache/框架.md",
     "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md",
     "Ⅰ_integration_002_spring/Ⅱ_003_springboot/015 springboot自动装配流程图.md",
-    "Ⅰ_integration_002_spring/Ⅱ_003_springboot/014 springboot请求参数详解.md",
-    "Untitled Diagram 1.svg",
-    "Ⅰ_integration_002_spring/Ⅱ_003_springboot/003 SpringMVC整合(底层原理).md",
-    "Ⅰ_integration_002_spring/Ⅱ_003_springboot/Untitled Diagram.svg",
-    "Untitled Diagram.svg",
-    "Ⅰ_integration_002_spring/Ⅱ_003_springboot/015 springboot.md"
+    "Ⅰ_integration_002_spring/Ⅱ_003_springboot/014 springboot请求参数详解.md"
   ]
 }

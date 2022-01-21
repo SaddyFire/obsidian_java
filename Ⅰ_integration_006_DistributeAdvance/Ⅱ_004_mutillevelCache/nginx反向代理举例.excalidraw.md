@@ -51,8 +51,8 @@ OpenResty下的nginx.conf ^mNOQt0vm
 	"elements": [
 		{
 			"type": "image",
-			"version": 352,
-			"versionNonce": 1072239627,
+			"version": 356,
+			"versionNonce": 1529677061,
 			"isDeleted": false,
 			"id": "deSA3AE8jtP0rtjk0uTQI",
 			"fillStyle": "hachure",
@@ -71,7 +71,7 @@ OpenResty下的nginx.conf ^mNOQt0vm
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1642769513939,
+			"updated": 1642770968137,
 			"status": "pending",
 			"fileId": "064c91a6ff71ca28216638e8e906b75cc56147d1",
 			"scale": [
@@ -81,8 +81,8 @@ OpenResty下的nginx.conf ^mNOQt0vm
 		},
 		{
 			"type": "image",
-			"version": 129,
-			"versionNonce": 1575634469,
+			"version": 133,
+			"versionNonce": 2111142347,
 			"isDeleted": false,
 			"id": "k-CRcT7oKm1l9T7UE8Gje",
 			"fillStyle": "hachure",
@@ -101,7 +101,7 @@ OpenResty下的nginx.conf ^mNOQt0vm
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1642769513939,
+			"updated": 1642770968137,
 			"status": "pending",
 			"fileId": "35644f22570fff38adc5b4ae32b5e04dba680a88",
 			"scale": [
@@ -333,8 +333,8 @@ OpenResty下的nginx.conf ^mNOQt0vm
 		},
 		{
 			"type": "image",
-			"version": 699,
-			"versionNonce": 23091883,
+			"version": 703,
+			"versionNonce": 263199845,
 			"isDeleted": false,
 			"id": "Zg9vv1a3vog4l47w09uWY",
 			"fillStyle": "hachure",
@@ -358,7 +358,7 @@ OpenResty下的nginx.conf ^mNOQt0vm
 					"type": "arrow"
 				}
 			],
-			"updated": 1642769513939,
+			"updated": 1642770968137,
 			"status": "pending",
 			"fileId": "6373b3fc2bccd894c5c4536c2a6892bff1866af9",
 			"scale": [
@@ -518,8 +518,8 @@ OpenResty下的nginx.conf ^mNOQt0vm
 		},
 		{
 			"type": "image",
-			"version": 473,
-			"versionNonce": 124270981,
+			"version": 477,
+			"versionNonce": 406456427,
 			"isDeleted": false,
 			"id": "aAYBkAPfpGXVdfAjteCuW",
 			"fillStyle": "hachure",
@@ -538,7 +538,7 @@ OpenResty下的nginx.conf ^mNOQt0vm
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1642769513939,
+			"updated": 1642770968137,
 			"status": "pending",
 			"fileId": "349e8921d9ecdc371e108a03e358841f15f86541",
 			"scale": [
@@ -548,8 +548,8 @@ OpenResty下的nginx.conf ^mNOQt0vm
 		},
 		{
 			"type": "image",
-			"version": 127,
-			"versionNonce": 762694987,
+			"version": 131,
+			"versionNonce": 647579589,
 			"isDeleted": false,
 			"id": "Xyhw0LFfmU_PxmOR-4s1f",
 			"fillStyle": "hachure",
@@ -577,7 +577,7 @@ OpenResty下的nginx.conf ^mNOQt0vm
 					"type": "arrow"
 				}
 			],
-			"updated": 1642769513939,
+			"updated": 1642770968137,
 			"status": "pending",
 			"fileId": "9b1f54d7db309d1aae95d721978d257ce6770bbd",
 			"scale": [
@@ -768,8 +768,8 @@ OpenResty下的nginx.conf ^mNOQt0vm
 		},
 		{
 			"type": "image",
-			"version": 150,
-			"versionNonce": 1737539813,
+			"version": 154,
+			"versionNonce": 542360331,
 			"isDeleted": false,
 			"id": "t3lytSRQfWEkaCiZd66G-",
 			"fillStyle": "hachure",
@@ -788,7 +788,7 @@ OpenResty下的nginx.conf ^mNOQt0vm
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1642769513939,
+			"updated": 1642770968137,
 			"status": "pending",
 			"fileId": "9a1f770ca3a1b052124ce9495b3bbca897f46ede",
 			"scale": [
@@ -798,8 +798,8 @@ OpenResty下的nginx.conf ^mNOQt0vm
 		},
 		{
 			"type": "image",
-			"version": 194,
-			"versionNonce": 662957035,
+			"version": 198,
+			"versionNonce": 302384933,
 			"isDeleted": false,
 			"id": "OGCMp3maXMiEmjRbPGCQN",
 			"fillStyle": "hachure",
@@ -818,7 +818,7 @@ OpenResty下的nginx.conf ^mNOQt0vm
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1642769513939,
+			"updated": 1642770968137,
 			"status": "pending",
 			"fileId": "0c0c441623c1bd12837152a87312b975163403d4",
 			"scale": [
@@ -951,28 +951,28 @@ OpenResty下的nginx.conf ^mNOQt0vm
 			"updated": 1642693676381
 		},
 		{
-			"id": "T-qGMgpMEfjtOzA4KSVZT",
 			"type": "image",
-			"x": 1421.367570614973,
-			"y": -301.6316556302327,
-			"width": 822,
-			"height": 614,
-			"angle": 0,
-			"strokeColor": "transparent",
-			"backgroundColor": "#868e96",
+			"version": 63,
+			"versionNonce": 2124229035,
+			"isDeleted": false,
+			"id": "T-qGMgpMEfjtOzA4KSVZT",
 			"fillStyle": "cross-hatch",
 			"strokeWidth": 4,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1421.367570614973,
+			"y": -301.6316556302327,
+			"strokeColor": "transparent",
+			"backgroundColor": "#868e96",
+			"width": 822,
+			"height": 614,
+			"seed": 1367458443,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1367458443,
-			"version": 59,
-			"versionNonce": 400695525,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1642770532163,
+			"boundElements": [],
+			"updated": 1642770968137,
 			"status": "pending",
 			"fileId": "499bea4f5338072f1064f49a9e47b21c24004d4b",
 			"scale": [
