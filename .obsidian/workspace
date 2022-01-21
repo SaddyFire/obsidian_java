@@ -7,11 +7,9 @@
         "id": "e4dd72292215b83c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md",
-            "mode": "preview",
-            "source": false
+            "file": "nginx反向代理举例.excalidraw.md"
           }
         }
       }
@@ -73,8 +71,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -102,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md",
+                "file": "nginx反向代理举例.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md"
+                "file": "nginx反向代理举例.excalidraw.md"
               }
             }
           },
@@ -129,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md",
+                "file": "nginx反向代理举例.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,14 +141,14 @@
   },
   "active": "e4dd72292215b83c",
   "lastOpenFiles": [
-    "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md",
     "nginx反向代理举例.excalidraw.md",
+    "unlinked files output.md",
+    "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md",
     "Ⅰ_integration_002_spring/Ⅱ_003_springboot/015 springboot自动装配流程图.md",
     "Ⅰ_integration_002_spring/Ⅱ_003_springboot/014 springboot请求参数详解.md",
     "Untitled Diagram 1.svg",
     "Ⅰ_integration_002_spring/Ⅱ_003_springboot/003 SpringMVC整合(底层原理).md",
     "Ⅰ_integration_002_spring/Ⅱ_003_springboot/Untitled Diagram.svg",
-    "unlinked files output.md",
     "Untitled Diagram.svg",
     "Ⅰ_integration_002_spring/Ⅱ_003_springboot/015 springboot.md"
   ]
