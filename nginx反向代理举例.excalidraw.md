@@ -28,7 +28,7 @@ OpenResty下的nginx.conf ^mNOQt0vm
  ^4OEjEZs4
 
 添加响应, 将浏览器的请求
-再次反向代理至java服务器 ^crbHkkRT
+再次反向代理至java服务器 ^JLPvFV78
 
 
 # Embedded files
@@ -587,8 +587,8 @@ OpenResty下的nginx.conf ^mNOQt0vm
 		{
 			"id": "8ZlWDQb5",
 			"type": "text",
-			"x": 559.8371948418901,
-			"y": 348.25629031763765,
+			"x": 557.1705078301713,
+			"y": 353.589633823497,
 			"width": 431,
 			"height": 27,
 			"angle": 0,
@@ -602,11 +602,11 @@ OpenResty下的nginx.conf ^mNOQt0vm
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"seed": 685884394,
-			"version": 181,
-			"versionNonce": 1167706282,
+			"version": 341,
+			"versionNonce": 1821343658,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1642691967511,
+			"updated": 1642693703611,
 			"text": "在http{}下添加对OpenResty的Lua模块的加载",
 			"rawText": "在http{}下添加对OpenResty的Lua模块的加载",
 			"fontSize": 20,
@@ -635,11 +635,11 @@ OpenResty下的nginx.conf ^mNOQt0vm
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 396850294,
-			"version": 91,
-			"versionNonce": 2086632746,
+			"version": 97,
+			"versionNonce": 1850038954,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1642691936715,
+			"updated": 1642693745004,
 			"points": [
 				[
 					0,
@@ -702,8 +702,8 @@ OpenResty下的nginx.conf ^mNOQt0vm
 		{
 			"id": "9Ng8OOEb",
 			"type": "text",
-			"x": 566.7121185479449,
-			"y": 534.0896490822861,
+			"x": 389.3787750420855,
+			"y": 556.7563360940048,
 			"width": 254,
 			"height": 27,
 			"angle": 0,
@@ -717,11 +717,11 @@ OpenResty下的nginx.conf ^mNOQt0vm
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"seed": 1916547690,
-			"version": 42,
-			"versionNonce": 1047576374,
+			"version": 91,
+			"versionNonce": 1063315830,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1642691981022,
+			"updated": 1642693697464,
 			"text": "在server{}下添加监听路径",
 			"rawText": "在server{}下添加监听路径",
 			"fontSize": 20,
@@ -872,7 +872,7 @@ OpenResty下的nginx.conf ^mNOQt0vm
 			"endArrowhead": "arrow"
 		},
 		{
-			"id": "crbHkkRT",
+			"id": "JLPvFV78",
 			"type": "text",
 			"x": 185.73594841680688,
 			"y": 819.911077653715,
@@ -903,6 +903,54 @@ OpenResty下的nginx.conf ^mNOQt0vm
 			"baseline": 44,
 			"containerId": null,
 			"originalText": "添加响应, 将浏览器的请求\n再次反向代理至java服务器"
+		},
+		{
+			"id": "XjvBNFJ7-FHG2ICwM6Te7",
+			"type": "rectangle",
+			"x": 614.2359484168069,
+			"y": -126.75557884042576,
+			"width": 294,
+			"height": 71.33334350585938,
+			"angle": 0,
+			"strokeColor": "#ff9933",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 198652022,
+			"version": 62,
+			"versionNonce": 357114986,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1642693595180
+		},
+		{
+			"id": "uWXYUf8cVxv1e-UeWtXhi",
+			"type": "rectangle",
+			"x": 642.9026354285256,
+			"y": 585.2444211595742,
+			"width": 104,
+			"height": 32.666656494140625,
+			"angle": 0,
+			"strokeColor": "#ff9933",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1513948970,
+			"version": 54,
+			"versionNonce": 39059818,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1642693676381
 		}
 	],
 	"appState": {
