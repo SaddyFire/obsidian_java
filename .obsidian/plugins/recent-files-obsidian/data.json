@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Linux-Day02",
+      "path": "Ⅰ_integration_004_linux/Ⅳ_004_day02/Linux-Day02.md"
+    },
+    {
+      "basename": "image-20210815005920721",
+      "path": "Ⅰ_integration_004_linux/Ⅳ_004_day02/assets/image-20210815005920721.png"
+    },
+    {
+      "basename": "image-20210814174005651",
+      "path": "Ⅰ_integration_004_linux/Ⅳ_004_day02/assets/image-20210814174005651.png"
+    },
+    {
       "basename": "Linux-Day01",
       "path": "Ⅰ_integration_004_linux/Ⅲ_003_day01/Linux-Day01.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "005 统一异常处理",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/005 统一异常处理.md"
-    },
-    {
-      "basename": "001 springCloud简介",
-      "path": "Ⅰ_integration_003_springCloud/Ⅱ_001_Eureka&Ribbon/001 springCloud简介.md"
-    },
-    {
-      "basename": "003 Ribbon负载均衡",
-      "path": "Ⅰ_integration_003_springCloud/Ⅱ_001_Eureka&Ribbon/003 Ribbon负载均衡.md"
-    },
-    {
-      "basename": "002 Eureka注册中心",
-      "path": "Ⅰ_integration_003_springCloud/Ⅱ_001_Eureka&Ribbon/002 Eureka注册中心.md"
     }
   ],
   "omittedPaths": [],

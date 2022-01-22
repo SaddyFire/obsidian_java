@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_integration_004_linux/Ⅲ_003_day01/Linux-Day01.md",
+            "file": "Ⅰ_integration_004_linux/Ⅳ_004_day02/Linux-Day02.md",
             "mode": "preview",
             "source": false
           }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_integration_004_linux/Ⅲ_003_day01/Linux-Day01.md",
+                "file": "Ⅰ_integration_004_linux/Ⅳ_004_day02/Linux-Day02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_integration_004_linux/Ⅲ_003_day01/Linux-Day01.md"
+                "file": "Ⅰ_integration_004_linux/Ⅳ_004_day02/Linux-Day02.md"
               }
             }
           },
@@ -129,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_integration_004_linux/Ⅲ_003_day01/Linux-Day01.md",
+                "file": "Ⅰ_integration_004_linux/Ⅳ_004_day02/Linux-Day02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,15 +144,15 @@
   },
   "active": "5487dab386785bea",
   "lastOpenFiles": [
+    "Ⅰ_integration_004_linux/Ⅳ_004_day02/Linux-Day02.md",
+    "Ⅰ_integration_004_linux/Ⅳ_004_day02/assets/image-20210815005920721.png",
+    "Ⅰ_integration_004_linux/Ⅳ_004_day02/assets/image-20210814174005651.png",
     "Ⅰ_integration_004_linux/Ⅲ_003_day01/Linux-Day01.md",
     "Ⅰ_integration_004_linux/Ⅲ_003_day01/Linux-Day01.pdf",
     "Ⅰ_integration_004_linux/Ⅲ_003_day01/assets/image-20210808232140228.png",
     "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/002 常用命令.md",
     "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/003 软件安装.md",
     "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/004 网卡加入托管.md",
-    "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/001 Linux各目录介绍.md",
-    "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md",
-    "unlinked files output.md",
-    "_resources/Pasted image 20220115202226.png"
+    "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/001 Linux各目录介绍.md"
   ]
 }
