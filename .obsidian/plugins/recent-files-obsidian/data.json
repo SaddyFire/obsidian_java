@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Linux-Day01",
+      "path": "Ⅰ_integration_004_linux/Ⅲ_003_day01/Linux-Day01.md"
+    },
+    {
+      "basename": "Linux-Day01",
+      "path": "Ⅰ_integration_004_linux/Ⅲ_003_day01/Linux-Day01.pdf"
+    },
+    {
+      "basename": "image-20210808232140228",
+      "path": "Ⅰ_integration_004_linux/Ⅲ_003_day01/assets/image-20210808232140228.png"
+    },
+    {
+      "basename": "002 常用命令",
+      "path": "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/002 常用命令.md"
+    },
+    {
+      "basename": "003 软件安装",
+      "path": "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/003 软件安装.md"
+    },
+    {
+      "basename": "004 网卡加入托管",
+      "path": "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/004 网卡加入托管.md"
+    },
+    {
+      "basename": "001 Linux各目录介绍",
+      "path": "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/001 Linux各目录介绍.md"
+    },
+    {
       "basename": "001 基础命令",
       "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md"
     },
@@ -61,24 +89,8 @@
       "path": "_resources/Pasted image 20220116180139.png"
     },
     {
-      "basename": "002 常用命令",
-      "path": "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/002 常用命令.md"
-    },
-    {
-      "basename": "001 Linux各目录介绍",
-      "path": "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/001 Linux各目录介绍.md"
-    },
-    {
-      "basename": "004 网卡加入托管",
-      "path": "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/004 网卡加入托管.md"
-    },
-    {
       "basename": "Ⅱ_003_docker",
       "path": "Ⅰ_integration_004_linux/Ⅱ_002_docker(未加载)/Ⅱ_003_docker.md"
-    },
-    {
-      "basename": "003 软件安装",
-      "path": "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/003 软件安装.md"
     },
     {
       "basename": "002 obsidian常用插件",
@@ -187,18 +199,6 @@
     {
       "basename": "002 Eureka注册中心",
       "path": "Ⅰ_integration_003_springCloud/Ⅱ_001_Eureka&Ribbon/002 Eureka注册中心.md"
-    },
-    {
-      "basename": "002 SpringData-Mongo",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/002 SpringData-Mongo.md"
-    },
-    {
-      "basename": "003 MongoDB在项目中启动报错",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/003 MongoDB在项目中启动报错.md"
-    },
-    {
-      "basename": "004 随机获取MongoDB表中的数据",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/004 随机获取MongoDB表中的数据.md"
     }
   ],
   "omittedPaths": [],

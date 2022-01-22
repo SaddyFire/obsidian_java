@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md",
+            "file": "Ⅰ_integration_004_linux/Ⅲ_003_day01/Linux-Day01.md",
             "mode": "preview",
             "source": false
           }
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -101,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md",
+                "file": "Ⅰ_integration_004_linux/Ⅲ_003_day01/Linux-Day01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md"
+                "file": "Ⅰ_integration_004_linux/Ⅲ_003_day01/Linux-Day01.md"
               }
             }
           },
@@ -128,13 +129,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md",
+                "file": "Ⅰ_integration_004_linux/Ⅲ_003_day01/Linux-Day01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -143,15 +145,15 @@
   },
   "active": "5487dab386785bea",
   "lastOpenFiles": [
+    "Ⅰ_integration_004_linux/Ⅲ_003_day01/Linux-Day01.md",
+    "Ⅰ_integration_004_linux/Ⅲ_003_day01/Linux-Day01.pdf",
+    "Ⅰ_integration_004_linux/Ⅲ_003_day01/assets/image-20210808232140228.png",
+    "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/002 常用命令.md",
+    "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/003 软件安装.md",
+    "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/004 网卡加入托管.md",
+    "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/001 Linux各目录介绍.md",
     "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md",
     "unlinked files output.md",
-    "_resources/Pasted image 20220115202226.png",
-    "Untitled Diagram.svg",
-    "_resources/Pasted Image 20220120232707_200.png",
-    "_resources/Pasted Image 20220121203125_903.png",
-    "Ⅰ_integration_006_DistributeAdvance/Ⅱ_004_mutillevelCache/nginx反向代理举例.excalidraw.md",
-    "Ⅰ_integration_006_DistributeAdvance/Ⅱ_004_mutillevelCache/框架.md",
-    "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md",
-    "Ⅰ_integration_002_spring/Ⅱ_003_springboot/015 springboot自动装配流程图.md"
+    "_resources/Pasted image 20220115202226.png"
   ]
 }
