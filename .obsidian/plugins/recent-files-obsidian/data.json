@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "007 代码生成器",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/007 代码生成器.md"
+    },
+    {
+      "basename": "002 idea配置",
+      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/002 idea配置.md"
+    },
+    {
       "basename": "Linux-Day02",
       "path": "Ⅰ_integration_004_linux/Ⅳ_004_day02/Linux-Day02.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "002 (temp) idea删除git项目",
       "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/002 (temp) idea删除git项目.md"
-    },
-    {
-      "basename": "003 tortoise 推送",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/003 tortoise 推送.md"
-    },
-    {
-      "basename": "005 统一异常处理",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/005 统一异常处理.md"
     }
   ],
   "omittedPaths": [],
