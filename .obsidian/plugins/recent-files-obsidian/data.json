@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "001 模块介绍",
+      "path": "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/001 模块介绍.md"
+    },
+    {
       "basename": "007 代码生成器",
       "path": "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/007 代码生成器.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "004 gitignore文件",
       "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/004 gitignore文件.md"
-    },
-    {
-      "basename": "002 (temp) idea删除git项目",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/002 (temp) idea删除git项目.md"
     }
   ],
   "omittedPaths": [],
