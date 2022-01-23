@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/001 模块介绍.md",
-            "mode": "source",
+            "file": "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/002 全局异常.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/001 模块介绍.md",
+                "file": "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/002 全局异常.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/001 模块介绍.md"
+                "file": "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/002 全局异常.md"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/001 模块介绍.md",
+                "file": "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/002 全局异常.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,6 +145,7 @@
   },
   "active": "5487dab386785bea",
   "lastOpenFiles": [
+    "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/002 全局异常.md",
     "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/001 模块介绍.md",
     "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/007 代码生成器.md",
     "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/002 idea配置.md",
@@ -153,7 +154,6 @@
     "Ⅰ_integration_004_linux/Ⅳ_004_day02/assets/image-20210814174005651.png",
     "Ⅰ_integration_004_linux/Ⅲ_003_day01/Linux-Day01.md",
     "Ⅰ_integration_004_linux/Ⅲ_003_day01/Linux-Day01.pdf",
-    "Ⅰ_integration_004_linux/Ⅲ_003_day01/assets/image-20210808232140228.png",
-    "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/002 常用命令.md"
+    "Ⅰ_integration_004_linux/Ⅲ_003_day01/assets/image-20210808232140228.png"
   ]
 }
