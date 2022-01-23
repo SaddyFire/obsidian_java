@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/002 全局异常.md",
-            "mode": "preview",
+            "file": "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/001 模块介绍.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -73,12 +73,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 352
+    "width": 352,
+    "collapsed": true
   },
   "right": {
     "id": "eaafcc4feb3ef58e",
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/002 全局异常.md",
+                "file": "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/001 模块介绍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/002 全局异常.md"
+                "file": "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/001 模块介绍.md"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/002 全局异常.md",
+                "file": "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/001 模块介绍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,8 +145,8 @@
   },
   "active": "5487dab386785bea",
   "lastOpenFiles": [
-    "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/002 全局异常.md",
     "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/001 模块介绍.md",
+    "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/002 全局异常.md",
     "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/007 代码生成器.md",
     "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/002 idea配置.md",
     "Ⅰ_integration_004_linux/Ⅳ_004_day02/Linux-Day02.md",
