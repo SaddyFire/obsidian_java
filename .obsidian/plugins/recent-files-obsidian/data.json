@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "001 使用步骤",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_007_swagger/001 使用步骤.md"
+    },
+    {
+      "basename": "003 常用注解",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_007_swagger/003 常用注解.md"
+    },
+    {
+      "basename": "002 访问页面",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_007_swagger/002 访问页面.md"
+    },
+    {
+      "basename": "004 简单静态结果类的制作",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_007_swagger/004 简单静态结果类的制作.md"
+    },
+    {
+      "basename": "005 api制作注意事项",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_007_swagger/005 api制作注意事项.md"
+    },
+    {
+      "basename": "006 配置类",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_007_swagger/006 配置类.md"
+    },
+    {
       "basename": "001 模块介绍",
       "path": "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/001 模块介绍.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "01 maven详解",
       "path": "Ⅰ_integration_002_spring/Ⅱ_001_maven详解/01 maven详解.md"
-    },
-    {
-      "basename": "02 IDEA中Maven指令含义",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_001_maven详解/02 IDEA中Maven指令含义.md"
-    },
-    {
-      "basename": "001 阿里云短信发送",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/001 阿里云短信发送.md"
-    },
-    {
-      "basename": "001 springboot_bean的制作",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/001 springboot_bean的制作.md"
-    },
-    {
-      "basename": "003 JWT-鉴权",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/003 JWT-鉴权.md"
-    },
-    {
-      "basename": "004 字段自动填充",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/004 字段自动填充.md"
-    },
-    {
-      "basename": "005 访问测试",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/005 访问测试.md"
     }
   ],
   "omittedPaths": [],

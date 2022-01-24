@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/001 模块介绍.md",
+            "file": "Ⅰ_integration_002_spring/Ⅱ_007_swagger/001 使用步骤.md",
             "mode": "preview",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "swagger",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352,
-    "collapsed": true
+    "width": 352
   },
   "right": {
     "id": "eaafcc4feb3ef58e",
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/001 模块介绍.md",
+                "file": "Ⅰ_integration_002_spring/Ⅱ_007_swagger/001 使用步骤.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/001 模块介绍.md"
+                "file": "Ⅰ_integration_002_spring/Ⅱ_007_swagger/001 使用步骤.md"
               }
             }
           },
@@ -129,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/001 模块介绍.md",
+                "file": "Ⅰ_integration_002_spring/Ⅱ_007_swagger/001 使用步骤.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,15 +144,15 @@
   },
   "active": "5487dab386785bea",
   "lastOpenFiles": [
+    "Ⅰ_integration_002_spring/Ⅱ_007_swagger/001 使用步骤.md",
+    "Ⅰ_integration_002_spring/Ⅱ_007_swagger/003 常用注解.md",
+    "Ⅰ_integration_002_spring/Ⅱ_007_swagger/002 访问页面.md",
+    "Ⅰ_integration_002_spring/Ⅱ_007_swagger/004 简单静态结果类的制作.md",
+    "Ⅰ_integration_002_spring/Ⅱ_007_swagger/005 api制作注意事项.md",
+    "Ⅰ_integration_002_spring/Ⅱ_007_swagger/006 配置类.md",
     "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/001 模块介绍.md",
     "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/002 全局异常.md",
     "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/007 代码生成器.md",
-    "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/002 idea配置.md",
-    "Ⅰ_integration_004_linux/Ⅳ_004_day02/Linux-Day02.md",
-    "Ⅰ_integration_004_linux/Ⅳ_004_day02/assets/image-20210815005920721.png",
-    "Ⅰ_integration_004_linux/Ⅳ_004_day02/assets/image-20210814174005651.png",
-    "Ⅰ_integration_004_linux/Ⅲ_003_day01/Linux-Day01.md",
-    "Ⅰ_integration_004_linux/Ⅲ_003_day01/Linux-Day01.pdf",
-    "Ⅰ_integration_004_linux/Ⅲ_003_day01/assets/image-20210808232140228.png"
+    "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/002 idea配置.md"
   ]
 }
