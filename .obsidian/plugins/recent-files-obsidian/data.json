@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "003 知识点整理",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/003 知识点整理.md"
+    },
+    {
+      "basename": "002 mysql_advance",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/002 mysql_advance.md"
+    },
+    {
       "basename": "001 模块介绍",
       "path": "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/001 模块介绍.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "29934bb79cb34e62b5faa8f6c58c4925",
       "path": "_resources/29934bb79cb34e62b5faa8f6c58c4925.png"
-    },
-    {
-      "basename": "8d90256c688343498ab7beffdecf5a01",
-      "path": "_resources/8d90256c688343498ab7beffdecf5a01.png"
-    },
-    {
-      "basename": "01 maven详解",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_001_maven详解/01 maven详解.md"
     }
   ],
   "omittedPaths": [],
