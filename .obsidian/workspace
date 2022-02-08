@@ -4,12 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "5487dab386785bea",
+        "id": "4308d0e3bb60049a",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/015 springboot自动装配流程图.md"
+            "file": "unlinked files output.md",
+            "mode": "preview",
+            "source": false
           }
         }
       }
@@ -71,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/015 springboot自动装配流程图.md",
+                "file": "unlinked files output.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/015 springboot自动装配流程图.md"
+                "file": "unlinked files output.md"
               }
             }
           },
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/015 springboot自动装配流程图.md",
+                "file": "unlinked files output.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,8 +142,10 @@
     "width": 292.3333435058594,
     "collapsed": true
   },
-  "active": "5487dab386785bea",
+  "active": "4308d0e3bb60049a",
   "lastOpenFiles": [
+    "unlinked files output.md",
+    "Untitled Diagram.svg",
     "Ⅰ_integration_002_spring/Ⅱ_003_springboot/015 springboot自动装配流程图.md",
     "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/000 零零散散.md",
     "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/001 模块介绍.md",
@@ -150,8 +153,6 @@
     "Ⅰ_integration_006_DistributeAdvance/Ⅱ_004_mutillevelCache/框架.md",
     "Ⅰ_integration_006_DistributeAdvance/Ⅱ_004_mutillevelCache/nginx反向代理举例.excalidraw.md",
     "Ⅰ_integration_002_spring/Ⅱ_002_mysql/003 知识点整理.md",
-    "Ⅰ_integration_002_spring/Ⅱ_003_springboot/014 springboot请求参数详解.md",
-    "Ⅰ_integration_002_spring/Ⅱ_002_mysql/002 mysql_advance.md",
-    "Ⅰ_integration_002_spring/Ⅱ_007_swagger/001 使用步骤.md"
+    "Ⅰ_integration_002_spring/Ⅱ_003_springboot/014 springboot请求参数详解.md"
   ]
 }

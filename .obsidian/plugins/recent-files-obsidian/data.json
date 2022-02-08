@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "unlinked files output",
+      "path": "unlinked files output.md"
+    },
+    {
+      "basename": "Untitled Diagram",
+      "path": "Untitled Diagram.svg"
+    },
+    {
       "basename": "015 springboot自动装配流程图",
       "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/015 springboot自动装配流程图.md"
     },
@@ -113,16 +121,8 @@
       "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md"
     },
     {
-      "basename": "unlinked files output",
-      "path": "unlinked files output.md"
-    },
-    {
       "basename": "Pasted image 20220115202226",
       "path": "_resources/Pasted image 20220115202226.png"
-    },
-    {
-      "basename": "Untitled Diagram",
-      "path": "Untitled Diagram.svg"
     },
     {
       "basename": "Pasted Image 20220120232707_200",
@@ -198,7 +198,7 @@
     },
     {
       "basename": "000 二维码的生成细节和原理",
-      "path": "Ⅰ_integration_SSS_concat/Ⅱ_003_微信支付/000 二维码的生成细节和原理.md"
+      "path": "Ⅰ_integration_SSS_another/Ⅱ_003_微信支付/000 二维码的生成细节和原理.md"
     }
   ],
   "omittedPaths": [],

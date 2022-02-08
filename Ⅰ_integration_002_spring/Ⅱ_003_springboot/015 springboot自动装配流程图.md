@@ -9,6 +9,8 @@ excalidraw-plugin: parsed
 # Text Elements
 通过元信息文件获取资源 ^EbFEi9Ab
 
+@Enable的本质是 @Import ^QDYej3m8
+
 
 # Embedded files
 1e5dde714423b441decd5a5c39b8412fb64c9583: [[_resources/Pasted Image 20220121201906_071.png]]
@@ -19,6 +21,7 @@ da6bd91d858f80777379db5cec189fb96a187e7a: [[_resources/Pasted Image 202201212026
 c63249b9b3f115f834fb49b04e4f137ff5ce1823: [[_resources/Pasted Image 20220121203025_903.png]]
 cc87c0fb753ac40b9754027fd3d5e09055c24a0f: [[_resources/Pasted Image 20220121203245_904.png]]
 76cb494676404414dd307af118359cf00d5e5b12: [[_resources/Pasted Image 20220121203525_904.png]]
+5b9130f3bfabe6faef2d5bc260c10e314088552f: [[_resources/Pasted Image 20220208134627_848.png]]
 
 %%
 # Drawing
@@ -605,6 +608,69 @@ cc87c0fb753ac40b9754027fd3d5e09055c24a0f: [[_resources/Pasted Image 202201212032
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "通过元信息文件获取资源"
+		},
+		{
+			"id": "beh6FOaI2lCC2V5kdSbwr",
+			"type": "image",
+			"x": 360.12812353134984,
+			"y": 311.5699893538574,
+			"width": 949.5829822171127,
+			"height": 286.55557250976585,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 721039498,
+			"version": 115,
+			"versionNonce": 1655922378,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1644299197117,
+			"status": "pending",
+			"fileId": "5b9130f3bfabe6faef2d5bc260c10e314088552f",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"id": "QDYej3m8",
+			"type": "text",
+			"x": 594.6562127453508,
+			"y": 245.5837456476129,
+			"width": 250,
+			"height": 29,
+			"angle": 0,
+			"strokeColor": "#e67700",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 57472918,
+			"version": 33,
+			"versionNonce": 566234006,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1644299222693,
+			"text": "@Enable的本质是 @Import",
+			"rawText": "@Enable的本质是 @Import",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 22,
+			"containerId": null,
+			"originalText": "@Enable的本质是 @Import"
 		}
 	],
 	"appState": {
