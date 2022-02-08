@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "003 gateway",
+      "path": "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/003 gateway.md"
+    },
+    {
+      "basename": "001 模块介绍",
+      "path": "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/001 模块介绍.md"
+    },
+    {
+      "basename": "000 零零散散",
+      "path": "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/000 零零散散.md"
+    },
+    {
+      "basename": "002 全局异常",
+      "path": "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/002 全局异常.md"
+    },
+    {
       "basename": "005 File& IO",
       "path": "Ⅰ_integration_001_javaBasic/005 File& IO.md"
     },
@@ -15,18 +31,6 @@
     {
       "basename": "015 springboot自动装配流程图",
       "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/015 springboot自动装配流程图.md"
-    },
-    {
-      "basename": "000 零零散散",
-      "path": "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/000 零零散散.md"
-    },
-    {
-      "basename": "001 模块介绍",
-      "path": "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/001 模块介绍.md"
-    },
-    {
-      "basename": "002 全局异常",
-      "path": "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/002 全局异常.md"
     },
     {
       "basename": "框架",
@@ -195,10 +199,6 @@
     {
       "basename": "002 Seata",
       "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_002_Seata/002 Seata.md"
-    },
-    {
-      "basename": "001 雪崩效应",
-      "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/001 雪崩效应.md"
     }
   ],
   "omittedPaths": [],
