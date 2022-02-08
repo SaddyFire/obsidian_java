@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "001 模块介绍",
+      "path": "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/001 模块介绍.md"
+    },
+    {
+      "basename": "002 全局异常",
+      "path": "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/002 全局异常.md"
+    },
+    {
+      "basename": "框架",
+      "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_004_mutillevelCache/框架.md"
+    },
+    {
+      "basename": "nginx反向代理举例.excalidraw",
+      "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_004_mutillevelCache/nginx反向代理举例.excalidraw.md"
+    },
+    {
       "basename": "003 知识点整理",
       "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/003 知识点整理.md"
     },
@@ -15,14 +31,6 @@
     {
       "basename": "002 mysql_advance",
       "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/002 mysql_advance.md"
-    },
-    {
-      "basename": "001 模块介绍",
-      "path": "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/001 模块介绍.md"
-    },
-    {
-      "basename": "002 全局异常",
-      "path": "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/002 全局异常.md"
     },
     {
       "basename": "001 使用步骤",
@@ -119,14 +127,6 @@
     {
       "basename": "Pasted Image 20220121203125_903",
       "path": "_resources/Pasted Image 20220121203125_903.png"
-    },
-    {
-      "basename": "nginx反向代理举例.excalidraw",
-      "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_004_mutillevelCache/nginx反向代理举例.excalidraw.md"
-    },
-    {
-      "basename": "框架",
-      "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_004_mutillevelCache/框架.md"
     },
     {
       "basename": "009 GateWay网关",

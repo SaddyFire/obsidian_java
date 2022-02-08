@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/003 知识点整理.md",
+            "file": "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/001 模块介绍.md",
             "mode": "preview",
             "source": false
           }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352,
-    "collapsed": true
+    "width": 352
   },
   "right": {
     "id": "eaafcc4feb3ef58e",
@@ -103,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/003 知识点整理.md",
+                "file": "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/001 模块介绍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/003 知识点整理.md"
+                "file": "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/001 模块介绍.md"
               }
             }
           },
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/003 知识点整理.md",
+                "file": "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/001 模块介绍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,15 +145,15 @@
   },
   "active": "5487dab386785bea",
   "lastOpenFiles": [
+    "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/001 模块介绍.md",
+    "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/002 全局异常.md",
+    "Ⅰ_integration_006_DistributeAdvance/Ⅱ_004_mutillevelCache/框架.md",
+    "Ⅰ_integration_006_DistributeAdvance/Ⅱ_004_mutillevelCache/nginx反向代理举例.excalidraw.md",
     "Ⅰ_integration_002_spring/Ⅱ_002_mysql/003 知识点整理.md",
     "Ⅰ_integration_002_spring/Ⅱ_003_springboot/015 springboot自动装配流程图.md",
     "Ⅰ_integration_002_spring/Ⅱ_003_springboot/014 springboot请求参数详解.md",
     "Ⅰ_integration_002_spring/Ⅱ_002_mysql/002 mysql_advance.md",
-    "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/001 模块介绍.md",
-    "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/002 全局异常.md",
     "Ⅰ_integration_002_spring/Ⅱ_007_swagger/001 使用步骤.md",
-    "Ⅰ_integration_002_spring/Ⅱ_007_swagger/003 常用注解.md",
-    "Ⅰ_integration_002_spring/Ⅱ_007_swagger/002 访问页面.md",
-    "Ⅰ_integration_002_spring/Ⅱ_007_swagger/004 简单静态结果类的制作.md"
+    "Ⅰ_integration_002_spring/Ⅱ_007_swagger/003 常用注解.md"
   ]
 }
