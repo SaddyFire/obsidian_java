@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "005 File& IO",
+      "path": "Ⅰ_integration_001_javaBasic/005 File& IO.md"
+    },
+    {
       "basename": "unlinked files output",
       "path": "unlinked files output.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "001 雪崩效应",
       "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/001 雪崩效应.md"
-    },
-    {
-      "basename": "000 二维码的生成细节和原理",
-      "path": "Ⅰ_integration_SSS_another/Ⅱ_003_微信支付/000 二维码的生成细节和原理.md"
     }
   ],
   "omittedPaths": [],
