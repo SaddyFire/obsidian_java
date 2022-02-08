@@ -7,9 +7,11 @@
         "id": "4308d0e3bb60049a",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_004_mutillevelCache/nginx反向代理举例.md"
+            "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/003 知识点整理.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -100,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_004_mutillevelCache/nginx反向代理举例.md",
+                "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/003 知识点整理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_004_mutillevelCache/nginx反向代理举例.md"
+                "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/003 知识点整理.md"
               }
             }
           },
@@ -127,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_004_mutillevelCache/nginx反向代理举例.md",
+                "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/003 知识点整理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,6 +145,7 @@
   },
   "active": "4308d0e3bb60049a",
   "lastOpenFiles": [
+    "Ⅰ_integration_002_spring/Ⅱ_002_mysql/003 知识点整理.md",
     "Ⅰ_integration_006_DistributeAdvance/Ⅱ_004_mutillevelCache/nginx反向代理举例.md",
     "Ⅰ_integration_006_DistributeAdvance/Ⅱ_004_mutillevelCache/框架.md",
     "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/003 gateway.md",
@@ -151,7 +154,6 @@
     "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/000 零零散散.md",
     "Ⅰ_integration_001_javaBasic/005 File& IO.md",
     "unlinked files output.md",
-    "Untitled Diagram.svg",
-    "Ⅰ_integration_002_spring/Ⅱ_003_springboot/015 springboot自动装配流程图.md"
+    "Untitled Diagram.svg"
   ]
 }
