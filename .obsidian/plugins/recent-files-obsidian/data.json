@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "015 springboot自动装配流程图",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/015 springboot自动装配流程图.md"
+    },
+    {
+      "basename": "000 零零散散",
+      "path": "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/000 零零散散.md"
+    },
+    {
       "basename": "001 模块介绍",
       "path": "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/001 模块介绍.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "003 知识点整理",
       "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/003 知识点整理.md"
-    },
-    {
-      "basename": "015 springboot自动装配流程图",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/015 springboot自动装配流程图.md"
     },
     {
       "basename": "014 springboot请求参数详解",
@@ -195,10 +199,6 @@
     {
       "basename": "000 二维码的生成细节和原理",
       "path": "Ⅰ_integration_SSS_concat/Ⅱ_003_微信支付/000 二维码的生成细节和原理.md"
-    },
-    {
-      "basename": "29934bb79cb34e62b5faa8f6c58c4925",
-      "path": "_resources/29934bb79cb34e62b5faa8f6c58c4925.png"
     }
   ],
   "omittedPaths": [],
