@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled Diagram",
+      "path": "Untitled Diagram.svg"
+    },
+    {
+      "basename": "unlinked files output",
+      "path": "unlinked files output.md"
+    },
+    {
       "basename": "000 零零散散",
       "path": "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/000 零零散散.md"
     },
@@ -31,14 +39,6 @@
     {
       "basename": "005 File& IO",
       "path": "Ⅰ_integration_001_javaBasic/005 File& IO.md"
-    },
-    {
-      "basename": "unlinked files output",
-      "path": "unlinked files output.md"
-    },
-    {
-      "basename": "Untitled Diagram",
-      "path": "Untitled Diagram.svg"
     },
     {
       "basename": "015 springboot自动装配流程图",
