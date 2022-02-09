@@ -7709,8 +7709,3 @@ body #wordsprint #statsPanel {
     padding: 0 5px;
 }
 
-#write ol>li,
-#write ul>li {
-    color: #db4d52;
-    font-weight: bold;
-}
