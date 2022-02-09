@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/001 模块介绍.md",
+            "file": "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/000 零零散散.md",
             "mode": "preview",
             "source": false
           }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/001 模块介绍.md",
+                "file": "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/000 零零散散.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/001 模块介绍.md"
+                "file": "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/000 零零散散.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/001 模块介绍.md",
+                "file": "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/000 零零散散.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,8 +146,8 @@
   },
   "active": "4308d0e3bb60049a",
   "lastOpenFiles": [
-    "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/001 模块介绍.md",
     "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/000 零零散散.md",
+    "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/001 模块介绍.md",
     "Ⅰ_integration_002_spring/Ⅱ_002_mysql/003 知识点整理.md",
     "Ⅰ_integration_006_DistributeAdvance/Ⅱ_004_mutillevelCache/nginx反向代理举例.md",
     "Ⅰ_integration_006_DistributeAdvance/Ⅱ_004_mutillevelCache/框架.md",
