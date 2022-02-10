@@ -7,8 +7,12 @@
         "id": "1750e3c2b2488de7",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Ⅰ_integration_SSS_interview/Ⅰ_002_复习的技术/Ⅱ_001_note/05 反射、GC、JVM优化面经.md",
+            "mode": "preview",
+            "source": false
+          }
         }
       }
     ],
@@ -62,15 +66,14 @@
             }
           },
           {
-            "id": "0ce21170621a9276",
+            "id": "44d59a44762d2fa4",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ⅰ_integration_SSS_interview/Ⅰ_002_复习的技术/Ⅱ_001_note/05 反射、GC、JVM优化面经.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ⅰ_integration_SSS_interview/Ⅰ_002_复习的技术/Ⅱ_001_note/05 反射、GC、JVM优化面经.md"
+              }
             }
           },
           {
@@ -122,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ⅰ_integration_SSS_interview/Ⅰ_002_复习的技术/Ⅱ_001_note/05 反射、GC、JVM优化面经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,15 +144,15 @@
   },
   "active": "1750e3c2b2488de7",
   "lastOpenFiles": [
-    "Untitled Diagram.svg",
-    "unlinked files output.md",
-    "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/000 零零散散.md",
-    "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/001 模块介绍.md",
-    "Ⅰ_integration_002_spring/Ⅱ_002_mysql/003 知识点整理.md",
-    "Ⅰ_integration_006_DistributeAdvance/Ⅱ_004_mutillevelCache/nginx反向代理举例.md",
-    "Ⅰ_integration_006_DistributeAdvance/Ⅱ_004_mutillevelCache/框架.md",
-    "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/003 gateway.md",
-    "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/002 全局异常.md",
-    "Ⅰ_integration_001_javaBasic/005 File& IO.md"
+    "Ⅰ_integration_SSS_interview/Ⅰ_002_复习的技术/Ⅱ_001_note/05 反射、GC、JVM优化面经.md",
+    "Ⅰ_integration_SSS_interview/Ⅰ_002_复习的技术/Ⅱ_001_note/04 java锁、高并发、多线程面经.md",
+    "Ⅰ_integration_SSS_interview/Ⅰ_001_github/Ⅱ_001_note/001 spring.md",
+    "Ⅰ_integration_SSS_interview/Ⅰ_001_github/Ⅱ_001_note/002 java_se.md",
+    "Ⅰ_integration_SSS_interview/Ⅰ_001_github/Ⅱ_001_note/003 java_se_answer.md",
+    "Ⅰ_integration_SSS_interview/Ⅰ_001_github/Ⅱ_002_drawbrand/mytest.excalidraw.md",
+    "Ⅰ_integration_SSS_interview/Ⅰ_002_复习的技术/Ⅱ_001_note/01 java基础原理面经.md",
+    "Ⅰ_integration_SSS_interview/Ⅰ_002_复习的技术/Ⅱ_001_note/02 java集合面经.md",
+    "Ⅰ_integration_SSS_interview/Ⅰ_002_复习的技术/Ⅱ_001_note/03 基础算法与数据结构.md",
+    "Untitled Diagram.svg"
   ]
 }

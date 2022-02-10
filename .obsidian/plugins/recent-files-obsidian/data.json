@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "05 反射、GC、JVM优化面经",
+      "path": "Ⅰ_integration_SSS_interview/Ⅰ_002_复习的技术/Ⅱ_001_note/05 反射、GC、JVM优化面经.md"
+    },
+    {
+      "basename": "04 java锁、高并发、多线程面经",
+      "path": "Ⅰ_integration_SSS_interview/Ⅰ_002_复习的技术/Ⅱ_001_note/04 java锁、高并发、多线程面经.md"
+    },
+    {
+      "basename": "001 spring",
+      "path": "Ⅰ_integration_SSS_interview/Ⅰ_001_github/Ⅱ_001_note/001 spring.md"
+    },
+    {
+      "basename": "002 java_se",
+      "path": "Ⅰ_integration_SSS_interview/Ⅰ_001_github/Ⅱ_001_note/002 java_se.md"
+    },
+    {
+      "basename": "003 java_se_answer",
+      "path": "Ⅰ_integration_SSS_interview/Ⅰ_001_github/Ⅱ_001_note/003 java_se_answer.md"
+    },
+    {
+      "basename": "mytest.excalidraw",
+      "path": "Ⅰ_integration_SSS_interview/Ⅰ_001_github/Ⅱ_002_drawbrand/mytest.excalidraw.md"
+    },
+    {
+      "basename": "01 java基础原理面经",
+      "path": "Ⅰ_integration_SSS_interview/Ⅰ_002_复习的技术/Ⅱ_001_note/01 java基础原理面经.md"
+    },
+    {
+      "basename": "02 java集合面经",
+      "path": "Ⅰ_integration_SSS_interview/Ⅰ_002_复习的技术/Ⅱ_001_note/02 java集合面经.md"
+    },
+    {
+      "basename": "03 基础算法与数据结构",
+      "path": "Ⅰ_integration_SSS_interview/Ⅰ_002_复习的技术/Ⅱ_001_note/03 基础算法与数据结构.md"
+    },
+    {
       "basename": "Untitled Diagram",
       "path": "Untitled Diagram.svg"
     },
@@ -163,42 +199,6 @@
     {
       "basename": "Ⅱ_003_docker",
       "path": "Ⅰ_integration_004_linux/Ⅱ_002_docker(未加载)/Ⅱ_003_docker.md"
-    },
-    {
-      "basename": "002 obsidian常用插件",
-      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/002 obsidian常用插件.md"
-    },
-    {
-      "basename": "001 markdown常用语法 1",
-      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/001 markdown常用语法 1.md"
-    },
-    {
-      "basename": "001 markdown常用语法",
-      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/001 markdown常用语法.md"
-    },
-    {
-      "basename": "008 FastDFS",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/008 FastDFS.md"
-    },
-    {
-      "basename": "001 基础操作(不重要)",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/001 基础操作(不重要).md"
-    },
-    {
-      "basename": "000 docker安装",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_004_MongoDB/000 docker安装.md"
-    },
-    {
-      "basename": "001 concept",
-      "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_003_DistributedRedis/001 concept.md"
-    },
-    {
-      "basename": "001 Concept",
-      "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_002_Seata/001 Concept.md"
-    },
-    {
-      "basename": "002 Seata",
-      "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_002_Seata/002 Seata.md"
     }
   ],
   "omittedPaths": [],

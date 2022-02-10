@@ -4,6 +4,9 @@
     font-size: 15px;
     font-weight: bold;
     text-align: center;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 .oz-nav-action-button {
@@ -216,10 +219,19 @@ div.oz-folder-name.is-root-folder {
 }
 
 #file-tree-divider {
-    height: 0.5px;
-    background-color: var(--text-muted);
+    height: 3.8px;
     opacity: 0.3;
     cursor: row-resize;
+    border-bottom: 0.5px solid var(--text-muted);
+}
+
+div#file-tree-divider.active-divider {
+    background-color: var(--interactive-accent);
+    border-bottom: 0.5px solid var(--interactive-accent);
+}
+
+#file-tree-divider:hover {
+    background-color: var(--text-muted);
 }
 
 .is-folder-active {
@@ -234,6 +246,7 @@ div.oz-folder-name.is-root-folder {
     padding-left: 4px;
     padding-right: 4px;
     background-color: var(--background-secondary);
+    z-index: 100;
 }
 
 .file-tree-files-fixed {

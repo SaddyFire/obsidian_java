@@ -47,6 +47,7 @@ sdaf ^1gaGneN8
 			"strokeSharpness": "sharp",
 			"boundElements": [],
 			"updated": 1642505545298,
+			"link": null,
 			"fontSize": 16,
 			"fontFamily": 3,
 			"text": "介绍一下java",
@@ -85,6 +86,7 @@ sdaf ^1gaGneN8
 				}
 			],
 			"updated": 1642603484794,
+			"link": null,
 			"fontSize": 16,
 			"fontFamily": 3,
 			"text": "1. java是一种 开源的 跨平台的 面向对象的 计算机语言\n2. 封装, 继承, 多态\n    封装的两种特性: \n        1.封装是将代码看成一个密不可分的整体",
@@ -118,6 +120,7 @@ sdaf ^1gaGneN8
 			"strokeSharpness": "sharp",
 			"boundElements": [],
 			"updated": 1642644892290,
+			"link": null,
 			"fontSize": 16,
 			"fontFamily": 3,
 			"text": "sdaf",

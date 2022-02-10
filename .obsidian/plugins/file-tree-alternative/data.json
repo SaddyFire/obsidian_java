@@ -5,6 +5,7 @@
   "searchFunction": true,
   "allSearchOnlyInFocusedFolder": true,
   "showFilesFromSubFoldersButton": true,
+  "revealActiveFileButton": true,
   "excludedExtensions": "",
   "excludedFolders": "Ⅰ_integration_SSS_复习",
   "folderIcon": "default",
@@ -13,5 +14,7 @@
   "evernoteView": true,
   "filePreviewOnHover": true,
   "sortFilesBy": "name",
-  "fixedHeaderInFileList": false
+  "fixedHeaderInFileList": false,
+  "createdYaml": false,
+  "fileNameIsHeader": false
 }
