@@ -1,40 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "05 反射、GC、JVM优化面经",
-      "path": "Ⅰ_integration_SSS_interview/Ⅰ_002_复习的技术/Ⅱ_001_note/05 反射、GC、JVM优化面经.md"
-    },
-    {
-      "basename": "04 java锁、高并发、多线程面经",
-      "path": "Ⅰ_integration_SSS_interview/Ⅰ_002_复习的技术/Ⅱ_001_note/04 java锁、高并发、多线程面经.md"
-    },
-    {
-      "basename": "001 spring",
-      "path": "Ⅰ_integration_SSS_interview/Ⅰ_001_github/Ⅱ_001_note/001 spring.md"
-    },
-    {
-      "basename": "002 java_se",
-      "path": "Ⅰ_integration_SSS_interview/Ⅰ_001_github/Ⅱ_001_note/002 java_se.md"
-    },
-    {
-      "basename": "003 java_se_answer",
-      "path": "Ⅰ_integration_SSS_interview/Ⅰ_001_github/Ⅱ_001_note/003 java_se_answer.md"
-    },
-    {
-      "basename": "mytest.excalidraw",
-      "path": "Ⅰ_integration_SSS_interview/Ⅰ_001_github/Ⅱ_002_drawbrand/mytest.excalidraw.md"
-    },
-    {
-      "basename": "01 java基础原理面经",
-      "path": "Ⅰ_integration_SSS_interview/Ⅰ_002_复习的技术/Ⅱ_001_note/01 java基础原理面经.md"
-    },
-    {
-      "basename": "02 java集合面经",
-      "path": "Ⅰ_integration_SSS_interview/Ⅰ_002_复习的技术/Ⅱ_001_note/02 java集合面经.md"
+      "basename": "04 redis",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/04 redis.md"
     },
     {
       "basename": "03 基础算法与数据结构",
-      "path": "Ⅰ_integration_SSS_interview/Ⅰ_002_复习的技术/Ⅱ_001_note/03 基础算法与数据结构.md"
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_002_复习的技术/03 基础算法与数据结构.md"
+    },
+    {
+      "basename": "03 mysql",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/03 mysql.md"
+    },
+    {
+      "basename": "02 多线程",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/02 多线程.md"
+    },
+    {
+      "basename": "01 集合",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/01 集合.md"
+    },
+    {
+      "basename": "02 java集合面经",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_002_复习的技术/02 java集合面经.md"
+    },
+    {
+      "basename": "01 java基础原理面经",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_002_复习的技术/01 java基础原理面经.md"
+    },
+    {
+      "basename": "05 反射、GC、JVM优化面经",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_002_复习的技术/05 反射、GC、JVM优化面经.md"
+    },
+    {
+      "basename": "04 java锁、高并发、多线程面经",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_002_复习的技术/04 java锁、高并发、多线程面经.md"
+    },
+    {
+      "basename": "001 spring",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_001_basic/Ⅲ_001_note/001 spring.md"
+    },
+    {
+      "basename": "002 java_se",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_001_basic/Ⅲ_001_note/002 java_se.md"
+    },
+    {
+      "basename": "003 java_se_answer",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_001_basic/Ⅲ_001_note/003 java_se_answer.md"
+    },
+    {
+      "basename": "mytest.excalidraw",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_001_basic/Ⅲ_002_drawbrand/mytest.excalidraw.md"
     },
     {
       "basename": "Untitled Diagram",
@@ -183,22 +199,6 @@
     {
       "basename": "003 SpringMVC整合(底层原理)",
       "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/003 SpringMVC整合(底层原理).md"
-    },
-    {
-      "basename": "000 核心点",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/000 核心点.md"
-    },
-    {
-      "basename": "002 处理方式",
-      "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/002 处理方式.md"
-    },
-    {
-      "basename": "Pasted image 20220116180139",
-      "path": "_resources/Pasted image 20220116180139.png"
-    },
-    {
-      "basename": "Ⅱ_003_docker",
-      "path": "Ⅰ_integration_004_linux/Ⅱ_002_docker(未加载)/Ⅱ_003_docker.md"
     }
   ],
   "omittedPaths": [],

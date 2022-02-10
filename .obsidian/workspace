@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_integration_SSS_interview/Ⅰ_002_复习的技术/Ⅱ_001_note/05 反射、GC、JVM优化面经.md",
-            "mode": "preview",
+            "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/04 redis.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_integration_SSS_interview/Ⅰ_002_复习的技术/Ⅱ_001_note/05 反射、GC、JVM优化面经.md",
+                "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/04 redis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_integration_SSS_interview/Ⅰ_002_复习的技术/Ⅱ_001_note/05 反射、GC、JVM优化面经.md"
+                "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/04 redis.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_integration_SSS_interview/Ⅰ_002_复习的技术/Ⅱ_001_note/05 反射、GC、JVM优化面经.md",
+                "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/04 redis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,15 +144,15 @@
   },
   "active": "1750e3c2b2488de7",
   "lastOpenFiles": [
-    "Ⅰ_integration_SSS_interview/Ⅰ_002_复习的技术/Ⅱ_001_note/05 反射、GC、JVM优化面经.md",
-    "Ⅰ_integration_SSS_interview/Ⅰ_002_复习的技术/Ⅱ_001_note/04 java锁、高并发、多线程面经.md",
-    "Ⅰ_integration_SSS_interview/Ⅰ_001_github/Ⅱ_001_note/001 spring.md",
-    "Ⅰ_integration_SSS_interview/Ⅰ_001_github/Ⅱ_001_note/002 java_se.md",
-    "Ⅰ_integration_SSS_interview/Ⅰ_001_github/Ⅱ_001_note/003 java_se_answer.md",
-    "Ⅰ_integration_SSS_interview/Ⅰ_001_github/Ⅱ_002_drawbrand/mytest.excalidraw.md",
-    "Ⅰ_integration_SSS_interview/Ⅰ_002_复习的技术/Ⅱ_001_note/01 java基础原理面经.md",
-    "Ⅰ_integration_SSS_interview/Ⅰ_002_复习的技术/Ⅱ_001_note/02 java集合面经.md",
-    "Ⅰ_integration_SSS_interview/Ⅰ_002_复习的技术/Ⅱ_001_note/03 基础算法与数据结构.md",
-    "Untitled Diagram.svg"
+    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/04 redis.md",
+    "Ⅰ_integration_SSS_interview/Ⅱ_002_复习的技术/03 基础算法与数据结构.md",
+    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/03 mysql.md",
+    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/02 多线程.md",
+    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/01 集合.md",
+    "Ⅰ_integration_SSS_interview/Ⅱ_002_复习的技术/02 java集合面经.md",
+    "Ⅰ_integration_SSS_interview/Ⅱ_002_复习的技术/01 java基础原理面经.md",
+    "Ⅰ_integration_SSS_interview/Ⅱ_002_复习的技术/05 反射、GC、JVM优化面经.md",
+    "Ⅰ_integration_SSS_interview/Ⅱ_002_复习的技术/04 java锁、高并发、多线程面经.md",
+    "Ⅰ_integration_SSS_interview/Ⅱ_001_basic/Ⅲ_001_note/001 spring.md"
   ]
 }
