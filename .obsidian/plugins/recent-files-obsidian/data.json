@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "01 集合",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/01 集合.md"
+    },
+    {
+      "basename": "13 zookeeper",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/13 zookeeper.md"
+    },
+    {
+      "basename": "12 javascript, jquery, vue",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/12 javascript, jquery, vue.md"
+    },
+    {
+      "basename": "11 rabbitmq",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/11 rabbitmq.md"
+    },
+    {
+      "basename": "10 dubbo",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/10 dubbo.md"
+    },
+    {
+      "basename": "09 mybatis",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/09 mybatis.md"
+    },
+    {
+      "basename": "08 springMVC",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/08 springMVC.md"
+    },
+    {
+      "basename": "07 springboot",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/07 springboot.md"
+    },
+    {
+      "basename": "06 spring",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/06 spring.md"
+    },
+    {
+      "basename": "05 mongoDB",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/05 mongoDB.md"
+    },
+    {
       "basename": "04 redis",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/04 redis.md"
     },
@@ -15,10 +55,6 @@
     {
       "basename": "02 多线程",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/02 多线程.md"
-    },
-    {
-      "basename": "01 集合",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/01 集合.md"
     },
     {
       "basename": "02 java集合面经",
@@ -163,42 +199,6 @@
     {
       "basename": "002 常用命令",
       "path": "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/002 常用命令.md"
-    },
-    {
-      "basename": "003 软件安装",
-      "path": "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/003 软件安装.md"
-    },
-    {
-      "basename": "004 网卡加入托管",
-      "path": "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/004 网卡加入托管.md"
-    },
-    {
-      "basename": "001 Linux各目录介绍",
-      "path": "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/001 Linux各目录介绍.md"
-    },
-    {
-      "basename": "001 基础命令",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md"
-    },
-    {
-      "basename": "Pasted image 20220115202226",
-      "path": "_resources/Pasted image 20220115202226.png"
-    },
-    {
-      "basename": "Pasted Image 20220120232707_200",
-      "path": "_resources/Pasted Image 20220120232707_200.png"
-    },
-    {
-      "basename": "Pasted Image 20220121203125_903",
-      "path": "_resources/Pasted Image 20220121203125_903.png"
-    },
-    {
-      "basename": "009 GateWay网关",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md"
-    },
-    {
-      "basename": "003 SpringMVC整合(底层原理)",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/003 SpringMVC整合(底层原理).md"
     }
   ],
   "omittedPaths": [],
