@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "001 concept",
+      "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_003_DistributedRedis/001 concept.md"
+    },
+    {
       "basename": "01 集合",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/01 集合.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "image-20210808232140228",
       "path": "Ⅰ_integration_004_linux/Ⅲ_003_day01/assets/image-20210808232140228.png"
-    },
-    {
-      "basename": "002 常用命令",
-      "path": "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/002 常用命令.md"
     }
   ],
   "omittedPaths": [],
