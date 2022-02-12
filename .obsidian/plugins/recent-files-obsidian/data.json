@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "04 redis_mongoDB",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/04 redis_mongoDB.md"
+    },
+    {
+      "basename": "03 mysql",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/03 mysql.md"
+    },
+    {
+      "basename": "01 集合",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/01 集合.md"
+    },
+    {
       "basename": "02 多线程_JVM",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/02 多线程_JVM.md"
     },
@@ -89,20 +101,8 @@
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_002_复习的技术/02 java集合面经.md"
     },
     {
-      "basename": "01 集合",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/01 集合.md"
-    },
-    {
-      "basename": "04 redis_mongoDB",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/04 redis_mongoDB.md"
-    },
-    {
       "basename": "001 concept",
       "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_003_DistributedRedis/001 concept.md"
-    },
-    {
-      "basename": "03 mysql",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/03 mysql.md"
     },
     {
       "basename": "unlinked files output",
