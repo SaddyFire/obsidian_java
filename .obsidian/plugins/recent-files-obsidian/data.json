@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "06 spring",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/06 spring.md"
+    },
+    {
+      "basename": "07 springboot",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/07 springboot.md"
+    },
+    {
+      "basename": "05 mongoDB",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/05 mongoDB.md"
+    },
+    {
+      "basename": "04 redis",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/04 redis.md"
+    },
+    {
       "basename": "03 mysql",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/03 mysql.md"
     },
@@ -29,14 +45,6 @@
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/08 springMVC.md"
     },
     {
-      "basename": "07 springboot",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/07 springboot.md"
-    },
-    {
-      "basename": "06 spring",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/06 spring.md"
-    },
-    {
       "basename": "001 concept",
       "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_003_DistributedRedis/001 concept.md"
     },
@@ -47,14 +55,6 @@
     {
       "basename": "10 dubbo",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/10 dubbo.md"
-    },
-    {
-      "basename": "05 mongoDB",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/05 mongoDB.md"
-    },
-    {
-      "basename": "04 redis",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/04 redis.md"
     },
     {
       "basename": "03 基础算法与数据结构",
