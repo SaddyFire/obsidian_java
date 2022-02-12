@@ -1,16 +1,84 @@
 {
   "recentFiles": [
     {
-      "basename": "04 redis_mongoDB",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/04 redis_mongoDB.md"
+      "basename": "unlinked files output",
+      "path": "unlinked files output.md"
     },
     {
-      "basename": "02 多线程_JVM",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/02 多线程_JVM.md"
+      "basename": "Pasted image 20220115203328",
+      "path": "_resources/Pasted image 20220115203328.png"
+    },
+    {
+      "basename": "Pasted image 20220115202226",
+      "path": "_resources/Pasted image 20220115202226.png"
+    },
+    {
+      "basename": "003 gateway",
+      "path": "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/003 gateway.md"
+    },
+    {
+      "basename": "00 program_myself",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 program_myself.md"
     },
     {
       "basename": "03 mysql",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/03 mysql.md"
+    },
+    {
+      "basename": "04 redis_mongoDB",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/04 redis_mongoDB.md"
+    },
+    {
+      "basename": "06 spring",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/06 spring.md"
+    },
+    {
+      "basename": "07 springboot_微服务_分布式",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/07 springboot_微服务_分布式.md"
+    },
+    {
+      "basename": "08 springMVC",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/08 springMVC.md"
+    },
+    {
+      "basename": "12 javascript, jquery, vue",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/12 javascript, jquery, vue.md"
+    },
+    {
+      "basename": "09 mybatis_dubbo_rabbitMQ_zookeeper",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/09 mybatis_dubbo_rabbitMQ_zookeeper.md"
+    },
+    {
+      "basename": "000 零零散散",
+      "path": "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/000 零零散散.md"
+    },
+    {
+      "basename": "005 topicExchange(重要)",
+      "path": "Ⅰ_integration_003_springCloud/Ⅱ_003_RabbitMQ/005 topicExchange(重要).md"
+    },
+    {
+      "basename": "003 FanoutExchange",
+      "path": "Ⅰ_integration_003_springCloud/Ⅱ_003_RabbitMQ/003 FanoutExchange.md"
+    },
+    {
+      "basename": "002 workQueue",
+      "path": "Ⅰ_integration_003_springCloud/Ⅱ_003_RabbitMQ/002 workQueue.md"
+    },
+    {
+      "basename": "001 安装RabbitMQ",
+      "path": "Ⅰ_integration_003_springCloud/Ⅱ_003_RabbitMQ/001 安装RabbitMQ.md"
+    },
+    {
+      "basename": "006 对象的传输",
+      "path": "Ⅰ_integration_003_springCloud/Ⅱ_003_RabbitMQ/006 对象的传输.md"
+    },
+    {
+      "basename": "012 日志_行为记录_动态监听",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/012 日志_行为记录_动态监听.md"
+    },
+    {
+      "basename": "02 多线程_JVM",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/02 多线程_JVM.md"
     },
     {
       "basename": "001 阿里云短信发送",
@@ -27,26 +95,6 @@
     {
       "basename": "003 JWT-鉴权",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/003 JWT-鉴权.md"
-    },
-    {
-      "basename": "08 springMVC",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/08 springMVC.md"
-    },
-    {
-      "basename": "09 mybatis_dubbo_rabbitMQ_zookeeper",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/09 mybatis_dubbo_rabbitMQ_zookeeper.md"
-    },
-    {
-      "basename": "07 springboot_微服务_分布式",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/07 springboot_微服务_分布式.md"
-    },
-    {
-      "basename": "06 spring",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/06 spring.md"
-    },
-    {
-      "basename": "12 javascript, jquery, vue",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/12 javascript, jquery, vue.md"
     },
     {
       "basename": "01 集合",
@@ -97,18 +145,6 @@
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_001_basic/Ⅲ_002_drawbrand/mytest.excalidraw.md"
     },
     {
-      "basename": "Untitled Diagram",
-      "path": "Untitled Diagram.svg"
-    },
-    {
-      "basename": "unlinked files output",
-      "path": "unlinked files output.md"
-    },
-    {
-      "basename": "000 零零散散",
-      "path": "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/000 零零散散.md"
-    },
-    {
       "basename": "001 模块介绍",
       "path": "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/001 模块介绍.md"
     },
@@ -123,10 +159,6 @@
     {
       "basename": "框架",
       "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_004_mutillevelCache/框架.md"
-    },
-    {
-      "basename": "003 gateway",
-      "path": "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/003 gateway.md"
     },
     {
       "basename": "002 全局异常",
@@ -167,34 +199,6 @@
     {
       "basename": "006 配置类",
       "path": "Ⅰ_integration_002_spring/Ⅱ_007_swagger/006 配置类.md"
-    },
-    {
-      "basename": "007 代码生成器",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/007 代码生成器.md"
-    },
-    {
-      "basename": "002 idea配置",
-      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/002 idea配置.md"
-    },
-    {
-      "basename": "Linux-Day02",
-      "path": "Ⅰ_integration_004_linux/Ⅳ_004_day02/Linux-Day02.md"
-    },
-    {
-      "basename": "image-20210815005920721",
-      "path": "Ⅰ_integration_004_linux/Ⅳ_004_day02/assets/image-20210815005920721.png"
-    },
-    {
-      "basename": "image-20210814174005651",
-      "path": "Ⅰ_integration_004_linux/Ⅳ_004_day02/assets/image-20210814174005651.png"
-    },
-    {
-      "basename": "Linux-Day01",
-      "path": "Ⅰ_integration_004_linux/Ⅲ_003_day01/Linux-Day01.md"
-    },
-    {
-      "basename": "Linux-Day01",
-      "path": "Ⅰ_integration_004_linux/Ⅲ_003_day01/Linux-Day01.pdf"
     }
   ],
   "omittedPaths": [],

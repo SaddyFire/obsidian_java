@@ -8,11 +8,13 @@
     "Ⅰ_integration_003_springCloud/",
     "Ⅰ_integration_004_linux/",
     "Ⅰ_integration_005_ElasticSearch/",
-    "Ⅰ_integration_SSS_concat/",
+    "Ⅰ_integration_006_DistributeAdvance/",
+    "Ⅰ_integration_SSS_another/",
+    "Ⅰ_integration_SSS_interview/",
     "Ⅰ_project_001_reggie/",
     "Ⅰ_project_002_health&kaoshi/",
     "Ⅰ_project_003_tanhua/",
-    "Ⅰ_integration_006_DistributeAdvance/"
+    "Ⅰ_project_004_leadnews/"
   ],
   "filesToIgnore": [],
   "fileTypesToIgnore": [],

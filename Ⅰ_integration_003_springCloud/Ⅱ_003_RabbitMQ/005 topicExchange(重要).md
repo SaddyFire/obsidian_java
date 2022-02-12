@@ -58,3 +58,7 @@ public void listenTopicQueue2(String msg){
  System.err.println("topic.queue2收到消息__" +msg);  
 }
 ```
+
+
+## 定义消息重发的方法(补充)
+![[Pasted image 20220212114028.png]]
