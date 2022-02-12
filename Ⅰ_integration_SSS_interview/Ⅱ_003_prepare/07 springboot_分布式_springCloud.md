@@ -21,3 +21,11 @@ Eventually consistent(最终一致性)
 
 ##### 什么是面向服务架构—SOA？
 Service-Oriented Architecture(面向服务架构),将应用程序的不同功能单元进行拆分, 定义接口和契约(contract)连接彼此
+
+#####  SpringCloud和Dubbo对比
+1. 首先SpringCloud与Dubbo都是实现微服务有效的工具
+2. 
+
+
+
+

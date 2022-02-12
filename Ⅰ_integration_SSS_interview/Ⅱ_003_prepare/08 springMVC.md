@@ -3,7 +3,7 @@ SpringMVC -> module view controller
 ![[Pasted image 20220212104044.png]]
 
 （1）用户发送请求至前端控制器DispatcherServlet；
-（2） DispatcherServlet收到请求后，调用HandlerMapping处理器映射器，请求获取Handle；
+（2） DispatcherServlet收到请求后，调用HandlerMapping处理器映射器，请求获取Handler；
 （3）处理器映射器根据请求url找到具体的处理器，生成处理器对象及处理拦截器(如果有则生成)一并返回给DispatcherServlet；
 （4）DispatcherServlet 调用 HandlerAdapter处理器适配器；
 （5）HandlerAdapter 经过适配调用 具体处理器(Handler，也叫后端控制器)；

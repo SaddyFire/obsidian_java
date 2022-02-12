@@ -20,7 +20,6 @@ bean销毁：注册销毁的回调方法，当对象销毁时，会执行destory
 - 观察者模式：定义对象键一种一对多的依赖关系，当一个对象的状态发生改变时，所有依赖于它的对象都会得到通知被制动更新，如Spring中listener的实现–ApplicationListener。
 
 ##### BeanFactory和FactoryBean的区别是什么？
-           
 
 BeanFactory：由Bean工厂统一生成对象，相当于一个模子克隆出来；
 
@@ -29,9 +28,6 @@ FactoryBean：单独构造复杂对象，在Spring中BeanFactory进行实例化�
 ##### spring里面的 bean为什么要注册，作用是什么？
 注册就是把信息存起来，内部是基于集合实现的，注册方便之后对于信息的调取。
 
-BeanFactory和FactoryBean的区别是什么？
-BeanFactory：由Bean工厂统一生成对象，相当于一个模子克隆出来；
-FactoryBean：单独构造复杂对象，在Spring中BeanFactory进行实例化时，判断该对象不是单例或者不是懒加载形式，就改由FactoryBean来单独创建对象。
 
 ##### 常用注解
 `@Component`

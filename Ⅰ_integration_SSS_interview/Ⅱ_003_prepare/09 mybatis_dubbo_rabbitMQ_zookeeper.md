@@ -1,5 +1,4 @@
 #####  MyBatis编程步骤是什么样的？
-           
 
 1. 创建SqlSessionFactory
 
