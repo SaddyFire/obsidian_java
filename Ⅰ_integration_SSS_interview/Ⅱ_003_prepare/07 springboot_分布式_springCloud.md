@@ -24,8 +24,19 @@ Service-Oriented Architecture(面向服务架构),将应用程序的不同功能
 
 #####  SpringCloud和Dubbo对比
 1. 首先SpringCloud与Dubbo都是实现微服务有效的工具
-2. 
+2. Dubbo只是实现了服务治理，而SpringCloud子项目分别覆盖了微服务架构下的众多部件
+3. Dubbo使用RPC通讯协议（传输层，基于TPC协议) ，SpirngCloud使用RESTful完成通信（应用层，基于HTTP协议)，Dubbo效率略高于SpringCloud
 
+##### SpringCloud常用组件
+Eureka
+Ribbon Fiegn
+Hystrix
+Gateway
+Spring Cloud Config
 
-
-
+##### SpringCloud ALibaba常用组件
+Sentinel
+Nacos
+RocketMQ(我们使用RabbitMQ)
+Dubbo
+Seata 分布式事务
