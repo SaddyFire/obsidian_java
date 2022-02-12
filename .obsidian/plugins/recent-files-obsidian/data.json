@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "001 阿里云短信发送",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/001 阿里云短信发送.md"
+    },
+    {
+      "basename": "004 字段自动填充",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/004 字段自动填充.md"
+    },
+    {
+      "basename": "005 访问测试",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/005 访问测试.md"
+    },
+    {
+      "basename": "003 JWT-鉴权",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/003 JWT-鉴权.md"
+    },
+    {
       "basename": "08 springMVC",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/08 springMVC.md"
     },
