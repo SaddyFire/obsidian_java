@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "02 java集合面经",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_002_复习的技术/02 java集合面经.md"
+    },
+    {
+      "basename": "01 集合",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/01 集合.md"
+    },
+    {
       "basename": "04 redis_mongoDB",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/04 redis_mongoDB.md"
     },
@@ -101,20 +109,12 @@
       "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/003 JWT-鉴权.md"
     },
     {
-      "basename": "01 集合",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/01 集合.md"
-    },
-    {
       "basename": "015 springboot自动装配流程图",
       "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/015 springboot自动装配流程图.md"
     },
     {
       "basename": "03 基础算法与数据结构",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_002_复习的技术/03 基础算法与数据结构.md"
-    },
-    {
-      "basename": "02 java集合面经",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_002_复习的技术/02 java集合面经.md"
     },
     {
       "basename": "01 java基础原理面经",

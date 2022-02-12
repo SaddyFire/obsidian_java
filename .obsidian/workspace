@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/04 redis_mongoDB.md",
+            "file": "Ⅰ_integration_SSS_interview/Ⅱ_002_复习的技术/02 java集合面经.md",
             "mode": "source",
             "source": false
           }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/04 redis_mongoDB.md",
+                "file": "Ⅰ_integration_SSS_interview/Ⅱ_002_复习的技术/02 java集合面经.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/04 redis_mongoDB.md"
+                "file": "Ⅰ_integration_SSS_interview/Ⅱ_002_复习的技术/02 java集合面经.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/04 redis_mongoDB.md",
+                "file": "Ⅰ_integration_SSS_interview/Ⅱ_002_复习的技术/02 java集合面经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,6 +144,8 @@
   },
   "active": "cdbe20f76f5d9d52",
   "lastOpenFiles": [
+    "Ⅰ_integration_SSS_interview/Ⅱ_002_复习的技术/02 java集合面经.md",
+    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/01 集合.md",
     "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/04 redis_mongoDB.md",
     "Ⅰ_integration_006_DistributeAdvance/Ⅱ_003_DistributedRedis/001 concept.md",
     "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/03 mysql.md",
@@ -151,8 +153,6 @@
     "unlinked files output.md",
     "_resources/Pasted image 20220115203328.png",
     "_resources/Pasted image 20220115202226.png",
-    "Untitled Diagram.svg.md",
-    "Untitled Diagram.svg",
-    "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/003 gateway.md"
+    "Untitled Diagram.svg.md"
   ]
 }
