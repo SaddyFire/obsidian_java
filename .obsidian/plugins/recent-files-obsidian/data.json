@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "09 mybatis",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/09 mybatis.md"
+    },
+    {
+      "basename": "10 dubbo",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/10 dubbo.md"
+    },
+    {
       "basename": "08 springMVC",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/08 springMVC.md"
     },
@@ -45,20 +53,12 @@
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/12 javascript, jquery, vue.md"
     },
     {
-      "basename": "09 mybatis",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/09 mybatis.md"
-    },
-    {
       "basename": "001 concept",
       "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_003_DistributedRedis/001 concept.md"
     },
     {
       "basename": "13 zookeeper",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/13 zookeeper.md"
-    },
-    {
-      "basename": "10 dubbo",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/10 dubbo.md"
     },
     {
       "basename": "03 基础算法与数据结构",

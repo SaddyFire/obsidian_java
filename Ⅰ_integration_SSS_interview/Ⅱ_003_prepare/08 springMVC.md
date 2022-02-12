@@ -1,4 +1,6 @@
+SpringMVC -> module view controller
 ##### 请描述Spring MVC的工作流程？描述一下 DispatcherServlet 的工作流程？
+![[Pasted image 20220212104044.png]]
 
 （1）用户发送请求至前端控制器DispatcherServlet；
 （2） DispatcherServlet收到请求后，调用HandlerMapping处理器映射器，请求获取Handle；
