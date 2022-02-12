@@ -1,38 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "09 mybatis",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/09 mybatis.md"
-    },
-    {
-      "basename": "10 dubbo",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/10 dubbo.md"
-    },
-    {
-      "basename": "08 springMVC",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/08 springMVC.md"
-    },
-    {
-      "basename": "07 springboot",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/07 springboot.md"
-    },
-    {
-      "basename": "06 spring",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/06 spring.md"
-    },
-    {
-      "basename": "015 springboot自动装配流程图",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/015 springboot自动装配流程图.md"
-    },
-    {
-      "basename": "05 mongoDB",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/05 mongoDB.md"
-    },
-    {
-      "basename": "04 redis",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/04 redis.md"
-    },
-    {
       "basename": "03 mysql",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/03 mysql.md"
     },
@@ -45,6 +13,38 @@
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/01 集合.md"
     },
     {
+      "basename": "04 redis",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/04 redis.md"
+    },
+    {
+      "basename": "05 mongoDB",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/05 mongoDB.md"
+    },
+    {
+      "basename": "14 微服务_分布式",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/14 微服务_分布式.md"
+    },
+    {
+      "basename": "06 spring",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/06 spring.md"
+    },
+    {
+      "basename": "07 springboot",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/07 springboot.md"
+    },
+    {
+      "basename": "08 springMVC",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/08 springMVC.md"
+    },
+    {
+      "basename": "09 mybatis",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/09 mybatis.md"
+    },
+    {
+      "basename": "10 dubbo",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/10 dubbo.md"
+    },
+    {
       "basename": "11 rabbitmq",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/11 rabbitmq.md"
     },
@@ -53,12 +53,16 @@
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/12 javascript, jquery, vue.md"
     },
     {
-      "basename": "001 concept",
-      "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_003_DistributedRedis/001 concept.md"
-    },
-    {
       "basename": "13 zookeeper",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/13 zookeeper.md"
+    },
+    {
+      "basename": "015 springboot自动装配流程图",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/015 springboot自动装配流程图.md"
+    },
+    {
+      "basename": "001 concept",
+      "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_003_DistributedRedis/001 concept.md"
     },
     {
       "basename": "03 基础算法与数据结构",
@@ -195,10 +199,6 @@
     {
       "basename": "Linux-Day01",
       "path": "Ⅰ_integration_004_linux/Ⅲ_003_day01/Linux-Day01.pdf"
-    },
-    {
-      "basename": "image-20210808232140228",
-      "path": "Ⅰ_integration_004_linux/Ⅲ_003_day01/assets/image-20210808232140228.png"
     }
   ],
   "omittedPaths": [],
