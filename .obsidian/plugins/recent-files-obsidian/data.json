@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "04 redis_mongoDB",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/04 redis_mongoDB.md"
+    },
+    {
+      "basename": "001 concept",
+      "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_003_DistributedRedis/001 concept.md"
+    },
+    {
+      "basename": "03 mysql",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/03 mysql.md"
+    },
+    {
+      "basename": "00 program_myself",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 program_myself.md"
+    },
+    {
       "basename": "unlinked files output",
       "path": "unlinked files output.md"
     },
@@ -15,18 +31,6 @@
     {
       "basename": "003 gateway",
       "path": "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/003 gateway.md"
-    },
-    {
-      "basename": "00 program_myself",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 program_myself.md"
-    },
-    {
-      "basename": "03 mysql",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/03 mysql.md"
-    },
-    {
-      "basename": "04 redis_mongoDB",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/04 redis_mongoDB.md"
     },
     {
       "basename": "06 spring",
@@ -103,10 +107,6 @@
     {
       "basename": "015 springboot自动装配流程图",
       "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/015 springboot自动装配流程图.md"
-    },
-    {
-      "basename": "001 concept",
-      "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_003_DistributedRedis/001 concept.md"
     },
     {
       "basename": "03 基础算法与数据结构",

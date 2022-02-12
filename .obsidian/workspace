@@ -7,8 +7,12 @@
         "id": "cdbe20f76f5d9d52",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/04 redis_mongoDB.md",
+            "mode": "preview",
+            "source": false
+          }
         }
       }
     ],
@@ -73,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352
+    "width": 352,
+    "collapsed": true
   },
   "right": {
     "id": "eaafcc4feb3ef58e",
@@ -97,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/04 redis_mongoDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/04 redis_mongoDB.md"
+              }
             }
           },
           {
@@ -121,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/04 redis_mongoDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,15 +145,15 @@
   },
   "active": "cdbe20f76f5d9d52",
   "lastOpenFiles": [
+    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/04 redis_mongoDB.md",
+    "Ⅰ_integration_006_DistributeAdvance/Ⅱ_003_DistributedRedis/001 concept.md",
+    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/03 mysql.md",
+    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 program_myself.md",
     "unlinked files output.md",
     "_resources/Pasted image 20220115203328.png",
     "_resources/Pasted image 20220115202226.png",
     "Untitled Diagram.svg.md",
     "Untitled Diagram.svg",
-    "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/003 gateway.md",
-    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 program_myself.md",
-    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/03 mysql.md",
-    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/04 redis_mongoDB.md",
-    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/06 spring.md"
+    "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/003 gateway.md"
   ]
 }
