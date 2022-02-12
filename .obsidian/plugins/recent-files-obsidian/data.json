@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "04 redis_mongoDB",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/04 redis_mongoDB.md"
+    },
+    {
       "basename": "02 多线程_JVM",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/02 多线程_JVM.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "12 javascript, jquery, vue",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/12 javascript, jquery, vue.md"
-    },
-    {
-      "basename": "04 redis_mongoDB",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/04 redis_mongoDB.md"
     },
     {
       "basename": "01 集合",
