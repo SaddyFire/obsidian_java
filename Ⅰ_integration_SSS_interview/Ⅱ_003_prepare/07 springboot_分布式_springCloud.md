@@ -40,3 +40,38 @@ Nacos
 RocketMQ(我们使用RabbitMQ)
 Dubbo
 Seata 分布式事务
+
+
+##### seata
+**A** Atomicity
+**C**	Consistency
+**I**	 Isolation
+**D**  Durability
+
+**C**	Consistency
+**A**	Availability
+**P**	Partition Tolerance
+
+**BA**	Basically Available
+**S**	 Soft State
+**E**	 Eventually Consistent
+
+**TC**		Transaction Coordinator
+事务协调器，维护全局事务的运行状态，负责协调并驱动全局事务的提交或回滚。
+
+**TM**		Transaction Manager
+控制全局事务的边界，负责开启一个全局事务，并最终发起全局提交或全局回滚的决议。
+
+**RM**		Resource Manager
+控制分支事务，负责分支注册、状态汇报，并接收事务协调器的指令，驱动分支（本地）事务的提交和回滚。
+##### Seata的实现原理
+Seata将一个本地事务做为一个分布式事务分支，所以若干个分布在不同微服务中的本地事务共同组成了一个全局事务，结构如下。
+![[Pasted image 20220212205758.png]]
+TM先向TC申请开启一个全局事务，TM同意后会给分布式事务开启全局唯一事务ID，每个成员事务会找TC注册自己的事务分支，TC会将唯一ID给每一个分支事务，所有分支收到ID后，TM会向TC发起全局提交或全局回滚的决议，TC就会向所有RM发送最终提交还是回滚的指令（undo log实现），所有RM接受指令执行。
+
+
+**XA**   -->  X/Open DTP, Distributed Transaction Processing
+**AT**	 -->  undo-log
+**TCC** -->  Try Confirm Cancel
+空回滚、业务悬挂
+

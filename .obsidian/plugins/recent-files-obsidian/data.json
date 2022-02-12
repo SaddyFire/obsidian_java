@@ -5,6 +5,14 @@
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 program_myself.md"
     },
     {
+      "basename": "001 基础命令",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md"
+    },
+    {
+      "basename": "07 springboot_分布式_springCloud",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/07 springboot_分布式_springCloud.md"
+    },
+    {
       "basename": "01 集合",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/01 集合.md"
     },
@@ -25,10 +33,6 @@
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/06 spring.md"
     },
     {
-      "basename": "07 springboot_分布式_springCloud",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/07 springboot_分布式_springCloud.md"
-    },
-    {
       "basename": "08 springMVC",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/08 springMVC.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "001 Concept",
       "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_002_Seata/001 Concept.md"
-    },
-    {
-      "basename": "001 基础命令",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md"
     },
     {
       "basename": "002 (temp) idea删除git项目",
