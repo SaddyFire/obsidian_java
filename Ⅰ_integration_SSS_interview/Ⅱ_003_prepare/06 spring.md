@@ -1,4 +1,4 @@
-**说一说Spring中bean的生命周期？**
+##### 说一说Spring中bean的生命周期？
 1、首先，我们知道bean对象的创建不是由我们自己创建的，而是由Spring来给我们创建的，而我们需要做的是告诉Spring我们需要创建哪些Bean对象。我们可以通过xml、注解等方式来提供创建Bean对象所以需要的信息，而Spring要创建bean对象，就首先得有一个BeanFactory工厂来创建Bean对象，如果这个Bean对象已经存在，则销毁清空Bean工厂的内容，如果不存在，就会通过DefaultListableBeanFactory方法先创建一个Bean对象工厂（即BeanFactory）。
 2、BeanFactory要创建Bean对象，就需要Bean对象的相关信息，这些信息就是通过xml或注解方式获得，所以第二步是需要读取这些bean的相关信息，通过LoadBeanDefinition来加载配置文件，并将相关信息加载成一个个BeanDefinition对象（Bean与BeanDefinition的关系就像类与字节码文件之间的关系）。
 3、BeanDefinitions生成后，会通过invokeBeanFactoryPostProcessors（ /ˈprəʊsesər/）方法对所有的BeanDefinitions以及BeanFactory进行后置处理执行：
@@ -11,7 +11,7 @@ BeanFactory将对象实例化之后，Spring会通过BeanPostProcessor（bean对
 通过Map数据类型放这些Bean对象存放在IOC容器中。
 bean销毁：注册销毁的回调方法，当对象销毁时，会执行destory-method方法。
 
-**spring里面的 bean为什么要注册，作用是什么？**
+##### spring里面的 bean为什么要注册，作用是什么？
 注册就是把信息存起来，内部是基于集合实现的，注册方便之后对于信息的调取。
 
 BeanFactory和FactoryBean的区别是什么？
