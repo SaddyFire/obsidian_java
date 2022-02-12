@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "02 多线程_JVM",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/02 多线程_JVM.md"
+    },
+    {
       "basename": "00 program_myself",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 program_myself.md"
     },
@@ -159,10 +163,6 @@
     {
       "basename": "006 对象的传输",
       "path": "Ⅰ_integration_003_springCloud/Ⅱ_003_RabbitMQ/006 对象的传输.md"
-    },
-    {
-      "basename": "02 多线程_JVM",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/02 多线程_JVM.md"
     },
     {
       "basename": "001 阿里云短信发送",

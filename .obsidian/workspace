@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 program_myself.md",
-            "mode": "preview",
+            "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/02 多线程_JVM.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352,
-    "collapsed": true
+    "width": 352
   },
   "right": {
     "id": "eaafcc4feb3ef58e",
@@ -103,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 program_myself.md",
+                "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/02 多线程_JVM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 program_myself.md"
+                "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/02 多线程_JVM.md"
               }
             }
           },
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 program_myself.md",
+                "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/02 多线程_JVM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,6 +145,7 @@
   },
   "active": "cdbe20f76f5d9d52",
   "lastOpenFiles": [
+    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/02 多线程_JVM.md",
     "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 program_myself.md",
     "Ⅰ_integration_006_DistributeAdvance/Ⅱ_002_Seata/001 Concept.md",
     "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md",
@@ -154,7 +154,6 @@
     "Ⅰ_integration_002_spring/Ⅱ_005_git/003 tortoise 推送.md",
     "Ⅰ_project_001_reggie/Ⅱ_003_业务代码记录/001 菜品的修改.md",
     "Ⅰ_project_001_reggie/Ⅱ_003_业务代码记录/002 后台查看订单(DateTimeFormat).md",
-    "Ⅰ_project_001_reggie/Ⅱ_003_业务代码记录/003 提交订单(BigDecimal).md",
-    "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/012 日志_行为记录_动态监听.md"
+    "Ⅰ_project_001_reggie/Ⅱ_003_业务代码记录/003 提交订单(BigDecimal).md"
   ]
 }
