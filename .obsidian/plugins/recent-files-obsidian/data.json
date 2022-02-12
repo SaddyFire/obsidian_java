@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "08 springMVC",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/08 springMVC.md"
+    },
+    {
+      "basename": "09 mybatis_dubbo_rabbitMQ_zookeeper",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/09 mybatis_dubbo_rabbitMQ_zookeeper.md"
+    },
+    {
+      "basename": "07 springboot_微服务_分布式",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/07 springboot_微服务_分布式.md"
+    },
+    {
+      "basename": "06 spring",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/06 spring.md"
+    },
+    {
+      "basename": "12 javascript, jquery, vue",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/12 javascript, jquery, vue.md"
+    },
+    {
+      "basename": "04 redis_mongoDB",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/04 redis_mongoDB.md"
+    },
+    {
       "basename": "03 mysql",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/03 mysql.md"
     },
@@ -11,50 +35,6 @@
     {
       "basename": "01 集合",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/01 集合.md"
-    },
-    {
-      "basename": "04 redis",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/04 redis.md"
-    },
-    {
-      "basename": "05 mongoDB",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/05 mongoDB.md"
-    },
-    {
-      "basename": "14 微服务_分布式",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/14 微服务_分布式.md"
-    },
-    {
-      "basename": "06 spring",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/06 spring.md"
-    },
-    {
-      "basename": "07 springboot",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/07 springboot.md"
-    },
-    {
-      "basename": "08 springMVC",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/08 springMVC.md"
-    },
-    {
-      "basename": "09 mybatis",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/09 mybatis.md"
-    },
-    {
-      "basename": "10 dubbo",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/10 dubbo.md"
-    },
-    {
-      "basename": "11 rabbitmq",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/11 rabbitmq.md"
-    },
-    {
-      "basename": "12 javascript, jquery, vue",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/12 javascript, jquery, vue.md"
-    },
-    {
-      "basename": "13 zookeeper",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/13 zookeeper.md"
     },
     {
       "basename": "015 springboot自动装配流程图",
