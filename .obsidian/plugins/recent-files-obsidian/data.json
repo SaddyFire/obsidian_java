@@ -1,28 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "001 concept",
-      "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_003_DistributedRedis/001 concept.md"
+      "basename": "02 多线程",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/02 多线程.md"
     },
     {
       "basename": "01 集合",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/01 集合.md"
     },
     {
-      "basename": "13 zookeeper",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/13 zookeeper.md"
-    },
-    {
-      "basename": "12 javascript, jquery, vue",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/12 javascript, jquery, vue.md"
-    },
-    {
       "basename": "11 rabbitmq",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/11 rabbitmq.md"
     },
     {
-      "basename": "10 dubbo",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/10 dubbo.md"
+      "basename": "12 javascript, jquery, vue",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/12 javascript, jquery, vue.md"
     },
     {
       "basename": "09 mybatis",
@@ -41,6 +33,18 @@
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/06 spring.md"
     },
     {
+      "basename": "001 concept",
+      "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_003_DistributedRedis/001 concept.md"
+    },
+    {
+      "basename": "13 zookeeper",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/13 zookeeper.md"
+    },
+    {
+      "basename": "10 dubbo",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/10 dubbo.md"
+    },
+    {
       "basename": "05 mongoDB",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/05 mongoDB.md"
     },
@@ -55,10 +59,6 @@
     {
       "basename": "03 mysql",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/03 mysql.md"
-    },
-    {
-      "basename": "02 多线程",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/02 多线程.md"
     },
     {
       "basename": "02 java集合面经",
