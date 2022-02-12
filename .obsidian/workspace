@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 program_myself.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352
+    "width": 352,
+    "collapsed": true
   },
   "right": {
     "id": "eaafcc4feb3ef58e",
