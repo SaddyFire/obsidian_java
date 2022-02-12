@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "001 基础命令",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md"
+    },
+    {
+      "basename": "002 (temp) idea删除git项目",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/002 (temp) idea删除git项目.md"
+    },
+    {
+      "basename": "004 gitignore文件",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/004 gitignore文件.md"
+    },
+    {
+      "basename": "003 tortoise 推送",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/003 tortoise 推送.md"
+    },
+    {
+      "basename": "00 program_myself",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 program_myself.md"
+    },
+    {
       "basename": "001 菜品的修改",
       "path": "Ⅰ_project_001_reggie/Ⅱ_003_业务代码记录/001 菜品的修改.md"
     },
@@ -75,10 +95,6 @@
     {
       "basename": "03 mysql",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/03 mysql.md"
-    },
-    {
-      "basename": "00 program_myself",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 program_myself.md"
     },
     {
       "basename": "unlinked files output",
@@ -183,22 +199,6 @@
     {
       "basename": "001 spring",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_001_basic/Ⅲ_001_note/001 spring.md"
-    },
-    {
-      "basename": "002 java_se",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_001_basic/Ⅲ_001_note/002 java_se.md"
-    },
-    {
-      "basename": "003 java_se_answer",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_001_basic/Ⅲ_001_note/003 java_se_answer.md"
-    },
-    {
-      "basename": "mytest.excalidraw",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_001_basic/Ⅲ_002_drawbrand/mytest.excalidraw.md"
-    },
-    {
-      "basename": "001 模块介绍",
-      "path": "Ⅰ_project_004_leadnews/Ⅱ_001_环境搭建/001 模块介绍.md"
     }
   ],
   "omittedPaths": [],
