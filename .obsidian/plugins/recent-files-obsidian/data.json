@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "001 Concept",
+      "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_002_Seata/001 Concept.md"
+    },
+    {
       "basename": "001 基础命令",
       "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "04 java锁、高并发、多线程面经",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_002_复习的技术/04 java锁、高并发、多线程面经.md"
-    },
-    {
-      "basename": "001 spring",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_001_basic/Ⅲ_001_note/001 spring.md"
     }
   ],
   "omittedPaths": [],
