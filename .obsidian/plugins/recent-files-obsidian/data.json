@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "08 springMVC",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/08 springMVC.md"
+    },
+    {
       "basename": "07 springboot",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/07 springboot.md"
     },
     {
       "basename": "06 spring",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/06 spring.md"
+    },
+    {
+      "basename": "015 springboot自动装配流程图",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/015 springboot自动装配流程图.md"
     },
     {
       "basename": "05 mongoDB",
@@ -39,10 +47,6 @@
     {
       "basename": "09 mybatis",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/09 mybatis.md"
-    },
-    {
-      "basename": "08 springMVC",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/08 springMVC.md"
     },
     {
       "basename": "001 concept",
@@ -131,10 +135,6 @@
     {
       "basename": "005 File& IO",
       "path": "Ⅰ_integration_001_javaBasic/005 File& IO.md"
-    },
-    {
-      "basename": "015 springboot自动装配流程图",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/015 springboot自动装配流程图.md"
     },
     {
       "basename": "014 springboot请求参数详解",

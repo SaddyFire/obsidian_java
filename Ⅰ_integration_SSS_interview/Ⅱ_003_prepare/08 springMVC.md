@@ -1,4 +1,4 @@
-**请描述Spring MVC的工作流程？描述一下 DispatcherServlet 的工作流程？**
+##### 请描述Spring MVC的工作流程？描述一下 DispatcherServlet 的工作流程？
 
 （1）用户发送请求至前端控制器DispatcherServlet；
 （2） DispatcherServlet收到请求后，调用HandlerMapping处理器映射器，请求获取Handle；
@@ -13,6 +13,11 @@
 （11）DispatcherServlet响应用户。
 
 
-**怎么使用SPI机制？**
+##### 怎么使用SPI机制？
  SPI ，全称为 Service Provider Interface，是一种服务发现机制。它通过在ClassPath路径下的META-INF/services文件夹查找文件，自动加载文件里所定义的类。
        找到定义的类后会进去自动执行onStartup，而这个方法又会找到所有有WebApplicationInitializer的类的onStartup方法，所以只需要找一个类继承WebApplicationInitializer，该类中的onStartup就会自动被执行。
+
+##### 常用注解
+`@RequestMapping`
+`@RequestBody`
+`@ResponseBody`
