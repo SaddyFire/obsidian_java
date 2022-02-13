@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "06 spring",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/06 spring.md"
+    },
+    {
+      "basename": "07 springboot_分布式_springCloud",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/07 springboot_分布式_springCloud.md"
+    },
+    {
+      "basename": "04 redis_mongoDB_ES",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/04 redis_mongoDB_ES.md"
+    },
+    {
       "basename": "02 多线程_JVM",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/02 多线程_JVM.md"
     },
@@ -13,16 +25,8 @@
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/09 mybatis_dubbo_rabbitMQ_zookeeper.md"
     },
     {
-      "basename": "04 redis_mongoDB_ES",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/04 redis_mongoDB_ES.md"
-    },
-    {
       "basename": "00 program_myself",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 program_myself.md"
-    },
-    {
-      "basename": "07 springboot_分布式_springCloud",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/07 springboot_分布式_springCloud.md"
     },
     {
       "basename": "08 springMVC",
@@ -35,10 +39,6 @@
     {
       "basename": "001 基础命令",
       "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md"
-    },
-    {
-      "basename": "06 spring",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/06 spring.md"
     },
     {
       "basename": "12 javascript, jquery, vue",
