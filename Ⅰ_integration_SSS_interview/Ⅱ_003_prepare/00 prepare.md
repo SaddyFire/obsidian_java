@@ -6,7 +6,7 @@
 
 
 ##### 介绍下JVM
-jvm是指Java virtual Machine, 在一个class文件加载到java虚拟机中, 要经历loading , linking, initializing, 其中首先虚拟机要将class文件load进classloader, 加载器会通过双亲委派模型, 从costumclassloader
+jvm是指Java virtual Machine, 在一个class文件加载到java虚拟机中, 要经历loading , linking, initializing, 其中首先虚拟机要将class文件load进classloader, 加载器会通过双亲委派模型, 从costumclassloader到appClassloader最终到bootstrap, 这样做最终要的原因是安全, 防止底层类库被篡改. class文件l
 
 ##### 谈谈对spring的理解
 
