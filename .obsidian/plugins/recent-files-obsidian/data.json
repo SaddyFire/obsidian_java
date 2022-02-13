@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "04 redis_mongoDB_ES",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/04 redis_mongoDB_ES.md"
+    },
+    {
+      "basename": "09 mybatis_dubbo_rabbitMQ_zookeeper",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/09 mybatis_dubbo_rabbitMQ_zookeeper.md"
+    },
+    {
       "basename": "03 mysql",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/03 mysql.md"
     },
@@ -11,14 +19,6 @@
     {
       "basename": "08 springMVC",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/08 springMVC.md"
-    },
-    {
-      "basename": "09 mybatis_dubbo_rabbitMQ_zookeeper",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/09 mybatis_dubbo_rabbitMQ_zookeeper.md"
-    },
-    {
-      "basename": "04 redis_mongoDB_ES",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/04 redis_mongoDB_ES.md"
     },
     {
       "basename": "06 spring",
