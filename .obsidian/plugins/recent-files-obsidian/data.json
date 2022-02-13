@@ -5,6 +5,10 @@
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md"
     },
     {
+      "basename": "00 introduce",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md"
+    },
+    {
       "basename": "06 spring",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/06 spring.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "01 java基础原理面经",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_002_复习的技术/01 java基础原理面经.md"
-    },
-    {
-      "basename": "05 反射、GC、JVM优化面经",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_002_复习的技术/05 反射、GC、JVM优化面经.md"
     }
   ],
   "omittedPaths": [],
