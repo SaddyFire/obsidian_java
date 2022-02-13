@@ -13,3 +13,6 @@ newScheduledThreadPool
 - 等待队列
 - 创建线程工厂
 - 任务拒绝策略
+
+**JMM (Java Memory Module)**
+
