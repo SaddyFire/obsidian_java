@@ -18,7 +18,10 @@ newScheduledThreadPool
 
 
 ##### MESI缓存一致性
-
+Modified: 
+Exclusive:
+Shared:
+Invlid:
 
 ##### synchronized 和 volatile 的区别
 synchronized 表示只有一个线程可以获取作用对象的锁，执行代码，阻塞其他线程。

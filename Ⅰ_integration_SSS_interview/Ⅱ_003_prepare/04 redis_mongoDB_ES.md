@@ -1,7 +1,8 @@
 ##### redis的持久化
-RDB: Redis Database Backup file
+**RDB:** Redis Database Backup file
 也被叫做Redis数据快照。简单来说就是把内存中的所有数据都记录到磁盘中。当Redis实例故障重启后，从磁盘读取快照文件，恢复数据。快照文件称为RDB文件，默认是保存在当前运行目录。
-AOF: Append Only File(追加文件)  -->  bgrewriteaof
+
+**AOF:** Append Only File(追加文件)  -->  bgrewriteaof
 Redis处理的每一个写命令都会记录在AOF文件，可以看做是命令日志文件。
 
 ##### 什么是缓存穿透、缓存雪崩、缓存击穿？
