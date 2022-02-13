@@ -12,6 +12,7 @@ BeanFactory工厂的相关增强处理结束后，BanFactory就会正式开始�
 BeanFactory将对象实例化之后，Spring会通过BeanPostProcessor（bean对象后置处理器）对Bean对象的初始化的前后进行后置处理，填充Bean对象的属性，完成初始化。
 通过Map数据类型放这些Bean对象存放在IOC容器中。
 bean销毁：注册销毁的回调方法，当对象销毁时，会执行destory-method方法。
+[[00 prepare#spring的bean生命周期|返回]]
 
 ##### spring 用到哪些设计模式
            
