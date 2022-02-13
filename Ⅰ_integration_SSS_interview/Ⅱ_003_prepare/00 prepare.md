@@ -10,7 +10,7 @@ jvm是指Java virtual Machine, 在一个class文件加载到java虚拟机中, �
 java运行后会进入jvm运行时数据区, 
 
 ##### 谈谈对spring的理解
-
+spring广义上来说是一个完整的生态, spring对项目的开发有超强的拓展性,spring家族让开发进入了春天时代. 侠义的spring框架核心主要是ioc和aop, ioc是指inversion of control 也就是控制反转, 是一种思想, 是一种程序之间的解耦思想,将对象的创建权力反转给spring. 
 
 ##### spring的bean生命周期
 
