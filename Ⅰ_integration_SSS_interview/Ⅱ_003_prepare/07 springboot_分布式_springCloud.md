@@ -43,10 +43,7 @@ Seata 分布式事务
 
 
 ##### seata
-**A** Atomicity
-**C**	Consistency
-**I**	 Isolation
-**D**  Durability
+
 
 **C**	Consistency
 **A**	Availability
