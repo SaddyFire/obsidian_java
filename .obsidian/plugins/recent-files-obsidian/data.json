@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "00 prepare",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md"
+    },
+    {
+      "basename": "13 another",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/13 another.md"
+    },
+    {
       "basename": "09 mybatis_dubbo_rabbitMQ_zookeeper",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/09 mybatis_dubbo_rabbitMQ_zookeeper.md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "01 集合",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/01 集合.md"
-    },
-    {
-      "basename": "00 program_myself",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 program_myself.md"
     },
     {
       "basename": "001 基础命令",
@@ -195,10 +199,6 @@
     {
       "basename": "05 反射、GC、JVM优化面经",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_002_复习的技术/05 反射、GC、JVM优化面经.md"
-    },
-    {
-      "basename": "04 java锁、高并发、多线程面经",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_002_复习的技术/04 java锁、高并发、多线程面经.md"
     }
   ],
   "omittedPaths": [],
