@@ -53,7 +53,10 @@ myisam是非聚簇索引的, 他的b+数里面磁盘块放的式指针和数据�
 ![[Pasted image 20220214220536.png]]
 
 ##### mysql优化
-select id from t where 
+- `select id from t where num=10 or num=20` 尽量少用or `select id from t where num=10 union all select id from t where num=20` 因为使用or会放弃索引引擎
+- `select id from t where num in(1,2,3)` 对于连续的数值, 能用between就不用in select id from t where num between 1 and 3
+- ` select id from t where name like '%abc%' ` 如果要进行大量首字母进行模糊匹配的要考虑用es
+- `select id from t where num/2=100` 应改为: `select id from t where num=100*2 `避免表字段直接用来做运算, 这会导致直接放弃索引
 
 
 
