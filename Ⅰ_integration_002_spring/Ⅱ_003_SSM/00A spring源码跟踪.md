@@ -7,9 +7,9 @@ excalidraw-plugin: parsed
 
 
 # Text Elements
-BeanFactory ^dqIR2Vuc
+BeanFactory ^UkNHKvB4
 
-AOP代理对象 ^UfILx5On
+AOP代理对象 ^Jaq5vWVC
 
 
 # Embedded files
@@ -26,7 +26,7 @@ a01bf6994e694c64424eb1d41b9972a889ad54a7: [[_resources/Pasted Image 202202141849
 	"source": "https://excalidraw.com",
 	"elements": [
 		{
-			"id": "dqIR2Vuc",
+			"id": "UkNHKvB4",
 			"type": "text",
 			"x": -517.8333740234375,
 			"y": -295.3334045410156,
@@ -122,7 +122,7 @@ a01bf6994e694c64424eb1d41b9972a889ad54a7: [[_resources/Pasted Image 202202141849
 			]
 		},
 		{
-			"id": "UfILx5On",
+			"id": "Jaq5vWVC",
 			"type": "text",
 			"x": -489.83349609375,
 			"y": 638.4776506212022,
