@@ -57,8 +57,11 @@ myisam是非聚簇索引的, 他的b+数里面磁盘块放的式指针和数据�
 - `select id from t where num in(1,2,3)` 对于连续的数值, 能用between就不用in select id from t where num between 1 and 3
 - ` select id from t where name like '%abc%' ` 如果要进行大量首字母进行模糊匹配的要考虑用es
 - `select id from t where num/2=100` 应改为: `select id from t where num=100*2 `避免表字段尽量不要用表达式, 把计算放到业务层, 这会导致直接放弃索引
-- 使用前缀索引
-- 使用索引扫描来排序
+- `select count(distinct left(city,3)/count(*) as sel3`使用前缀索引(通过索引的选择性来构建索引), 可以让b+树存储更多的数据, 口语说是索引长度要适当取值
+	![[Pasted image 20220215003739.png]]
+
+
+- `select retal_id, staff_id from retal where retal_date='2005-05-25' order by inventory_id, customer_id ` 使用索引扫描来排序
 
 
 
