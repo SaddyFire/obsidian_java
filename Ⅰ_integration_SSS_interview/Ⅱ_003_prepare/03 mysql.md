@@ -61,7 +61,12 @@ myisam是非聚簇索引的, 他的b+数里面磁盘块放的式指针和数据�
 	![[Pasted image 20220215003739.png]]
 
 
-- `select retal_id, staff_id from retal where retal_date='2005-05-25' order by inventory_id, customer_id ` 使用索引扫描来排序
+- `select retal_id, staff_id from retal where retal_date='2005-05-25' order by inventory_id, customer_id `整体利用组合索引 
+   `retal_id, staff_id from retal where retal_date='2005-05-25' order by inventory_id, customer_id desc`
+   使用索引扫描来排序(不懂)
+
+- `select * from actor where actor_id = 1 or actor_id = 2`
+  union all or 都能使用索引, 推荐使用in
 
 
 
