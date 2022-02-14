@@ -28,8 +28,15 @@ myisam是非聚簇索引的, 他的b+数里面磁盘块放的式指针和数据�
 主键一般是一个列, 可能还有联合主键, 索引也会有组合索引
 假设有一张表, 有id , name, age, gender 四个字段, id 式主键, name, age是组合索引
 组合索引使用的时候必须先匹配name, 然后匹配age
-mysql
+`select * from table where name=? and age=?`  用
+`select * from table where name=?`  用
+`select * from table where age=?`  不用
+`select * from table where name=? and age=?`  用  mysql内部有优化器, 会调整对应的顺序
+
+- 组合索引(联合索引)结构:
+
 - 索引下推
+
 
 ##### 脏读、幻读、不可重复读
 - **脏读(Dirty Read)**: 是指在一个事务处理过程中读取了另一个未提交的事务中的数据 , 导致两次查询结果不一致。
