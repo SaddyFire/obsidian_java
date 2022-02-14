@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Drawing 2022-02-14 10.51.32.excalidraw",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/Drawing 2022-02-14 10.51.32.excalidraw.md"
+    },
+    {
       "basename": "003 SpringMVC整合(底层原理)",
       "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/003 SpringMVC整合(底层原理).md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "015 springboot自动装配流程图",
       "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/015 springboot自动装配流程图.md"
-    },
-    {
-      "basename": "03 基础算法与数据结构",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_002_复习的技术/03 基础算法与数据结构.md"
     }
   ],
   "omittedPaths": [],
