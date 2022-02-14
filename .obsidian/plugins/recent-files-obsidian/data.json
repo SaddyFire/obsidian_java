@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "003 SpringMVC底层源码跟踪.excalidraw",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/003 SpringMVC底层源码跟踪.excalidraw.md"
-    },
-    {
       "basename": "00 prepare",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md"
+    },
+    {
+      "basename": "07 springboot_分布式_springCloud",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/07 springboot_分布式_springCloud.md"
+    },
+    {
+      "basename": "003 SpringMVC底层源码跟踪.excalidraw",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/003 SpringMVC底层源码跟踪.excalidraw.md"
     },
     {
       "basename": "00 introduce",
@@ -43,10 +47,6 @@
     {
       "basename": "04 redis_mongoDB_ES",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/04 redis_mongoDB_ES.md"
-    },
-    {
-      "basename": "07 springboot_分布式_springCloud",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/07 springboot_分布式_springCloud.md"
     },
     {
       "basename": "08 springMVC",
