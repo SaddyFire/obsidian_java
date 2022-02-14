@@ -20,6 +20,11 @@ spring广义上来说是一个完整的生态, spring对项目的开发有超强
 aop是aspect 
 
 ##### spring的bean生命周期
+首先spring的bean对象是由spring创建, 
+因此第一步他先以工厂模式思想构建了一个BeanFactory
+第二步BeanFactory加载bean的信息,形成BeanDefinition
+
+
 [[06 spring#说一说Spring中bean的生命周期？|答案]]
 
 ##### 谈一下SpringMVC的加载过程

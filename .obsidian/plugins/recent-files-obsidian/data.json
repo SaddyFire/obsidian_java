@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "012 拓展_spring底层原理",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/012 拓展_spring底层原理.md"
+    },
+    {
+      "basename": "002 Spring整合(事务+AOP)",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/002 Spring整合(事务+AOP).md"
+    },
+    {
       "basename": "00 prepare",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "014 springboot请求参数详解",
       "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/014 springboot请求参数详解.md"
-    },
-    {
-      "basename": "012 拓展_springboot底层原理",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/012 拓展_springboot底层原理.md"
     },
     {
       "basename": "003 SpringMVC底层源码跟踪.excalidraw",
@@ -195,10 +199,6 @@
     {
       "basename": "001 阿里云短信发送",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/001 阿里云短信发送.md"
-    },
-    {
-      "basename": "004 字段自动填充",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/004 字段自动填充.md"
     }
   ],
   "omittedPaths": [],
