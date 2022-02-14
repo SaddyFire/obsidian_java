@@ -42,8 +42,12 @@ SpringMVC是指spring module view controller, 也叫模型视图控制器, 把we
 ##### 谈一谈mysql
 首先mysql是一个关系型数据库, 
 
-##### mysql的优化
+##### 谈一谈mysql的事务
+首先mysql 的 事务是关系型数据库和nosql数据库的根本区别, 它可以用来维护数据操作的安全, 能够保证一系列操作的要么完全成功, 要么完全失败
+事务的四大特性是ACID, mysql中
 
+##### mysql的优化
+首先关于mysql有四个重要的概念, 第一个是聚簇索引, 在聚簇索引之前呢, 要讲到mysql的默认存储引擎, 在5.5后, 默认存储引擎是innodb, innodb的底层
 
 
 
