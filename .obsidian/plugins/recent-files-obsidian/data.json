@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "00 prepare",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md"
+    },
+    {
       "basename": "003 SpringMVC底层源码跟踪",
       "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/003 SpringMVC底层源码跟踪.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "002 Spring整合(事务+AOP)",
       "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/002 Spring整合(事务+AOP).md"
-    },
-    {
-      "basename": "00 prepare",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md"
     },
     {
       "basename": "00 introduce",

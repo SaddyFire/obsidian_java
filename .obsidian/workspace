@@ -7,9 +7,11 @@
         "id": "d1fbe90365e91327",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/003 SpringMVC底层源码跟踪.md"
+            "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -71,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -99,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/003 SpringMVC底层源码跟踪.md",
+                "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/003 SpringMVC底层源码跟踪.md"
+                "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md"
               }
             }
           },
@@ -126,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/003 SpringMVC底层源码跟踪.md",
+                "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,12 +145,12 @@
   },
   "active": "d1fbe90365e91327",
   "lastOpenFiles": [
+    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md",
     "Ⅰ_integration_002_spring/Ⅱ_003_springboot/003 SpringMVC底层源码跟踪.md",
     "Ⅰ_integration_002_spring/Ⅱ_003_springboot/003 SpringMVC整合(底层原理).md",
     "Ⅰ_integration_002_spring/Ⅱ_003_springboot/015 springboot自动装配流程图.md",
     "Ⅰ_integration_002_spring/Ⅱ_003_springboot/012 拓展_spring底层原理.md",
     "Ⅰ_integration_002_spring/Ⅱ_003_springboot/002 Spring整合(事务+AOP).md",
-    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md",
     "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md",
     "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/07 springboot_分布式_springCloud.md",
     "Ⅰ_integration_002_spring/Ⅱ_003_springboot/014 springboot请求参数详解.md",
