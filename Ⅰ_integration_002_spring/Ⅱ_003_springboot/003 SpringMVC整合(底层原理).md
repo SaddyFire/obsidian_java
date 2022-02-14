@@ -2,6 +2,10 @@
 
 ![[b3e6ef8496b743b78014b82e108ff86b.png]]
 
+##### 父子容器的形成
+![[Pasted image 20220214104543.png]]
+
+
 ## 2. Controller类
 
 ```java

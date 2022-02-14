@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "003 SpringMVC整合(底层原理)",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/003 SpringMVC整合(底层原理).md"
+    },
+    {
       "basename": "00 prepare",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "03 基础算法与数据结构",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_002_复习的技术/03 基础算法与数据结构.md"
-    },
-    {
-      "basename": "01 java基础原理面经",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_002_复习的技术/01 java基础原理面经.md"
     }
   ],
   "omittedPaths": [],

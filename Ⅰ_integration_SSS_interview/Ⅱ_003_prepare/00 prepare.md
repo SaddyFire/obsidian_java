@@ -25,7 +25,7 @@ aop是aspect
 ##### 谈一下SpringMVC的加载过程
 SpringMVC是指spring module view controller, 也叫模型视图控制器, 把web层进行解耦, 简化开发
 首先springMVC的入口是DispatcherServlet(`package org.springframework.web.servlet`)前端控制器, 他的父容器HttpServlet有`initServletBean`, FrameworkServlet实现了这个方法, 
-
+其中initServletBean()方法
 
 
 
