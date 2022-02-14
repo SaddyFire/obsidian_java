@@ -24,9 +24,11 @@ aop是aspect
 
 ##### 谈一下SpringMVC的加载过程
 SpringMVC是指spring module view controller, 也叫模型视图控制器, 把web层进行解耦, 简化开发
-首先springMVC的入口是DispatcherServlet(`package org.springframework.web.servlet`)前端控制器, 其中有核心方法`initStrategies()`初始化了映射处理器, `doDispatch() `处理请求方法, 并且获取到`HandlerAdapter`, 也就是处理器适配器, 最终调用了后端处理器`handle()`处理请求, 并返回`ModelAndView`返回模型视图
+首先springMVC的入口是DispatcherServlet(`package org.springframework.web.servlet`)前端控制器, 其中有核心方法`initStrategies()`初始化了映射处理器, `doDispatch() `处理请求方法, 并且获取到`HandlerAdapter`, 也就是处理器适配器, 最终调用了后端处理器`handle()`方法处理请求, 并返回`ModelAndView`模型视图
 
-
+##### SpringBoot的工作原理/自动配置/SPI机制是怎么样子的？
+首先SPI 是Service Provider Interface, 是一种服务发现机制, springboot的底层也使用到了spi机制
+`@SpringBootApplication`  -> `@EnableAutoConfiguration` -> `@import` 中导入的类会被加载到spring IOC容器中 ->  最终会被spring反射调用classLoader的getResourcees 把`META-INFO`下的`spring.factories`文件里的类load进jvm
 
 
 

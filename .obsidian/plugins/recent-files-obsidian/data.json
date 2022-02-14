@@ -5,16 +5,28 @@
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md"
     },
     {
+      "basename": "00 introduce",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md"
+    },
+    {
       "basename": "07 springboot_分布式_springCloud",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/07 springboot_分布式_springCloud.md"
     },
     {
-      "basename": "003 SpringMVC底层源码跟踪.excalidraw",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/003 SpringMVC底层源码跟踪.excalidraw.md"
+      "basename": "015 springboot自动装配流程图",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/015 springboot自动装配流程图.md"
     },
     {
-      "basename": "00 introduce",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md"
+      "basename": "014 springboot请求参数详解",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/014 springboot请求参数详解.md"
+    },
+    {
+      "basename": "012 拓展_springboot底层原理",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/012 拓展_springboot底层原理.md"
+    },
+    {
+      "basename": "003 SpringMVC底层源码跟踪.excalidraw",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/003 SpringMVC底层源码跟踪.excalidraw.md"
     },
     {
       "basename": "003 SpringMVC整合(底层原理)",
@@ -187,18 +199,6 @@
     {
       "basename": "004 字段自动填充",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/004 字段自动填充.md"
-    },
-    {
-      "basename": "005 访问测试",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/005 访问测试.md"
-    },
-    {
-      "basename": "003 JWT-鉴权",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/003 JWT-鉴权.md"
-    },
-    {
-      "basename": "015 springboot自动装配流程图",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/015 springboot自动装配流程图.md"
     }
   ],
   "omittedPaths": [],
