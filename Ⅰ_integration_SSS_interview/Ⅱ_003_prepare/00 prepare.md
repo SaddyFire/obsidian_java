@@ -15,6 +15,11 @@
 	其中首先虚拟机要将class文件load进classloader, 加载器会通过双亲委派模型, 从costumclassloader到appClassloader最终到bootstrap, 这样做最终要的原因是安全, 防止底层类库被篡改.同时如果经过了双亲委派模型最后也没找到该类, 则会报classnotfound异常. class文件load进内存之后会进行verification,preparation和resolution,进行字节码文件的解析, initializing是对静态变量的初始化赋值.
 	java运行后会进入jvm运行时数据区, 
 
+##### JVM调优
+-Xmx3350m: 设置JVM最大可用内存为3550M
+-Xms3350m: 设置JVM初始内存为3550M
+-Xmn2g: 设置年青代大小为2g 整个JVM内存大小=年青代+ 老年代+ 持久代大小
+
 ##### 谈谈对spring的理解
 spring广义上来说是一个完整的生态, spring对项目的开发有超强的拓展性,spring家族让开发进入了春天时代. 侠义的spring框架核心主要是ioc和aop, ioc是指inversion of control 也就是控制反转, 本质是一种思想, 是一种程序之间的解耦思想,将对象的创建权力反转给spring. ioc也是工厂模式, 单例模式, 模板方法, 观察者设计模式的一种实现. 
 aop是aspect 
