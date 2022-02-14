@@ -22,11 +22,12 @@ aop是aspect
 ##### spring的bean生命周期
 首先spring的bean对象是由spring创建, 
 因此第一步他先以工厂模式思想构建了一个BeanFactory
-第二步BeanFactory加载bean的信息,形成BeanDefinition
+第二步BeanFactory加载bean的信息,形成BeanDefinition,
+第三步通过反射创建对象 -> 使用对象 -> 销毁对象
 
 ##### 接口抽象类的差别
-接口: 自上向下: 定义空方法, 空约束
-抽象类: 自下向上: 我已经现有n种不同的子类, 然后抽取公共部分
+- 接口: 自上向下: 定义空方法, 空约束,先定义规范,然后实现具体方法
+- 抽象类: 自下向上: 我已经现有n种不同的子类, 然后抽取公共部分
 [[06 spring#说一说Spring中bean的生命周期？|答案]]
 
 ##### 谈一下SpringMVC的加载过程
