@@ -24,7 +24,9 @@ aop是aspect
 因此第一步他先以工厂模式思想构建了一个BeanFactory
 第二步BeanFactory加载bean的信息,形成BeanDefinition
 
-
+##### 接口抽象类的差别
+接口: 自上向下: 定义空方法, 空约束
+抽象类: 自下向上: 我已经现有n种不同的子类, 然后抽取公共部分
 [[06 spring#说一说Spring中bean的生命周期？|答案]]
 
 ##### 谈一下SpringMVC的加载过程
