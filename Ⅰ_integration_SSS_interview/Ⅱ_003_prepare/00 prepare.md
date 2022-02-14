@@ -23,7 +23,8 @@ aop是aspect
 [[06 spring#说一说Spring中bean的生命周期？|答案]]
 
 ##### 谈一下SpringMVC的加载过程
-SpringMVC是指spring module view controller, 也叫模型视图控制器, 
+SpringMVC是指spring module view controller, 也叫模型视图控制器, 把web层进行解耦, 简化开发
+首先springMVC
 
 
 
