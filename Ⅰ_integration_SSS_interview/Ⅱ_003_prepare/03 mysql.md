@@ -23,8 +23,10 @@ MyISAM不支持事务和外键
 **I**	 Isolation
 **D**  Durability
 
-mysql优化
+![[Pasted image 20220214220536.png]]
 
+mysql优化
+1. 数据表优化, 磁盘块中表中的主键要越小越好, 因此主键用varchar和int, 如果数据小于4个字节, 用varchar, 大于4个字节, 用int
 mysql锁
 
 
