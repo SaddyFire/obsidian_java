@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "03 mysql",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/03 mysql.md"
-    },
-    {
       "basename": "00 prepare",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md"
+    },
+    {
+      "basename": "00 introduce",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md"
+    },
+    {
+      "basename": "03 mysql",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/03 mysql.md"
     },
     {
       "basename": "003 SpringMVC底层源码跟踪",
@@ -27,10 +31,6 @@
     {
       "basename": "002 Spring整合(事务+AOP)",
       "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/002 Spring整合(事务+AOP).md"
-    },
-    {
-      "basename": "00 introduce",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md"
     },
     {
       "basename": "07 springboot_分布式_springCloud",
