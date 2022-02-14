@@ -52,7 +52,11 @@ myisam是非聚簇索引的, 他的b+数里面磁盘块放的式指针和数据�
 
 ![[Pasted image 20220214220536.png]]
 
-mysql优化
+##### mysql优化
+select id from t where 
+
+
+
 1. 数据表优化, 磁盘块每个磁盘块大小16kb, 表中的主键要越小越好, 因此主键用varchar和int, 如果数据小于4个字节, 用varchar, 大于4个字节, 用int
 mysql锁
 
