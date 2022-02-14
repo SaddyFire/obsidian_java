@@ -5,6 +5,10 @@
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md"
     },
     {
+      "basename": "01 集合",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/01 集合.md"
+    },
+    {
       "basename": "00 introduce",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "02 多线程_JVM",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/02 多线程_JVM.md"
-    },
-    {
-      "basename": "01 集合",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/01 集合.md"
     },
     {
       "basename": "06 spring",
