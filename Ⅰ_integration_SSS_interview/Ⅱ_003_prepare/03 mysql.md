@@ -66,9 +66,17 @@ myisam是非聚簇索引的, 他的b+数里面磁盘块放的式指针和数据�
    使用索引扫描来排序(不懂)
 
 - `select * from actor where actor_id = 1 or actor_id = 2`
-  union all or 都能使用索引, 推荐使用in
-
-
+  `select * from actor where actor_id in (1,2)`
+  `select * from actor where actor_id = 1 union all select * from actor where actor_id = 2`
+  union all or 都能使用索引, 推荐使用in, union会分两步执行
+  or单列索引可以走, 组合索引不会走,所以推荐in
+- 范围列都可以用索引 范围条件是: 见图, 但是只能用一个范围
+![[Pasted image 20220215005702.png]]
+- `select * from user where phone = 123`
+   `select * from user where phone='123'`
+   强制类型转换会全表扫描
+- 更新 十分频繁, 数据区分度不高的字段上不建议建立索引, 因为数据库要维护,类似于性别类区分不大的属性,建立索引没有意义, bu'n, 区分度在80%以上可以建立
+![[Pasted image 20220215010019.png]]
 
 1. 数据表优化, 磁盘块每个磁盘块大小16kb, 表中的主键要越小越好, 因此主键用varchar和int, 如果数据小于4个字节, 用varchar, 大于4个字节, 用int
 mysql锁
