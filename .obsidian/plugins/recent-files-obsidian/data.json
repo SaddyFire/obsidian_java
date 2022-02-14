@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "003 SpringMVC底层源码跟踪",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/003 SpringMVC底层源码跟踪.md"
+    },
+    {
+      "basename": "003 SpringMVC整合(底层原理)",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/003 SpringMVC整合(底层原理).md"
+    },
+    {
+      "basename": "015 springboot自动装配流程图",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/015 springboot自动装配流程图.md"
+    },
+    {
       "basename": "012 拓展_spring底层原理",
       "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/012 拓展_spring底层原理.md"
     },
@@ -21,20 +33,8 @@
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/07 springboot_分布式_springCloud.md"
     },
     {
-      "basename": "015 springboot自动装配流程图",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/015 springboot自动装配流程图.md"
-    },
-    {
       "basename": "014 springboot请求参数详解",
       "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/014 springboot请求参数详解.md"
-    },
-    {
-      "basename": "003 SpringMVC底层源码跟踪.excalidraw",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/003 SpringMVC底层源码跟踪.excalidraw.md"
-    },
-    {
-      "basename": "003 SpringMVC整合(底层原理)",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_springboot/003 SpringMVC整合(底层原理).md"
     },
     {
       "basename": "01 集合",
