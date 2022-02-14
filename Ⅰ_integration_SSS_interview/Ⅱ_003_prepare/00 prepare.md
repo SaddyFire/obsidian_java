@@ -38,7 +38,11 @@ SpringMVC是指spring module view controller, 也叫模型视图控制器, 把we
 首先SPI 是Service Provider Interface, 是一种服务发现机制, springboot的底层也使用到了spi机制
 `@SpringBootApplication`  -> `@EnableAutoConfiguration` -> `@import` 中导入的类会被加载到spring IOC容器中 ->  最终会被spring反射调用`classLoader`类中的的getResourcees 把`META-INFO`下的`spring.factories`文件里的类load进jvm
 
-##### mysql的事务
+
+##### 谈一谈mysql
+首先mysql是一个关系型数据库, 
+
+##### mysql的优化
 
 
 
