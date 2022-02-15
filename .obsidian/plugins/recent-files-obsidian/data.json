@@ -5,12 +5,8 @@
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md"
     },
     {
-      "basename": "02 多线程_JVM",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/02 多线程_JVM.md"
-    },
-    {
-      "basename": "03 mysql",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/03 mysql.md"
+      "basename": "00 introduce",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md"
     },
     {
       "basename": "00 program",
@@ -21,8 +17,12 @@
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/000 问题整合.md"
     },
     {
-      "basename": "00 introduce",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md"
+      "basename": "02 多线程_JVM",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/02 多线程_JVM.md"
+    },
+    {
+      "basename": "03 mysql",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/03 mysql.md"
     },
     {
       "basename": "012 日志_行为记录_动态监听",

@@ -32,9 +32,13 @@ newScheduledThreadPool
 ##### JMM
 JMM是抽象概念, main memory 和 working memory
 多个线程共享的内存叫主内存, 在物理结构中叫堆heap
-但是每个线程各自操作s
+但是每个线程各自操作数据的时候, 会有一个各自的work memory , 操作的是从主内存中拷贝过来的副本, 而且所有操作是要在自己的工作内存进行
 
 ##### GC
+假设一个场景, Student s1 = new Student();
+Student s2 = new Student();
+这个时候刚才的Student()对象就没有别人的指引, 也叫野指针,
+java包含了编译型和解释型语言
 垃圾回收器分为: 新生代 + 老年代 + 永久代（1.7）Perm Generation/ 元数据区(1.8) Metaspace
 新生代 是 Eden + 2个suvivor区
 第一次扫描garbage的时候新生代回收之后, 大多会被回收, 活着的就进入suvivor0
