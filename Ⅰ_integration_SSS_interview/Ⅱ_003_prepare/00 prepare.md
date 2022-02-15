@@ -29,12 +29,24 @@ newScheduledThreadPool
 	其中首先虚拟机要将class文件load进classloader, 加载器会通过双亲委派模型, 从costumclassloader到appClassloader最终到bootstrap, 这样做最终要的原因是安全, 防止底层类库被篡改.同时如果经过了双亲委派模型最后也没找到该类, 则会报classnotfound异常. class文件load进内存之后会进行verification,preparation和resolution,进行字节码文件的解析, initializing是对静态变量的初始化赋值.
 	java运行后会进入jvm运行时数据区,
 
+##### JMM
+JMM是抽象概念, main memory 和 working memory
+多个线程共享的内存叫主内存, 在物理结构中叫堆heap
+但是每个线程各自操作s
+
 ##### GC
-常见垃圾回收期: 新生代 + 老年代 + 永久代（1.7）Perm Generation/ 元数据区(1.8) Metaspace
+垃圾回收器分为: 新生代 + 老年代 + 永久代（1.7）Perm Generation/ 元数据区(1.8) Metaspace
 新生代 是 Eden + 2个suvivor区
 第一次扫描garbage的时候新生代回收之后, 大多会被回收, 活着的就进入suvivor0
-第二次扫描, 或者的从eden 和s0 进入s1
-第三次扫描, 
+再次扫描, 或者的从eden 和s0 进入s1
+再次扫描, eden 和s1 会重新进入s0
+当达到一定程度之后, 会进入老年代
+
+常见的GC回收器:
+Serial 和 SerialOld
+现在默认的回收器是Parallel Scavenge 和Parallel Old
+ParNew和CMS
+再后来就是GI
 
 ##### volatile关键字
 volatile可以保证多线程之间数据的可见性和一定有序性,  因为变量被volatile修饰过后, 当这个数据要进行写操作, JVM会发送一条lock指令给CPU,CPU计算完数据之后会立刻把这个数据写回到主内存, 而且mesi协议会分别给每个线程各自的这个数据都打标记, 例如你的modify就是我的invalid, 如果有invalid标记那我就会回到主内存去读数据
