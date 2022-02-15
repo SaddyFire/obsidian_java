@@ -14,6 +14,18 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "1a57b68a5250637a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -146,9 +158,9 @@
   "active": "d1fbe90365e91327",
   "lastOpenFiles": [
     "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 program.md",
+    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md",
     "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md",
     "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/003 JWT-鉴权.md",
-    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md",
     "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/03 mysql.md",
     "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/02 多线程_JVM.md",
     "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/01 集合.md",
