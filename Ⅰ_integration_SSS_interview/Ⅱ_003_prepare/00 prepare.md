@@ -29,6 +29,9 @@ newScheduledThreadPool
 	其中首先虚拟机要将class文件load进classloader, 加载器会通过双亲委派模型, 从costumclassloader到appClassloader最终到bootstrap, 这样做最终要的原因是安全, 防止底层类库被篡改.同时如果经过了双亲委派模型最后也没找到该类, 则会报classnotfound异常. class文件load进内存之后会进行verification,preparation和resolution,进行字节码文件的解析, initializing是对静态变量的初始化赋值.
 	java运行后会进入jvm运行时数据区, 
 
+##### volatile关键字
+volatile可以保证多线程之间数据的可见性和一定有序性,  因为变量被volatile修饰过后, 当这个数据要进行写操作, JVM会发送一条lock指令给CPU,CPU计算完数据之后会立刻把这个数据写回到主内存, 而且mesi协议会分别给自己
+
 ##### JVM调优
 -Xmx3350m: 设置JVM最大可用内存为3550M
 -Xms3350m: 设置JVM初始内存为3550M
