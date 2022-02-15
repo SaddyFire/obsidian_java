@@ -34,7 +34,9 @@ aop是aspect
 ![[Pasted image 20220215163013.png]]
 
 ##### spring 的 factorybean 和 beanfactory
-beanfactory相当于spring容器的入口, 初始化
+beanfactory是spring容器的入口, 定义了一些列的接口规范, 对象的创建经过一个完整的复杂生命周期过程, 可以说是一种流水线的工作流程
+
+beanfactory更像是一种定制化, 可以自己定义FactoryBean来实现FactoryBean, 自己可以自定义, 不需要完全遵循bean的生命周期
 
 ##### spring是怎么解决循环依赖的
 
