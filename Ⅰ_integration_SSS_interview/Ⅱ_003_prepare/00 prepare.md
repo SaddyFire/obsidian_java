@@ -26,10 +26,9 @@ spring广义上来说是一个完整的生态, spring对项目的开发有超强
 aop是aspect 
 
 ##### spring的bean生命周期
-首先spring的bean对象是由spring创建, 
-因此第一步他先以工厂模式思想构建了一个BeanFactory,
-第二步BeanFactory加载bean的信息,形成BeanDefinition实例化对象createBeanInstance(),
-第三步通过反射创建对象 -> 使用对象 -> 销毁对象
+首先springs是一个轻量级框架, 帮我们简化开发, 核心功能是ioc和aop
+bean的生命周期只是ioc创建对象的一个流程,里面大体来说可以包含实例化, 初始化, 使用, 销毁,但是这只是细粒度的 
+如果说细粒度的的话, 通过反射的方式读取到beandefinition的相关信息,把这些对象创建出来, 然后通过反射的方式加载类, 创建对象, 此时的创建只是在堆内存中申请了一块内存空间, 所以此时的值只是默认值,接下来会通过一个方法, 叫PostProcessor()方法来给当前属性赋值, 会调用相应set()方法完成属性的赋值, 但是这部分只会完成自定义属性的操作, 还有一种属性叫做
 ![[Pasted image 20220215163227.png]]
 ![[Pasted image 20220215163013.png]]
 
