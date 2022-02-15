@@ -67,5 +67,11 @@ SpringMVC是指spring module view controller, 也叫模型视图控制器, 把we
 
 ##### spring是怎么解决循环依赖的
 
+##### RabbitMQ避免重复消费
+- 采用乐观锁保证幂等, 在数据库中添加一个版本字段, 如果消费过后就改掉, 做个匹配
+- 
 
+
+##### RabbitMQ优势
+解耦, 异步, 消峰
 
