@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md",
+            "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/000 问题整合.md",
             "mode": "source",
             "source": false
           }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md",
+                "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/000 问题整合.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md"
+                "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/000 问题整合.md"
               }
             }
           },
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md",
+                "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/000 问题整合.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,6 +159,7 @@
   },
   "active": "4be504936f038eb8",
   "lastOpenFiles": [
+    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/000 问题整合.md",
     "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md",
     "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/02 多线程_JVM.md",
     "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 program.md",
@@ -167,7 +168,6 @@
     "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/09 mybatis_dubbo_rabbitMQ_zookeeper.md",
     "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/06 spring.md",
     "Ⅰ_integration_002_spring/Ⅱ_003_SSM/00A spring源码跟踪.md",
-    "Ⅰ_integration_003_springCloud/Ⅱ_002_配置中心&Feign远程调用/001 过滤工厂.md",
-    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/03 mysql.md"
+    "Ⅰ_integration_003_springCloud/Ⅱ_002_配置中心&Feign远程调用/001 过滤工厂.md"
   ]
 }

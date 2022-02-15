@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "000 问题整合",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/000 问题整合.md"
+    },
+    {
       "basename": "00 prepare",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "001 concept",
       "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_003_DistributedRedis/001 concept.md"
-    },
-    {
-      "basename": "unlinked files output",
-      "path": "unlinked files output.md"
     }
   ],
   "omittedPaths": [],
