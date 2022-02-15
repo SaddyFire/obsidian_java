@@ -65,6 +65,12 @@ SpringMVC是指spring module view controller, 也叫模型视图控制器, 把we
 
 
 ##### 分布式事务
+TCC 
+比如A账户给B账户转钱, 
+Try阶段: 先把两个银行账户中的资金冻结住
+Confirm: A减钱 和 B加钱, 如果中间
+Cancel阶段: 如果任何一个账户操作失败, 就要回滚进行补偿
+但是这种方案业务耦合太多, 每个业务的try, confirm, cancel都不一样, 所以只有跟钱相关的分布式事务, 要么全部成功, 要么全部自动回滚, 严格保证资金的正确性, 用TCC方案, 维护难
 
 ##### spring是怎么解决循环依赖的
 
