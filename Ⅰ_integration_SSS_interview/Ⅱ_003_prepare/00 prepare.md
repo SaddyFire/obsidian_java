@@ -6,7 +6,21 @@
 	在1.7之前, 如果链表过长,就会导致每次查询要一个个撸下来, 而1.8之后采用红黑树方式的查询效率就会大大提高. 但是数据少的时候树的结点大小比链表要大, 所以在一个哈希桶数量大于8的时候才会变为红黑树, 小于6的时候会转回链表. 
 	还有一点是1.7的hashmap是头插法,速度快,但是在多线程并发和数组扩容的时候会出现循环列表, 导致死锁问题, 所以在1.8之后的红黑树用尾插法, 能相对避免死锁. 在项目中的话, 如果有并发需求, 我们通常会采用concurrentHashmap, 他的底层是对hashmap的哈希桶上锁, 达到多线程安全.
 	
-##### 介绍下线程池
+##### 四大线程池
+
+newSingleThreadExecutor
+newFixedThreadPool
+newCachedThreadPool
+newScheduledThreadPool
+
+##### 线程池七大参数
+- 核心线程数
+- 最大线程数
+- 临时线程最大存活时间
+- 时间单位
+- 等待队列
+- 创建线程工厂
+- 任务拒绝策略
 
 
 ##### 介绍下JVM
@@ -79,6 +93,8 @@ SpringMVC是指spring module view controller, 也叫模型视图控制器, 把we
 首先关于mysql数据优化之前,我们要明确musql的常用几种数据存储引擎, 在mysql5.5之后, 默认的存储引擎是innodb, innodb的底层
 *剩余mysql问题转到专题内*
 
+##### mysql索引语句创建
+create index 索引名 on 表名(列名)
 
 ##### 分布式事务
 **TCC方案** 
