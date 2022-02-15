@@ -50,12 +50,9 @@ SpringMVC是指spring module view controller, 也叫模型视图控制器, 把we
 
 ##### 谈一谈mysql
 讲mysql我想从首先mysql是一个关系型数据库, 关系型数据库和nosql在本质的区别是一个偏于存储硬盘, 一个偏于存储在内存, 因为是基于硬盘存储.
-讲到mysql要聊到mysql的存储引擎, 在mysql5.5之后, 默认引擎改成了innodb, 之前是myisom, 存储引擎是一种存储数据文件的形式, 源文件里面innodb是2个, myisom是3个, 因为innodb采用了聚簇索引的方式, 当然他们两个底层都是b+树, 但是innodb把行数据放在了b+树的叶子节点. 
+讲到mysql要聊到mysql的存储引擎, 在mysql5.5之后, 默认引擎改成了innodb, 之前是myisom, 存储引擎是一种存储数据文件的形式, 源文件里面innodb是2个, myisom是3个, 因为innodb采用了聚簇索引的方式, 当然他们两个底层都是b+树, 但是innodb把行数据放在了b+树的叶子节点. myisom的磁盘块放的是指针和数据行的地址. 
+因为讲到聚簇索引了再提一下回表, B+树的聚簇索引表一定会有一张, 可以是主键, 可以是唯一键, 如果都没有就会默认给你生成一个6字节的rowid, 所以比方`select * from xx where name='zhangsan'`
 
-b+树叶子节点才存储数据, 非叶子节点不存储数据, 
-
-1个字节2^8
-8个字节2
 
 ##### 谈一谈mysql的事务
 首先mysql 的 事务是关系型数据库和nosql数据库的根本区别, 它可以用来维护数据操作的安全, 能够保证一系列操作的要么完全成功, 要么完全失败
