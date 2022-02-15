@@ -28,7 +28,7 @@ aop是aspect
 ##### spring的bean生命周期
 首先spring是一个轻量级框架, 帮我们简化开发, 核心功能是ioc和aop
 bean的生命周期只是ioc创建对象的一个流程,里面大体来说可以包含实例化, 初始化, 使用, 销毁
-如果说细粒度的的话, 通过反射的方式读取到beandefinition的相关信息,把这些对象创建出来, 然后通过反射的方式加载类, 创建对象, 此时的创建只是在堆内存中申请了一块内存空间, 
+如果说细粒度的的话, 通过反射的方式读取到`beandefinition`的相关信息,把这些对象创建出来, 然后通过反射的方式加载类, 创建对象, 此时的创建只是在堆内存中申请了一块内存空间, 
 所以此时的值只是默认值,接下来会通过一个方法, 叫`PostProcessor()`方法来给当前属性赋值, 会调用相应set()方法完成属性的赋值, 但是这部分只会完成自定义属性的操作, 还有一部分属性叫做容器属性, 是spring框架给我们定义的自定义对象, 所以这时候还会调用一个`aware()`接口, 通过这个接口可以帮我们判断是否能进行属性值的设置工作, 所以相当于populatebean()和invokeAwareMethods()方法都完成了属性的赋值工作, 一个是自定义属性的赋值, 一个是容器属性的赋值, 当这个时候完成之后, 正常情况下bean对象已经可以正常使用了
 但是这里spring设计的时候考虑到了一个特点, 比如拓展性, 当bean对象创建过后可能会对bean对象有一些扩展的过程, 比如aop的实现, 其实就是对我们生成的bean对象有一定的拓展操作, `PostProcessor`接口里面有after()before()方法来进行增强, aop的底层动态代理也是在这里实现的
 当这些步骤都完成之后, 就可以完成bean的创建了, 这是我可以通过Context.getBean()来调取.
@@ -39,7 +39,7 @@ bean的生命周期只是ioc创建对象的一个流程,里面大体来说可以
 ##### spring 的 factorybean 和 beanfactory
 beanfactory是spring容器的入口, 定义了一些列的接口规范, 对象的创建经过一个完整的复杂生命周期过程, 可以说是一种流水线的工作流程
 
-factorybean更像是一种定制化, 可以自己定义FactoryBean来实现FactoryBean, 自己可以自定义, 不需要完全遵循bean的生命周期
+factorybean更像是一种定制化, 可以自己定义FactoryBean来实现Bean的特殊要求, 自己可以自定义, 不需要完全遵循bean的生命周期
 
 ##### spring是怎么解决循环依赖的/为什么要使用三级缓存来解决循环依赖问题
 循环依赖是指A对象里有个属性是b, B对象里有个属性是a,
@@ -59,13 +59,13 @@ SpringMVC是指spring module view controller, 也叫模型视图控制器, 把we
 
 ##### SpringBoot的工作原理/自动配置/SPI机制是怎么样子的？
 首先SPI 是Service Provider Interface, 是一种服务发现机制, springboot的底层也使用到了spi机制
-`@SpringBootApplication`  -> `@EnableAutoConfiguration` -> `@import` 中导入的类会被加载到spring IOC容器中 ->  最终会被spring反射调用`classLoader`类中的的getResourcees 把`META-INFO`下的`spring.factories`文件里的类load进jvm
+`@SpringBootApplication`  -> `@EnableAutoConfiguration` -> `@import` 中导入的类会被加载到spring IOC容器中 ->  最终会被spring反射调用`classLoader`类中的的getResourcees() 把`META-INFO`下的`spring.factories`文件里的类load进jvm
 
 
 ##### 谈一谈mysql
 讲mysql我想从首先mysql是一个关系型数据库, 关系型数据库和nosql在本质的区别是一个偏于存储硬盘, 一个偏于存储在内存, 因为是基于硬盘存储.
 讲到mysql要聊到mysql的存储引擎, 在mysql5.5之后, 默认引擎改成了innodb, 之前是myisom, 存储引擎是一种存储数据文件的形式, 源文件里面innodb是2个, myisom是3个, 因为innodb采用了聚簇索引的方式, 当然他们两个底层都是b+树, 但是innodb把行数据放在了b+树的叶子节点. myisom的磁盘块放的是指针和数据行的地址. 
-因为讲到聚簇索引了再提一下回表, B+树的聚簇索引表一定会有一张, 可以是主键, 可以是唯一键, 如果都没有就会默认给你生成一个6字节的rowid, 所以比方`select * from xx where name='zhangsan'` 如果我name是索引, 那我会先在name索引表里查到这行数据的聚簇索引id, 然后再回聚簇索引里查这个行数据. 讲到这又有一个索引覆盖, 就是我不回表, 直接从name里面查id 和name, 这样就不用回表
+因为有了聚簇索引这里有牵扯到一个概念叫回表, B+树的聚簇索引表一定会有一张, 可以是主键, 可以是唯一键, 如果都没有就会默认给你生成一个6字节的rowid, 所以比方`select * from xx where name='zhangsan'` 如果我name是索引, 那我会先在name索引表里查到这行数据的聚簇索引id, 然后再回聚簇索引里查这个行数据. 讲到这又有一个索引覆盖, 就是我不回表, 直接从name里面查id 和name, 这样就不用回表
 
 
 ##### 谈一谈mysql的事务
