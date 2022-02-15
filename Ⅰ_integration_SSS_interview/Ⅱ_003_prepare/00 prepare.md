@@ -83,4 +83,8 @@ SpringMVC是指spring module view controller, 也叫模型视图控制器, 把we
 解耦, 异步, 消峰
 
 ##### 高并发怎么处理
+1. 微服务架构拆分
+2. 用缓存, 把页面浏览的信息用minIO或者redis抗压
+3. 
+
 
