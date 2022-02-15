@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "00 introduce",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md"
-    },
-    {
       "basename": "00 prepare",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md"
+    },
+    {
+      "basename": "001 过滤工厂",
+      "path": "Ⅰ_integration_003_springCloud/Ⅱ_002_配置中心&Feign远程调用/001 过滤工厂.md"
+    },
+    {
+      "basename": "00 introduce",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md"
     },
     {
       "basename": "03 mysql",
@@ -195,10 +199,6 @@
     {
       "basename": "unlinked files output",
       "path": "unlinked files output.md"
-    },
-    {
-      "basename": "Pasted image 20220115203328",
-      "path": "_resources/Pasted image 20220115203328.png"
     }
   ],
   "omittedPaths": [],
