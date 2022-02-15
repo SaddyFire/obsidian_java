@@ -27,10 +27,11 @@ aop是aspect
 
 ##### spring的bean生命周期
 首先spring的bean对象是由spring创建, 
-因此第一步他先以工厂模式思想构建了一个BeanFactory
-第二步BeanFactory加载bean的信息,形成BeanDefinition,
+因此第一步他先以工厂模式思想构建了一个BeanFactory,
+第二步BeanFactory加载bean的信息,形成BeanDefinition实例化对象createBeanInstance(),
 第三步通过反射创建对象 -> 使用对象 -> 销毁对象
-
+![[Pasted image 20220215163227.png]]
+![[Pasted image 20220215163013.png]]
 
 spring 的 factorybean 和 beanfactory
 
@@ -68,7 +69,7 @@ SpringMVC是指spring module view controller, 也叫模型视图控制器, 把we
 ##### spring是怎么解决循环依赖的
 
 ##### RabbitMQ使用场景
-关注好友里面如果相互关注的话是会默认添加好友, 业务里是要额外查一下双方是否相互关注, 我是把加好友加到mq里了, 因为之前做过一个业务, 也是类似这种模式
+关注好友里面如果相互关注的话是会默认添加好友, 业务里是要额外查一下双方是否相互关注, 我是把加好友加到mq里了, 因为之前做过一个业务, 也是类似这种模式, 当时
 
 ##### RabbitMQ避免重复消费
 - 采用乐观锁保证幂等, 在数据库中添加一个版本字段, 如果消费过后就改掉, 做个匹配
