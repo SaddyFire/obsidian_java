@@ -31,6 +31,9 @@ aop是aspect
 第二步BeanFactory加载bean的信息,形成BeanDefinition,
 第三步通过反射创建对象 -> 使用对象 -> 销毁对象
 
+
+spring 的 factorybean 和 beanfactory
+
 ##### 接口抽象类的差别
 - 接口: 自上向下: 定义空方法, 空约束,先定义规范,然后实现具体方法
 - 抽象类: 自下向上: 我已经现有n种不同的子类, 然后抽取公共部分
