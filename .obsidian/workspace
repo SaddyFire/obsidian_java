@@ -14,18 +14,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "1a57b68a5250637a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md",
-            "mode": "preview",
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -90,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309
+    "width": 309,
+    "collapsed": true
   },
   "right": {
     "id": "eaafcc4feb3ef58e",
@@ -158,11 +147,11 @@
   "active": "d1fbe90365e91327",
   "lastOpenFiles": [
     "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md",
+    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/03 mysql.md",
+    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/02 多线程_JVM.md",
     "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 program.md",
     "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md",
     "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/003 JWT-鉴权.md",
-    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/03 mysql.md",
-    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/02 多线程_JVM.md",
     "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/01 集合.md",
     "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/04 redis_mongoDB_ES.md",
     "Ⅰ_integration_002_spring/Ⅱ_003_SSM/00A spring源码跟踪.md",
