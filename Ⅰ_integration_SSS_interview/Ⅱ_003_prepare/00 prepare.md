@@ -65,6 +65,7 @@ SpringMVC是指spring module view controller, 也叫模型视图控制器, 把we
 
 ##### 分布式事务
 
+##### spring是怎么解决循环依赖的
 
 
 
