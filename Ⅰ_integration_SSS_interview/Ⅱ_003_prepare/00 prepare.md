@@ -50,7 +50,7 @@ SpringMVC是指spring module view controller, 也叫模型视图控制器, 把we
 
 ##### 谈一谈mysql
 讲mysql我想从首先mysql是一个关系型数据库, 关系型数据库和nosql在本质的区别是一个偏于存储硬盘, 一个偏于存储在内存, 因为是基于硬盘存储.
-讲到mysql要聊到mysql的存储引擎, 在mysql5.5之后, 默认引擎改成了innodb, 之前是myisom, 存储引擎是一种存储数据文件的形式, 源文件里面innodb是2个, myisom是3个, 因为innodb采用了聚簇索引的方式, 当然他们两个底层都是b+树, 但是innodb把
+讲到mysql要聊到mysql的存储引擎, 在mysql5.5之后, 默认引擎改成了innodb, 之前是myisom, 存储引擎是一种存储数据文件的形式, 源文件里面innodb是2个, myisom是3个, 因为innodb采用了聚簇索引的方式, 当然他们两个底层都是b+树, 但是innodb把行数据放在了b+树的叶子节点. 
 
 b+树叶子节点才存储数据, 非叶子节点不存储数据, 
 
