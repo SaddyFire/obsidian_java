@@ -26,13 +26,13 @@ newScheduledThreadPool
 ##### 介绍下JVM
 
 jvm是指Java virtual Machine, 在一个class文件加载到java虚拟机中, 要经历loading , linking, initializing, 
-	其中首先虚拟机要将class文件load进classloader, 加载器会通过双亲委派模型, 从costumclassloader到appClassloader最终到bootstrap, 这样做最终要的原因是安全, 防止底层类库被篡改.同时如果经过了双亲委派模型最后也没找到该类, 则会报classnotfound异常. class文件load进内存之后会进行verification,preparation和resolution,进行字节码文件的解析, initializing是对静态变量的初始化赋值.
-	java运行后会进入jvm运行时数据区,
+其中首先虚拟机要将class文件load进classloader, 加载器会通过双亲委派模型, 从costumclassloader到appClassloader最终到bootstrap, 这样做的根本原因是是为了安全, 防止底层类库被篡改.同时如果经过了双亲委派模型最后也没找到该类, 则会报classnotfound异常. class文件load进内存之后会进行verification,preparation和resolution,进行字节码文件的解析, initializing是对静态变量的初始化赋值.
+java运行后会进入jvm运行时数据区,
 
 ##### JMM
 JMM是抽象概念, main memory 和 working memory
 多个线程共享的内存叫主内存, 在物理结构中叫堆heap
-但是每个线程各自操作数据的时候, 会有一个各自的work memory , 操作的是从主内存中拷贝过来的副本, 而且所有操作是要在自己的工作内存进行
+但是每个线程各自操作数据的时候, 会有一个各自的working memory , 操作的是从主内存中拷贝过来的副本, 而且所有操作是要在自己的工作内存进行
 
 ##### GC
 假设一个场景, Student s1 = new Student();
