@@ -111,7 +111,7 @@ SpringMVC是指spring module view controller, 也叫模型视图控制器, 把we
 因为有了聚簇索引这里有牵扯到一个概念叫回表, B+树的聚簇索引表一定会有一张, 可以是主键, 可以是唯一键, 如果都没有就会默认给你生成一个6字节的rowid, 所以比方`select * from xx where name='zhangsan'` 如果我name是索引, 那我会先在name索引表里查到这行数据的聚簇索引id, 然后再回聚簇索引里查这个行数据. 讲到这又有一个索引覆盖, 就是我不回表, 直接从name里面查id 和name, 这样就不用回表
 
 
-##### mysql的事务
+##### MySQL的事务
 首先mysql 的 事务是关系型数据库和nosql数据库的根本区别, 它可以用来维护数据操作的安全, 能够保证一系列操作的要么完全成功, 要么完全失败
 事务的四大特性是ACID, mysql中只有innodb是支持事务的
 
@@ -120,7 +120,7 @@ SpringMVC是指spring module view controller, 也叫模型视图控制器, 把we
 2. 在满足需求的情况下,尽量主键自增, 因为这样在插入数据时不会对B+树中的磁盘块分裂
 3. 使用前缀索引(通过索引的选择性来构建索引), 可以让b+树存储更多的数据, 口语说是索引长度要适当取值
 
-##### mysql语句的优化
+##### MySQL语句的优化
 首先关于mysql数据优化之前,我们要明确musql的常用几种数据存储引擎, 在mysql5.5之后, 默认的存储引擎是innodb, innodb的底层
 -   `select * from actor where actor_id = 1 or actor_id = 2`  
     `select * from actor where actor_id in (1,2)`  
@@ -138,7 +138,7 @@ SpringMVC是指spring module view controller, 也叫模型视图控制器, 把we
 
 
 
-##### mysql索引语句创建
+##### MySQL索引语句创建
 create index 索引名 on 表名(列名)
 
 ##### 分布式事务
@@ -176,7 +176,7 @@ B系统是如果收到了confirm, B系统会消费消息
 - 如果是set就不用解决
 
 
-##### 死信队列的场景
+##### RabbitMQ_死信队列的场景
 
 
 ##### RabbitMQ优势
@@ -192,21 +192,21 @@ B系统是如果收到了confirm, B系统会消费消息
 5. 如果是搜索请求, 一开始数据量很小, 可以自己基于lucene包封装搜索引擎, 如果数据量越来越大的话, 单机lucene撑不了这么搞得并发, 这时候要用es分布式集群, 因为es本身就是分布式, 加上他的存储海量数据的特性
 
 
-##### reid分布式事务锁
+##### Redis分布式事务锁
 首先redis是一种nosql, 是为了解决海量数据走数据库会很容易崩塌的这种问题, **Redis有5种主要数据类型**：string、hash、list(有序、可重复)、set(无序、不可重复)、zset(不可重复，基于score实现排序)
 Redis之所以读取速度快是因为他基于内存操作,数据结构key-value相对简单,单线程操作不会有cpu上下文的切换,多路的I/O复用
 
 Redis分布式锁的加锁, 本质上是加一个key,value，其实就是给Key键设置一个值（SET lock_key random_value NX PX 5000，NX表示键不存在时才设置），其他进程执行前会判断Redis中这个Key是否有值，如果发现这个Key有值了，就说明已有其他进程在执行，则循环等待，超时则获取失败
 锁信息一定要设置过期时间, 不然万一要是redis挂了就会成死锁了
 
-##### redis的持久化
+##### Redis的持久化
 **RDB:** Redis Database Backup file
 也被叫做Redis数据快照。简单来说就是把内存中的所有数据都记录到磁盘中。当Redis实例故障重启后，从磁盘读取快照文件，恢复数据。快照文件称为RDB文件，默认是保存在当前运行目录。
 
 **AOF:** Append Only File(追加文件)  -->  bgrewriteaof
 Redis处理的每一个写命令都会记录在AOF文件，可以看做是命令日志文件。
 
-##### 什么是缓存穿透、缓存雪崩、缓存击穿？
+##### Redis缓存穿透、缓存雪崩、缓存击穿？
 **缓存穿透**是指反复查询不存在的数据, 导致数据库压力过大, 这是恶意. 
 **缓存雪崩**指某一个时间段内, 缓存集中的过期失效, 导致大量请求过来, 压力都集中到数据库
 **缓存击穿**指将一个热点key的redis缓存失效, 导致大量请求瞬间集中到数据库
