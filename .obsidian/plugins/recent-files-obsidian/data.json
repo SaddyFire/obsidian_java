@@ -5,6 +5,30 @@
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md"
     },
     {
+      "basename": "00 prepare",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md"
+    },
+    {
+      "basename": "000 问题整合",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/000 问题整合.md"
+    },
+    {
+      "basename": "06 spring",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/06 spring.md"
+    },
+    {
+      "basename": "07 springboot_分布式_springCloud",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/07 springboot_分布式_springCloud.md"
+    },
+    {
+      "basename": "08 springMVC",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/08 springMVC.md"
+    },
+    {
+      "basename": "09 mybatis_dubbo_rabbitMQ_zookeeper",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/09 mybatis_dubbo_rabbitMQ_zookeeper.md"
+    },
+    {
       "basename": "012 日志_行为记录_动态监听",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/012 日志_行为记录_动态监听.md"
     },
@@ -13,24 +37,12 @@
       "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/007 redis整理.md"
     },
     {
-      "basename": "00 prepare",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md"
-    },
-    {
       "basename": "04 redis_mongoDB_ES",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/04 redis_mongoDB_ES.md"
     },
     {
-      "basename": "000 问题整合",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/000 问题整合.md"
-    },
-    {
       "basename": "01 集合",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/01 集合.md"
-    },
-    {
-      "basename": "09 mybatis_dubbo_rabbitMQ_zookeeper",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/09 mybatis_dubbo_rabbitMQ_zookeeper.md"
     },
     {
       "basename": "000 核心点",
@@ -43,10 +55,6 @@
     {
       "basename": "03 mysql",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/03 mysql.md"
-    },
-    {
-      "basename": "06 spring",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/06 spring.md"
     },
     {
       "basename": "00A spring源码跟踪",
@@ -105,20 +113,12 @@
       "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/003 SpringMVC整合(底层原理).md"
     },
     {
-      "basename": "07 springboot_分布式_springCloud",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/07 springboot_分布式_springCloud.md"
-    },
-    {
       "basename": "014 springboot请求参数详解",
       "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/014 springboot请求参数详解.md"
     },
     {
       "basename": "13 another",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/13 another.md"
-    },
-    {
-      "basename": "08 springMVC",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/08 springMVC.md"
     },
     {
       "basename": "001 基础命令",
