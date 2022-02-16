@@ -9,8 +9,16 @@
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md"
     },
     {
+      "basename": "00 prepare-冲突-SaddyFire_Win10",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare-冲突-SaddyFire_Win10.md"
+    },
+    {
       "basename": "000 问题整合",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/000 问题整合.md"
+    },
+    {
+      "basename": "04 redis_mongoDB_ES",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/04 redis_mongoDB_ES.md"
     },
     {
       "basename": "03 mysql",
@@ -23,10 +31,6 @@
     {
       "basename": "007 redis整理",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/007 redis整理.md"
-    },
-    {
-      "basename": "04 redis_mongoDB_ES",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/04 redis_mongoDB_ES.md"
     },
     {
       "basename": "06 spring",
@@ -195,10 +199,6 @@
     {
       "basename": "002 人脸识别",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/002 人脸识别.md"
-    },
-    {
-      "basename": "02 java集合面经",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_002_复习的技术/02 java集合面经.md"
     }
   ],
   "omittedPaths": [],
