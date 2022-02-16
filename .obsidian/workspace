@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md",
+            "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md",
             "mode": "source",
             "source": false
           }
@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363
+    "width": 363,
+    "collapsed": true
   },
   "right": {
     "id": "eaafcc4feb3ef58e",
@@ -114,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md",
+                "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md"
+                "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md"
               }
             }
           },
@@ -141,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md",
+                "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +158,9 @@
   },
   "active": "da17f0fefefba89f",
   "lastOpenFiles": [
-    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md",
     "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md",
     "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/007 redis整理.md",
+    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md",
     "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/03 mysql.md",
     "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/04 redis_mongoDB_ES.md",
     "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/06 spring.md",
