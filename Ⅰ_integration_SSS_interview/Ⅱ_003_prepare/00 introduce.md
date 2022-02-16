@@ -8,7 +8,7 @@
 
 
 ##### 项目介绍
-我们项目的整个后端架构以SpringBoot + Mybatis作为系统著架构, RabbitMQ作中间件, Redis作缓存技术, FastDFS系统做小视频的数据存储,  MongoDB geo实现地理位置的查询, SpringCloud用的是二代Alibaba,GateWay作网关,  Nacos做服务发现注册中心和配置中心, 分布式远程调用时用的Dubbo. 
+我们项目的整个后端架构以SpringBoot + Mybatis作为系统架构, RabbitMQ作中间件, Redis作缓存技术, FastDFS系统做小视频的数据存储,  MongoDB geo实现地理位置的查询, SpringCloud用的是二代Alibaba,GateWay作网关,  Nacos做服务发现注册中心和配置中心, 分布式远程调用时用的Dubbo. 
 在这里我们springcloudAlibaba用的2.2.5, dubbo用的是2.7.8, 这两个版本在使用时有时候会造成冲突, 如果数据库重启的情况下会报9000错误.
 
 
