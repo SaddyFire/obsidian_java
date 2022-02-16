@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "00 introduce",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md"
-    },
-    {
-      "basename": "007 redis整理",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/007 redis整理.md"
+      "basename": "03 mysql",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/03 mysql.md"
     },
     {
       "basename": "00 prepare",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md"
     },
     {
-      "basename": "03 mysql",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/03 mysql.md"
+      "basename": "001 Concept",
+      "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_002_Seata/001 Concept.md"
+    },
+    {
+      "basename": "000 问题整合",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/000 问题整合.md"
+    },
+    {
+      "basename": "00 introduce",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md"
+    },
+    {
+      "basename": "007 redis整理",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/007 redis整理.md"
     },
     {
       "basename": "04 redis_mongoDB_ES",
@@ -35,10 +43,6 @@
     {
       "basename": "09 mybatis_dubbo_rabbitMQ_zookeeper",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/09 mybatis_dubbo_rabbitMQ_zookeeper.md"
-    },
-    {
-      "basename": "000 问题整合",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/000 问题整合.md"
     },
     {
       "basename": "012 日志_行为记录_动态监听",
@@ -127,10 +131,6 @@
     {
       "basename": "12 javascript, jquery, vue",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/12 javascript, jquery, vue.md"
-    },
-    {
-      "basename": "001 Concept",
-      "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_002_Seata/001 Concept.md"
     },
     {
       "basename": "002 (temp) idea删除git项目",

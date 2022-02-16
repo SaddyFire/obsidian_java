@@ -117,6 +117,19 @@ SpringMVC是指spring module view controller, 也叫模型视图控制器, 把we
 
 ##### mysql的优化
 首先关于mysql数据优化之前,我们要明确musql的常用几种数据存储引擎, 在mysql5.5之后, 默认的存储引擎是innodb, innodb的底层
+-   `select * from actor where actor_id = 1 or actor_id = 2`  
+    `select * from actor where actor_id in (1,2)`  
+    `select * from actor where actor_id = 1 union all select * from actor where actor_id = 2`  
+    union all or 都能使用索引, 推荐使用in, union会分两步执行  
+    or单列索引可以走, 组合索引不会走,所以推荐in
+	
+- `select id from t where num in(1,2,3)` 对于连续的数值, 能用between就不用in select id from t where num between 1 and 3
+-  `select id from t where num/2=100` 应改为: `select id from t where num=100*2` 避免表字段尽量不要用表达式, 把计算放到业务层, 这会导致直接放弃索引
+- 范围列都可以用索引 范围条件是:  但是只能用一个范围
+- `select * from user where phone = 123`  
+    `select * from user where phone='123'`  
+    强制类型转换会全表扫描
+- 更新 十分频繁, 数据区分度不高的字段上不建议建立索引, 因为数据库要维护,类似于性别类区分不大的属性,建立索引没有意义, 不能有效过滤数据, 区分度在80%以上可以建立
 *剩余mysql问题转到专题内*
 
 ##### mysql索引语句创建
