@@ -115,7 +115,12 @@ SpringMVC是指spring module view controller, 也叫模型视图控制器, 把we
 首先mysql 的 事务是关系型数据库和nosql数据库的根本区别, 它可以用来维护数据操作的安全, 能够保证一系列操作的要么完全成功, 要么完全失败
 事务的四大特性是ACID, mysql中只有innodb是支持事务的
 
-##### mysql的优化
+数据库优化
+1.  数据表优化, 磁盘块每个磁盘块大小16kb, 表中的主键要越小越好, 因此主键用varchar和int, 如果数据小于4个字节, 用varchar, 大于4个字节, 用int  
+2. 在满足需求的情况下,尽量主键自增, 因为这样在插入数据时不会对B+树中的磁盘块分裂
+3. 使用前缀索引(通过索引的选择性来构建索引), 可以让b+树存储更多的数据, 口语说是索引长度要适当取值
+
+##### mysql语句的优化
 首先关于mysql数据优化之前,我们要明确musql的常用几种数据存储引擎, 在mysql5.5之后, 默认的存储引擎是innodb, innodb的底层
 -   `select * from actor where actor_id = 1 or actor_id = 2`  
     `select * from actor where actor_id in (1,2)`  
@@ -129,8 +134,9 @@ SpringMVC是指spring module view controller, 也叫模型视图控制器, 把we
 - `select * from user where phone = 123`  
     `select * from user where phone='123'`  
     强制类型转换会全表扫描
-- 更新 十分频繁, 数据区分度不高的字段上不建议建立索引, 因为数据库要维护,类似于性别类区分不大的属性,建立索引没有意义, 不能有效过滤数据, 区分度在80%以上可以建立
-*剩余mysql问题转到专题内*
+- 更新十分频繁, 数据区分度不高的字段上不建议建立索引, 因为数据库要维护,类似于性别类区分不大的属性,建立索引没有意义, 不能有效过滤数据, 区分度在80%以上可以建立
+
+
 
 ##### mysql索引语句创建
 create index 索引名 on 表名(列名)
@@ -179,6 +185,8 @@ Cancel阶段: 如果任何一个账户操作失败, 就要回滚进行补偿
 首先redis是一种nosql, 是为了解决海量数据走数据库会很容易崩塌的这种问题, **Redis有5种主要数据类型**：string、hash、list(有序、可重复)、set(无序、不可重复)、zset(不可重复，基于score实现排序)
 Redis之所以读取速度快是因为他基于内存操作,数据结构key-value相对简单,单线程操作不会有cpu上下文的切换,多路的I/O复用
 
+Redis分布式锁的加锁, 本质上是加一个key,value，其实就是给Key键设置一个值（SET lock_key random_value NX PX 5000，NX表示键不存在时才设置），其他进程执行前会判断Redis中这个Key是否有值，如果发现这个Key有值了，就说明已有其他进程在执行，则循环等待，超时则获取失败
+锁信息一定要设置过期时间, 不然万一要是redis挂了就会成死锁了
 
 ##### redis的持久化
 **RDB:** Redis Database Backup file

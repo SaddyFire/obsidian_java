@@ -14,18 +14,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "707b692a6d22390c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/03 mysql.md",
-            "mode": "preview",
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -90,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363
+    "width": 363,
+    "collapsed": true
   },
   "right": {
     "id": "eaafcc4feb3ef58e",
@@ -114,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/03 mysql.md",
+                "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/03 mysql.md"
+                "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md"
               }
             }
           },
@@ -141,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/03 mysql.md",
+                "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,10 +143,10 @@
     "direction": "horizontal",
     "width": 292.3333435058594
   },
-  "active": "707b692a6d22390c",
+  "active": "da17f0fefefba89f",
   "lastOpenFiles": [
-    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/03 mysql.md",
     "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md",
+    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/03 mysql.md",
     "Ⅰ_integration_006_DistributeAdvance/Ⅱ_002_Seata/001 Concept.md",
     "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/000 问题整合.md",
     "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md",
