@@ -5,16 +5,12 @@
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md"
     },
     {
-      "basename": "000 核心点",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/000 核心点.md"
-    },
-    {
-      "basename": "00 program",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 program.md"
-    },
-    {
       "basename": "00 prepare",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md"
+    },
+    {
+      "basename": "000 核心点",
+      "path": "Ⅰ_project_003_tanhua/Ⅱ_001_环境搭建/000 核心点.md"
     },
     {
       "basename": "02 多线程_JVM",
