@@ -4,27 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "4be504936f038eb8",
-        "type": "leaf",
-        "dimension": 50.978564771668225,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/007 redis整理.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "da17f0fefefba89f",
         "type": "leaf",
-        "dimension": 49.021435228331775,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
