@@ -1,10 +1,10 @@
 ##### 介绍下HashMap
 ![[Pasted image 20220213195738.png]]
 	
-	首先hashmap是一种key-value键值对形式的集合, 在1.7之前他的底层是数组加链表, 1.8之后他的底层是数组, 链表和红黑树. 
-	在把数据存入hashmap中时, 会先通过该数据key的hash值进行哈希函数, 类似于对数字的取模取余, 如果得到的角标位置已经有数据了, 也就是hash冲突, 此时会以链表的形式挂下来.
+	首先hashmap是一种**key-value**键值对形式的集合, 在1.7之前他的底层是数组加链表, 1.8之后他的底层是数组, 链表和红黑树. 
+	在把**数据存入**hashmap中时, 会先通过该数据key的hash值进行哈希函数, 类似于对数字的取模取余, 如果得到的角标位置已经有数据了, 也就是hash冲突, 此时会以链表的形式挂下来.
 	在1.7之前, 如果链表过长,就会导致每次查询要一个个撸下来, 而1.8之后采用红黑树方式的查询效率就会大大提高. 但是数据少的时候树的结点大小比链表要大, 所以在一个哈希桶数量大于8的时候才会变为红黑树, 小于6的时候会转回链表. 
-	还有一点是1.7的hashmap是头插法,速度快,但是在多线程并发和数组扩容的时候会出现循环列表, 导致死锁问题, 所以在1.8之后的红黑树用尾插法, 能相对避免死锁. 在项目中的话, 如果有并发需求, 我们通常会采用concurrentHashmap, 他的底层是对hashmap的哈希桶上锁, 达到多线程安全.
+	还有一点是1.7的hashmap是**头插法,速度快**,但是在多线程并发和数组扩容的时候会出现循环列表, 导致死锁问题, 所以在1.8之后的红黑树用尾插法, 能相对避免死锁. 在项目中的话, 如果有并发需求, 我们通常会采用concurrentHashmap, 他的底层是对hashmap的哈希桶上锁, 达到多线程安全.
 	
 ##### 四大线程池
 
@@ -25,7 +25,7 @@ newScheduledThreadPool
 
 ##### 介绍下JVM
 
-	jvm是指Java virtual Machine, 在一个class文件加载到java虚拟机中, 要经历loading , linking, initializing, 
+jvm是指Java virtual Machine, 在一个class文件加载到java虚拟机中, 要经历loading , linking, initializing, 
 	其中首先虚拟机要将class文件load进classloader, 加载器会通过双亲委派模型, 从costumclassloader到appClassloader最终到bootstrap, 这样做最终要的原因是安全, 防止底层类库被篡改.同时如果经过了双亲委派模型最后也没找到该类, 则会报classnotfound异常. class文件load进内存之后会进行verification,preparation和resolution,进行字节码文件的解析, initializing是对静态变量的初始化赋值.
 	java运行后会进入jvm运行时数据区,
 
@@ -53,7 +53,7 @@ ParNew和CMS
 再后来就是GI
 
 ##### volatile关键字
-volatile可以保证多线程之间数据的可见性和一定有序性,  因为变量被volatile修饰过后, 当这个数据要进行写操作, JVM会发送一条lock指令给CPU,CPU计算完数据之后会立刻把这个数据写回到主内存, 而且mesi协议会分别给每个线程各自的这个数据都打标记, 例如你的modify就是我的invalid, 如果有invalid标记那我就会回到主内存去读数据
+volatile可以保证多线程之间数据的**可见性**和**一定有序性**,  因为变量被volatile修饰过后, 当这个数据要进行写操作, JVM会发送一条**lock指令**给CPU,CPU计算完数据之后会立刻把这个数据写回到主内存, 而且mesi协议会分别给每个线程各自的这个数据都打标记, 例如你的modify就是我的invalid, 如果有invalid标记那我就会回到主内存去读数据
 
 ##### JVM调优
 -Xmx3350m: 设置JVM最大可用内存为3550M
