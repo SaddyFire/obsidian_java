@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/000 问题整合.md",
+            "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md",
             "mode": "source",
             "source": false
           }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/000 问题整合.md",
+                "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/000 问题整合.md"
+                "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md"
               }
             }
           },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/000 问题整合.md",
+                "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,8 +156,8 @@
   },
   "active": "5be79b2f923230be",
   "lastOpenFiles": [
-    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/000 问题整合.md",
     "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md",
+    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/000 问题整合.md",
     "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md",
     "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/03 mysql.md",
     "Ⅰ_integration_006_DistributeAdvance/Ⅱ_002_Seata/001 Concept.md",
