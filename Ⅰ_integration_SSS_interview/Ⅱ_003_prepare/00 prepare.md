@@ -25,14 +25,14 @@ newScheduledThreadPool
 
 ##### JVM_介绍下JVM
 
-jvm是指Java virtual Machine, 在一个class文件加载到java虚拟机中, 要经历loading , linking, initializing, 
-其中首先虚拟机要将class文件load进classloader, 加载器会通过双亲委派模型, 从costumclassloader到appClassloader最终到bootstrap, 这样做的根本原因是是为了安全, 防止底层类库被篡改.同时如果经过了双亲委派模型最后也没找到该类, 则会报classnotfound异常. class文件load进内存之后会进行verification,preparation和resolution,进行字节码文件的解析, initializing是对静态变量的初始化赋值.
+jvm是指**Java virtual Machine**, 在一个**class文件加载**到java虚拟机中, 要经历loading , linking, initializing, 
+其中首先虚拟机要将class文件load进classloader, 加载器会通过**双亲委派模型**, 从costumclassloader到appClassloader最终到bootstrap, 这样做的根本原因是是为了安全, 防止底层类库被篡改.同时如果经过了双亲委派模型最后也没找到该类, 则会报**classnotfound**异常. class文件load进内存之后会进行verification,preparation和resolution,进行字节码文件的解析, **initializing**是对静态变量的初始化赋值.
 java运行后会进入jvm运行时数据区,
 
 ##### JVM_JMM
 JMM是抽象概念, main memory 和 working memory
-多个线程共享的内存叫主内存, 在物理结构中叫堆heap
-但是每个线程各自操作数据的时候, 会有一个各自的working memory , 操作的是从主内存中拷贝过来的副本, 而且所有操作是要在自己的工作内存进行
+多个线程大家一块用的内存叫主内存, 在物理结构中叫堆heap
+但是每个线程各自操作数据的时候, 会有一个各自的working memory , 操作的是从主内存中拷贝过来的副本, 所有操作是要在自己的工作内存进行
 
 ##### JVM_GC
 假设一个场景, Student s1 = new Student();
@@ -53,11 +53,11 @@ ParNew和CMS
 再后来就是GI
 
 ##### JVM_volatile关键字
-volatile可以保证多线程之间数据的**可见性**和**一定有序性**,  因为变量被volatile修饰过后, 当这个数据要进行写操作, JVM会发送一条**lock指令**给CPU,CPU计算完数据之后会立刻把这个数据写回到主内存, 而且mesi协议会分别给每个线程各自的这个数据都打标记, 例如你的modify就是我的invalid, 如果有invalid标记那我就会回到主内存去读数据
+volatile可以保证多线程之间数据的**可见性**和**一定有序性**,  因为变量被volatile修饰过后, 当这个数据要进行写操作, JVM会发送一条**lock指令**给CPU,CPU计算完数据之后会立刻把这个数据写回到主内存, 而且**mesi协议**会分别给每个线程各自的这个数据都打标记, 例如你的modify就是我的invalid, 如果有invalid标记那我就会回到主内存去读数据
 
 ##### JVM_JVM调优
--Xmx3350m: 设置JVM最大可用内存为3550M
--Xms3350m: 设置JVM初始内存为3550M
+-**Xmx3350m**: 设置JVM最大可用内存为3550M
+-**Xms3350m**: 设置JVM初始内存为3550M
 -Xmn2g: 设置年青代大小为2g 整个JVM内存大小=年青代+ 老年代+ 持久代大小, sum官方推荐配置整个堆的3/8
 -Xss256k: 设置每个线程的栈大小, 根据应用线程所需要的内存大小调整, 满足需要的情况下, 越小能产生更多的线程
 
@@ -176,7 +176,7 @@ B系统是如果收到了confirm, B系统会消费消息
 - 如果是set就不用解决
 
 
-##### 死信队列的场景
+##### RabbitMQ死信队列
 
 
 ##### RabbitMQ优势
@@ -206,7 +206,7 @@ Redis分布式锁的加锁, 本质上是加一个key,value，其实就是给Key�
 **AOF:** Append Only File(追加文件)  -->  bgrewriteaof
 Redis处理的每一个写命令都会记录在AOF文件，可以看做是命令日志文件。
 
-##### 什么是缓存穿透、缓存雪崩、缓存击穿？
+##### Redis缓存穿透、缓存雪崩、缓存击穿？
 **缓存穿透**是指反复查询不存在的数据, 导致数据库压力过大, 这是恶意. 
 **缓存雪崩**指某一个时间段内, 缓存集中的过期失效, 导致大量请求过来, 压力都集中到数据库
 **缓存击穿**指将一个热点key的redis缓存失效, 导致大量请求瞬间集中到数据库
