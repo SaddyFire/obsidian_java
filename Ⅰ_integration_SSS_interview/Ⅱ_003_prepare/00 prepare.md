@@ -59,6 +59,7 @@ Serial 和 SerialOld
 ParNew和CMS
 再后来就是GI
 
+
 ##### JVM_volatile关键字
 volatile可以保证多线程之间数据的**可见性**和**一定有序性**,  因为变量被volatile修饰过后, 当这个数据要进行写操作, JVM会发送一条**lock指令**给CPU,CPU计算完数据之后会立刻把这个数据写回到主内存, 而且**mesi协议**会分别给每个线程各自的这个数据都打标记, 例如你的modify就是我的invalid, 如果有invalid标记那我就会回到主内存去读数据
 
