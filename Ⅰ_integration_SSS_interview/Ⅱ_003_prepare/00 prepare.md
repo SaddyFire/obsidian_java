@@ -158,6 +158,9 @@ create index 索引名 on 表名(列名)
 ##### RabbitMQ优势
 解耦, 异步, 消峰
 
+##### RabbitMQ的高可用
+首先
+
 ##### 高并发怎么处理
 ![[Pasted image 20220215193256.png]]
 首先要提前预估用户的并发量
