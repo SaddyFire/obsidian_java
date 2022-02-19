@@ -283,6 +283,8 @@ touch
 mkdir
 rm -f
 cp
+top 当前cup的使用信息
+free 
 
 ##### 常用压力测试软件
 JMeter / QPS
