@@ -254,12 +254,11 @@ Redis分布式锁的加锁, 本质上是加一个key,value，其实就是给Key�
 锁信息一定要设置过期时间, 不然万一要是redis挂了就会成死锁了
 
 ##### Redis的持久化
-redis持久化主要是防止redis没了
+redis限定了总内存大小只能存1g, 一开始的话redis会通过LRU缓存清除算法 ,redis持久化主要是防止redis没了, 通过RDB和AOF两种机制能把redis数据c
 **RDB:** Redis Database Backup file
 也被叫做Redis数据快照。简单来说就是把内存中的所有数据都记录到磁盘中。当Redis实例故障重启后，从磁盘读取快照文件，恢复数据。快照文件称为RDB文件，默认是保存在当前运行目录。
 
-**AOF:** Append Only File(追加文件)  -->  bgrewriteaof
-Redis处理的每一个写命令都会记录在AOF文件，可以看做是命令日志文件。
+**AOF:** Append Only File(追加文件)  -->  AOF主要是放一个个的写命令, 所以他会不断地膨胀, 当到一定程度, 他就会做rewrite操作, 就是根据当时redis内存数据, 重新构造一个更小的aof文件, 把之前老的文件删了
 
 ##### Redis缓存穿透、缓存雪崩、缓存击穿？
 **缓存穿透**是指反复查询不存在的数据, 导致数据库压力过大, 这是恶意. 
