@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309
+    "width": 309,
+    "collapsed": true
   },
   "right": {
     "id": "eaafcc4feb3ef58e",
@@ -173,9 +174,9 @@
   "active": "5be79b2f923230be",
   "lastOpenFiles": [
     "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md",
+    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md",
     "Ⅰ_integration_006_DistributeAdvance/Ⅱ_002_Seata/001 Concept.md",
     "Ⅰ_integration_SSS_another/Ⅱ_004_java-stream/001 StreamOperation_stream用法.md",
-    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md",
     "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/002 常用命令.md",
     "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/000 问题整合.md",
     "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare-冲突-SaddyFire_Win10.md",
