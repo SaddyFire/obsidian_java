@@ -254,6 +254,7 @@ Redis分布式锁的加锁, 本质上是加一个key,value，其实就是给Key�
 锁信息一定要设置过期时间, 不然万一要是redis挂了就会成死锁了
 
 ##### Redis的持久化
+redis持久化主要是防止redis没了
 **RDB:** Redis Database Backup file
 也被叫做Redis数据快照。简单来说就是把内存中的所有数据都记录到磁盘中。当Redis实例故障重启后，从磁盘读取快照文件，恢复数据。快照文件称为RDB文件，默认是保存在当前运行目录。
 
