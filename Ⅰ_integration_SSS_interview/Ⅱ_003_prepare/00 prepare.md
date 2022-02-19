@@ -279,6 +279,9 @@ cat -n
 idea里面插件maven helper插件, 点pom文件有一个
 
 
+##### MyBatisPlus_里批量添加
+有两种, 基础的是saveBatch, 但是这种底层就是循环添加, 另一种是要加一个插件, 通过这个插件可以调一个方法insertBatchSomeColumn, 底层是把你批量添加的数据打了个包, 然后分批写sql语句
+
 
 
 页面存储时间, 前端传页面时间, 
