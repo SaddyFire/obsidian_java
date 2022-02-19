@@ -269,6 +269,9 @@ Redis处理的每一个写命令都会记录在AOF文件，可以看做是命令
 ##### Linux 常用命令
 cat -n 
 
+##### Maven版本依赖冲突问题
+idea里面插件maven helper插件, 点pom文件有一个
+
 
 
 
