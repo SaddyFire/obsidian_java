@@ -40,6 +40,8 @@
 然后做了个自定义注解`@LogConfig`
 定义了个切面`LogAspect`, 切面里面写我的日志发送业务.
 封装数据转JSON, 调用``mqtemplate``的``convereAndSend()``发到交换机里
+
+**mq的重复性消费问题**
 在传msg的时候要考虑到mq的一个重复性消费问题, 我是通过加入一个全局唯一的UUID
 后台管理这边接受到数据的时候, 要先从redis里面查一下有没有这个UUID, 没有的话才进行消费, 并且把UUID存入redis
 

@@ -285,7 +285,7 @@ JMeter / QPS
 工作区, add. 缓存区, 版本区
 
 ##### Maven版本依赖冲突问题
-idea里面插件maven helper插件, 点pom文件有一个
+idea里面插件maven helper插件, 点开pom.xml会有一个Dependency Analyzer视图
 
 
 ##### MyBatisPlus_里批量添加
