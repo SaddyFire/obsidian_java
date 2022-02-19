@@ -287,6 +287,11 @@ mkdir
 rm -f
 cp
 
+##### 常用压力测试软件
+JMeter / QPS
+
+##### git分区
+工作区, add. 缓存区, 版本区
 
 ##### Maven版本依赖冲突问题
 idea里面插件maven helper插件, 点pom文件有一个
