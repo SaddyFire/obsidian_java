@@ -275,7 +275,18 @@ redis限定了总内存大小只能存1g, 一开始的话redis会通过LRU缓存
 ##### Linux 常用命令
 tail -f test.log  循环查看
 head -n 10 test.log 查询日志文件前多少行
-cat 是从第一行到最后一行连续显示再屏幕上
+cat 是从第一行到最后一行连续显示在屏幕上
+
+clear
+pwd
+cd
+ls -a
+mv
+touch
+mkdir
+rm -f
+cp
+
 
 ##### Maven版本依赖冲突问题
 idea里面插件maven helper插件, 点pom文件有一个
