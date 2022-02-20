@@ -5,6 +5,10 @@
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md"
     },
     {
+      "basename": "002 mysql_advance",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/002 mysql_advance.md"
+    },
+    {
       "basename": "00 introduce",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "013 简单工厂模式",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/013 简单工厂模式.md"
-    },
-    {
-      "basename": "014 vo对象的静态init制作案例",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/014 vo对象的静态init制作案例.md"
     }
   ],
   "omittedPaths": [],
