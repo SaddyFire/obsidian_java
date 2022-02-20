@@ -142,13 +142,9 @@ mysql的**存储引擎**, 在mysql5.5之后, 默认引擎改成了innodb, 之前
 
 ##### MySQL_事务的隔离级别
 4种。
-
 1. 读未提交（RU：read uncommitted）：可能存在【脏读+不可重复读+幻读】的问题。
-
 2. 读已提交（RC：read committed）：可能存在【不可重复读+幻读】问题。
-
 3. 可重复读（RR：repeatable read）：可能存在【幻读】问题。
-
 4. 序行化（serializable）：无以上问题，但效率低，一务在分布式事务的情况下用该级别。
 
 
