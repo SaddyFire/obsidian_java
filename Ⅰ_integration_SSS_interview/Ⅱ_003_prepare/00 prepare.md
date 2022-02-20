@@ -38,10 +38,14 @@ jvm是指**Java virtual Machine**, 在一个**class文件加载**到java虚拟�
 其中首先虚拟机要将class文件load进classloader, 加载器会通过**双亲委派模型**, 从costumclassloader到appClassloader最终到bootstrap, 这样做的根本原因是是为了安全, 防止底层类库被篡改.同时如果经过了双亲委派模型最后也没找到该类, 则会报**classnotfound**异常. class文件load进内存之后会进行verification,preparation和resolution,进行字节码文件的解析, **initializing**是对静态变量的初始化赋值.
 java运行后会进入jvm运行时数据区,
 
+
+
 ##### JVM_JMM
 JMM是抽象概念, main memory 和 working memory
 多个线程大家一块用的内存叫主内存, 在物理结构中叫堆heap
 但是每个线程各自操作数据的时候, 会有一个各自的working memory , 操作的是从主内存中拷贝过来的副本, 所有操作是要在自己的工作内存进行
+
+
 
 ##### JVM_GC
 假设一个场景, Student s1 = new Student();
@@ -79,6 +83,9 @@ volatile可以保证多线程之间数据的**可见性**和**一定有序性**,
 3. 标记-整理算法：标记无用对象，让所有存活的对象都向一端移动，然后直接清除掉端边界以外的内存。
 
 4. 分代算法：根据对象存活周期的不同将内存划分为几块，一般是新生代和老年代，新生代基本采用复制算法，老年代采用标记整理算法。
+
+##### JVM_OOM怎么处理
+
 
 ##### Spring动态代理
 jdk动态代理和cglib的区别
