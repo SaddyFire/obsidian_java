@@ -9,6 +9,14 @@
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md"
     },
     {
+      "basename": "002 处理方式",
+      "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/002 处理方式.md"
+    },
+    {
+      "basename": "001 雪崩效应",
+      "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/001 雪崩效应.md"
+    },
+    {
       "basename": "001 Concept",
       "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_002_Seata/001 Concept.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "014 vo对象的静态init制作案例",
       "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/014 vo对象的静态init制作案例.md"
-    },
-    {
-      "basename": "005 统一异常处理",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/005 统一异常处理.md"
-    },
-    {
-      "basename": "004 ThreadLocal工具类",
-      "path": "Ⅰ_project_003_tanhua/Ⅱ_002_技术汇总(持续更新)/004 ThreadLocal工具类.md"
     }
   ],
   "omittedPaths": [],
