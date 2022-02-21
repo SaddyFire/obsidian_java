@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "000 问题整合",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/000 问题整合.md"
+    },
+    {
       "basename": "00 prepare",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "002 常用命令",
       "path": "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/002 常用命令.md"
-    },
-    {
-      "basename": "000 问题整合",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/000 问题整合.md"
     },
     {
       "basename": "04 redis_mongoDB_ES",
