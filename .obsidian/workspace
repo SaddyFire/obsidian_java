@@ -22,7 +22,7 @@
           "type": "markdown",
           "state": {
             "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/000 问题整合.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -175,8 +175,8 @@
   "active": "f74ce8de09daab0f",
   "lastOpenFiles": [
     "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/000 问题整合.md",
-    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md",
     "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md",
+    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md",
     "Ⅰ_integration_002_spring/Ⅱ_002_mysql/002 mysql_advance.md",
     "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/002 处理方式.md",
     "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/001 雪崩效应.md",
