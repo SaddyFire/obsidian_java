@@ -64,7 +64,7 @@ JMM是抽象概念, main memory 和 working memory
 
 ##### JVM_GC
 假设一个场景, Student s1 = new Student();
-Student s2 = new Student();
+Student s1 = new Student();
 这个时候刚才的Student()对象就没有别人的指引, 也叫野指针,
 java包含了编译型和解释型语言
 垃圾回收器分为: 新生代 + 老年代 + 永久代（1.7）Perm Generation/ 元数据区(1.8) Metaspace
