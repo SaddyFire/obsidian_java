@@ -31,6 +31,9 @@ threadlocal是一个线程内部的存储类，提供了线程内存储变量的
 
 其内部维护了一个ThreadLocalMap，该Map用于存储每一个线程的变量副本。并且key为线程对象，value为对应线程的变量副本。
 
+##### ReentrantLock和SynChronized
+**ReentrantLock**: 实现了Lock接口, api层面的加锁解锁，而ReentrantLock则必须要用户去手动释放锁，如果没有主动释放锁，就有可能导致出现死锁现象。需要lock()和unlock()方法配合try/finally语句块来完成
+**SynChronized**:java语言的关键字. 采用synchronized不需要用户去手动释放锁，当synchronized方法或者synchronized代码块执行完之后，系统会自动让线程释放对锁的占用，更安全
 
 ##### JVM_介绍下JVM
 JVM提供了java程序在不同的系统上运行可能
