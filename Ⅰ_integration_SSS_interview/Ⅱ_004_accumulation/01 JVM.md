@@ -22,3 +22,6 @@ lock指令不允许别的cpu不允许打断
 ## 对象在内存中的布局
 
 Object o = new Object();
+
+
+![[Pasted image 20220227101021.png]]
