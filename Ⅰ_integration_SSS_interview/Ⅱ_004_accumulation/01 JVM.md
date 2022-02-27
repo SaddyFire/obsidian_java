@@ -23,5 +23,7 @@ lock指令不允许别的cpu不允许打断
 
 Object o = new Object();
 
+![[Pasted image 20220227101146.png]]
 
-![[Pasted image 20220227101021.png]]
+PC: **程序计数器**存指令的地方
+Registers: **寄存器**存数据的地方
