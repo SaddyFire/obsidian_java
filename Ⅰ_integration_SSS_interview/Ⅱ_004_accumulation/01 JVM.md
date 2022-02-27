@@ -33,5 +33,8 @@ ALU: **数学逻辑单元**计算的地方
 
 运算单元访问cpu的时间为1, 访问内存的时间为100, 中间加缓存
 ![[Pasted image 20220227102614.png]]
-
+![[Pasted image 20220227103230.png]]
 cache line : 缓存行 64 bytes(记住)
+缓存一致性协议: 当一个cpu更新数据, 要通知别的cpu   mesi(inter的缓存一致性协议)
+
+
