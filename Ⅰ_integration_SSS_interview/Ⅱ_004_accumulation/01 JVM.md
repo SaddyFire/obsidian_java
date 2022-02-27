@@ -37,4 +37,4 @@ ALU: **数学逻辑单元**计算的地方
 cache line : 缓存行 64 bytes(记住)
 缓存一致性协议: 当一个cpu更新数据, 要通知别的cpu   mesi(inter的缓存一致性协议)
 
-
+disruptor 
