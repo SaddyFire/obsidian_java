@@ -41,4 +41,5 @@ disruptor
 
 ## 有序性
  This指针溢出问题
- 
+
+ synchronized可以保证原则性, 可见性, 但是保证不了有序性
