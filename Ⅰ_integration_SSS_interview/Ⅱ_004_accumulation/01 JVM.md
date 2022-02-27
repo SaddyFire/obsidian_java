@@ -25,5 +25,13 @@ Object o = new Object();
 
 ![[Pasted image 20220227101146.png]]
 
+![[Pasted image 20220227102333.png]]
+
 PC: **程序计数器**存指令的地方
 Registers: **寄存器**存数据的地方
+ALU: **数学逻辑单元**计算的地方
+
+运算单元访问cpu的时间为1, 访问内存的时间为100, 中间加缓存
+![[Pasted image 20220227102614.png]]
+
+cache line : 缓存行 64 bytes(记住)
