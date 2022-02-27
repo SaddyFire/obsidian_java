@@ -23,7 +23,7 @@ lock指令不允许别的cpu不允许打断
 
 Object o = new Object();
 
-![[Pasted image 20220227101146.png]]
+## 可见性
 
 ![[Pasted image 20220227102333.png]]
 
@@ -35,6 +35,8 @@ ALU: **数学逻辑单元**计算的地方
 ![[Pasted image 20220227102614.png]]
 ![[Pasted image 20220227103230.png]]
 cache line : 缓存行 64 bytes(记住)
-缓存一致性协议: 当一个cpu更新数据, 要通知别的cpu   mesi(inter的缓存一致性协议)
+缓存一致性协议: 当一个cpu更新数据, 要通知别的cpu   MESI(inter的缓存一致性协议)
 
 disruptor 
+
+## 有序性
