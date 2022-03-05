@@ -15,4 +15,6 @@
   "filePreviewOnHover": true,
   "sortFilesBy": "name",
   "fixedHeaderInFileList": false,
-  
+  "createdYaml": false,
+  "fileNameIsHeader": false
+}
