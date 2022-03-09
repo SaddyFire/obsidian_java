@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_project_004_travel/Ⅱ_001_环境搭建/003 gateway.md",
+            "file": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/004 ThreadLocal工具类.md",
             "mode": "preview",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "handlerin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +89,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_project_004_travel/Ⅱ_001_环境搭建/003 gateway.md",
+                "file": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/004 ThreadLocal工具类.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_project_004_travel/Ⅱ_001_环境搭建/003 gateway.md"
+                "file": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/004 ThreadLocal工具类.md"
               }
             }
           },
@@ -145,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_project_004_travel/Ⅱ_001_环境搭建/003 gateway.md",
+                "file": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/004 ThreadLocal工具类.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,6 +159,8 @@
   },
   "active": "d80fcc0a7e456e34",
   "lastOpenFiles": [
+    "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/004 ThreadLocal工具类.md",
+    "Ⅰ_integration_002_spring/Ⅱ_003_SSM/009 拦截器.md",
     "Ⅰ_project_004_travel/Ⅱ_001_环境搭建/003 gateway.md",
     "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md",
     "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md",
@@ -167,8 +168,6 @@
     "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md",
     "Ⅰ_integration_SSS_interview/Ⅱ_004_accumulation/01 JVM.md",
     "Pasted image 20220216110525.png.md",
-    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/000 问题整合.md",
-    "Ⅰ_integration_002_spring/Ⅱ_002_mysql/002 mysql_advance.md",
-    "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/002 处理方式.md"
+    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/000 问题整合.md"
   ]
 }

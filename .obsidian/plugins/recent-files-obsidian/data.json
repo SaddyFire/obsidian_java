@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "004 ThreadLocal工具类",
+      "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/004 ThreadLocal工具类.md"
+    },
+    {
+      "basename": "009 拦截器",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/009 拦截器.md"
+    },
+    {
       "basename": "003 gateway",
       "path": "Ⅰ_project_004_travel/Ⅱ_001_环境搭建/003 gateway.md"
     },
@@ -133,10 +141,6 @@
       "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/010 项目搭建-依赖-主运行类-配置类.md"
     },
     {
-      "basename": "009 拦截器",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/009 拦截器.md"
-    },
-    {
       "basename": "008 日志写入数据库(ControllerAop)",
       "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/008 日志写入数据库(ControllerAop).md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "001 OOS文件存储",
       "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/001 OOS文件存储.md"
-    },
-    {
-      "basename": "008 FastDFS",
-      "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/008 FastDFS.md"
     }
   ],
   "omittedPaths": [],
