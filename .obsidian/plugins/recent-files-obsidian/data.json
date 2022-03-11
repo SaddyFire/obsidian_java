@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "001 模块介绍",
+      "path": "Ⅰ_project_004_travel/Ⅱ_001_环境搭建/001 模块介绍.md"
+    },
+    {
       "basename": "004 ThreadLocal工具类",
       "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/004 ThreadLocal工具类.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "003 提交订单(BigDecimal)",
       "path": "Ⅰ_project_001_delivery/Ⅱ_003_业务代码记录/003 提交订单(BigDecimal).md"
-    },
-    {
-      "basename": "001 OOS文件存储",
-      "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/001 OOS文件存储.md"
     }
   ],
   "omittedPaths": [],
