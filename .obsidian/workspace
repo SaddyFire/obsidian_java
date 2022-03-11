@@ -4,12 +4,24 @@
     "type": "split",
     "children": [
       {
+        "id": "a6a600ab795de5ad",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      },
+      {
         "id": "d80fcc0a7e456e34",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_project_004_travel/Ⅱ_001_环境搭建/001 模块介绍.md",
+            "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md",
             "mode": "preview",
             "source": false
           }
@@ -93,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343
+    "width": 343,
+    "collapsed": true
   },
   "right": {
     "id": "eaafcc4feb3ef58e",
@@ -117,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_project_004_travel/Ⅱ_001_环境搭建/001 模块介绍.md",
+                "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_project_004_travel/Ⅱ_001_环境搭建/001 模块介绍.md"
+                "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md"
               }
             }
           },
@@ -144,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_project_004_travel/Ⅱ_001_环境搭建/001 模块介绍.md",
+                "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,12 +172,12 @@
   },
   "active": "d80fcc0a7e456e34",
   "lastOpenFiles": [
+    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md",
+    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md",
     "Ⅰ_project_004_travel/Ⅱ_001_环境搭建/001 模块介绍.md",
     "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/004 ThreadLocal工具类.md",
     "Ⅰ_integration_002_spring/Ⅱ_003_SSM/009 拦截器.md",
     "Ⅰ_project_004_travel/Ⅱ_001_环境搭建/003 gateway.md",
-    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md",
-    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md",
     "Ⅰ_integration_SSS_interview/Ⅱ_001_basic/Ⅲ_001_note/003 java_se_answer.md",
     "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md",
     "Ⅰ_integration_SSS_interview/Ⅱ_004_accumulation/01 JVM.md",

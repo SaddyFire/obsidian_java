@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "00 prepare",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md"
+    },
+    {
+      "basename": "00 introduce",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md"
+    },
+    {
       "basename": "001 模块介绍",
       "path": "Ⅰ_project_004_travel/Ⅱ_001_环境搭建/001 模块介绍.md"
     },
@@ -15,14 +23,6 @@
     {
       "basename": "003 gateway",
       "path": "Ⅰ_project_004_travel/Ⅱ_001_环境搭建/003 gateway.md"
-    },
-    {
-      "basename": "00 prepare",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md"
-    },
-    {
-      "basename": "00 introduce",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md"
     },
     {
       "basename": "003 java_se_answer",
