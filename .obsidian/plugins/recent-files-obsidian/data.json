@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "00 prepare",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md"
+      "basename": "002 Spring整合(事务+AOP)",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/002 Spring整合(事务+AOP).md"
     },
     {
       "basename": "00 introduce",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md"
+    },
+    {
+      "basename": "00 prepare",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md"
     },
     {
       "basename": "000 问题整合",
@@ -155,10 +159,6 @@
     {
       "basename": "006 application.yml 属性读取(已过时)",
       "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/006 application.yml 属性读取(已过时).md"
-    },
-    {
-      "basename": "002 Spring整合(事务+AOP)",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/002 Spring整合(事务+AOP).md"
     },
     {
       "basename": "001 MyBatis整合(已过时)",
