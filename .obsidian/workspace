@@ -102,12 +102,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 343,
-    "collapsed": true
+    "width": 343
   },
   "right": {
     "id": "eaafcc4feb3ef58e",
@@ -174,6 +173,7 @@
   "active": "d80fcc0a7e456e34",
   "lastOpenFiles": [
     "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md",
+    "Ⅰ_integration_002_spring/Ⅱ_001_maven详解/02 IDEA中Maven指令含义.md",
     "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md",
     "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/007 redis整理.md",
     "Ⅰ_integration_002_spring/Ⅱ_003_SSM/002 Spring整合(事务+AOP).md",
@@ -181,7 +181,6 @@
     "Ⅰ_project_003_funnyread/Ⅱ_001_环境搭建/001 阿里云短信发送.md",
     "Ⅰ_project_004_travel/Ⅱ_001_环境搭建/001 模块介绍.md",
     "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/004 ThreadLocal工具类.md",
-    "Ⅰ_integration_002_spring/Ⅱ_003_SSM/009 拦截器.md",
-    "Ⅰ_project_004_travel/Ⅱ_001_环境搭建/003 gateway.md"
+    "Ⅰ_integration_002_spring/Ⅱ_003_SSM/009 拦截器.md"
   ]
 }

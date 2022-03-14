@@ -5,6 +5,10 @@
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md"
     },
     {
+      "basename": "02 IDEA中Maven指令含义",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_001_maven详解/02 IDEA中Maven指令含义.md"
+    },
+    {
       "basename": "00 introduce",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "001 菜品的修改",
       "path": "Ⅰ_project_001_delivery/Ⅱ_003_业务代码记录/001 菜品的修改.md"
-    },
-    {
-      "basename": "002 后台查看订单(DateTimeFormat)",
-      "path": "Ⅰ_project_001_delivery/Ⅱ_003_业务代码记录/002 后台查看订单(DateTimeFormat).md"
     }
   ],
   "omittedPaths": [],
