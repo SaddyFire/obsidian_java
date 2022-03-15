@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "002 Seata",
+      "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_002_Seata/002 Seata.md"
+    },
+    {
+      "basename": "001 Concept",
+      "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_002_Seata/001 Concept.md"
+    },
+    {
       "basename": "00 prepare",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md"
     },
@@ -71,10 +79,6 @@
     {
       "basename": "001 雪崩效应",
       "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/001 雪崩效应.md"
-    },
-    {
-      "basename": "001 Concept",
-      "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_002_Seata/001 Concept.md"
     },
     {
       "basename": "001 StreamOperation_stream用法",
@@ -195,10 +199,6 @@
     {
       "basename": "003 tortoise 推送",
       "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/003 tortoise 推送.md"
-    },
-    {
-      "basename": "001 菜品的修改",
-      "path": "Ⅰ_project_001_delivery/Ⅱ_003_业务代码记录/001 菜品的修改.md"
     }
   ],
   "omittedPaths": [],
