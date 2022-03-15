@@ -5,6 +5,10 @@
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md"
     },
     {
+      "basename": "001 基础命令",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md"
+    },
+    {
       "basename": "02 IDEA中Maven指令含义",
       "path": "Ⅰ_integration_002_spring/Ⅱ_001_maven详解/02 IDEA中Maven指令含义.md"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "003 java_se_answer",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_001_basic/Ⅲ_001_note/003 java_se_answer.md"
-    },
-    {
-      "basename": "001 基础命令",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md"
     },
     {
       "basename": "01 JVM",

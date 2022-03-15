@@ -4,18 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "a6a600ab795de5ad",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md",
-            "mode": "preview",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "d80fcc0a7e456e34",
         "type": "leaf",
         "state": {
@@ -102,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -173,6 +161,7 @@
   "active": "d80fcc0a7e456e34",
   "lastOpenFiles": [
     "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md",
+    "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md",
     "Ⅰ_integration_002_spring/Ⅱ_001_maven详解/02 IDEA中Maven指令含义.md",
     "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md",
     "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/007 redis整理.md",
@@ -180,7 +169,6 @@
     "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/000 问题整合.md",
     "Ⅰ_project_003_funnyread/Ⅱ_001_环境搭建/001 阿里云短信发送.md",
     "Ⅰ_project_004_travel/Ⅱ_001_环境搭建/001 模块介绍.md",
-    "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/004 ThreadLocal工具类.md",
-    "Ⅰ_integration_002_spring/Ⅱ_003_SSM/009 拦截器.md"
+    "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/004 ThreadLocal工具类.md"
   ]
 }
