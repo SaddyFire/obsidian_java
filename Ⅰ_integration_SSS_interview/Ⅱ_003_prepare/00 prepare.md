@@ -57,12 +57,6 @@ jvm是指**Java virtual Machine**, 在一个**class文件加载**到java虚拟�
 
 
 ##### JVM_JMM
-JMM就是Java内存模型(java memory model)。因为在不同的硬件生产商和不同的操作系统下，**内存的访问**有一定的差异，所以会造成相同的代码运行在不同的系统上会出现各种问题。所以java内存模型(JMM)**屏蔽掉各种硬件和操作系统的内存访问差异**，以实现让java程序在各种平台下都能达到一致的并发效果
-
-JMM是抽象概念, main memory 和 working memory
-多个线程大家一块用的内存叫主内存, 在物理结构中叫堆heap
-但是每个线程各自操作数据的时候, 会有一个各自的working memory , 操作的是从主内存中拷贝过来的副本, 所有操作是要在自己的工作内存进行
-
 
 
 ##### JVM_GC
