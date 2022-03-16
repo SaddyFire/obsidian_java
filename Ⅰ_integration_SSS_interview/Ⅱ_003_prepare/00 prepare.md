@@ -26,6 +26,12 @@ newScheduledThreadPool
 - 创建线程工厂
 - 任务拒绝策略
 
+##### 多线程_拒绝策略
+- ThreadPoolExecutor.AbortPolicy: 丢弃任务并抛出RejectedExecutionException: 异常
+- ThreadPoolExecutor.DiscardPolicy：丢弃任务，但是不抛出异常
+- ThreadPoolExecutor.DiscardOldestPolicy：丢弃队列最前面的任务，然后重新提交被拒绝的任务
+- ThreadPoolExecutor.CallerRunsPolicy：由调用线程（提交任务的线程）处理该任务
+
 ##### 多线程_ThreadLocal
 threadlocal是一个线程内部的存储类，提供了线程内存储变量的能力,可以在指定线程内存储数据，数据存储以后，只有指定线程可以得到存储数据。这些变量不同之处在于每一个线程读取的变量是对应的互相独立的。
 
@@ -142,6 +148,10 @@ factorybean更像是一种定制化, 可以自己定义FactoryBean来实现Bean�
 所以其实本质上最后能解决循环依赖问题的, 是spring的生命周期中, 实例化和初始化时分开的
 ![[Pasted image 20220215224553.png]]
 
+##### Spring事务隔离
+
+
+
 ##### 接口抽象类的差别
 - 接口: 自上向下: 定义空方法, 空约束,先定义规范,然后实现具体方法
 - 抽象类: 自下向上: 我已经现有n种不同的子类, 然后抽取公共部分
@@ -189,7 +199,6 @@ mysql的**存储引擎**, 在mysql5.5之后, 默认引擎改成了innodb, 之前
 正如上图所示，数据库优化可以从架构优化，硬件优化，DB优化，SQL优化四个维度入手。此上而下，位置越靠前优化越明显，对数据库的性能提升越高。我们常说的SQL优化反而是对性能提高最小的优化。
 **架构优化**: 一般来说在高并发的场景下对架构层进行优化其效果最为明显，常见的优化手段有：分布式缓存，读写分离，分库分表等，每种优化手段又适用于不同的应用场景。
 
-****
 
 ##### MySQL数据库优化
 1.  数据表优化, 磁盘块每个磁盘块大小16kb, 表中的主键要越小越好, 因此主键用varchar和int, 如果数据小于4个字节, 用varchar, 大于4个字节, 用int  
