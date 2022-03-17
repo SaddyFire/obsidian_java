@@ -4,13 +4,25 @@
     "type": "split",
     "children": [
       {
+        "id": "bc8e6d443edb22ae",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      },
+      {
         "id": "0ad29a2526c2dda0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -94,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343
+    "width": 343,
+    "collapsed": true
   },
   "right": {
     "id": "eaafcc4feb3ef58e",
