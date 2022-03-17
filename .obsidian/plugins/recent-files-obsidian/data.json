@@ -1,12 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "00 introduce",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md"
+      "basename": "004 注解制作_元注解_幂等",
+      "path": "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/004 注解制作_元注解_幂等.md"
+    },
+    {
+      "basename": "005 自制注解的调用",
+      "path": "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/005 自制注解的调用.md"
+    },
+    {
+      "basename": "015 AOP日志收集",
+      "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/015 AOP日志收集.md"
+    },
+    {
+      "basename": "013 简单工厂模式",
+      "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/013 简单工厂模式.md"
+    },
+    {
+      "basename": "014 vo对象的静态init制作案例",
+      "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/014 vo对象的静态init制作案例.md"
     },
     {
       "basename": "012 日志_行为记录_动态监听",
       "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/012 日志_行为记录_动态监听.md"
+    },
+    {
+      "basename": "008 日志写入数据库(ControllerAop)",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/008 日志写入数据库(ControllerAop).md"
+    },
+    {
+      "basename": "002 Spring整合(事务+AOP)",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/002 Spring整合(事务+AOP).md"
+    },
+    {
+      "basename": "012 拓展_spring底层原理",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/012 拓展_spring底层原理.md"
+    },
+    {
+      "basename": "004 异常处理类",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/004 异常处理类.md"
+    },
+    {
+      "basename": "003 SpringMVC整合(底层原理)",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/003 SpringMVC整合(底层原理).md"
+    },
+    {
+      "basename": "00 introduce",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md"
     },
     {
       "basename": "001 基础命令",
@@ -43,10 +83,6 @@
     {
       "basename": "007 redis整理",
       "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/007 redis整理.md"
-    },
-    {
-      "basename": "002 Spring整合(事务+AOP)",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/002 Spring整合(事务+AOP).md"
     },
     {
       "basename": "000 问题整合",
@@ -153,10 +189,6 @@
       "path": "Ⅰ_project_003_funnyread/Ⅱ_001_环境搭建/003 JWT-鉴权.md"
     },
     {
-      "basename": "012 拓展_spring底层原理",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/012 拓展_spring底层原理.md"
-    },
-    {
       "basename": "00C springboot自动装配流程图",
       "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/00C springboot自动装配流程图.md"
     },
@@ -167,38 +199,6 @@
     {
       "basename": "011 元注解的制作(限流令牌)",
       "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/011 元注解的制作(限流令牌).md"
-    },
-    {
-      "basename": "010 项目搭建-依赖-主运行类-配置类",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/010 项目搭建-依赖-主运行类-配置类.md"
-    },
-    {
-      "basename": "008 日志写入数据库(ControllerAop)",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/008 日志写入数据库(ControllerAop).md"
-    },
-    {
-      "basename": "006 application.yml 属性读取(已过时)",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/006 application.yml 属性读取(已过时).md"
-    },
-    {
-      "basename": "001 MyBatis整合(已过时)",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/001 MyBatis整合(已过时).md"
-    },
-    {
-      "basename": "003 SpringMVC整合(底层原理)",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/003 SpringMVC整合(底层原理).md"
-    },
-    {
-      "basename": "014 springboot请求参数详解",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/014 springboot请求参数详解.md"
-    },
-    {
-      "basename": "13 another",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/13 another.md"
-    },
-    {
-      "basename": "12 javascript, jquery, vue",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/12 javascript, jquery, vue.md"
     }
   ],
   "omittedPaths": [],
