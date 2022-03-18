@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "00 prepare",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md"
+    },
+    {
+      "basename": "00 introduce",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md"
+    },
+    {
+      "basename": "001 OOS文件存储",
+      "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/001 OOS文件存储.md"
+    },
+    {
       "basename": "004 注解制作_元注解_幂等",
       "path": "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/004 注解制作_元注解_幂等.md"
     },
@@ -45,10 +57,6 @@
       "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/003 SpringMVC整合(底层原理).md"
     },
     {
-      "basename": "00 introduce",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md"
-    },
-    {
       "basename": "001 基础命令",
       "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md"
     },
@@ -63,10 +71,6 @@
     {
       "basename": "011 验证码生成",
       "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/011 验证码生成.md"
-    },
-    {
-      "basename": "00 prepare",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md"
     },
     {
       "basename": "002 Seata",
@@ -195,10 +199,6 @@
     {
       "basename": "00B SpringMVC底层源码跟踪",
       "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/00B SpringMVC底层源码跟踪.md"
-    },
-    {
-      "basename": "011 元注解的制作(限流令牌)",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/011 元注解的制作(限流令牌).md"
     }
   ],
   "omittedPaths": [],
