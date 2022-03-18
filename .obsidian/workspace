@@ -4,18 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "0ad29a2526c2dda0",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/015 AOP日志收集.md",
-            "mode": "preview",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "c38e18e9052cb072",
         "type": "leaf",
         "state": {
@@ -106,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343,
-    "collapsed": true
+    "width": 343
   },
   "right": {
     "id": "eaafcc4feb3ef58e",
