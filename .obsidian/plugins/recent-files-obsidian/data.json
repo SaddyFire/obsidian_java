@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "00 introduce",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md"
-    },
-    {
       "basename": "00 prepare",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md"
+    },
+    {
+      "basename": "02 IDEA中Maven指令含义",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_001_maven详解/02 IDEA中Maven指令含义.md"
+    },
+    {
+      "basename": "001 基础命令",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md"
+    },
+    {
+      "basename": "00 introduce",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md"
     },
     {
       "basename": "001 OOS文件存储",
@@ -57,10 +65,6 @@
       "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/003 SpringMVC整合(底层原理).md"
     },
     {
-      "basename": "001 基础命令",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md"
-    },
-    {
       "basename": "009 GateWay网关",
       "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md"
     },
@@ -79,10 +83,6 @@
     {
       "basename": "001 Concept",
       "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_002_Seata/001 Concept.md"
-    },
-    {
-      "basename": "02 IDEA中Maven指令含义",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_001_maven详解/02 IDEA中Maven指令含义.md"
     },
     {
       "basename": "007 redis整理",
