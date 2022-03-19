@@ -58,16 +58,29 @@ and t1.device_id = t2.device_id
 and t2.question_id = t3.question_id
 GROUP BY t3.difficult_level;
 
--- case 函数 及其他写法
+-- case 条件函数 及其他写法(@-1)
 select (case when age >= 25 then '25岁及以上' else '25岁以下' end) as age_cut,
 count(id) as number 
 from user_profile
 group by age_cut
--- ---------------------------------
+-- -- -- -- -- -- -- 
 select if(age>=25,'25岁及以上','25岁以下') as age_cut,
 count(id) as number
 from user_profile
 group by age_cut
--- ---------------------------------
+
+-- case 条件函数 (@-2)
+select device_id , gender , 
+(case when age >= 25 then '25岁及以上' 
+     when age >= 20 then '20-24岁'
+     when age < 20 then '20岁以下'
+     else '其他' end ) as age_cut
+from user_profile
+
+-- 日期函数
 
 ```
+
+![[Pasted image 20220320000453.png]]
+
+![[Pasted image 20220320000421.png]]
