@@ -23,4 +23,11 @@ round(avg(answer_cnt),3) as avg_answer_cnt
 from user_profile
 group by university
 having avg_question_cnt < 5 or avg_answer_cnt < 20
+
+-- 先进行 group by 后 order by
+select up.university , 
+count(qpd.question_id)/count(distinct qpd.device_id)
+from user_profile as up join question_practice_detail as qpd on up.device_id = qpd.device_id
+group by up.university
+order by university
 ```
