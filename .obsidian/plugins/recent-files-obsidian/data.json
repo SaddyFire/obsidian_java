@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "004 saddyfire_语句",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/004 saddyfire_语句.md"
+    },
+    {
+      "basename": "002 mysql_advance",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/002 mysql_advance.md"
+    },
+    {
+      "basename": "003 知识点整理",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/003 知识点整理.md"
+    },
+    {
+      "basename": "001 mysql",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/001 mysql.md"
+    },
+    {
       "basename": "00 prepare",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md"
     },
@@ -125,10 +141,6 @@
       "path": "Pasted image 20220216110525.png.md"
     },
     {
-      "basename": "002 mysql_advance",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/002 mysql_advance.md"
-    },
-    {
       "basename": "002 处理方式",
       "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/002 处理方式.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "001 过滤工厂",
       "path": "Ⅰ_integration_003_springCloud/Ⅱ_002_配置中心&Feign远程调用/001 过滤工厂.md"
-    },
-    {
-      "basename": "003 JWT-鉴权",
-      "path": "Ⅰ_project_003_funnyread/Ⅱ_001_环境搭建/003 JWT-鉴权.md"
-    },
-    {
-      "basename": "00C springboot自动装配流程图",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/00C springboot自动装配流程图.md"
-    },
-    {
-      "basename": "00B SpringMVC底层源码跟踪",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/00B SpringMVC底层源码跟踪.md"
     }
   ],
   "omittedPaths": [],
