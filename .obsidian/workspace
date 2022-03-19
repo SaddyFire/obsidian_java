@@ -7,8 +7,12 @@
         "id": "3374b4e557c21a7f",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/004 saddyfire_语句.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -114,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/004 saddyfire_语句.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/004 saddyfire_语句.md"
+              }
             }
           },
           {
@@ -138,6 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/004 saddyfire_语句.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,8 +160,8 @@
   },
   "active": "3374b4e557c21a7f",
   "lastOpenFiles": [
-    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md",
     "Ⅰ_integration_002_spring/Ⅱ_002_mysql/004 saddyfire_语句.md",
+    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md",
     "Ⅰ_integration_002_spring/Ⅱ_002_mysql/002 mysql_advance.md",
     "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md",
     "Ⅰ_integration_002_spring/Ⅱ_003_SSM/00C springboot自动装配流程图.md",

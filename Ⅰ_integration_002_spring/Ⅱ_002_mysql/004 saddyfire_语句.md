@@ -57,4 +57,16 @@ WHERE t1.university = '山东大学'
 and t1.device_id = t2.device_id 
 and t2.question_id = t3.question_id
 GROUP BY t3.difficult_level;
+
+-- case 函数 及其他写法
+select (case when age >= 25 then '25岁及以上' else '25岁以下' end) as age_cut,
+count(id) as number 
+from user_profile
+group by age_cut
+-- ---------------------------------
+select if(age>=25,'25岁及以上','25岁以下') as age_cut,
+count(id) as number
+from user_profile
+group by age_cut
+-- -
 ```
