@@ -4,18 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "c38e18e9052cb072",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/004 saddyfire_语句.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "0def2cb12e03c816",
         "type": "leaf",
         "state": {
@@ -173,6 +161,7 @@
   "active": "0def2cb12e03c816",
   "lastOpenFiles": [
     "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md",
+    "Ⅰ_integration_002_spring/Ⅱ_003_SSM/00C springboot自动装配流程图.md",
     "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md",
     "Ⅰ_integration_002_spring/Ⅱ_002_mysql/004 saddyfire_语句.md",
     "Ⅰ_integration_002_spring/Ⅱ_002_mysql/002 mysql_advance.md",
@@ -180,7 +169,6 @@
     "Ⅰ_integration_002_spring/Ⅱ_002_mysql/001 mysql.md",
     "Ⅰ_integration_002_spring/Ⅱ_001_maven详解/02 IDEA中Maven指令含义.md",
     "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md",
-    "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/001 OOS文件存储.md",
-    "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/004 注解制作_元注解_幂等.md"
+    "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/001 OOS文件存储.md"
   ]
 }
