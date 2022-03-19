@@ -16,5 +16,11 @@ round(avg(question_cnt),1) as avg_question_cnt
 from user_profile
 group by gender ,university
 
-
+-- 先分组 后进行条件查询 使用having 同时 注意having的位置
+select university, 
+round(avg(question_cnt),3) as avg_question_cnt, 
+round(avg(answer_cnt),3) as avg_answer_cnt
+from user_profile
+group by university
+having avg_question_cnt < 5 or avg_answer_cnt < 20
 ```
