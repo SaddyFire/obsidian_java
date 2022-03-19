@@ -63,7 +63,7 @@ select (case when age >= 25 then '25岁及以上' else '25岁以下' end) as age
 count(id) as number 
 from user_profile
 group by age_cut
--- -- -- -- -- -- -- 
+-- if -- -- -- -- -- 
 select if(age>=25,'25岁及以上','25岁以下') as age_cut,
 count(id) as number
 from user_profile
@@ -78,6 +78,11 @@ select device_id , gender ,
 from user_profile
 
 -- 日期函数
+select day(date) as day,
+count(id) as question_cnt
+from question_practice_detail
+where month(date) = 8 and year(date) = 2021
+group by date
 
 ```
 
