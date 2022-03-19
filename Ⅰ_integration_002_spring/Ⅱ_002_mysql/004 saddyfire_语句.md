@@ -40,4 +40,21 @@ from question_practice_detail as qpd
 left join  user_profile as up on qpd.device_id = up.device_id 
 left join question_detail as qd on qpd.question_id = qd.question_id
 group by up.university , qd.difficult_level
+
+-- join连接 / 外连接查询转换
+select up.university,qd.difficult_level,
+count(qpd.question_id) / count(distinct qpd.device_id) as avg_answer_cnt
+from question_practice_detail as qpd
+left join user_profile as up on qpd.device_id = up.device_id
+left join question_detail as qd on qpd.question_id = qd.question_id
+where up.university = '山东大学'
+group by qd.difficult_level;
+
+SELECT t1.university,t3.difficult_level,
+COUNT(t2.question_id) / COUNT(DISTINCT (t2.device_id)) as avg_answer_cnt
+from user_profile as t1, question_practice_detail as t2, question_detail as t3
+WHERE t1.university = '山东大学' 
+and t1.device_id = t2.device_id 
+and t2.question_id = t3.question_id
+GROUP BY t3.difficult_level;
 ```
