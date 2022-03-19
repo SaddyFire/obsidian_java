@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0def2cb12e03c816",
+        "id": "3374b4e557c21a7f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/004 saddyfire_语句.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -94,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343,
-    "collapsed": true
+    "width": 343
   },
   "right": {
     "id": "eaafcc4feb3ef58e",
@@ -119,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/004 saddyfire_语句.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,9 +129,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/004 saddyfire_语句.md"
-              }
+              "state": {}
             }
           },
           {
@@ -146,7 +138,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/004 saddyfire_语句.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,14 +148,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.3333435058594,
-    "collapsed": true
+    "width": 302.3333435058594
   },
-  "active": "0def2cb12e03c816",
+  "active": "3374b4e557c21a7f",
   "lastOpenFiles": [
+    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md",
     "Ⅰ_integration_002_spring/Ⅱ_002_mysql/004 saddyfire_语句.md",
     "Ⅰ_integration_002_spring/Ⅱ_002_mysql/002 mysql_advance.md",
-    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md",
     "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md",
     "Ⅰ_integration_002_spring/Ⅱ_003_SSM/00C springboot自动装配流程图.md",
     "Ⅰ_integration_002_spring/Ⅱ_002_mysql/003 知识点整理.md",
