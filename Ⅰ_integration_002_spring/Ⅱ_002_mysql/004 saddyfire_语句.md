@@ -30,4 +30,14 @@ count(qpd.question_id)/count(distinct qpd.device_id)
 from user_profile as up join question_practice_detail as qpd on up.device_id = qpd.device_id
 group by up.university
 order by university
+
+-- 用户信息表：user_profile
+-- 题库练习明细表：question_practice_detail
+-- question_detail
+select up.university , qd.difficult_level, 
+count(up.device_id)/ count(distinct qpd.device_id) as avg_answer_cnt
+from question_practice_detail as qpd 
+left join  user_profile as up on qpd.device_id = up.device_id 
+left join question_detail as qd on qpd.question_id = qd.question_id
+group by up.university , qd.difficult_level
 ```
