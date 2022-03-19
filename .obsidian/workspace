@@ -14,18 +14,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "ee9a7010a2ff5a93",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md",
-            "mode": "preview",
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -130,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md",
+                "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/004 saddyfire_语句.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md"
+                "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/004 saddyfire_语句.md"
               }
             }
           },
@@ -157,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md",
+                "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/004 saddyfire_语句.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,10 +158,10 @@
     "direction": "horizontal",
     "width": 302.3333435058594
   },
-  "active": "ee9a7010a2ff5a93",
+  "active": "c38e18e9052cb072",
   "lastOpenFiles": [
-    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md",
     "Ⅰ_integration_002_spring/Ⅱ_002_mysql/004 saddyfire_语句.md",
+    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md",
     "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md",
     "Ⅰ_integration_002_spring/Ⅱ_002_mysql/002 mysql_advance.md",
     "Ⅰ_integration_002_spring/Ⅱ_002_mysql/003 知识点整理.md",
