@@ -109,6 +109,12 @@ count(device_id)
 from user_submit 
 group by age
 
+
+-- 找出每个学校GPA最低的同学 使用嵌套
+select device_id,university,gpa from user_profile
+where (university,gpa )
+in(select university, min(gpa) from user_profile group by university)
+order by university
 ```
 
 ![[Pasted image 20220320000453.png]]
