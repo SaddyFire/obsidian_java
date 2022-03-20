@@ -115,6 +115,17 @@ select device_id,university,gpa from user_profile
 where (university,gpa )
 in(select university, min(gpa) from user_profile group by university)
 order by university
+
+
+select qpd.device_id, up.university , 
+    count(qpd.question_id) as question_cnt,
+    sum(if(qpd.result='right',1,0)) as right_question_cnt
+from question_practice_detail as qpd 
+left join user_profile as up 
+    on qpd.device_id = up.device_id
+    and month(qpd.date) = 8
+where up.university = '复旦大学' 
+group by qpd.device_idi
 ```
 
 ![[Pasted image 20220320000453.png]]
