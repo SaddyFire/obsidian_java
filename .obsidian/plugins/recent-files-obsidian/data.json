@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名",
+      "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_005_分布式任务调度xxl-job/未命名.md"
+    },
+    {
       "basename": "003 常用注解",
       "path": "Ⅰ_integration_002_spring/Ⅱ_007_swagger/003 常用注解.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "09 mybatis_dubbo_rabbitMQ_zookeeper",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/09 mybatis_dubbo_rabbitMQ_zookeeper.md"
-    },
-    {
-      "basename": "01 集合",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/01 集合.md"
     }
   ],
   "omittedPaths": [],
