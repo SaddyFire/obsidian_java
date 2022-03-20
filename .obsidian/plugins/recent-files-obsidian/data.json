@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "001 基础命令",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md"
+    },
+    {
+      "basename": "002 (temp) idea删除git项目",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/002 (temp) idea删除git项目.md"
+    },
+    {
+      "basename": "004 gitignore文件",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/004 gitignore文件.md"
+    },
+    {
       "basename": "001 使用步骤",
       "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_005_分布式任务调度xxl-job/001 使用步骤.md"
     },
@@ -55,10 +67,6 @@
     {
       "basename": "02 IDEA中Maven指令含义",
       "path": "Ⅰ_integration_002_spring/Ⅱ_001_maven详解/02 IDEA中Maven指令含义.md"
-    },
-    {
-      "basename": "001 基础命令",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md"
     },
     {
       "basename": "001 OOS文件存储",
@@ -191,14 +199,6 @@
     {
       "basename": "07 springboot_分布式_springCloud",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/07 springboot_分布式_springCloud.md"
-    },
-    {
-      "basename": "08 springMVC",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/08 springMVC.md"
-    },
-    {
-      "basename": "09 mybatis_dubbo_rabbitMQ_zookeeper",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/09 mybatis_dubbo_rabbitMQ_zookeeper.md"
     }
   ],
   "omittedPaths": [],

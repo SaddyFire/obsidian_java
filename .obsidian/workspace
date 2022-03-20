@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_005_分布式任务调度xxl-job/001 使用步骤.md",
+            "file": "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md",
             "mode": "source",
             "source": false
           }
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343,
-    "collapsed": true
+    "width": 343
   },
   "right": {
     "id": "eaafcc4feb3ef58e",
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_005_分布式任务调度xxl-job/001 使用步骤.md",
+                "file": "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_005_分布式任务调度xxl-job/001 使用步骤.md"
+                "file": "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md"
               }
             }
           },
@@ -145,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_005_分布式任务调度xxl-job/001 使用步骤.md",
+                "file": "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,15 +160,15 @@
   },
   "active": "3374b4e557c21a7f",
   "lastOpenFiles": [
+    "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md",
+    "Ⅰ_integration_002_spring/Ⅱ_005_git/002 (temp) idea删除git项目.md",
+    "Ⅰ_integration_002_spring/Ⅱ_005_git/004 gitignore文件.md",
     "Ⅰ_integration_006_DistributeAdvance/Ⅱ_005_分布式任务调度xxl-job/001 使用步骤.md",
     "Ⅰ_integration_002_spring/Ⅱ_007_swagger/003 常用注解.md",
     "Ⅰ_integration_002_spring/Ⅱ_007_swagger/001 使用步骤.md",
     "Ⅰ_integration_002_spring/Ⅱ_003_SSM/001 MyBatis整合(已过时).md",
     "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/002 常用命令.md",
     "Ⅰ_project_003_funnyread/Ⅱ_001_环境搭建/001 阿里云短信发送.md",
-    "Ⅰ_integration_002_spring/Ⅱ_002_mysql/004 saddyfire_语句.md",
-    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md",
-    "Ⅰ_integration_002_spring/Ⅱ_002_mysql/002 mysql_advance.md",
-    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md"
+    "Ⅰ_integration_002_spring/Ⅱ_002_mysql/004 saddyfire_语句.md"
   ]
 }
