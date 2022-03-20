@@ -103,6 +103,11 @@ from user_submit
 select device_id , 
 substring_index(blog_url,'/',-1) as user_name
 from user_submit 
+-- -- 多重截取 -- --
+select substring_index(substring_index(profile,',',-2),',',1) as age , 
+count(device_id) 
+from user_submit 
+group by age
 
 ```
 
