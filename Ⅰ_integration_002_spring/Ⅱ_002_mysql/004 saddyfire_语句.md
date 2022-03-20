@@ -91,7 +91,18 @@ from user_submit
 group by gender
 
 -- 切割、截取、删除、替换
-
+-- -- 替换 -- --
+select device_id , 
+replace(blog_url,'http:/url/','') as user_name
+from user_submit 
+-- -- 删除 -- --
+select device_id , 
+trim('http:/url/'from blog_url) as user_name
+from user_submit 
+-- -- 字段切割 -- --(-1是指c)
+select device_id , 
+substring_index(blog_url,'/',-1) as user_name
+from user_submit 
 ```
 
 ![[Pasted image 20220320000453.png]]
