@@ -116,19 +116,24 @@ where (university,gpa )
 in(select university, min(gpa) from user_profile group by university)
 order by university
 
-
-select qpd.device_id, up.university , 
+-- 求复旦大学的每个用户在8月份练习的总题目数和回答正确的题目数情况，请取出相应明细数据，对于在8月份没有练习过的用户，答题数结果返回0.
+-- 此处要注意 month(qpd.date) = 8 的条件要加在join中, 原因见下图
+select up.device_id, up.university , 
     count(qpd.question_id) as question_cnt,
     sum(if(qpd.result='right',1,0)) as right_question_cnt
 from question_practice_detail as qpd 
-left join user_profile as up 
+right join user_profile as up 
     on qpd.device_id = up.device_id
     and month(qpd.date) = 8
 where up.university = '复旦大学' 
-group by qpd.device_idi
+group by up.device_id
+-- 
+
+
 ```
 
 ![[Pasted image 20220320000453.png]]
 
 ![[Pasted image 20220320000421.png]]
 ![[Pasted image 20220320003348.png]]
+![[Pasted image 20220320130848.png]]
