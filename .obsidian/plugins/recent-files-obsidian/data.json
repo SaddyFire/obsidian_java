@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "001 使用步骤",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_007_swagger/001 使用步骤.md"
+    },
+    {
       "basename": "004 saddyfire_语句",
       "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/004 saddyfire_语句.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "02 多线程_JVM",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/02 多线程_JVM.md"
-    },
-    {
-      "basename": "00A spring源码跟踪",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/00A spring源码跟踪.md"
     }
   ],
   "omittedPaths": [],
