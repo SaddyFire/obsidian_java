@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_005_分布式任务调度xxl-job/未命名.md",
+            "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_005_分布式任务调度xxl-job/001 使用步骤.md",
             "mode": "source",
             "source": false
           }
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343
+    "width": 343,
+    "collapsed": true
   },
   "right": {
     "id": "eaafcc4feb3ef58e",
@@ -117,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_005_分布式任务调度xxl-job/未命名.md",
+                "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_005_分布式任务调度xxl-job/001 使用步骤.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_005_分布式任务调度xxl-job/未命名.md"
+                "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_005_分布式任务调度xxl-job/001 使用步骤.md"
               }
             }
           },
@@ -144,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_005_分布式任务调度xxl-job/未命名.md",
+                "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_005_分布式任务调度xxl-job/001 使用步骤.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,11 +156,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.3333435058594
+    "width": 302.3333435058594,
+    "collapsed": true
   },
   "active": "3374b4e557c21a7f",
   "lastOpenFiles": [
-    "Ⅰ_integration_006_DistributeAdvance/Ⅱ_005_分布式任务调度xxl-job/未命名.md",
+    "Ⅰ_integration_006_DistributeAdvance/Ⅱ_005_分布式任务调度xxl-job/001 使用步骤.md",
     "Ⅰ_integration_002_spring/Ⅱ_007_swagger/003 常用注解.md",
     "Ⅰ_integration_002_spring/Ⅱ_007_swagger/001 使用步骤.md",
     "Ⅰ_integration_002_spring/Ⅱ_003_SSM/001 MyBatis整合(已过时).md",
