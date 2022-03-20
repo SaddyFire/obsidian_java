@@ -84,6 +84,13 @@ from question_practice_detail
 where month(date) = 8 and year(date) = 2021
 group by date
 
+-- 日期函数2  date_add(qpd1.date1,interval 1 day) = qpd2.date2
+select count(date2) / count(date1) as avg_ret from 
+(select distinct device_id , date as date1 from question_practice_detail) 
+as qpd1 
+left join (select distinct device_id , date as date2 from question_practice_detail as qpd2) 
+as qpd2 
+on qpd1.device_id = qpd2.device_id and date_add(qpd1.date1,interval 1 day) = qpd2.date2
 
 
 -- if 函数条件 @-3
