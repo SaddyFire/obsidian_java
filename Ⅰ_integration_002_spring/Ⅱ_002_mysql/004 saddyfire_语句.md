@@ -99,10 +99,11 @@ from user_submit
 select device_id , 
 trim('http:/url/'from blog_url) as user_name
 from user_submit 
--- -- 字段切割 -- --(-1是指c)
+-- -- 字段切割 -- --(-1是指从后面开始)
 select device_id , 
 substring_index(blog_url,'/',-1) as user_name
 from user_submit 
+
 ```
 
 ![[Pasted image 20220320000453.png]]
