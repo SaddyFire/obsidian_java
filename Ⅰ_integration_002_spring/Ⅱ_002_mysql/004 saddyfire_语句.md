@@ -127,8 +127,16 @@ right join user_profile as up
     and month(qpd.date) = 8
 where up.university = '复旦大学' 
 group by up.device_id
--- 
 
+-- 浙江大学的用户在不同难度题目下答题的正确率情况  avg
+select qd.difficult_level , 
+(avg(if(qpd.result = 'right',1,0))) as correct_rate
+from question_practice_detail as qpd 
+left join user_profile as up on qpd.device_id = up.device_id
+left join question_detail as qd on qd.question_id = qpd.question_id
+where up.university = '浙江大学'
+group by qd.difficult_level
+order by correct_rate
 
 ```
 
