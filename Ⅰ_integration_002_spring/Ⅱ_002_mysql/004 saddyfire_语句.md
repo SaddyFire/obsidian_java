@@ -84,6 +84,8 @@ from question_practice_detail
 where month(date) = 8 and year(date) = 2021
 group by date
 
+
+
 -- if 函数条件 @-3
 select if(profile like '%female', 'female', 'male') as gender,
 count(device_id) as number 
