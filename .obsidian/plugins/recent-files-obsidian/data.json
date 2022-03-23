@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "00 introduce",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md"
+    },
+    {
       "basename": "001 基础命令",
       "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "002 mysql_advance",
       "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/002 mysql_advance.md"
-    },
-    {
-      "basename": "00 introduce",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md"
     },
     {
       "basename": "00C springboot自动装配流程图",
@@ -195,10 +195,6 @@
     {
       "basename": "06 spring",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/06 spring.md"
-    },
-    {
-      "basename": "07 springboot_分布式_springCloud",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/07 springboot_分布式_springCloud.md"
     }
   ],
   "omittedPaths": [],
