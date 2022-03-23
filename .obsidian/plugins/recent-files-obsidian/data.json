@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "unlinked files output",
+      "path": "unlinked files output.md"
+    },
+    {
       "basename": "00 introduce",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md"
     },
@@ -167,10 +171,6 @@
     {
       "basename": "01 JVM",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_004_accumulation/01 JVM.md"
-    },
-    {
-      "basename": "Pasted image 20220216110525.png",
-      "path": "Pasted image 20220216110525.png.md"
     },
     {
       "basename": "002 处理方式",
