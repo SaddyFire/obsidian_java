@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "004 注解制作_元注解_幂等",
+      "path": "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/004 注解制作_元注解_幂等.md"
+    },
+    {
+      "basename": "005 自制注解的调用",
+      "path": "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/005 自制注解的调用.md"
+    },
+    {
+      "basename": "002 Spring整合(事务+AOP)",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/002 Spring整合(事务+AOP).md"
+    },
+    {
       "basename": "001 mysql",
       "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/001 mysql.md"
     },
@@ -121,16 +133,8 @@
       "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/001 OOS文件存储.md"
     },
     {
-      "basename": "004 注解制作_元注解_幂等",
-      "path": "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/004 注解制作_元注解_幂等.md"
-    },
-    {
       "basename": "015 AOP日志收集",
       "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/015 AOP日志收集.md"
-    },
-    {
-      "basename": "005 自制注解的调用",
-      "path": "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/005 自制注解的调用.md"
     },
     {
       "basename": "013 简单工厂模式",
@@ -147,10 +151,6 @@
     {
       "basename": "008 日志写入数据库(ControllerAop)",
       "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/008 日志写入数据库(ControllerAop).md"
-    },
-    {
-      "basename": "002 Spring整合(事务+AOP)",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/002 Spring整合(事务+AOP).md"
     },
     {
       "basename": "012 拓展_spring底层原理",
