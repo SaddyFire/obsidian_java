@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "006 saddyfire_explain",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/006 saddyfire_explain.md"
+    },
+    {
+      "basename": "005 saddyfire_show_index",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/005 saddyfire_show_index.md"
+    },
+    {
       "basename": "004 saddyfire_语句",
       "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/004 saddyfire_语句.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "009 拦截器",
       "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/009 拦截器.md"
-    },
-    {
-      "basename": "003 gateway",
-      "path": "Ⅰ_project_004_travel/Ⅱ_001_环境搭建/003 gateway.md"
-    },
-    {
-      "basename": "003 java_se_answer",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_001_basic/Ⅲ_001_note/003 java_se_answer.md"
     }
   ],
   "omittedPaths": [],
