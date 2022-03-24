@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "如何去写一手好SQL",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/如何去写一手好SQL.pdf"
+    },
+    {
       "basename": "005 saddyfire_show_index",
       "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/005 saddyfire_show_index.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "004 ThreadLocal工具类",
       "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/004 ThreadLocal工具类.md"
-    },
-    {
-      "basename": "009 拦截器",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/009 拦截器.md"
     }
   ],
   "omittedPaths": [],

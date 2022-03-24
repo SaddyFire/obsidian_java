@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3374b4e557c21a7f",
+        "id": "184b4fbf5e7bc1f4",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/005 saddyfire_show_index.md",
-            "mode": "preview",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -93,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330,
-    "collapsed": true
+    "width": 330
   },
   "right": {
     "id": "eaafcc4feb3ef58e",
@@ -118,7 +113,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/005 saddyfire_show_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/005 saddyfire_show_index.md"
-              }
+              "state": {}
             }
           },
           {
@@ -145,7 +137,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/005 saddyfire_show_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,8 +150,9 @@
     "width": 302.3333435058594,
     "collapsed": true
   },
-  "active": "3374b4e557c21a7f",
+  "active": "184b4fbf5e7bc1f4",
   "lastOpenFiles": [
+    "Ⅰ_integration_002_spring/Ⅱ_002_mysql/如何去写一手好SQL.pdf",
     "Ⅰ_integration_002_spring/Ⅱ_002_mysql/005 saddyfire_show_index.md",
     "Ⅰ_integration_002_spring/Ⅱ_002_mysql/006 saddyfire_explain.md",
     "Ⅰ_integration_002_spring/Ⅱ_002_mysql/004 saddyfire_语句.md",
@@ -169,7 +161,6 @@
     "Ⅰ_integration_SSS_another/Ⅱ_004_java-stream/006 去重_过滤.md",
     "Ⅰ_integration_SSS_another/Ⅱ_004_java-stream/005 多条件排序.md",
     "Ⅰ_integration_SSS_another/Ⅱ_004_java-stream/004 查找缺考学生_match.md",
-    "Ⅰ_integration_SSS_another/Ⅱ_004_java-stream/003 购物车商品过滤.md",
-    "Ⅰ_integration_SSS_another/Ⅱ_004_java-stream/002 StreamCreate.md"
+    "Ⅰ_integration_SSS_another/Ⅱ_004_java-stream/003 购物车商品过滤.md"
   ]
 }
