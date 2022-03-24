@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "011 元注解的制作(限流令牌)",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/011 元注解的制作(限流令牌).md"
+    },
+    {
       "basename": "004 注解制作_元注解_幂等",
       "path": "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/004 注解制作_元注解_幂等.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "001 模块介绍",
       "path": "Ⅰ_project_004_travel/Ⅱ_001_环境搭建/001 模块介绍.md"
-    },
-    {
-      "basename": "004 ThreadLocal工具类",
-      "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/004 ThreadLocal工具类.md"
     }
   ],
   "omittedPaths": [],
