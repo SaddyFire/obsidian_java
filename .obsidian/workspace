@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/004 saddyfire_语句.md",
+            "file": "Ⅰ_integration_SSS_another/Ⅱ_004_java-stream/007 将集合流属性新建流.md",
             "mode": "preview",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:strea",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/004 saddyfire_语句.md",
+                "file": "Ⅰ_integration_SSS_another/Ⅱ_004_java-stream/007 将集合流属性新建流.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/004 saddyfire_语句.md"
+                "file": "Ⅰ_integration_SSS_another/Ⅱ_004_java-stream/007 将集合流属性新建流.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/004 saddyfire_语句.md",
+                "file": "Ⅰ_integration_SSS_another/Ⅱ_004_java-stream/007 将集合流属性新建流.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,15 +160,15 @@
   },
   "active": "3374b4e557c21a7f",
   "lastOpenFiles": [
+    "Ⅰ_integration_SSS_another/Ⅱ_004_java-stream/007 将集合流属性新建流.md",
+    "Ⅰ_integration_SSS_another/Ⅱ_004_java-stream/006 去重_过滤.md",
+    "Ⅰ_integration_SSS_another/Ⅱ_004_java-stream/005 多条件排序.md",
+    "Ⅰ_integration_SSS_another/Ⅱ_004_java-stream/004 查找缺考学生_match.md",
+    "Ⅰ_integration_SSS_another/Ⅱ_004_java-stream/003 购物车商品过滤.md",
+    "Ⅰ_integration_SSS_another/Ⅱ_004_java-stream/002 StreamCreate.md",
+    "Ⅰ_integration_SSS_another/Ⅱ_004_java-stream/001 StreamOperation_stream用法.md",
+    "Ⅰ_integration_001_javaBasic/004 stream流.md",
     "Ⅰ_integration_002_spring/Ⅱ_002_mysql/004 saddyfire_语句.md",
-    "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md",
-    "Pasted image 20220216110525.png.md",
-    "unlinked files output.md",
-    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce 1.md",
-    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md",
-    "Ⅰ_integration_002_spring/Ⅱ_005_git/002 (temp) idea删除git项目.md",
-    "Ⅰ_integration_002_spring/Ⅱ_005_git/004 gitignore文件.md",
-    "Ⅰ_integration_006_DistributeAdvance/Ⅱ_005_分布式任务调度xxl-job/001 使用步骤.md",
-    "Ⅰ_integration_002_spring/Ⅱ_007_swagger/003 常用注解.md"
+    "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md"
   ]
 }
