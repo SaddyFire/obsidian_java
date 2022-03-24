@@ -5,12 +5,12 @@
       "path": "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/004 注解制作_元注解_幂等.md"
     },
     {
-      "basename": "005 自制注解的调用",
-      "path": "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/005 自制注解的调用.md"
-    },
-    {
       "basename": "002 Spring整合(事务+AOP)",
       "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/002 Spring整合(事务+AOP).md"
+    },
+    {
+      "basename": "005 自制注解的调用",
+      "path": "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/005 自制注解的调用.md"
     },
     {
       "basename": "001 mysql",
