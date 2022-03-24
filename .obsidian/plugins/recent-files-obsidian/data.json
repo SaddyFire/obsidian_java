@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "00 prepare",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md"
+    },
+    {
       "basename": "007 将集合流属性新建流",
       "path": "Ⅰ_integration_SSS_another/Ⅱ_004_java-stream/007 将集合流属性新建流.md"
     },
@@ -79,10 +83,6 @@
     {
       "basename": "001 阿里云短信发送",
       "path": "Ⅰ_project_003_funnyread/Ⅱ_001_环境搭建/001 阿里云短信发送.md"
-    },
-    {
-      "basename": "00 prepare",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md"
     },
     {
       "basename": "002 mysql_advance",

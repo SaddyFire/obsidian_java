@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_integration_SSS_another/Ⅱ_004_java-stream/007 将集合流属性新建流.md",
+            "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md",
             "mode": "preview",
             "source": false
           }
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330
+    "width": 330,
+    "collapsed": true
   },
   "right": {
     "id": "eaafcc4feb3ef58e",
@@ -117,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_integration_SSS_another/Ⅱ_004_java-stream/007 将集合流属性新建流.md",
+                "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_integration_SSS_another/Ⅱ_004_java-stream/007 将集合流属性新建流.md"
+                "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md"
               }
             }
           },
@@ -144,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_integration_SSS_another/Ⅱ_004_java-stream/007 将集合流属性新建流.md",
+                "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,6 +161,7 @@
   },
   "active": "3374b4e557c21a7f",
   "lastOpenFiles": [
+    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md",
     "Ⅰ_integration_SSS_another/Ⅱ_004_java-stream/007 将集合流属性新建流.md",
     "Ⅰ_integration_SSS_another/Ⅱ_004_java-stream/006 去重_过滤.md",
     "Ⅰ_integration_SSS_another/Ⅱ_004_java-stream/005 多条件排序.md",
@@ -168,7 +170,6 @@
     "Ⅰ_integration_SSS_another/Ⅱ_004_java-stream/002 StreamCreate.md",
     "Ⅰ_integration_SSS_another/Ⅱ_004_java-stream/001 StreamOperation_stream用法.md",
     "Ⅰ_integration_001_javaBasic/004 stream流.md",
-    "Ⅰ_integration_002_spring/Ⅱ_002_mysql/004 saddyfire_语句.md",
-    "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md"
+    "Ⅰ_integration_002_spring/Ⅱ_002_mysql/004 saddyfire_语句.md"
   ]
 }
