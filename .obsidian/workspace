@@ -7,6 +7,18 @@
         "id": "2f702d8f3787c512",
         "type": "leaf",
         "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/003 知识点整理.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "8cf541838f7b1a2c",
+        "type": "leaf",
+        "state": {
           "type": "pdf",
           "state": {
             "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/如何去写一手好SQL.pdf"
@@ -115,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/如何去写一手好SQL.pdf",
+                "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/003 知识点整理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/如何去写一手好SQL.pdf"
+                "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/003 知识点整理.md"
               }
             }
           },
@@ -142,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/如何去写一手好SQL.pdf",
+                "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/003 知识点整理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,8 +170,8 @@
   },
   "active": "2f702d8f3787c512",
   "lastOpenFiles": [
-    "Ⅰ_integration_002_spring/Ⅱ_002_mysql/如何去写一手好SQL.pdf",
     "Ⅰ_integration_002_spring/Ⅱ_002_mysql/003 知识点整理.md",
+    "Ⅰ_integration_002_spring/Ⅱ_002_mysql/如何去写一手好SQL.pdf",
     "Ⅰ_integration_002_spring/Ⅱ_002_mysql/006 saddyfire_explain.md",
     "Ⅰ_integration_002_spring/Ⅱ_002_mysql/005 saddyfire_show_index.md",
     "Ⅰ_integration_002_spring/Ⅱ_002_mysql/004 saddyfire_语句.md",
