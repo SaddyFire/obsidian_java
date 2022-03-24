@@ -1,16 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "如何去写一手好SQL",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/如何去写一手好SQL.pdf"
-    },
-    {
       "basename": "005 saddyfire_show_index",
       "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/005 saddyfire_show_index.md"
     },
     {
-      "basename": "006 saddyfire_explain",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/006 saddyfire_explain.md"
+      "basename": "003 知识点整理",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/003 知识点整理.md"
     },
     {
       "basename": "004 saddyfire_语句",
@@ -19,6 +15,18 @@
     {
       "basename": "00 prepare",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md"
+    },
+    {
+      "basename": "002 mysql_advance",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/002 mysql_advance.md"
+    },
+    {
+      "basename": "如何去写一手好SQL",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/如何去写一手好SQL.pdf"
+    },
+    {
+      "basename": "006 saddyfire_explain",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/006 saddyfire_explain.md"
     },
     {
       "basename": "007 将集合流属性新建流",
@@ -97,16 +105,8 @@
       "path": "Ⅰ_project_003_funnyread/Ⅱ_001_环境搭建/001 阿里云短信发送.md"
     },
     {
-      "basename": "002 mysql_advance",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/002 mysql_advance.md"
-    },
-    {
       "basename": "00C springboot自动装配流程图",
       "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/00C springboot自动装配流程图.md"
-    },
-    {
-      "basename": "003 知识点整理",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/003 知识点整理.md"
     },
     {
       "basename": "001 mysql",
