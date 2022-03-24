@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/006 saddyfire_explain.md",
-            "mode": "source",
+            "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/005 saddyfire_show_index.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330
+    "width": 330,
+    "collapsed": true
   },
   "right": {
     "id": "eaafcc4feb3ef58e",
@@ -117,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/006 saddyfire_explain.md",
+                "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/005 saddyfire_show_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/006 saddyfire_explain.md"
+                "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/005 saddyfire_show_index.md"
               }
             }
           },
@@ -144,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/006 saddyfire_explain.md",
+                "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/005 saddyfire_show_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,8 +161,8 @@
   },
   "active": "3374b4e557c21a7f",
   "lastOpenFiles": [
-    "Ⅰ_integration_002_spring/Ⅱ_002_mysql/006 saddyfire_explain.md",
     "Ⅰ_integration_002_spring/Ⅱ_002_mysql/005 saddyfire_show_index.md",
+    "Ⅰ_integration_002_spring/Ⅱ_002_mysql/006 saddyfire_explain.md",
     "Ⅰ_integration_002_spring/Ⅱ_002_mysql/004 saddyfire_语句.md",
     "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md",
     "Ⅰ_integration_SSS_another/Ⅱ_004_java-stream/007 将集合流属性新建流.md",
