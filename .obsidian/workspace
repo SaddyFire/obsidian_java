@@ -10,18 +10,8 @@
           "type": "markdown",
           "state": {
             "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/003 知识点整理.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
-          }
-        }
-      },
-      {
-        "id": "8cf541838f7b1a2c",
-        "type": "leaf",
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/如何去写一手好SQL.pdf"
           }
         }
       }
@@ -171,10 +161,10 @@
   "active": "2f702d8f3787c512",
   "lastOpenFiles": [
     "Ⅰ_integration_002_spring/Ⅱ_002_mysql/003 知识点整理.md",
-    "Ⅰ_integration_002_spring/Ⅱ_002_mysql/如何去写一手好SQL.pdf",
-    "Ⅰ_integration_002_spring/Ⅱ_002_mysql/006 saddyfire_explain.md",
-    "Ⅰ_integration_002_spring/Ⅱ_002_mysql/005 saddyfire_show_index.md",
     "Ⅰ_integration_002_spring/Ⅱ_002_mysql/004 saddyfire_语句.md",
+    "Ⅰ_integration_002_spring/Ⅱ_002_mysql/006 saddyfire_explain.md",
+    "Ⅰ_integration_002_spring/Ⅱ_002_mysql/如何去写一手好SQL.pdf",
+    "Ⅰ_integration_002_spring/Ⅱ_002_mysql/005 saddyfire_show_index.md",
     "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md",
     "Ⅰ_integration_002_spring/Ⅱ_002_mysql/002 mysql_advance.md",
     "Ⅰ_integration_SSS_another/Ⅱ_004_java-stream/007 将集合流属性新建流.md",
