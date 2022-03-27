@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "02 IDEA中Maven指令含义",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_001_maven详解/02 IDEA中Maven指令含义.md"
+    },
+    {
       "basename": "005 统一异常处理",
       "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/005 统一异常处理.md"
     },
@@ -147,10 +151,6 @@
     {
       "basename": "00C springboot自动装配流程图",
       "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/00C springboot自动装配流程图.md"
-    },
-    {
-      "basename": "02 IDEA中Maven指令含义",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_001_maven详解/02 IDEA中Maven指令含义.md"
     },
     {
       "basename": "001 OOS文件存储",

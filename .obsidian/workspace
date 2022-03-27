@@ -9,19 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/005 统一异常处理.md",
-            "mode": "preview",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "732b5cf41d3c783d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Ⅰ_project_001_delivery/Ⅱ_002_技术汇总/004 全局异常处理器.md",
+            "file": "Ⅰ_integration_002_spring/Ⅱ_001_maven详解/02 IDEA中Maven指令含义.md",
             "mode": "preview",
             "source": false
           }
@@ -130,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/005 统一异常处理.md",
+                "file": "Ⅰ_integration_002_spring/Ⅱ_001_maven详解/02 IDEA中Maven指令含义.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/005 统一异常处理.md"
+                "file": "Ⅰ_integration_002_spring/Ⅱ_001_maven详解/02 IDEA中Maven指令含义.md"
               }
             }
           },
@@ -157,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/005 统一异常处理.md",
+                "file": "Ⅰ_integration_002_spring/Ⅱ_001_maven详解/02 IDEA中Maven指令含义.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,6 +161,7 @@
   },
   "active": "2f702d8f3787c512",
   "lastOpenFiles": [
+    "Ⅰ_integration_002_spring/Ⅱ_001_maven详解/02 IDEA中Maven指令含义.md",
     "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/005 统一异常处理.md",
     "Ⅰ_project_001_delivery/Ⅱ_002_技术汇总/004 全局异常处理器.md",
     "Ⅰ_integration_002_spring/Ⅱ_003_SSM/002 Spring整合(事务+AOP).md",
@@ -181,7 +170,6 @@
     "Ⅰ_integration_002_spring/Ⅱ_003_SSM/010 项目搭建-依赖-主运行类-配置类.md",
     "Ⅰ_integration_002_spring/Ⅱ_003_SSM/011 元注解的制作(限流令牌).md",
     "Ⅰ_integration_002_spring/Ⅱ_003_SSM/013 幂等性.md",
-    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md",
-    "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/005 自制注解的调用.md"
+    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md"
   ]
 }
