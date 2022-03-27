@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "002 全局异常",
+      "path": "Ⅰ_project_004_travel/Ⅱ_001_环境搭建/002 全局异常.md"
+    },
+    {
+      "basename": "001 模块介绍",
+      "path": "Ⅰ_project_004_travel/Ⅱ_001_环境搭建/001 模块介绍.md"
+    },
+    {
+      "basename": "000 零零散散",
+      "path": "Ⅰ_project_004_travel/Ⅱ_001_环境搭建/000 零零散散.md"
+    },
+    {
       "basename": "014 springboot请求参数详解",
       "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/014 springboot请求参数详解.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "014 vo对象的静态init制作案例",
       "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/014 vo对象的静态init制作案例.md"
-    },
-    {
-      "basename": "012 日志_行为记录_动态监听",
-      "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/012 日志_行为记录_动态监听.md"
-    },
-    {
-      "basename": "004 异常处理类",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/004 异常处理类.md"
-    },
-    {
-      "basename": "003 SpringMVC整合(底层原理)",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/003 SpringMVC整合(底层原理).md"
     }
   ],
   "omittedPaths": [],
