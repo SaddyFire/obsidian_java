@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "002 全局异常",
-      "path": "Ⅰ_project_004_travel/Ⅱ_001_环境搭建/002 全局异常.md"
+      "basename": "未命名",
+      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/未命名.md"
+    },
+    {
+      "basename": "03 结果类ResponseResult_状态码枚举_全局异常",
+      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/03 结果类ResponseResult_状态码枚举_全局异常.md"
+    },
+    {
+      "basename": "02 stragy策略模式",
+      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/02 stragy策略模式.md"
+    },
+    {
+      "basename": "01 RSA加密_aop元注解",
+      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/01 RSA加密_aop元注解.md"
+    },
+    {
+      "basename": "@SelectProvider",
+      "path": "Ⅰ_project_005_interface/Ⅱ_003_额外部分/@SelectProvider.md"
     },
     {
       "basename": "001 模块介绍",
@@ -11,6 +27,10 @@
     {
       "basename": "000 零零散散",
       "path": "Ⅰ_project_004_travel/Ⅱ_001_环境搭建/000 零零散散.md"
+    },
+    {
+      "basename": "002 全局异常",
+      "path": "Ⅰ_project_004_travel/Ⅱ_001_环境搭建/002 全局异常.md"
     },
     {
       "basename": "014 springboot请求参数详解",
@@ -179,26 +199,6 @@
     {
       "basename": "001 阿里云短信发送",
       "path": "Ⅰ_project_003_funnyread/Ⅱ_001_环境搭建/001 阿里云短信发送.md"
-    },
-    {
-      "basename": "00C springboot自动装配流程图",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/00C springboot自动装配流程图.md"
-    },
-    {
-      "basename": "001 OOS文件存储",
-      "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/001 OOS文件存储.md"
-    },
-    {
-      "basename": "015 AOP日志收集",
-      "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/015 AOP日志收集.md"
-    },
-    {
-      "basename": "013 简单工厂模式",
-      "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/013 简单工厂模式.md"
-    },
-    {
-      "basename": "014 vo对象的静态init制作案例",
-      "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/014 vo对象的静态init制作案例.md"
     }
   ],
   "omittedPaths": [],
