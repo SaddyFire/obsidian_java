@@ -41,3 +41,7 @@ public ResponseEntity tanhuaLove(`@PathVariable("id") `Long likeUserId)
 我们就如上接收即可 用@PathVariable(“id”) 如果参数和路径的相同 则可以省略注解的参数
 
 ## 04 rest风格
+get
+post 新增
+put 修改
+delete 删除
