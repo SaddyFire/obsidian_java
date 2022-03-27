@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "005 统一异常处理",
+      "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/005 统一异常处理.md"
+    },
+    {
+      "basename": "004 全局异常处理器",
+      "path": "Ⅰ_project_001_delivery/Ⅱ_002_技术汇总/004 全局异常处理器.md"
+    },
+    {
       "basename": "002 Spring整合(事务+AOP)",
       "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/002 Spring整合(事务+AOP).md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "002 Seata",
       "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_002_Seata/002 Seata.md"
-    },
-    {
-      "basename": "001 Concept",
-      "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_002_Seata/001 Concept.md"
-    },
-    {
-      "basename": "007 redis整理",
-      "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/007 redis整理.md"
     }
   ],
   "omittedPaths": [],
