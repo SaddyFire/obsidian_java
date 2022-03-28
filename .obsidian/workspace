@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "2f702d8f3787c512",
+        "id": "2d9dc4d2b69e558e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/011 元注解的制作(限流令牌).md",
-            "mode": "source",
+            "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -89,12 +89,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 323,
-    "collapsed": true
+    "width": 323
   },
   "right": {
     "id": "eaafcc4feb3ef58e",
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/011 元注解的制作(限流令牌).md",
+                "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/011 元注解的制作(限流令牌).md"
+                "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/011 元注解的制作(限流令牌).md",
+                "file": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,20 +156,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.3333435058594,
-    "collapsed": true
+    "width": 302.3333435058594
   },
-  "active": "2f702d8f3787c512",
+  "active": "2d9dc4d2b69e558e",
   "lastOpenFiles": [
-    "Ⅰ_integration_002_spring/Ⅱ_003_SSM/011 元注解的制作(限流令牌).md",
-    "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/001 OOS文件存储.md",
-    "Ⅰ_project_003_funnyread/Ⅱ_001_环境搭建/001 阿里云短信发送.md",
-    "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/000 temp.md",
-    "Ⅰ_project_005_interface/Ⅱ_003_额外技术/@SelectProvider.md",
-    "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/04 mybatisplus分页插件_自动填充拦截器.md",
-    "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/03 结果类ResponseResult_状态码枚举_全局异常.md",
-    "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/02 stragy策略模式.md",
-    "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/01 RSA加密_aop元注解.md",
-    "Ⅰ_project_004_travel/Ⅱ_001_环境搭建/001 模块介绍.md"
+    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md",
+    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md",
+    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/000 问题整合.md",
+    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/02 多线程_JVM.md",
+    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/01 集合.md",
+    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/03 mysql.md",
+    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/04 redis_mongoDB_ES.md",
+    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/06 spring.md",
+    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/07 springboot_分布式_springCloud.md",
+    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/09 mybatis_dubbo_rabbitMQ_zookeeper.md"
   ]
 }

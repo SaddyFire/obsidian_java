@@ -1,6 +1,66 @@
 {
   "recentFiles": [
     {
+      "basename": "00 introduce",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md"
+    },
+    {
+      "basename": "00 prepare",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md"
+    },
+    {
+      "basename": "000 问题整合",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/000 问题整合.md"
+    },
+    {
+      "basename": "02 多线程_JVM",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/02 多线程_JVM.md"
+    },
+    {
+      "basename": "01 集合",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/01 集合.md"
+    },
+    {
+      "basename": "03 mysql",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/03 mysql.md"
+    },
+    {
+      "basename": "04 redis_mongoDB_ES",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/04 redis_mongoDB_ES.md"
+    },
+    {
+      "basename": "06 spring",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/06 spring.md"
+    },
+    {
+      "basename": "07 springboot_分布式_springCloud",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/07 springboot_分布式_springCloud.md"
+    },
+    {
+      "basename": "09 mybatis_dubbo_rabbitMQ_zookeeper",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/09 mybatis_dubbo_rabbitMQ_zookeeper.md"
+    },
+    {
+      "basename": "12 javascript, jquery, vue",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/12 javascript, jquery, vue.md"
+    },
+    {
+      "basename": "13 another",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/13 another.md"
+    },
+    {
+      "basename": "08 springMVC",
+      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/08 springMVC.md"
+    },
+    {
+      "basename": "014 vo对象的静态init制作案例",
+      "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/014 vo对象的静态init制作案例.md"
+    },
+    {
+      "basename": "015 AOP日志收集",
+      "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/015 AOP日志收集.md"
+    },
+    {
       "basename": "011 元注解的制作(限流令牌)",
       "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/011 元注解的制作(限流令牌).md"
     },
@@ -105,10 +165,6 @@
       "path": "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/004 注解制作_元注解_幂等.md"
     },
     {
-      "basename": "00 prepare",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md"
-    },
-    {
       "basename": "005 自制注解的调用",
       "path": "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/005 自制注解的调用.md"
     },
@@ -143,62 +199,6 @@
     {
       "basename": "007 将集合流属性新建流",
       "path": "Ⅰ_integration_SSS_another/Ⅱ_004_java-stream/007 将集合流属性新建流.md"
-    },
-    {
-      "basename": "006 去重_过滤",
-      "path": "Ⅰ_integration_SSS_another/Ⅱ_004_java-stream/006 去重_过滤.md"
-    },
-    {
-      "basename": "005 多条件排序",
-      "path": "Ⅰ_integration_SSS_another/Ⅱ_004_java-stream/005 多条件排序.md"
-    },
-    {
-      "basename": "004 查找缺考学生_match",
-      "path": "Ⅰ_integration_SSS_another/Ⅱ_004_java-stream/004 查找缺考学生_match.md"
-    },
-    {
-      "basename": "003 购物车商品过滤",
-      "path": "Ⅰ_integration_SSS_another/Ⅱ_004_java-stream/003 购物车商品过滤.md"
-    },
-    {
-      "basename": "002 StreamCreate",
-      "path": "Ⅰ_integration_SSS_another/Ⅱ_004_java-stream/002 StreamCreate.md"
-    },
-    {
-      "basename": "001 StreamOperation_stream用法",
-      "path": "Ⅰ_integration_SSS_another/Ⅱ_004_java-stream/001 StreamOperation_stream用法.md"
-    },
-    {
-      "basename": "004 stream流",
-      "path": "Ⅰ_integration_001_javaBasic/004 stream流.md"
-    },
-    {
-      "basename": "001 基础命令",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md"
-    },
-    {
-      "basename": "unlinked files output",
-      "path": "unlinked files output.md"
-    },
-    {
-      "basename": "00 introduce",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md"
-    },
-    {
-      "basename": "002 (temp) idea删除git项目",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/002 (temp) idea删除git项目.md"
-    },
-    {
-      "basename": "004 gitignore文件",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/004 gitignore文件.md"
-    },
-    {
-      "basename": "001 使用步骤",
-      "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_005_分布式任务调度xxl-job/001 使用步骤.md"
-    },
-    {
-      "basename": "003 常用注解",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_007_swagger/003 常用注解.md"
     }
   ],
   "omittedPaths": [],
