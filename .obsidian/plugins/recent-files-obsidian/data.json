@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "001 OOS文件存储",
+      "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/001 OOS文件存储.md"
+    },
+    {
       "basename": "@SelectProvider",
       "path": "Ⅰ_project_005_interface/Ⅱ_003_额外技术/@SelectProvider.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "002 常用命令",
       "path": "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/002 常用命令.md"
-    },
-    {
-      "basename": "001 阿里云短信发送",
-      "path": "Ⅰ_project_003_funnyread/Ⅱ_001_环境搭建/001 阿里云短信发送.md"
     }
   ],
   "omittedPaths": [],
