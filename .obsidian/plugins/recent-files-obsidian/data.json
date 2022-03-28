@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "011 元注解的制作(限流令牌)",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/011 元注解的制作(限流令牌).md"
+    },
+    {
       "basename": "00 introduce",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md"
     },
@@ -59,10 +63,6 @@
     {
       "basename": "015 AOP日志收集",
       "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/015 AOP日志收集.md"
-    },
-    {
-      "basename": "011 元注解的制作(限流令牌)",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/011 元注解的制作(限流令牌).md"
     },
     {
       "basename": "001 OOS文件存储",
