@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "011 元注解的制作(限流令牌)",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/011 元注解的制作(限流令牌).md"
+    },
+    {
       "basename": "001 OOS文件存储",
       "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/001 OOS文件存储.md"
     },
@@ -75,10 +79,6 @@
     {
       "basename": "012 拓展_spring底层原理",
       "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/012 拓展_spring底层原理.md"
-    },
-    {
-      "basename": "011 元注解的制作(限流令牌)",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/011 元注解的制作(限流令牌).md"
     },
     {
       "basename": "010 项目搭建-依赖-主运行类-配置类",
