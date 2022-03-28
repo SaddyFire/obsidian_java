@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/011 元注解的制作(限流令牌).md",
+            "file": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md",
             "mode": "preview",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: 限流",
+                "query": "跨域",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323,
-    "collapsed": true
+    "width": 323
   },
   "right": {
     "id": "eaafcc4feb3ef58e",
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/011 元注解的制作(限流令牌).md",
+                "file": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/011 元注解的制作(限流令牌).md"
+                "file": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md"
               }
             }
           },
@@ -146,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/011 元注解的制作(限流令牌).md",
+                "file": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,6 +161,7 @@
   },
   "active": "2d9dc4d2b69e558e",
   "lastOpenFiles": [
+    "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md",
     "Ⅰ_integration_002_spring/Ⅱ_003_SSM/011 元注解的制作(限流令牌).md",
     "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md",
     "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md",
@@ -170,7 +170,6 @@
     "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/01 集合.md",
     "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/03 mysql.md",
     "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/04 redis_mongoDB_ES.md",
-    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/06 spring.md",
-    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/07 springboot_分布式_springCloud.md"
+    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/06 spring.md"
   ]
 }
