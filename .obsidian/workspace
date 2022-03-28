@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/未命名.md",
+            "file": "Ⅰ_project_005_interface/Ⅱ_003_额外技术/@SelectProvider.md",
             "mode": "source",
             "source": false
           }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/未命名.md",
+                "file": "Ⅰ_project_005_interface/Ⅱ_003_额外技术/@SelectProvider.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/未命名.md"
+                "file": "Ⅰ_project_005_interface/Ⅱ_003_额外技术/@SelectProvider.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/未命名.md",
+                "file": "Ⅰ_project_005_interface/Ⅱ_003_额外技术/@SelectProvider.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,11 +160,11 @@
   },
   "active": "2f702d8f3787c512",
   "lastOpenFiles": [
-    "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/未命名.md",
+    "Ⅰ_project_005_interface/Ⅱ_003_额外技术/@SelectProvider.md",
+    "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/04 mybatisplus分页插件_自动填充拦截器.md",
     "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/03 结果类ResponseResult_状态码枚举_全局异常.md",
     "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/02 stragy策略模式.md",
     "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/01 RSA加密_aop元注解.md",
-    "Ⅰ_project_005_interface/Ⅱ_003_额外部分/@SelectProvider.md",
     "Ⅰ_project_004_travel/Ⅱ_001_环境搭建/001 模块介绍.md",
     "Ⅰ_project_004_travel/Ⅱ_001_环境搭建/000 零零散散.md",
     "Ⅰ_project_004_travel/Ⅱ_001_环境搭建/002 全局异常.md",
