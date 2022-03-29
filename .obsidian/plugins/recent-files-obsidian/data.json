@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "05 达梦数据库连接_数据库密码加密处理",
-      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/05 达梦数据库连接_数据库密码加密处理.md"
+      "basename": "05 达梦数据库_数据库密文处理",
+      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/05 达梦数据库_数据库密文处理.md"
+    },
+    {
+      "basename": "04 mybatisplus分页插件_自动填充",
+      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/04 mybatisplus分页插件_自动填充.md"
+    },
+    {
+      "basename": "达梦数据库安装",
+      "path": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/达梦数据库安装.md"
     },
     {
       "basename": "08 url拦截器_ip白名单",
@@ -157,10 +165,6 @@
       "path": "Ⅰ_project_005_interface/Ⅱ_003_额外技术/@SelectProvider.md"
     },
     {
-      "basename": "04 mybatisplus分页插件_自动填充拦截器",
-      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/04 mybatisplus分页插件_自动填充拦截器.md"
-    },
-    {
       "basename": "03 结果类ResponseResult_状态码枚举_全局异常",
       "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/03 结果类ResponseResult_状态码枚举_全局异常.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "005 pojo整合",
       "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/005 pojo整合.md"
-    },
-    {
-      "basename": "006 application.yml 属性读取(已过时)",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/006 application.yml 属性读取(已过时).md"
     }
   ],
   "omittedPaths": [],
