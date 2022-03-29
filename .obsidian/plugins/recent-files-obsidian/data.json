@@ -1,20 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "07 接口限流",
-      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/07 接口限流.md"
-    },
-    {
-      "basename": "04 applicaion.yml",
-      "path": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/04 applicaion.yml.md"
+      "basename": "达梦数据库安装",
+      "path": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/达梦数据库安装.md"
     },
     {
       "basename": "06 整合oss_封装OssTemplate",
       "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/06 整合oss_封装OssTemplate.md"
     },
     {
+      "basename": "07 接口限流",
+      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/07 接口限流.md"
+    },
+    {
+      "basename": "04 mybatisplus分页插件_自动填充",
+      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/04 mybatisplus分页插件_自动填充.md"
+    },
+    {
+      "basename": "03 全局异常",
+      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/03 全局异常.md"
+    },
+    {
+      "basename": "05 达梦数据库_数据库密文处理",
+      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/05 达梦数据库_数据库密文处理.md"
+    },
+    {
       "basename": "08 url拦截器_ip白名单",
       "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/08 url拦截器_ip白名单.md"
+    },
+    {
+      "basename": "02 stragy策略模式",
+      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/02 stragy策略模式.md"
+    },
+    {
+      "basename": "04 applicaion.yml",
+      "path": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/04 applicaion.yml.md"
     },
     {
       "basename": "01 pageResult",
@@ -27,22 +47,6 @@
     {
       "basename": "03 enums",
       "path": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/03 enums.md"
-    },
-    {
-      "basename": "达梦数据库安装",
-      "path": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/达梦数据库安装.md"
-    },
-    {
-      "basename": "03 结果类ResponseResult_状态码枚举_全局异常",
-      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/03 结果类ResponseResult_状态码枚举_全局异常.md"
-    },
-    {
-      "basename": "05 达梦数据库_数据库密文处理",
-      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/05 达梦数据库_数据库密文处理.md"
-    },
-    {
-      "basename": "04 mybatisplus分页插件_自动填充",
-      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/04 mybatisplus分页插件_自动填充.md"
     },
     {
       "basename": "002 idea配置",
@@ -183,10 +187,6 @@
     {
       "basename": "@SelectProvider",
       "path": "Ⅰ_project_005_interface/Ⅱ_003_额外技术/@SelectProvider.md"
-    },
-    {
-      "basename": "02 stragy策略模式",
-      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/02 stragy策略模式.md"
     },
     {
       "basename": "01 RSA加密_aop元注解",
