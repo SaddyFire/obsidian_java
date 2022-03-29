@@ -85,6 +85,8 @@ public class AuthorizationInterceptor extends HandlerInterceptorAdapter {
 
 ##### 04 WebConfig拦截机配置类(核心)
 `package com.consmation.demo.config;`
+
+**说明: 此处一定要注意先注入AuthorizationInterceptor() Bean, 然后将bean添加至拦截器**
 ```java
 import com.consmation.demo.interceptor.AuthorizationInterceptor;
 import org.springframework.context.annotation.Bean;
@@ -97,7 +99,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
  * 拦截器配置类  
  */
 @Configuration
-    public class WebConfig implements WebMvcConfigurer {
+public class WebConfig implements WebMvcConfigurer {
 
     @Bean
     public HandlerInterceptor getDataInterceptor(){
@@ -108,6 +110,27 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
     public void addInterceptors(InterceptorRegistry registry) {
         //添加拦截器
         registry.addInterceptor(getDataInterceptor())
+                .addPathPatterns("/**")
+                .excludePathPatterns(
+                        "/user/login",
+                        "/user/loginVerification"
+                );
+    }
+}
+```
+
+**错误写法**
+```java
+/**
+ * 拦截器配置类  
+ */
+@Configuration
+public class WebConfig implements WebMvcConfigurer {
+
+    @Override
+    public void addInterceptors(InterceptorRegistry registry) {
+        //添加拦截器
+        registry.addInterceptor(new AuthorizationInterceptor())
                 .addPathPatterns("/**")
                 .excludePathPatterns(
                         "/user/login",
