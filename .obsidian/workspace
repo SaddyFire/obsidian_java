@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/04 applicaion.yml.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323
+    "width": 323,
+    "collapsed": true
   },
   "right": {
     "id": "eaafcc4feb3ef58e",
