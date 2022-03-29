@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_project_001_delivery/Ⅱ_002_技术汇总/001 md5加密.md",
-            "mode": "preview",
+            "file": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/08 url拦截器_ip白名单.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "MD5",
+                "query": "\"import com.consmation.demo.autoconfig.properties.InterfaceProperties;  import com.consmation.demo.exception.CustomException;  import com.consmation.demo.model.enums.AppHttpCodeEnum;  import org.springframework.beans.factory.annotation.Autowired;  import org.springframework.util.ObjectUtils;  import org.springframework.util.StringUtils;  import org.springframework.web.servlet.handler.HandlerInterceptorAdapter;  import javax.servlet.http.HttpServletRequest;  import javax.servlet.http.HttpServletResponse;  import java.net.URL;  import java.util.List;    /**   * @author SaddyFire   * @date 2022/3/28   * @TIME:19:14   */  public class AuthorizationInterceptor extends HandlerInterceptorAdapter {     @Autowired   private InterfaceProperties interfaceProperties;     @Override   public boolean preHandle(HttpServletRequest request, HttpServletResponse response, Object handler) throws Exception {   //白名单校验   if (ObjectUtils.isEmpty(interfaceProperties) || ObjectUtils.isEmpty(interfaceProperties.getWhiteList())) {   throw new CustomException(AppHttpCodeEnum.SERVER_ERROR);   }   //获取url   StringBuffer requestURL = request.getRequestURL(); //  http://localhost:8888/demo/limit   //校验url   if (StringUtils.isEmpty(requestURL)) {   throw new CustomException(AppHttpCodeEnum.PARAM_REQUIRE);   }   URL url = new URL(requestURL.toString());   String host = url.getHost();   //ip校验   List<String> whiteList = interfaceProperties.getWhiteList();   if (!whiteList.contains(host)) {   throw new CustomException(AppHttpCodeEnum.NO_OPERATOR_AUTH);   }   return super.preHandle(request, response, handler);   }  }\" import com.consmation.demo.autoconfig.properties.InterfaceProperties; import com.consmation.demo.exception.CustomException; import com.consmation.demo.model.enums.AppHttpCodeEnum; import org.springframework.beans.factory.annotation.Autowired; import org.springframework.util.ObjectUtils; import org.springframework.util.StringUtils; import org.springframework.web.servlet.handler.HandlerInterceptorAdapter; import javax.servlet.http.HttpServletRequest; import javax.servlet.http.HttpServletResponse; import java.net.URL; import java.util.List;  /**  * @author SaddyFire  * @date 2022/3/28  * @TIME:19:14  */ public class AuthorizationInterceptor extends HandlerInterceptorAdapter {      @Autowired     private InterfaceProperties interfaceProperties;       @Override     public boolean preHandle(HttpServletRequest request, HttpServletResponse response, Object handler) throws Exception {         //白名单校验         if (ObjectUtils.isEmpty(interfaceProperties) || ObjectUtils.isEmpty(interfaceProperties.getWhiteList())) {             throw new CustomException(AppHttpCodeEnum.SERVER_ERROR);         }         //获取url         StringBuffer requestURL = request.getRequestURL();  //  http://localhost:8888/demo/limit         //校验url         if (StringUtils.isEmpty(requestURL)) {             throw new CustomException(AppHttpCodeEnum.PARAM_REQUIRE);         }         URL url = new URL(requestURL.toString());         String host = url.getHost();         //ip校验         List<String> whiteList = interfaceProperties.getWhiteList();         if (!whiteList.contains(host)) {             throw new CustomException(AppHttpCodeEnum.NO_OPERATOR_AUTH);         }         return super.preHandle(request, response, handler);     } }",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,11 +89,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 323
+    "width": 323,
+    "collapsed": true
   },
   "right": {
     "id": "eaafcc4feb3ef58e",
@@ -117,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_project_001_delivery/Ⅱ_002_技术汇总/001 md5加密.md",
+                "file": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/08 url拦截器_ip白名单.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_project_001_delivery/Ⅱ_002_技术汇总/001 md5加密.md"
+                "file": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/08 url拦截器_ip白名单.md"
               }
             }
           },
@@ -144,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_project_001_delivery/Ⅱ_002_技术汇总/001 md5加密.md",
+                "file": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/08 url拦截器_ip白名单.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,6 +162,7 @@
   },
   "active": "2d9dc4d2b69e558e",
   "lastOpenFiles": [
+    "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/08 url拦截器_ip白名单.md",
     "Ⅰ_project_001_delivery/Ⅱ_002_技术汇总/001 md5加密.md",
     "Ⅰ_project_003_funnyread/Ⅱ_001_环境搭建/003 JWT-鉴权.md",
     "Ⅰ_integration_001_javaBasic/001 匿名内部类.md",
@@ -168,7 +171,6 @@
     "Ⅰ_integration_001_javaBasic/003 时间类完整版.md",
     "Ⅰ_integration_001_javaBasic/004 stream流.md",
     "Ⅰ_integration_001_javaBasic/005 File& IO.md",
-    "Ⅰ_integration_001_javaBasic/006 字符流.md",
-    "Ⅰ_integration_001_javaBasic/007 多线程.md"
+    "Ⅰ_integration_001_javaBasic/006 字符流.md"
   ]
 }
