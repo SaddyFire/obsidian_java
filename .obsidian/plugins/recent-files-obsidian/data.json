@@ -5,6 +5,14 @@
       "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/01 RSA加密_aop元注解.md"
     },
     {
+      "basename": "02 stragy策略模式",
+      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/02 stragy策略模式.md"
+    },
+    {
+      "basename": "03 全局异常",
+      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/03 全局异常.md"
+    },
+    {
       "basename": "04 mybatisplus分页插件_自动填充",
       "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/04 mybatisplus分页插件_自动填充.md"
     },
@@ -23,14 +31,6 @@
     {
       "basename": "08 url拦截器_ip白名单",
       "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/08 url拦截器_ip白名单.md"
-    },
-    {
-      "basename": "03 全局异常",
-      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/03 全局异常.md"
-    },
-    {
-      "basename": "02 stragy策略模式",
-      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/02 stragy策略模式.md"
     },
     {
       "basename": "达梦数据库安装",
