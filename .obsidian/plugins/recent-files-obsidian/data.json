@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "01 pageResult",
+      "path": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/01 pageResult.md"
+    },
+    {
+      "basename": "02 Constants",
+      "path": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/02 Constants.md"
+    },
+    {
+      "basename": "03 enums",
+      "path": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/03 enums.md"
+    },
+    {
+      "basename": "达梦数据库安装",
+      "path": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/达梦数据库安装.md"
+    },
+    {
       "basename": "03 结果类ResponseResult_状态码枚举_全局异常",
       "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/03 结果类ResponseResult_状态码枚举_全局异常.md"
     },
@@ -19,10 +35,6 @@
     {
       "basename": "04 mybatisplus分页插件_自动填充",
       "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/04 mybatisplus分页插件_自动填充.md"
-    },
-    {
-      "basename": "达梦数据库安装",
-      "path": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/达梦数据库安装.md"
     },
     {
       "basename": "002 idea配置",
@@ -187,18 +199,6 @@
     {
       "basename": "002 全局异常",
       "path": "Ⅰ_project_004_travel/Ⅱ_001_环境搭建/002 全局异常.md"
-    },
-    {
-      "basename": "014 springboot请求参数详解",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/014 springboot请求参数详解.md"
-    },
-    {
-      "basename": "001 MyBatis整合(已过时)",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/001 MyBatis整合(已过时).md"
-    },
-    {
-      "basename": "005 pojo整合",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/005 pojo整合.md"
     }
   ],
   "omittedPaths": [],
