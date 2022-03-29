@@ -19,7 +19,6 @@ interface:
 ```java
 import lombok.Data;  
 import org.springframework.boot.context.properties.ConfigurationProperties;  
-  
 import java.util.List;  
   
 /**  
@@ -36,6 +35,7 @@ public class InterfaceProperties {
 
 ##### 03 AuthorizationInterceptor属性注入
 `package com.consmation.demo.interceptor;`
+获取访客url, 以及校验
 ```java
 import com.consmation.demo.autoconfig.properties.InterfaceProperties;
 import com.consmation.demo.exception.CustomException;
