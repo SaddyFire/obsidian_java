@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "001 md5加密",
+      "path": "Ⅰ_project_001_delivery/Ⅱ_002_技术汇总/001 md5加密.md"
+    },
+    {
+      "basename": "003 JWT-鉴权",
+      "path": "Ⅰ_project_003_funnyread/Ⅱ_001_环境搭建/003 JWT-鉴权.md"
+    },
+    {
       "basename": "001 匿名内部类",
       "path": "Ⅰ_integration_001_javaBasic/001 匿名内部类.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "013 幂等性",
       "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/013 幂等性.md"
-    },
-    {
-      "basename": "012 拓展_spring底层原理",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/012 拓展_spring底层原理.md"
-    },
-    {
-      "basename": "010 项目搭建-依赖-主运行类-配置类",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/010 项目搭建-依赖-主运行类-配置类.md"
     }
   ],
   "omittedPaths": [],
