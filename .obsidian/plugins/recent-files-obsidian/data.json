@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "05 达梦数据库连接",
-      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/05 达梦数据库连接.md"
+      "basename": "05 达梦数据库连接_数据库密码加密处理",
+      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/05 达梦数据库连接_数据库密码加密处理.md"
+    },
+    {
+      "basename": "01 maven详解",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_001_maven详解/01 maven详解.md"
+    },
+    {
+      "basename": "02 IDEA中Maven指令含义",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_001_maven详解/02 IDEA中Maven指令含义.md"
     },
     {
       "basename": "08 url拦截器_ip白名单",
@@ -191,14 +199,6 @@
     {
       "basename": "007  Session",
       "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/007  Session.md"
-    },
-    {
-      "basename": "008 日志写入数据库(ControllerAop)",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/008 日志写入数据库(ControllerAop).md"
-    },
-    {
-      "basename": "013 幂等性",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/013 幂等性.md"
     }
   ],
   "omittedPaths": [],
