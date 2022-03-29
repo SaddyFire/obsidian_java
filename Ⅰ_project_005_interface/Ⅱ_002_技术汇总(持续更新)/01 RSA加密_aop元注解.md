@@ -450,23 +450,20 @@ public class RSAEncrpytAop {
         } catch (Throwable throwable) {
             throwable.printStackTrace();
         } finally {
+            //判断是否为ResponseResult
             if (!(proceed instanceof ResponseResult)) {
                 return proceed;
             }
             //获取结果
             ResponseResult returnResult = (ResponseResult) proceed;
-            //获取PageResult
+            //获取Data
             Object returnDataObj = returnResult.getData();
-            PageResult returnData;
-            String recordStr = null;
-            if (returnDataObj instanceof PageResult) {
-                returnData = (PageResult)returnDataObj;
-                //转Json
-                recordStr = JSON.toJSONString(returnData);
-            }
+            //转json
+            String returnDataJson = JSON.toJSONString(returnDataObj);
+
             try {
                 //公钥分段加密
-                String publicEncrpyt = RSAUtil.publicEncrpyt(recordStr, Constants.publicKeyStr);
+                String publicEncrpyt = RSAUtil.publicEncrpyt(returnDataJson, Constants.publicKeyStr);
                 //封装returnResult
                 returnResult.setData(publicEncrpyt);
 
