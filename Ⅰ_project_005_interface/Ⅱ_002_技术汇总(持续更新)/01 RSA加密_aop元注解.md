@@ -369,10 +369,6 @@ public class RSADTest02 {
     }
 
 
-
-    //{"age":23,"id":1,"name":"张三"},{"age":24,"id":2,"name":"李四"},{"age":25,"id":3,"name":"王五"},{"age":26,"id":4,"name":"赵六"},{"age":27,"id":5,"name":"钱七"},{"age":28,"id":6,"name":"勾八"},{"age":29,"id":7,"name":"西西"},{"age":30,"id":8,"name":"东东"},{"age":31,"id":9,"name":"楠楠"},{"age":32,"id":10,"name":"北北"}
-
-
     /**
      * 公私钥测试
      */
@@ -389,6 +385,7 @@ public class RSADTest02 {
     }
 }
 ```
+- 常量类
 `package com.consmation.demo.utils;`
 ```java
 /**
@@ -405,7 +402,82 @@ public class Constants {
 
 ```
 
+##### 04 元注解
+`package com.consmation.demo.anno;`
+```java
+import java.lang.annotation.ElementType;
+import java.lang.annotation.Retention;
+import java.lang.annotation.RetentionPolicy;
+import java.lang.annotation.Target;
 
+/**
+ * @author SaddyFire
+ * @date 2022/3/25
+ */
+@Target(ElementType.METHOD)
+@Retention(RetentionPolicy.RUNTIME)
+public @interface RSAEncrpyt {
+}
+```
 
+##### 05 aop类
+`package com.consmation.demo.aop;`
+```java
+import com.alibaba.fastjson.JSON;
+import com.consmation.demo.exception.CustomException;
+import com.consmation.demo.model.enums.AppHttpCodeEnum;
+import com.consmation.demo.model.vo.PageResult;
+import com.consmation.demo.model.vo.ResponseResult;
+import com.consmation.demo.utils.Constants;
+import com.consmation.demo.utils.RSAUtil;
+import org.aspectj.lang.ProceedingJoinPoint;
+import org.aspectj.lang.annotation.Around;
+import org.aspectj.lang.annotation.Aspect;
+import org.springframework.stereotype.Component;
+
+/**
+ * @author SaddyFire
+ * @date 2022/3/25
+ */
+@Aspect
+@Component
+public class RSAEncrpytAop {
+    @Around("@annotation(com.consmation.demo.anno.RSAEncrpyt)")
+    public Object around(ProceedingJoinPoint pjp){
+        Object proceed = null;
+        try {
+            proceed =pjp.proceed();
+        } catch (Throwable throwable) {
+            throwable.printStackTrace();
+        } finally {
+            if (!(proceed instanceof ResponseResult)) {
+                return proceed;
+            }
+            //获取结果
+            ResponseResult returnResult = (ResponseResult) proceed;
+            //获取PageResult
+            Object returnDataObj = returnResult.getData();
+            PageResult returnData;
+            String recordStr = null;
+            if (returnDataObj instanceof PageResult) {
+                returnData = (PageResult)returnDataObj;
+                //转Json
+                recordStr = JSON.toJSONString(returnData);
+            }
+            try {
+                //公钥分段加密
+                String publicEncrpyt = RSAUtil.publicEncrpyt(recordStr, Constants.publicKeyStr);
+                //封装returnResult
+                returnResult.setData(publicEncrpyt);
+
+            } catch (Exception e) {
+                throw new CustomException(AppHttpCodeEnum.SERVER_ERROR);
+            }
+            return returnResult;
+        }
+    }
+
+}
+```
 
 
