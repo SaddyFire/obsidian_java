@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "05 达梦数据库_数据库密文处理",
+      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/05 达梦数据库_数据库密文处理.md"
+    },
+    {
+      "basename": "06 整合oss_封装OssTemplate",
+      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/06 整合oss_封装OssTemplate.md"
+    },
+    {
       "basename": "014 springboot请求参数详解",
       "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/014 springboot请求参数详解.md"
     },
@@ -37,20 +45,12 @@
       "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/04 mybatisplus分页插件_自动填充.md"
     },
     {
-      "basename": "05 达梦数据库_数据库密文处理",
-      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/05 达梦数据库_数据库密文处理.md"
-    },
-    {
       "basename": "03 全局异常",
       "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/03 全局异常.md"
     },
     {
       "basename": "02 stragy策略模式",
       "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/02 stragy策略模式.md"
-    },
-    {
-      "basename": "06 整合oss_封装OssTemplate",
-      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/06 整合oss_封装OssTemplate.md"
     },
     {
       "basename": "07 接口限流",
