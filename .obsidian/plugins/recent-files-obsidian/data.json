@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "002 idea配置",
+      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/002 idea配置.md"
+    },
+    {
       "basename": "05 达梦数据库连接_数据库密码加密处理",
       "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/05 达梦数据库连接_数据库密码加密处理.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "006 application.yml 属性读取(已过时)",
       "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/006 application.yml 属性读取(已过时).md"
-    },
-    {
-      "basename": "007  Session",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/007  Session.md"
     }
   ],
   "omittedPaths": [],
