@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/01 ResponseResult_PageResult.md",
-            "mode": "preview",
+            "file": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/04 applicaion.yml.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/01 ResponseResult_PageResult.md",
+                "file": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/04 applicaion.yml.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/01 ResponseResult_PageResult.md"
+                "file": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/04 applicaion.yml.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/01 ResponseResult_PageResult.md",
+                "file": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/04 applicaion.yml.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,11 +160,11 @@
   },
   "active": "0e7f2ee03759c1a5",
   "lastOpenFiles": [
-    "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/01 ResponseResult_PageResult.md",
-    "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/02 Constants.md",
-    "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/03 enums.md",
     "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/04 applicaion.yml.md",
     "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/达梦数据库安装.md",
+    "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/03 enums.md",
+    "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/02 Constants.md",
+    "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/01 ResponseResult_PageResult.md",
     "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/04 mybatisplus分页插件_自动填充.md",
     "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/05 达梦数据库_数据库密文处理.md",
     "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/03 全局异常.md",
