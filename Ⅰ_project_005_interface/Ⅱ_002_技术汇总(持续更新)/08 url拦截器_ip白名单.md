@@ -1,4 +1,4 @@
-此处核心是
+此处核心是WebConfig拦截机配置类
 
 ##### 01 application.yml配置
 ```yml
