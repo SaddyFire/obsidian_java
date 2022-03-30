@@ -715,12 +715,16 @@ settings:
 }
 /*-----------------------------saddyfire2 预览模式--------------------------------*/
 
-/*类名颜色*/
+/*类名颜色 idea浅蓝色*/
 .theme-dark .token.class-name {
     /*color: #e6db74;*/
     color: #A9B7C6
 }
-/*关键字颜色*/
+/*yml关键字颜色 金色*/
+.theme-dark .token.atrule{
+	color: #CC7832
+}
+/*关键字颜色 金色*/
 .theme-dark .token.keyword {
     color: #CC7832;
 }
