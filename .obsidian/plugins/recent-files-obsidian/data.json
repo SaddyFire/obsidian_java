@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "012 拓展_spring底层原理",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/012 拓展_spring底层原理.md"
+    },
+    {
+      "basename": "013 幂等性",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/013 幂等性.md"
+    },
+    {
+      "basename": "006 application.yml 属性读取(已过时)",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/006 application.yml 属性读取(已过时).md"
+    },
+    {
+      "basename": "001 MyBatis整合(已过时)",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/001 MyBatis整合(已过时).md"
+    },
+    {
+      "basename": "004 异常处理类",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/004 异常处理类.md"
+    },
+    {
+      "basename": "00C springboot自动装配流程图",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/00C springboot自动装配流程图.md"
+    },
+    {
+      "basename": "009 拦截器",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/009 拦截器.md"
+    },
+    {
+      "basename": "014 springboot请求参数详解",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/014 springboot请求参数详解.md"
+    },
+    {
       "basename": "达梦数据库安装",
       "path": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/达梦数据库安装.md"
     },
@@ -39,14 +71,6 @@
     {
       "basename": "06 整合oss_封装OssTemplate",
       "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/06 整合oss_封装OssTemplate.md"
-    },
-    {
-      "basename": "014 springboot请求参数详解",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/014 springboot请求参数详解.md"
-    },
-    {
-      "basename": "009 拦截器",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/009 拦截器.md"
     },
     {
       "basename": "01 RSA加密_aop元注解",
@@ -175,30 +199,6 @@
     {
       "basename": "03 mysql",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/03 mysql.md"
-    },
-    {
-      "basename": "04 redis_mongoDB_ES",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/04 redis_mongoDB_ES.md"
-    },
-    {
-      "basename": "06 spring",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/06 spring.md"
-    },
-    {
-      "basename": "07 springboot_分布式_springCloud",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/07 springboot_分布式_springCloud.md"
-    },
-    {
-      "basename": "09 mybatis_dubbo_rabbitMQ_zookeeper",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/09 mybatis_dubbo_rabbitMQ_zookeeper.md"
-    },
-    {
-      "basename": "12 javascript, jquery, vue",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/12 javascript, jquery, vue.md"
-    },
-    {
-      "basename": "13 another",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/13 another.md"
     }
   ],
   "omittedPaths": [],
