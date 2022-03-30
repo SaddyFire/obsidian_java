@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "001 基础命令",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md"
+    },
+    {
+      "basename": "002 (temp) idea删除git项目",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/002 (temp) idea删除git项目.md"
+    },
+    {
+      "basename": "003 tortoise 推送",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/003 tortoise 推送.md"
+    },
+    {
+      "basename": "004 gitignore文件",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/004 gitignore文件.md"
+    },
+    {
       "basename": "01 springboot+log4j.yml配置日志文件",
       "path": "Ⅰ_project_005_interface/Ⅱ_003_额外技术/01 springboot+log4j.yml配置日志文件.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "13 another",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/13 another.md"
-    },
-    {
-      "basename": "08 springMVC",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/08 springMVC.md"
-    },
-    {
-      "basename": "014 vo对象的静态init制作案例",
-      "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/014 vo对象的静态init制作案例.md"
-    },
-    {
-      "basename": "015 AOP日志收集",
-      "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/015 AOP日志收集.md"
-    },
-    {
-      "basename": "001 阿里云短信发送",
-      "path": "Ⅰ_project_003_funnyread/Ⅱ_001_环境搭建/001 阿里云短信发送.md"
     }
   ],
   "omittedPaths": [],
