@@ -50,10 +50,7 @@ public interface DBhelper {
 	 */
 	boolean IsProcCommandText(String var1);
 	/*
-	 * 新建表(String datasourceguid, String tableName, String fieldName) (数据库guid, 表明, 字段名)
-	 * 此处调用 this.QueryVoid(datasourceguid, "getpkvalue", param);
-	 * getpkvalue sql: 获取最大主键值的存储过程
-	 * sql: getpkvalue: 'call GetPKValue (?tablename,?fieldname,?OUTpkvalue,?ds_id)', 
+	 * 新建表
 	 */
 	Integer GetPkValue(String var1, String var2, String var3) throws Exception;
 }
@@ -198,3 +195,25 @@ private Sql Execute(String datasourceguid, String sqlKey, HashMap<String, Object
 }
 ```
 
+
+## 3. GetPkValue
+##### 01 实现类
+```java
+// 三个参数 (String datasourceguid, String tableName, String fieldName) (数据库guid, 表明, 字段名)
+public Integer GetPkValue(String datasourceguid, String tableName, String fieldName) throws Exception {
+	HashMap<String, Object> param = new HashMap();
+	param.put("tablename", tableName);
+	param.put("fieldname", fieldName);
+	param.put("OUTpkvalue", "0");
+	param.put("ds_id", "1");
+	//执行 QueryVoid 
+	this.QueryVoid(datasourceguid, "getpkvalue", param);
+	// sql: 
+	return Convert.parseInt(param.get("OUTpkvalue"));
+}
+```
+##### 02 getpkvalue SQL语句
+```yml
+#获取最大主键值的存储过程
+getpkvalue: 'call GetPKValue (?tablename,?fieldname,?OUTpkvalue,?ds_id)',
+```
