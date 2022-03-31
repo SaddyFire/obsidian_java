@@ -1,7 +1,7 @@
 ## 1. 增操作
 ##### 01 QueryDataTable
 ```java
-//七个参数: datasourceguid(数据库guid), sqlKey(sqlKey), params(执行参数), startIndex(查询起点索引), pageSize(查询数据), vars(), fromSlave()
+//七个参数: datasourceguid(数据库guid), sqlKey(sqlKey), params(执行参数), startIndex(起始索引), pageSize(页大小), vars(), fromSlave()
 public DataTable QueryDataTable(String datasourceguid, String sqlKey, HashMap<String, Object> params, int startIndex, int pageSize, HashMap<String, Object> vars, boolean fromSlave) throws Exception {
 	//此处调用 QueryCallBack 回调方法, 将参数全部放入 , 同时调用 SqlCallback() 匿名内部类 操作
 	return (DataTable)this.QueryCallBack(datasourceguid, sqlKey, params, startIndex, pageSize, vars, new SqlCallback() {
@@ -42,6 +42,7 @@ public Object QueryCallBack(String datasourceguid, String sqlKey, HashMap<String
 	Pager pager = null;
 	//此处将
 	if (pageSize != 0) {
+		//计算当前页
 		int pageIndex = startIndex / pageSize + 1;
 		//
 		pager = this.getDao(datasourceguid, fromSlave).createPager(pageIndex, pageSize);
