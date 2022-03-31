@@ -54,7 +54,7 @@ import java.util.List;
  * @date 2022/3/28
  * @TIME:19:14
  */
-public class AuthorizationInterceptor extends HandlerInterceptorAdapter {
+public class AuthorizationInterceptor implements HandlerInterceptor {
 
     @Autowired
     private InterfaceProperties interfaceProperties;
@@ -78,7 +78,7 @@ public class AuthorizationInterceptor extends HandlerInterceptorAdapter {
         if (!whiteList.contains(host)) {
             throw new CustomException(AppHttpCodeEnum.NO_OPERATOR_AUTH);
         }
-        return super.preHandle(request, response, handler);
+        return preHandle(request, response, handler);
     }
 }
 ```

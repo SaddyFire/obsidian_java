@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/012 拓展_spring底层原理.md",
-            "mode": "preview",
+            "file": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/08 url拦截器_ip白名单.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/012 拓展_spring底层原理.md",
+                "file": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/08 url拦截器_ip白名单.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/012 拓展_spring底层原理.md"
+                "file": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/08 url拦截器_ip白名单.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/012 拓展_spring底层原理.md",
+                "file": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/08 url拦截器_ip白名单.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,6 +160,7 @@
   },
   "active": "f8eedf21376db671",
   "lastOpenFiles": [
+    "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/08 url拦截器_ip白名单.md",
     "Ⅰ_integration_002_spring/Ⅱ_003_SSM/012 拓展_spring底层原理.md",
     "Ⅰ_integration_002_spring/Ⅱ_003_SSM/013 幂等性.md",
     "Ⅰ_integration_002_spring/Ⅱ_003_SSM/006 application.yml 属性读取(已过时).md",
@@ -168,7 +169,6 @@
     "Ⅰ_integration_002_spring/Ⅱ_003_SSM/005 pojo整合.md",
     "Ⅰ_integration_002_spring/Ⅱ_003_SSM/00C springboot自动装配流程图.md",
     "Ⅰ_integration_002_spring/Ⅱ_003_SSM/009 拦截器.md",
-    "Ⅰ_integration_002_spring/Ⅱ_003_SSM/014 springboot请求参数详解.md",
-    "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/达梦数据库安装.md"
+    "Ⅰ_integration_002_spring/Ⅱ_003_SSM/014 springboot请求参数详解.md"
   ]
 }
