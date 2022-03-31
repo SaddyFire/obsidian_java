@@ -1,4 +1,4 @@
-##### 1. 概述
+##### 1. 接口概述
 ```java
 public interface DBhelper {
 	Map<String, HashMap> getDataSources() throws Exception;
@@ -41,12 +41,16 @@ public interface DBhelper {
 	 * 获取表参数相关(String datasourceguid, String procName)
 	 */
 	DataTable GetProcParams(String var1, String var2) throws Exception;
-	
+	/**
+	 * 是否为select语句
+	 */
 	boolean IsSelectCommandText(String var1);
-
+	/**
+	 * 是否为call语句
+	 */
 	boolean IsProcCommandText(String var1);
 	/*
-	 * 插入表
+	 * 新建表(String datasourceguid, String tableName, String fieldName)
 	 */
 	Integer GetPkValue(String var1, String var2, String var3) throws Exception;
 }
@@ -55,7 +59,7 @@ public interface DBhelper {
 
 
 
-## 2. QueryDataTable
+## 2. QueryDataTable详解
 QueryDataTable() -> QueryCallBack() -> Execute()
 ##### 01 QueryDataTable
 ```java
