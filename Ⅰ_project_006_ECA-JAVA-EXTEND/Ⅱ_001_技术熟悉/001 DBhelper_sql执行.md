@@ -6,14 +6,14 @@ public interface DBhelper {
 	 * 开启事务
 	 */
 	void StartTrans(Runnable var1);
-
+	//获取数据库类型
 	DBType GetDbType(String var1) throws Exception;
 	/*
 	 * 查询单条数据
 	 */
 	Map QueryMap(String var1, String var2, HashMap<String, Object> var3, HashMap<String, Object> var4, boolean var5) throws Exception;
 	/*
-	 * 查询多条数据
+	 * 执行单条语句
 	 */
 	DataTable QueryDataTable(String var1, String var2, HashMap<String, Object> var3, int var4, int var5, HashMap<String, Object> var6, boolean var7) throws Exception;
 
@@ -45,12 +45,13 @@ public interface DBhelper {
 
 
 ## 2. QueryDataTable
+QueryDataTable -> QueryCallBack() -> Execute()
 ##### 01 QueryDataTable
 ```java
 //七个参数: datasourceguid(数据库guid), sqlKey(sqlKey), params(执行参数), startIndex(起始索引), pageSize(页大小), vars(未知), fromSlave(未知)
 public DataTable QueryDataTable(String datasourceguid, String sqlKey, HashMap<String, Object> params, int startIndex, int pageSize, HashMap<String, Object> vars, boolean fromSlave) throws Exception {
 	//此处调用 QueryCallBack 方法, 将参数全部放入 , 执行sql语句
-	//
+	//new SqlCallback() 说明: 此处自定义sql回调类, 将sql语句执行后的结果进行
 	return (DataTable)this.QueryCallBack(datasourceguid, sqlKey, params, startIndex, pageSize, vars, new SqlCallback() {
 		public Object invoke(Connection conn, ResultSet rs, Sql sql) throws SQLException {
 			if (rs == null) {
@@ -84,7 +85,7 @@ public DataTable QueryDataTable(String datasourceguid, String sqlKey, HashMap<St
 ##### 02 QueryCallBack
 
 ```java
-//在此处执行了sql
+//在此处执行了sql, 并将结果返回
 public Object QueryCallBack(String datasourceguid, String sqlKey, HashMap<String, Object> params, int startIndex, int pageSize, HashMap<String, Object> vars, SqlCallback callback, boolean fromSlave) throws Exception {
 	Pager pager = null;
 	if (pageSize != 0) {
@@ -94,6 +95,7 @@ public Object QueryCallBack(String datasourceguid, String sqlKey, HashMap<String
 	}
 	//调用Execute(), 将datasourceguid, sqlKey, params, 
 	Sql sql = this.Execute(datasourceguid, sqlKey, params, callback, pager, vars);
+	//将sql结果返回
 	return sql.getResult();
 }
 ```
