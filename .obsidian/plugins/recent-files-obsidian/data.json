@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "001 DBhelper_sql执行",
+      "path": "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_001_技术熟悉/001 DBhelper_sql执行.md"
+    },
+    {
       "basename": "08 url拦截器_ip白名单",
       "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/08 url拦截器_ip白名单.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "01 集合",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/01 集合.md"
-    },
-    {
-      "basename": "03 mysql",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/03 mysql.md"
     }
   ],
   "omittedPaths": [],
