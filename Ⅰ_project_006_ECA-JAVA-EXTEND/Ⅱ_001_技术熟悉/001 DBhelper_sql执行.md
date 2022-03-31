@@ -49,7 +49,8 @@ public interface DBhelper {
 ```java
 //七个参数: datasourceguid(数据库guid), sqlKey(sqlKey), params(执行参数), startIndex(起始索引), pageSize(页大小), vars(未知), fromSlave(未知)
 public DataTable QueryDataTable(String datasourceguid, String sqlKey, HashMap<String, Object> params, int startIndex, int pageSize, HashMap<String, Object> vars, boolean fromSlave) throws Exception {
-	//此处调用 QueryCallBack 回调方法, 将参数全部放入 , 同时调用 SqlCallback() 匿名内部类 操作
+	//此处调用 QueryCallBack 方法, 将参数全部放入 , 执行sql语句
+	//
 	return (DataTable)this.QueryCallBack(datasourceguid, sqlKey, params, startIndex, pageSize, vars, new SqlCallback() {
 		public Object invoke(Connection conn, ResultSet rs, Sql sql) throws SQLException {
 			if (rs == null) {
@@ -83,7 +84,7 @@ public DataTable QueryDataTable(String datasourceguid, String sqlKey, HashMap<St
 ##### 02 QueryCallBack
 
 ```java
-//此处
+//在此处执行了sql
 public Object QueryCallBack(String datasourceguid, String sqlKey, HashMap<String, Object> params, int startIndex, int pageSize, HashMap<String, Object> vars, SqlCallback callback, boolean fromSlave) throws Exception {
 	Pager pager = null;
 	if (pageSize != 0) {
@@ -98,7 +99,10 @@ public Object QueryCallBack(String datasourceguid, String sqlKey, HashMap<String
 ```
 
 ##### 03 Execute
-通过 dao.execute(sqlObject); ->执行sql语句
+通过`sqlObject.setCallback(callback);` 设置回调
+通过 `dao.execute(sqlObject);` 执行sql语句
+
+
 ```java
 private Sql Execute(String datasourceguid, String sqlKey, HashMap<String, Object> params, SqlCallback callback, Pager pager, HashMap<String, Object> vars, boolean fromSlave) throws Exception {
 	if (!this.ecaSqlsConfig.getMap().containsKey(sqlKey)) {
