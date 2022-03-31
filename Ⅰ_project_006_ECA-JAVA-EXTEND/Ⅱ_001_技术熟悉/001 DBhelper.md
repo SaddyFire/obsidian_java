@@ -30,7 +30,7 @@ public interface DBhelper {
 	 */
 	void QueryVoid(String var1, String var2, HashMap<String, Object> var3, HashMap<String, Object> var4) throws Exception;
 	/**
-	 * 多行数据查询, 将结果返回
+	 * 批量数据查询, 将结果返回
 	 */
 	List<DataColumn> GetColumns(String var1, String var2, HashMap<String, Object> var3) throws Exception;
 	/**
