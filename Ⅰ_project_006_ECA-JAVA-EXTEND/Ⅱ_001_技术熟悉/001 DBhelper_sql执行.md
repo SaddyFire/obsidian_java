@@ -1,10 +1,50 @@
 ##### 1. 概述
+```java
+public interface DBhelper {
+	Map<String, HashMap> getDataSources() throws Exception;
+	/*
+	 * 开启事务
+	 */
+	void StartTrans(Runnable var1);
+
+	DBType GetDbType(String var1) throws Exception;
+	/*
+	 * 查询单条数据
+	 */
+	Map QueryMap(String var1, String var2, HashMap<String, Object> var3, HashMap<String, Object> var4, boolean var5) throws Exception;
+	/*
+	 * 查询多条数据
+	 */
+	DataTable QueryDataTable(String var1, String var2, HashMap<String, Object> var3, int var4, int var5, HashMap<String, Object> var6, boolean var7) throws Exception;
+
+	DataTable QueryCursor(String var1, String var2, HashMap<String, Object> var3, HashMap<String, Object> var4) throws Exception;
+	/*
+	 * 返回影响函数, 增删改
+	 */
+	int QueryInt(String var1, String var2, HashMap<String, Object> var3, HashMap<String, Object> var4) throws Exception;
+
+	void QueryVoid(String var1, String var2, HashMap<String, Object> var3, HashMap<String, Object> var4) throws Exception;
+
+	List<DataColumn> GetColumns(String var1, String var2, HashMap<String, Object> var3) throws Exception;
+
+	List<String> GetTables(String var1) throws Exception;
+
+	DataTable GetProcParams(String var1, String var2) throws Exception;
+
+	boolean IsSelectCommandText(String var1);
+
+	boolean IsProcCommandText(String var1);
+	/*
+	 * 插入表
+	 */
+	Integer GetPkValue(String var1, String var2, String var3) throws Exception;
+}
+```
 
 
 
 
-
-## 2. 增操作
+## 2. QueryDataTable
 ##### 01 QueryDataTable
 ```java
 //七个参数: datasourceguid(数据库guid), sqlKey(sqlKey), params(执行参数), startIndex(起始索引), pageSize(页大小), vars(未知), fromSlave(未知)
