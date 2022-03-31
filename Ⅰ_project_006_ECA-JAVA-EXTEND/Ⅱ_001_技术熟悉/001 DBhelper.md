@@ -50,7 +50,10 @@ public interface DBhelper {
 	 */
 	boolean IsProcCommandText(String var1);
 	/*
-	 * 新建表(String datasourceguid, String tableName, String fieldName)
+	 * 新建表(String datasourceguid, String tableName, String fieldName) (数据库guid, 表明, 字段名)
+	 * 此处调用 this.QueryVoid(datasourceguid, "getpkvalue", param);
+	 * getpkvalue sql: 获取最大主键值的存储过程
+	 * sql: getpkvalue: 'call GetPKValue (?tablename,?fieldname,?OUTpkvalue,?ds_id)', 
 	 */
 	Integer GetPkValue(String var1, String var2, String var3) throws Exception;
 }
