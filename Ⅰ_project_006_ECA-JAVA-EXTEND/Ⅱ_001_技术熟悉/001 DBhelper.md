@@ -50,7 +50,7 @@ public interface DBhelper {
 	 */
 	boolean IsProcCommandText(String var1);
 	/*
-	 * 新建表
+	 * 返回一个可用的ID
 	 */
 	Integer GetPkValue(String var1, String var2, String var3) throws Exception;
 }
