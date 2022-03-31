@@ -1,8 +1,9 @@
 ## 1. 增操作
 ##### 01 QueryDataTable
 ```java
+//七个参数: datasourceguid(数据库guid), sqlKey(sqlKey), params(执行参数), startIndex(查询起点索引), pageSize(查询数据), vars(), fromSlave()
 public DataTable QueryDataTable(String datasourceguid, String sqlKey, HashMap<String, Object> params, int startIndex, int pageSize, HashMap<String, Object> vars, boolean fromSlave) throws Exception {
-	//此处调用QueryCallBack 回调方法, 将参数全部放入 , 同时 new SqlCallback() 匿名内部类 操作
+	//此处调用 QueryCallBack 回调方法, 将参数全部放入 , 同时调用 SqlCallback() 匿名内部类 操作
 	return (DataTable)this.QueryCallBack(datasourceguid, sqlKey, params, startIndex, pageSize, vars, new SqlCallback() {
 		public Object invoke(Connection conn, ResultSet rs, Sql sql) throws SQLException {
 			if (rs == null) {
@@ -34,7 +35,9 @@ public DataTable QueryDataTable(String datasourceguid, String sqlKey, HashMap<St
 ```
 
 ##### 02 QueryCallBack
+
 ```java
+//此处
 public Object QueryCallBack(String datasourceguid, String sqlKey, HashMap<String, Object> params, int startIndex, int pageSize, HashMap<String, Object> vars, SqlCallback callback, boolean fromSlave) throws Exception {
 	Pager pager = null;
 	if (pageSize != 0) {
