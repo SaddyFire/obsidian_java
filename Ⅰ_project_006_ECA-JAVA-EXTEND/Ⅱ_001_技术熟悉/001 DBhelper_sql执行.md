@@ -10,13 +10,16 @@ public interface DBhelper {
 	DBType GetDbType(String var1) throws Exception;
 	/*
 	 * 查询单条数据
+	 * param(String datasourceguid, String sqlKey, HashMap<String, Object> params(占位符参数), HashMap<String, Object> vars(未知), boolean fromSlave(未知))
+	 * callback采用内置回调参数, pager为null, 
+	 * 并且将查询结果直接 提取 以map形式返回
 	 */
 	Map QueryMap(String var1, String var2, HashMap<String, Object> var3, HashMap<String, Object> var4, boolean var5) throws Exception;
 	/*
-	 * 执行单条语句
+	 * 万能sql接口
 	 */
 	DataTable QueryDataTable(String var1, String var2, HashMap<String, Object> var3, int var4, int var5, HashMap<String, Object> var6, boolean var7) throws Exception;
-
+	
 	DataTable QueryCursor(String var1, String var2, HashMap<String, Object> var3, HashMap<String, Object> var4) throws Exception;
 	/*
 	 * 返回影响函数, 增删改
@@ -45,7 +48,7 @@ public interface DBhelper {
 
 
 ## 2. QueryDataTable
-QueryDataTable -> QueryCallBack() -> Execute()
+QueryDataTable() -> QueryCallBack() -> Execute()
 ##### 01 QueryDataTable
 ```java
 //七个参数: datasourceguid(数据库guid), sqlKey(sqlKey), params(执行参数), startIndex(起始索引), pageSize(页大小), vars(未知), fromSlave(未知)
@@ -106,6 +109,7 @@ public Object QueryCallBack(String datasourceguid, String sqlKey, HashMap<String
 
 
 ```java
+//datasourceguid, sqlKey, params, callback(回调函数), pager(封装有关page的对象), vars(未知), fromSlave(未知)
 private Sql Execute(String datasourceguid, String sqlKey, HashMap<String, Object> params, SqlCallback callback, Pager pager, HashMap<String, Object> vars, boolean fromSlave) throws Exception {
 	if (!this.ecaSqlsConfig.getMap().containsKey(sqlKey)) {
 		throw new Exception("未在ecasqls中配置对应的sql键！键值：" + sqlKey);
