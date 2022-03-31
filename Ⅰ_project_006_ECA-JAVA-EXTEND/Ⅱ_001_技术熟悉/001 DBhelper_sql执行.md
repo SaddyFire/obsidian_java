@@ -86,16 +86,87 @@ public DataTable QueryDataTable(String datasourceguid, String sqlKey, HashMap<St
 //此处
 public Object QueryCallBack(String datasourceguid, String sqlKey, HashMap<String, Object> params, int startIndex, int pageSize, HashMap<String, Object> vars, SqlCallback callback, boolean fromSlave) throws Exception {
 	Pager pager = null;
-	//此处将
 	if (pageSize != 0) {
 		//计算当前页
 		int pageIndex = startIndex / pageSize + 1;
-		//
 		pager = this.getDao(datasourceguid, fromSlave).createPager(pageIndex, pageSize);
 	}
 	//调用Execute(), 将datasourceguid, sqlKey, params, 
 	Sql sql = this.Execute(datasourceguid, sqlKey, params, callback, pager, vars);
 	return sql.getResult();
+}
+```
+
+##### 03 Execute
+通过 dao.execute(sqlObject); ->执行sql语句
+```java
+private Sql Execute(String datasourceguid, String sqlKey, HashMap<String, Object> params, SqlCallback callback, Pager pager, HashMap<String, Object> vars, boolean fromSlave) throws Exception {
+	if (!this.ecaSqlsConfig.getMap().containsKey(sqlKey)) {
+		throw new Exception("未在ecasqls中配置对应的sql键！键值：" + sqlKey);
+	} else {
+		String strSql = this.ecaSqlsConfig.getMap().get(sqlKey).toString();
+		Dao dao = this.getDao(datasourceguid, fromSlave);
+		String place;
+		if (vars != null) {
+			Pattern pattern = Pattern.compile("\\$(\\w+)");
+			Matcher matcher = pattern.matcher(strSql);
+
+			while(matcher.find()) {
+				String place = matcher.group(0);
+				place = matcher.group(1);
+				if (vars.keySet().contains(place)) {
+					strSql = strSql.replace(place, vars.get(place).toString());
+				}
+			}
+		}
+
+		char placeHolder = this.getPlaceHolder(datasourceguid);
+		if (params != null) {
+			Pattern pattern = Pattern.compile("[@?:](\\w+)");
+			Matcher matcher = pattern.matcher(strSql);
+
+			while(matcher.find()) {
+				place = matcher.group(0);
+				String key = matcher.group(1);
+				if (place.charAt(0) != placeHolder) {
+					strSql = strSql.replace(place, placeHolder + key);
+				}
+			}
+		}
+
+		Sql sqlObject = Sqls.create(strSql);
+		sqlObject.changePlaceholder(placeHolder, '$');
+		if (callback != null) {
+			sqlObject.setCallback(callback);
+		}
+
+		if (params != null) {
+			params.forEach((k, v) -> {
+				SqlType sqlType = sqlObject.getSqlType();
+				if (k.startsWith("OUT") && (sqlType == SqlType.CALL || sqlType == SqlType.EXEC)) {
+					if (k.equalsIgnoreCase("OUTC1")) {
+						sqlObject.params().set(k, 2012);
+					} else {
+						sqlObject.params().set(k, 12);
+					}
+				} else if (v instanceof byte[]) {
+					InputStream input = new ByteArrayInputStream((byte[])((byte[])v));
+					sqlObject.params().set(k, input);
+				} else {
+					sqlObject.params().set(k, v);
+				}
+
+			});
+		}
+
+		if (pager != null) {
+			sqlObject.setPager(pager);
+		}
+		//执行sql语句
+		dao.execute(sqlObject);
+		this.setOutParams(params, sqlObject);
+		return sqlObject;
+	}
 }
 ```
 
