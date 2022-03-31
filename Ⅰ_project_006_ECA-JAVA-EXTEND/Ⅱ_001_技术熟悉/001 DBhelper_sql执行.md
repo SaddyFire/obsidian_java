@@ -29,13 +29,19 @@ public interface DBhelper {
 	 * 执行sql不返回结果
 	 */
 	void QueryVoid(String var1, String var2, HashMap<String, Object> var3, HashMap<String, Object> var4) throws Exception;
-
+	/**
+	 * 多行数据查询, 将结果返回
+	 */
 	List<DataColumn> GetColumns(String var1, String var2, HashMap<String, Object> var3) throws Exception;
-
+	/**
+	 * 查询表列表(String datasourceguid)
+	 */
 	List<String> GetTables(String var1) throws Exception;
-
+	/**
+	 * 获取表参数相关(String datasourceguid, String procName)
+	 */
 	DataTable GetProcParams(String var1, String var2) throws Exception;
-
+	
 	boolean IsSelectCommandText(String var1);
 
 	boolean IsProcCommandText(String var1);
