@@ -40,11 +40,13 @@ public DataTable QueryDataTable(String datasourceguid, String sqlKey, HashMap<St
 //此处
 public Object QueryCallBack(String datasourceguid, String sqlKey, HashMap<String, Object> params, int startIndex, int pageSize, HashMap<String, Object> vars, SqlCallback callback, boolean fromSlave) throws Exception {
 	Pager pager = null;
+	//此处将
 	if (pageSize != 0) {
 		int pageIndex = startIndex / pageSize + 1;
+		//
 		pager = this.getDao(datasourceguid, fromSlave).createPager(pageIndex, pageSize);
 	}
-
+	//调用Execute(), 将datasourceguid, sqlKey, params, 
 	Sql sql = this.Execute(datasourceguid, sqlKey, params, callback, pager, vars);
 	return sql.getResult();
 }
