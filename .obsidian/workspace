@@ -74,22 +74,23 @@
             }
           },
           {
-            "id": "ab61ad65bd184215",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {}
-            }
-          },
-          {
             "id": "c86846ffb26b70b6",
             "type": "leaf",
             "state": {
               "type": "recent-files",
               "state": {}
             }
+          },
+          {
+            "id": "761748c17bde451f",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -161,6 +162,7 @@
   "active": "f8eedf21376db671",
   "lastOpenFiles": [
     "Ⅰ_integration_002_spring/Ⅱ_005_git/002 开发过程联系.md",
+    "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/01 ResponseResult_PageResult.md",
     "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md",
     "Ⅰ_integration_002_spring/Ⅱ_005_git/005 (temp) idea删除git项目.md",
     "Ⅰ_integration_002_spring/Ⅱ_005_git/004 gitignore文件.md",
@@ -168,7 +170,6 @@
     "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_001_技术熟悉/001 DBhelper.md",
     "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/08 url拦截器_ip白名单.md",
     "Ⅰ_integration_002_spring/Ⅱ_003_SSM/012 拓展_spring底层原理.md",
-    "Ⅰ_integration_002_spring/Ⅱ_003_SSM/013 幂等性.md",
-    "Ⅰ_integration_002_spring/Ⅱ_003_SSM/006 application.yml 属性读取(已过时).md"
+    "Ⅰ_integration_002_spring/Ⅱ_003_SSM/013 幂等性.md"
   ]
 }

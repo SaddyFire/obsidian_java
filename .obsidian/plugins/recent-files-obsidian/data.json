@@ -5,6 +5,10 @@
       "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/002 开发过程联系.md"
     },
     {
+      "basename": "01 ResponseResult_PageResult",
+      "path": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/01 ResponseResult_PageResult.md"
+    },
+    {
       "basename": "001 基础命令",
       "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "02 Constants",
       "path": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/02 Constants.md"
-    },
-    {
-      "basename": "01 ResponseResult_PageResult",
-      "path": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/01 ResponseResult_PageResult.md"
     },
     {
       "basename": "04 mybatisplus分页插件_自动填充",
