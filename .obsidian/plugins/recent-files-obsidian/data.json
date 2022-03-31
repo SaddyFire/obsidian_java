@@ -5,6 +5,10 @@
       "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/002 开发过程联系.md"
     },
     {
+      "basename": "001 基础命令",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md"
+    },
+    {
       "basename": "005 (temp) idea删除git项目",
       "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/005 (temp) idea删除git项目.md"
     },
@@ -63,10 +67,6 @@
     {
       "basename": "04 applicaion.yml",
       "path": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/04 applicaion.yml.md"
-    },
-    {
-      "basename": "001 基础命令",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md"
     },
     {
       "basename": "01 springboot+log4j.yml配置日志文件",
