@@ -10,7 +10,7 @@ public interface DBhelper {
 	DBType GetDbType(String var1) throws Exception;
 	/*
 	 * 查询单条数据
-	 * param(String datasourceguid, String sqlKey, HashMap<String, Object> params(占位符参数), HashMap<String, Object> vars(占位符相关参数), boolean fromSlave(未知))
+	 * param(String datasourceguid, String sqlKey, HashMap<String, Object> params(占位符参数), HashMap<String, Object> vars(修改占位符相关参数), boolean fromSlave(未知))
 	 * callback采用内置回调参数, pager为null, 
 	 * 并且将查询结果直接 提取 以map形式返回
 	 */
@@ -22,10 +22,12 @@ public interface DBhelper {
 	
 	DataTable QueryCursor(String var1, String var2, HashMap<String, Object> var3, HashMap<String, Object> var4) throws Exception;
 	/*
-	 * 返回影响函数, 增删改
+	 * 执行sql, 如果当前语句为 DELETE | UPDATE | INSERT，返回执行后所影响的记录数。否则返回 -1
 	 */
 	int QueryInt(String var1, String var2, HashMap<String, Object> var3, HashMap<String, Object> var4) throws Exception;
-
+	/*
+	 * 执行sql不返回结果
+	 */
 	void QueryVoid(String var1, String var2, HashMap<String, Object> var3, HashMap<String, Object> var4) throws Exception;
 
 	List<DataColumn> GetColumns(String var1, String var2, HashMap<String, Object> var3) throws Exception;
@@ -51,7 +53,7 @@ public interface DBhelper {
 QueryDataTable() -> QueryCallBack() -> Execute()
 ##### 01 QueryDataTable
 ```java
-//七个参数: datasourceguid(数据库guid), sqlKey(sqlKey), params(执行参数), startIndex(起始索引), pageSize(页大小), vars(占位符相关参数), fromSlave(未知)
+//七个参数: datasourceguid(数据库guid), sqlKey(sqlKey), params(执行参数), startIndex(起始索引), pageSize(页大小), vars(修改占位符相关参数), fromSlave(未知)
 public DataTable QueryDataTable(String datasourceguid, String sqlKey, HashMap<String, Object> params, int startIndex, int pageSize, HashMap<String, Object> vars, boolean fromSlave) throws Exception {
 	//此处调用 QueryCallBack 方法, 将参数全部放入 , 执行sql语句
 	//new SqlCallback() 说明: 此处自定义sql回调类, 将sql语句执行后的结果进行
@@ -109,7 +111,7 @@ public Object QueryCallBack(String datasourceguid, String sqlKey, HashMap<String
 
 
 ```java
-//datasourceguid, sqlKey, params, callback(回调函数), pager(封装有关page的对象), vars(占位符相关参数), fromSlave(未知)
+//datasourceguid, sqlKey, params, callback(回调函数), pager(封装有关page的对象), vars(修改占位符相关参数), fromSlave(未知)
 private Sql Execute(String datasourceguid, String sqlKey, HashMap<String, Object> params, SqlCallback callback, Pager pager, HashMap<String, Object> vars, boolean fromSlave) throws Exception {
 	if (!this.ecaSqlsConfig.getMap().containsKey(sqlKey)) {
 		throw new Exception("未在ecasqls中配置对应的sql键！键值：" + sqlKey);
@@ -118,14 +120,16 @@ private Sql Execute(String datasourceguid, String sqlKey, HashMap<String, Object
 		Dao dao = this.getDao(datasourceguid, fromSlave);
 		String place;
 		if (vars != null) {
-			//此处编译占位符
+			//编译
 			Pattern pattern = Pattern.compile("\\$(\\w+)");
+			//匹配sql语句
 			Matcher matcher = pattern.matcher(strSql);
 
 			while(matcher.find()) {
 				String place = matcher.group(0);
 				place = matcher.group(1);
 				if (vars.keySet().contains(place)) {
+					//替换占位符
 					strSql = strSql.replace(place, vars.get(place).toString());
 				}
 			}
