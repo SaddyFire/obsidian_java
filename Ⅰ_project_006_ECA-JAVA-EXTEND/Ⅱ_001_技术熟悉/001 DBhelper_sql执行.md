@@ -10,7 +10,7 @@ public interface DBhelper {
 	DBType GetDbType(String var1) throws Exception;
 	/*
 	 * 查询单条数据
-	 * param(String datasourceguid, String sqlKey, HashMap<String, Object> params(占位符参数), HashMap<String, Object> vars(未知), boolean fromSlave(未知))
+	 * param(String datasourceguid, String sqlKey, HashMap<String, Object> params(占位符参数), HashMap<String, Object> vars(占位符相关参数), boolean fromSlave(未知))
 	 * callback采用内置回调参数, pager为null, 
 	 * 并且将查询结果直接 提取 以map形式返回
 	 */
@@ -51,7 +51,7 @@ public interface DBhelper {
 QueryDataTable() -> QueryCallBack() -> Execute()
 ##### 01 QueryDataTable
 ```java
-//七个参数: datasourceguid(数据库guid), sqlKey(sqlKey), params(执行参数), startIndex(起始索引), pageSize(页大小), vars(未知), fromSlave(未知)
+//七个参数: datasourceguid(数据库guid), sqlKey(sqlKey), params(执行参数), startIndex(起始索引), pageSize(页大小), vars(占位符相关参数), fromSlave(未知)
 public DataTable QueryDataTable(String datasourceguid, String sqlKey, HashMap<String, Object> params, int startIndex, int pageSize, HashMap<String, Object> vars, boolean fromSlave) throws Exception {
 	//此处调用 QueryCallBack 方法, 将参数全部放入 , 执行sql语句
 	//new SqlCallback() 说明: 此处自定义sql回调类, 将sql语句执行后的结果进行
@@ -109,7 +109,7 @@ public Object QueryCallBack(String datasourceguid, String sqlKey, HashMap<String
 
 
 ```java
-//datasourceguid, sqlKey, params, callback(回调函数), pager(封装有关page的对象), vars(未知), fromSlave(未知)
+//datasourceguid, sqlKey, params, callback(回调函数), pager(封装有关page的对象), vars(占位符相关参数), fromSlave(未知)
 private Sql Execute(String datasourceguid, String sqlKey, HashMap<String, Object> params, SqlCallback callback, Pager pager, HashMap<String, Object> vars, boolean fromSlave) throws Exception {
 	if (!this.ecaSqlsConfig.getMap().containsKey(sqlKey)) {
 		throw new Exception("未在ecasqls中配置对应的sql键！键值：" + sqlKey);
@@ -118,6 +118,7 @@ private Sql Execute(String datasourceguid, String sqlKey, HashMap<String, Object
 		Dao dao = this.getDao(datasourceguid, fromSlave);
 		String place;
 		if (vars != null) {
+			//此处编译占位符
 			Pattern pattern = Pattern.compile("\\$(\\w+)");
 			Matcher matcher = pattern.matcher(strSql);
 
