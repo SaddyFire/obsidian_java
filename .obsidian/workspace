@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Ⅰ_integration_002_spring/Ⅱ_005_git/002 开发过程联系.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323
+    "width": 323,
+    "collapsed": true
   },
   "right": {
     "id": "eaafcc4feb3ef58e",
