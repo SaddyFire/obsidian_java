@@ -5,6 +5,10 @@
       "path": "Ⅰ_integration_004_linux/Ⅱ_002_saddyfire/saddyfire_linux文档.md"
     },
     {
+      "basename": "001 markdown常用语法 1",
+      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/001 markdown常用语法 1.md"
+    },
+    {
       "basename": "002 常用命令",
       "path": "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/002 常用命令.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "005 File& IO",
       "path": "Ⅰ_integration_001_javaBasic/005 File& IO.md"
-    },
-    {
-      "basename": "006 字符流",
-      "path": "Ⅰ_integration_001_javaBasic/006 字符流.md"
     }
   ],
   "omittedPaths": [],
