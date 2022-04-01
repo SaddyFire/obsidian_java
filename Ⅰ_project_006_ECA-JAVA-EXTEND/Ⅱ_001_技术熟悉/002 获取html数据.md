@@ -1,3 +1,15 @@
+1. 依赖
+```xml
+<!-- 解析XML的库 -->
+<dom4j.version>2.1.3</dom4j.version>
+<dependency>
+	<groupId>org.dom4j</groupId>
+	<artifactId>dom4j</artifactId>
+	<version>${dom4j.version}</version>
+</dependency>
+```
+
+
 ```java
 public static JSONObject ConvertXMLtoJSON(String xml) {
 
