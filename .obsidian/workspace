@@ -162,6 +162,7 @@
   "active": "f8eedf21376db671",
   "lastOpenFiles": [
     "Ⅰ_integration_004_linux/Ⅱ_002_saddyfire/saddyfire_linux文档.md",
+    "Ⅰ_integration_004_linux/Ⅱ_002_saddyfire/saddyfire_RocketMQ.md",
     "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/001 markdown常用语法 1.md",
     "Ⅰ_integration_004_linux/Ⅱ_002_docker(未加载)/Ⅱ_003_docker.md",
     "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/002 常用命令.md",
@@ -169,7 +170,6 @@
     "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_001_技术熟悉/004 AES加密工具.md",
     "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_002_环境配置/001 bootstrap.ym.md",
     "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_002_环境配置/002 redis配置.md",
-    "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_002_环境配置/003 nacos_redis注册至win_services.md",
-    "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_001_技术熟悉/003 post方法发送表单.md"
+    "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_002_环境配置/003 nacos_redis注册至win_services.md"
   ]
 }
