@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323,
-    "collapsed": true
+    "width": 323
   },
   "right": {
     "id": "eaafcc4feb3ef58e",
@@ -162,8 +161,8 @@
   "active": "f8eedf21376db671",
   "lastOpenFiles": [
     "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md",
-    "Ⅰ_integration_002_spring/Ⅱ_005_git/003 tortoise 推送.md",
     "Ⅰ_integration_002_spring/Ⅱ_005_git/002 开发过程.md",
+    "Ⅰ_integration_002_spring/Ⅱ_005_git/003 tortoise 推送.md",
     "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_001_技术熟悉/002 获取html数据.md",
     "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/01 ResponseResult_PageResult.md",
     "Ⅰ_integration_002_spring/Ⅱ_005_git/005 (temp) idea删除git项目.md",
