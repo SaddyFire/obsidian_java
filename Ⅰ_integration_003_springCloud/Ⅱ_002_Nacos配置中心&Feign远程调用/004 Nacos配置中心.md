@@ -55,15 +55,20 @@ pattern:
 @slf4j
 @RestController
 @RequestMapping("/test")
+@RefreshScope    //属性热刷新(方式一)
+@ConfigurationProperties(prefix = "pattern")  //属性热更新(方式二), 此处仅供举例
 public class TestController{
 	@Value("${pattern.dateformat}")
 	private String dateformat;
 
 	@GetMapping("now")
 	public String now(){
-		
+		return LocalDateTime.now().format(DateTimeFormatter.ofPattern(dateformat));
 	}
 }
 
 ```
+
+
+
 
