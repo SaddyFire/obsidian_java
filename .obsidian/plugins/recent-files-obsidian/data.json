@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "004 Nacos配置中心",
+      "path": "Ⅰ_integration_003_springCloud/Ⅱ_002_Nacos配置中心&Feign远程调用/004 Nacos配置中心.md"
+    },
+    {
+      "basename": "001 过滤工厂",
+      "path": "Ⅰ_integration_003_springCloud/Ⅱ_002_Nacos配置中心&Feign远程调用/001 过滤工厂.md"
+    },
+    {
       "basename": "001 bootstrap.ym",
       "path": "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_002_环境配置/001 bootstrap.ym.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "001 匿名内部类",
       "path": "Ⅰ_integration_001_javaBasic/001 匿名内部类.md"
-    },
-    {
-      "basename": "002 API&包装类&递归",
-      "path": "Ⅰ_integration_001_javaBasic/002 API&包装类&递归.md"
-    },
-    {
-      "basename": "003 时间类&异常",
-      "path": "Ⅰ_integration_001_javaBasic/003 时间类&异常.md"
     }
   ],
   "omittedPaths": [],

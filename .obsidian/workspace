@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_002_环境配置/001 bootstrap.ym.md",
+            "file": "Ⅰ_integration_003_springCloud/Ⅱ_002_Nacos配置中心&Feign远程调用/004 Nacos配置中心.md",
             "mode": "preview",
             "source": false
           }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_002_环境配置/001 bootstrap.ym.md",
+                "file": "Ⅰ_integration_003_springCloud/Ⅱ_002_Nacos配置中心&Feign远程调用/004 Nacos配置中心.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_002_环境配置/001 bootstrap.ym.md"
+                "file": "Ⅰ_integration_003_springCloud/Ⅱ_002_Nacos配置中心&Feign远程调用/004 Nacos配置中心.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_002_环境配置/001 bootstrap.ym.md",
+                "file": "Ⅰ_integration_003_springCloud/Ⅱ_002_Nacos配置中心&Feign远程调用/004 Nacos配置中心.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,6 +161,8 @@
   },
   "active": "f8eedf21376db671",
   "lastOpenFiles": [
+    "Ⅰ_integration_003_springCloud/Ⅱ_002_Nacos配置中心&Feign远程调用/004 Nacos配置中心.md",
+    "Ⅰ_integration_003_springCloud/Ⅱ_002_Nacos配置中心&Feign远程调用/001 过滤工厂.md",
     "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_002_环境配置/001 bootstrap.ym.md",
     "Ⅰ_integration_002_spring/Ⅱ_003_SSM/009 拦截器.md",
     "Ⅰ_project_001_delivery/Ⅱ_002_技术汇总/003 过滤器_用户鉴权.md",
@@ -168,8 +170,6 @@
     "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md",
     "Ⅰ_integration_002_spring/Ⅱ_005_git/002 开发过程.md",
     "Ⅰ_integration_004_linux/Ⅱ_002_saddyfire/saddyfire_linux文档.md",
-    "Ⅰ_integration_004_linux/Ⅱ_002_saddyfire/saddyfire_RocketMQ.md",
-    "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/001 markdown常用语法 1.md",
-    "Ⅰ_integration_004_linux/Ⅱ_002_docker(未加载)/Ⅱ_003_docker.md"
+    "Ⅰ_integration_004_linux/Ⅱ_002_saddyfire/saddyfire_RocketMQ.md"
   ]
 }
