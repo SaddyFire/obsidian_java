@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "003 nacos_redis注册至win_services",
+      "path": "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_002_环境配置/003 nacos_redis注册至win_services.md"
+    },
+    {
+      "basename": "002 redis配置",
+      "path": "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_002_环境配置/002 redis配置.md"
+    },
+    {
+      "basename": "001 bootstrap.ym",
+      "path": "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_002_环境配置/001 bootstrap.ym.md"
+    },
+    {
       "basename": "003 post方法发送表单",
       "path": "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_001_技术熟悉/003 post方法发送表单.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "009 GateWay网关",
       "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md"
-    },
-    {
-      "basename": "011 元注解的制作(限流令牌)",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/011 元注解的制作(限流令牌).md"
-    },
-    {
-      "basename": "00 introduce",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md"
-    },
-    {
-      "basename": "00 prepare",
-      "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 prepare.md"
     }
   ],
   "omittedPaths": [],
