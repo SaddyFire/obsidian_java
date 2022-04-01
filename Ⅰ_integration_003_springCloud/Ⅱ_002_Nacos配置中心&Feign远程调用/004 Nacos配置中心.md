@@ -70,5 +70,13 @@ public class TestController{
 ```
 
 
+#### 05 多环境的共享
+微服务启动时会从nacos读取多个配置文件
+- \[spring.application.name\]-\[spring.profiles.active\].yml    例如: userservice-dev.yml
+- \[spring.application.name\].yml    例如: userservice.yml
 
+这样, 无论profile如何变化, \[spring.application.name\].yml 这个文件一定会加载, 因此多环境共享配置可以写入这个文件
 
+#### 06 多种配置的优先级
+
+- 服务名-profile.yml > 服务名.yml > 本地配置
