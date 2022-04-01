@@ -5,6 +5,18 @@
       "path": "Ⅰ_integration_003_springCloud/Ⅱ_002_Nacos配置中心&Feign远程调用/004 Nacos配置中心.md"
     },
     {
+      "basename": "012 随机随机生成id或LocalDateTime的接收",
+      "path": "Ⅰ_project_001_delivery/Ⅱ_002_技术汇总/012 随机随机生成id或LocalDateTime的接收.md"
+    },
+    {
+      "basename": "005 Nacos与Eureka的区别",
+      "path": "Ⅰ_integration_003_springCloud/Ⅱ_001_Eureka&Ribbon/005 Nacos与Eureka的区别.md"
+    },
+    {
+      "basename": "004 Nacos注册中心",
+      "path": "Ⅰ_integration_003_springCloud/Ⅱ_001_Eureka&Ribbon/004 Nacos注册中心.md"
+    },
+    {
       "basename": "001 过滤工厂",
       "path": "Ⅰ_integration_003_springCloud/Ⅱ_002_Nacos配置中心&Feign远程调用/001 过滤工厂.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "01 maven详解",
       "path": "Ⅰ_integration_002_spring/Ⅱ_001_maven详解/01 maven详解.md"
-    },
-    {
-      "basename": "02 IDEA中Maven指令含义",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_001_maven详解/02 IDEA中Maven指令含义.md"
-    },
-    {
-      "basename": "003 JWT-鉴权",
-      "path": "Ⅰ_project_003_funnyread/Ⅱ_001_环境搭建/003 JWT-鉴权.md"
-    },
-    {
-      "basename": "001 匿名内部类",
-      "path": "Ⅰ_integration_001_javaBasic/001 匿名内部类.md"
     }
   ],
   "omittedPaths": [],
