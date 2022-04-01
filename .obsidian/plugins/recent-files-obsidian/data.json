@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "009 拦截器",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/009 拦截器.md"
+    },
+    {
       "basename": "003 过滤器_用户鉴权",
       "path": "Ⅰ_project_001_delivery/Ⅱ_002_技术汇总/003 过滤器_用户鉴权.md"
     },
@@ -111,10 +115,6 @@
     {
       "basename": "00C springboot自动装配流程图",
       "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/00C springboot自动装配流程图.md"
-    },
-    {
-      "basename": "009 拦截器",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/009 拦截器.md"
     },
     {
       "basename": "014 springboot请求参数详解",
