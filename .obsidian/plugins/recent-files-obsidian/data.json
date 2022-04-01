@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "saddyfire_linux文档",
+      "path": "Ⅰ_integration_004_linux/Ⅱ_002_saddyfire/saddyfire_linux文档.md"
+    },
+    {
+      "basename": "002 常用命令",
+      "path": "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/002 常用命令.md"
+    },
+    {
+      "basename": "001 Linux各目录介绍",
+      "path": "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/001 Linux各目录介绍.md"
+    },
+    {
       "basename": "004 AES加密工具",
       "path": "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_001_技术熟悉/004 AES加密工具.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "006 字符流",
       "path": "Ⅰ_integration_001_javaBasic/006 字符流.md"
-    },
-    {
-      "basename": "007 多线程",
-      "path": "Ⅰ_integration_001_javaBasic/007 多线程.md"
-    },
-    {
-      "basename": "001 OOS文件存储",
-      "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/001 OOS文件存储.md"
-    },
-    {
-      "basename": "004 ThreadLocal工具类",
-      "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/004 ThreadLocal工具类.md"
     }
   ],
   "omittedPaths": [],
