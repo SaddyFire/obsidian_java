@@ -21,10 +21,10 @@ spring:
     nacos:
       discovery:  # 服务发现
         server-addr: ${NACOS_HOST:eca-register}:${NACOS_PORT:8848}
-        namespace: ${NAMESPACE:extend}
+        namespace: ${NAMESPACE:extend}  # 命名空间要和nacos对应
       config:  # 服务注册
         server-addr: ${spring.cloud.nacos.discovery.server-addr}
-        file-extension: ${FILE_EXTENSION:yml}
+        file-extension: ${FILE_EXTENSION:yml}  
         group: ${GROUP:DEFAULT_GROUP}
         prefix: ${spring.application.name}
         namespace: ${NAMESPACE:extend}  # 后缀名
