@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "001 bootstrap.ym",
+      "path": "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_002_环境配置/001 bootstrap.ym.md"
+    },
+    {
       "basename": "009 拦截器",
       "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/009 拦截器.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "004 AES加密工具",
       "path": "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_001_技术熟悉/004 AES加密工具.md"
-    },
-    {
-      "basename": "001 bootstrap.ym",
-      "path": "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_002_环境配置/001 bootstrap.ym.md"
     },
     {
       "basename": "002 redis配置",
