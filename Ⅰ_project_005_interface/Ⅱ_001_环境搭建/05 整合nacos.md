@@ -82,9 +82,10 @@ jasypt:
 
 ##### 3.1 新增命名空间 -- 此处是interface
 
-##### 3.2 配置列表里新增 -- common-dev.yml
+##### 3.2 配置列表新增 -- common-dev.yml(通用配置)
 	![[Pasted image 20220402111457.png]]
 
+此处将数据库信息, mybatis-plus 配置在此
 ```yml
 spring:
   datasource:
@@ -118,5 +119,18 @@ mybatis-plus:
       table-prefix: app_   # mysql表名前缀
 ```
 
-##### 3.4 配置列表里新增 -- 此处是 interface-dev.yml
-
+##### 3.4 配置列表新增 -- interface-dev.yml(本服务配置)
+此处将oos模板类, 白名单数据信息放置此
+```yml
+interface:
+  oss:
+    accessKey: b9f0431fac535ec7117e5ff5113ad3df
+    secret: 1257303cee61bb377fc5f490d733f399
+    endpoint: oss-cn-hangzhou.aliyuncs.com
+    bucketName: invoke-test
+    url: https://saddyfire-test1.oss-cn-hangzhou.aliyuncs.com/
+  whitelist:
+    - 测试数据
+    - 127.0.0.1
+    - localhost
+```
