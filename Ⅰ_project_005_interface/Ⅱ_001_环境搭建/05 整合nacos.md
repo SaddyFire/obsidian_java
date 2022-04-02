@@ -36,9 +36,9 @@
 
 #### 02 bootstrap.yml配置, 配置nacos
 **注意点**
-- 注意命名空间(2处)要和配置中心统一
-- 其余需要改的地方: server.port(**项目端口**),  spring.profiles.active(环境), spring.application.name(项目名)
-- nacos的ip, 端口号 ->本地nacos的端口在配置文件中配置
+- **NAMESPACE**(2处)要和配置中心统一
+- 其余需要改的地方: server.port(**项目端口**),  spring.profiles.active(**环境**), spring.application.name(**项目名**)
+- nacos的**ip**, 端口号 ->本地nacos的端口在配置文件中配置
 - 其余不变暴露或不需要动态更新的数据也配置在此文件中
 ```yml
 server:
@@ -77,4 +77,46 @@ jasypt:
 #logging:
 #  config: classpath:log4j2.yml
 ```
+
+#### 03 nacos管理端设置
+
+##### 3.1 新增命名空间 -- 此处是interface
+
+##### 3.2 配置列表里新增 -- common-dev.yml
+	![[Pasted image 20220402111457.png]]
+
+```yml
+spring:
+  datasource:
+    #  达梦
+    name: dm8
+    url: jdbc:dm://localhost:5236/INTERFACE1
+    username: INTERFACE1
+    password: PW[xmtij2TpTa3FQpvvFR6xkJyyJgTfWzUd]
+    driver-class-name: dm.jdbc.driver.DmDriver
+
+    #  mysql
+  #   druid:
+  #     driver-class-name: com.mysql.cj.jdbc.Driver
+  #     url: jdbc:mysql://localhost:3306/interface0?serverTimezone=Asia/Shanghai&useUnicode=true&characterEncoding=utf-8&zeroDateTimeBehavior=convertToNull&useSSL=false&allowPublicKeyRetrieval=true
+  #     username: root
+  #     password: PW[w8IoQjdyZt5sfw/LHEresw==]
+  # servlet:
+  #   multipart:
+  #     max-file-size: 5MB
+  #     max-request-size: 5MB
+
+
+mybatis-plus:
+  configuration:
+    #在映射实体或者属性时，将数据库中表名和字段名中的下划线去掉，按照驼峰命名法映射
+    map-underscore-to-camel-case: true
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+  global-config:
+    db-config:
+      id-type: auto # 按mysql内置策略
+      table-prefix: app_   # mysql表名前缀
+```
+
+##### 3.4 配置列表里新增 -- 此处是 interface-dev.yml
 
