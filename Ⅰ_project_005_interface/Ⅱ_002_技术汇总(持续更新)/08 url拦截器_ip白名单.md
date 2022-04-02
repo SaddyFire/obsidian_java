@@ -54,6 +54,7 @@ import java.util.List;
  * @date 2022/3/28
  * @TIME:19:14
  */
+@Component
 public class AuthorizationInterceptor implements HandlerInterceptor {
 
     @Autowired
@@ -101,10 +102,13 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 @Configuration
 public class WebConfig implements WebMvcConfigurer {
 
-    @Bean
-    public HandlerInterceptor getDataInterceptor(){
-        return new AuthorizationInterceptor();
-    }
+//    @Bean  
+//    public HandlerInterceptor getAuthorizationInterceptor(){  
+//        return new AuthorizationInterceptor();  
+//    }  
+  
+	 @Autowired  
+	 private AuthorizationInterceptor authorizationInterceptor;
 
     @Override
     public void addInterceptors(InterceptorRegistry registry) {
@@ -115,6 +119,7 @@ public class WebConfig implements WebMvcConfigurer {
                         "/user/login",
                         "/user/loginVerification"
                 );
+		//此处可继续添加
     }
 }
 ```

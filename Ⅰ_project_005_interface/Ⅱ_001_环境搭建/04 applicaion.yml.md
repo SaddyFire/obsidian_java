@@ -6,14 +6,14 @@ spring:
     #应用的名称
     name: interface
   datasource:
-    # 达梦
-#    name: dm8
-#    url: jdbc:dm://localhost:5236/INTERFACE1
-#    username: INTERFACE1
-#    password: PW[xmtij2TpTa3FQpvvFR6xkJyyJgTfWzUd]
-#    driver-class-name: dm.jdbc.driver.DmDriver
+     达梦
+    name: dm8
+    url: jdbc:dm://localhost:5236/INTERFACE1
+    username: INTERFACE1
+    password: PW[xmtij2TpTa3FQpvvFR6xkJyyJgTfWzUd]
+    driver-class-name: dm.jdbc.driver.DmDriver
 
-    # mysql
+     mysql
     druid:
       driver-class-name: com.mysql.cj.jdbc.Driver
       url: jdbc:mysql://localhost:3306/interface0?serverTimezone=Asia/Shanghai&useUnicode=true&characterEncoding=utf-8&zeroDateTimeBehavior=convertToNull&useSSL=false&allowPublicKeyRetrieval=true
@@ -21,8 +21,9 @@ spring:
       password: PW[w8IoQjdyZt5sfw/LHEresw==]
   servlet:
     multipart:
-      max-file-size: 5MB
-      max-request-size: 5MB
+      enabled: true
+      max-file-size: -1
+      max-request-size: -1
 
 
 mybatis-plus:
@@ -32,7 +33,7 @@ mybatis-plus:
     log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
   global-config:
     db-config:
-#      id-type: auto
+      id-type: auto # 按mysql内置策略
       table-prefix: app_   # mysql表名前缀
 interface:
   oss:
@@ -52,5 +53,10 @@ jasypt:
     property:
       prefix: "PW["
       suffix: "]"
+
+# log4j2
+#logging:
+#  config: classpath:log4j2.yml
+
 
 ```

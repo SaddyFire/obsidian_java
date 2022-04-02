@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md",
+            "file": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/06 依赖配置.md",
             "mode": "preview",
             "source": false
           }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md",
+                "file": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/06 依赖配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md"
+                "file": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/06 依赖配置.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md",
+                "file": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/06 依赖配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,15 +160,15 @@
   },
   "active": "fbfd1743df19b158",
   "lastOpenFiles": [
-    "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md",
-    "Ⅰ_integration_002_spring/Ⅱ_005_git/002 开发过程.md",
-    "Ⅰ_integration_002_spring/Ⅱ_005_git/004 gitignore文件.md",
-    "Ⅰ_integration_002_spring/Ⅱ_005_git/003 tortoise 推送.md",
+    "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/06 依赖配置.md",
+    "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/05 达梦数据库_数据库密文处理.md",
+    "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/04 mybatisplus分页插件_自动填充.md",
+    "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/06 整合oss_封装OssTemplate.md",
+    "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/07 接口限流.md",
+    "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/08 url拦截器_ip白名单.md",
+    "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/03 全局异常.md",
     "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/05 整合nacos.md",
-    "Ⅰ_integration_003_springCloud/Ⅱ_002_Nacos配置中心&Feign远程调用/004 Nacos配置中心.md",
-    "Ⅰ_project_001_delivery/Ⅱ_002_技术汇总/012 随机随机生成id或LocalDateTime的接收.md",
-    "Ⅰ_integration_003_springCloud/Ⅱ_001_Eureka&Ribbon/005 Nacos与Eureka的区别.md",
-    "Ⅰ_integration_003_springCloud/Ⅱ_001_Eureka&Ribbon/004 Nacos注册中心.md",
-    "Ⅰ_integration_003_springCloud/Ⅱ_002_Nacos配置中心&Feign远程调用/001 过滤工厂.md"
+    "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/04 applicaion.yml.md",
+    "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/02 Constants.md"
   ]
 }
