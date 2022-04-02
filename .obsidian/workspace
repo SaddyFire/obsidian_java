@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_integration_003_springCloud/Ⅱ_002_Nacos配置中心&Feign远程调用/004 Nacos配置中心.md",
+            "file": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/05 整合nacos.md",
             "mode": "source",
             "source": false
           }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_integration_003_springCloud/Ⅱ_002_Nacos配置中心&Feign远程调用/004 Nacos配置中心.md",
+                "file": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/05 整合nacos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_integration_003_springCloud/Ⅱ_002_Nacos配置中心&Feign远程调用/004 Nacos配置中心.md"
+                "file": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/05 整合nacos.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_integration_003_springCloud/Ⅱ_002_Nacos配置中心&Feign远程调用/004 Nacos配置中心.md",
+                "file": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/05 整合nacos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,6 +161,7 @@
   },
   "active": "f8eedf21376db671",
   "lastOpenFiles": [
+    "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/05 整合nacos.md",
     "Ⅰ_integration_003_springCloud/Ⅱ_002_Nacos配置中心&Feign远程调用/004 Nacos配置中心.md",
     "Ⅰ_project_001_delivery/Ⅱ_002_技术汇总/012 随机随机生成id或LocalDateTime的接收.md",
     "Ⅰ_integration_003_springCloud/Ⅱ_001_Eureka&Ribbon/005 Nacos与Eureka的区别.md",
@@ -169,7 +170,6 @@
     "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_002_环境配置/001 bootstrap.ym.md",
     "Ⅰ_integration_002_spring/Ⅱ_003_SSM/009 拦截器.md",
     "Ⅰ_project_001_delivery/Ⅱ_002_技术汇总/003 过滤器_用户鉴权.md",
-    "Ⅰ_project_001_delivery/Ⅱ_002_技术汇总/001 md5加密.md",
-    "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md"
+    "Ⅰ_project_001_delivery/Ⅱ_002_技术汇总/001 md5加密.md"
   ]
 }

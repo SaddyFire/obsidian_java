@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "05 整合nacos",
+      "path": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/05 整合nacos.md"
+    },
+    {
       "basename": "004 Nacos配置中心",
       "path": "Ⅰ_integration_003_springCloud/Ⅱ_002_Nacos配置中心&Feign远程调用/004 Nacos配置中心.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "002 idea配置",
       "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/002 idea配置.md"
-    },
-    {
-      "basename": "01 maven详解",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_001_maven详解/01 maven详解.md"
     }
   ],
   "omittedPaths": [],
