@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "001 基础命令",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md"
+    },
+    {
+      "basename": "002 开发过程",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/002 开发过程.md"
+    },
+    {
+      "basename": "004 gitignore文件",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/004 gitignore文件.md"
+    },
+    {
+      "basename": "003 tortoise 推送",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/003 tortoise 推送.md"
+    },
+    {
       "basename": "05 整合nacos",
       "path": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/05 整合nacos.md"
     },
@@ -43,10 +59,6 @@
     {
       "basename": "00 introduce",
       "path": "Ⅰ_integration_SSS_interview/Ⅱ_003_prepare/00 introduce.md"
-    },
-    {
-      "basename": "002 开发过程",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/002 开发过程.md"
     },
     {
       "basename": "saddyfire_linux文档",
@@ -93,24 +105,12 @@
       "path": "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_001_技术熟悉/001 DBhelper.md"
     },
     {
-      "basename": "001 基础命令",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md"
-    },
-    {
-      "basename": "003 tortoise 推送",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/003 tortoise 推送.md"
-    },
-    {
       "basename": "01 ResponseResult_PageResult",
       "path": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/01 ResponseResult_PageResult.md"
     },
     {
       "basename": "005 (temp) idea删除git项目",
       "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/005 (temp) idea删除git项目.md"
-    },
-    {
-      "basename": "004 gitignore文件",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/004 gitignore文件.md"
     },
     {
       "basename": "08 url拦截器_ip白名单",
