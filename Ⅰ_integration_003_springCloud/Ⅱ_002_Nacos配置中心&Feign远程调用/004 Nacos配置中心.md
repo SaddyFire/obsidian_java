@@ -22,16 +22,16 @@ spring:
       discovery:  # 服务发现
         server-addr: ${NACOS_HOST:eca-register}:${NACOS_PORT:8848}
         namespace: ${NAMESPACE:extend}  # 命名空间要和nacos对应
-      config:  # 服务注册
+      config:  # 服务配置
         server-addr: ${spring.cloud.nacos.discovery.server-addr}
         file-extension: ${FILE_EXTENSION:yml}  
         group: ${GROUP:DEFAULT_GROUP}
         prefix: ${spring.application.name}
         namespace: ${NAMESPACE:extend}  # 后缀名
         shared-configs:
-          - data-id: common-${spring.profiles.active}.${spring.cloud.nacos.config.file-extension}
+          - data-id: common-${spring.profiles.active}.${spring.cloud.nacos.config.file-extension}  # 此处采用了共享配置中心的方式
             refresh: true
-          - data-id: ecasqls-${spring.profiles.active}.${spring.cloud.nacos.config.file-extension}
+          - data-id: ecasqls-${spring.profiles.active}.${spring.cloud.nacos.config.file-extension} # 此处采用了共享配置中心的方式
             refresh: true
 ```
 
