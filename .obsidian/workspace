@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -156,8 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.3333435058594,
-    "collapsed": true
+    "width": 302.3333435058594
   },
   "active": "fbfd1743df19b158",
   "lastOpenFiles": [
