@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/03 enums.md",
-            "mode": "preview",
+            "file": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/09 oauth2.0.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -89,11 +89,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 323
+    "width": 323,
+    "collapsed": true
   },
   "right": {
     "id": "eaafcc4feb3ef58e",
@@ -117,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/03 enums.md",
+                "file": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/09 oauth2.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/03 enums.md"
+                "file": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/09 oauth2.0.md"
               }
             }
           },
@@ -144,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/03 enums.md",
+                "file": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/09 oauth2.0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,10 +157,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.3333435058594
+    "width": 302.3333435058594,
+    "collapsed": true
   },
   "active": "fbfd1743df19b158",
   "lastOpenFiles": [
+    "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/09 oauth2.0.md",
     "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/03 enums.md",
     "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/03 全局异常.md",
     "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/01 ResponseResult_PageResult.md",
@@ -167,7 +171,6 @@
     "Ⅰ_integration_003_springCloud/Ⅱ_002_Nacos配置中心&Feign远程调用/001 过滤工厂.md",
     "Ⅰ_integration_SSS_another/Ⅱ_004_java-stream/004 查找缺考学生_match.md",
     "Ⅰ_integration_SSS_another/Ⅱ_004_java-stream/006 去重_过滤.md",
-    "Ⅰ_integration_001_javaBasic/004 stream流.md",
-    "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/06 依赖配置.md"
+    "Ⅰ_integration_001_javaBasic/004 stream流.md"
   ]
 }
