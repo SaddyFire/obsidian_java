@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "03 enums",
+      "path": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/03 enums.md"
+    },
+    {
+      "basename": "03 全局异常",
+      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/03 全局异常.md"
+    },
+    {
+      "basename": "01 ResponseResult_PageResult",
+      "path": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/01 ResponseResult_PageResult.md"
+    },
+    {
+      "basename": "02 Constants",
+      "path": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/02 Constants.md"
+    },
+    {
+      "basename": "003 过滤器_用户鉴权",
+      "path": "Ⅰ_project_001_delivery/Ⅱ_002_技术汇总/003 过滤器_用户鉴权.md"
+    },
+    {
+      "basename": "001 过滤工厂",
+      "path": "Ⅰ_integration_003_springCloud/Ⅱ_002_Nacos配置中心&Feign远程调用/001 过滤工厂.md"
+    },
+    {
+      "basename": "004 查找缺考学生_match",
+      "path": "Ⅰ_integration_SSS_another/Ⅱ_004_java-stream/004 查找缺考学生_match.md"
+    },
+    {
+      "basename": "006 去重_过滤",
+      "path": "Ⅰ_integration_SSS_another/Ⅱ_004_java-stream/006 去重_过滤.md"
+    },
+    {
+      "basename": "004 stream流",
+      "path": "Ⅰ_integration_001_javaBasic/004 stream流.md"
+    },
+    {
       "basename": "06 依赖配置",
       "path": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/06 依赖配置.md"
     },
@@ -25,24 +61,12 @@
       "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/08 url拦截器_ip白名单.md"
     },
     {
-      "basename": "03 全局异常",
-      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/03 全局异常.md"
-    },
-    {
       "basename": "05 整合nacos",
       "path": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/05 整合nacos.md"
     },
     {
       "basename": "04 applicaion.yml",
       "path": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/04 applicaion.yml.md"
-    },
-    {
-      "basename": "02 Constants",
-      "path": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/02 Constants.md"
-    },
-    {
-      "basename": "03 enums",
-      "path": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/03 enums.md"
     },
     {
       "basename": "001 基础命令",
@@ -77,20 +101,12 @@
       "path": "Ⅰ_integration_003_springCloud/Ⅱ_001_Eureka&Ribbon/004 Nacos注册中心.md"
     },
     {
-      "basename": "001 过滤工厂",
-      "path": "Ⅰ_integration_003_springCloud/Ⅱ_002_Nacos配置中心&Feign远程调用/001 过滤工厂.md"
-    },
-    {
       "basename": "001 bootstrap.ym",
       "path": "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_002_环境配置/001 bootstrap.ym.md"
     },
     {
       "basename": "009 拦截器",
       "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/009 拦截器.md"
-    },
-    {
-      "basename": "003 过滤器_用户鉴权",
-      "path": "Ⅰ_project_001_delivery/Ⅱ_002_技术汇总/003 过滤器_用户鉴权.md"
     },
     {
       "basename": "001 md5加密",
@@ -145,10 +161,6 @@
       "path": "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_001_技术熟悉/001 DBhelper.md"
     },
     {
-      "basename": "01 ResponseResult_PageResult",
-      "path": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/01 ResponseResult_PageResult.md"
-    },
-    {
       "basename": "005 (temp) idea删除git项目",
       "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/005 (temp) idea删除git项目.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "01 springboot+log4j.yml配置日志文件",
       "path": "Ⅰ_project_005_interface/Ⅱ_003_额外技术/01 springboot+log4j.yml配置日志文件.md"
-    },
-    {
-      "basename": "@SelectProvider",
-      "path": "Ⅰ_project_005_interface/Ⅱ_003_额外技术/@SelectProvider.md"
-    },
-    {
-      "basename": "01 RSA加密_aop元注解",
-      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/01 RSA加密_aop元注解.md"
-    },
-    {
-      "basename": "02 stragy策略模式",
-      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/02 stragy策略模式.md"
     }
   ],
   "omittedPaths": [],
