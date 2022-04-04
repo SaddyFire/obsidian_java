@@ -3,7 +3,7 @@
   "promptDelete": true,
   "defaultViewMode": "preview",
   "showLineNumber": true,
-  "vimMode": false,
+  "vimMode": true,
   "foldHeading": true,
   "foldIndent": true,
   "showFrontmatter": true,
