@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/09 oauth2.0.md",
+            "file": "Ⅰ_integration_004_linux/Ⅱ_002_saddyfire/vim.md",
             "mode": "source",
             "source": false
           }
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323,
-    "collapsed": true
+    "width": 323
   },
   "right": {
     "id": "eaafcc4feb3ef58e",
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/09 oauth2.0.md",
+                "file": "Ⅰ_integration_004_linux/Ⅱ_002_saddyfire/vim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/09 oauth2.0.md"
+                "file": "Ⅰ_integration_004_linux/Ⅱ_002_saddyfire/vim.md"
               }
             }
           },
@@ -146,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/09 oauth2.0.md",
+                "file": "Ⅰ_integration_004_linux/Ⅱ_002_saddyfire/vim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,6 +161,7 @@
   },
   "active": "fbfd1743df19b158",
   "lastOpenFiles": [
+    "Ⅰ_integration_004_linux/Ⅱ_002_saddyfire/vim.md",
     "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/09 oauth2.0.md",
     "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/03 enums.md",
     "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/03 全局异常.md",
@@ -170,7 +170,6 @@
     "Ⅰ_project_001_delivery/Ⅱ_002_技术汇总/003 过滤器_用户鉴权.md",
     "Ⅰ_integration_003_springCloud/Ⅱ_002_Nacos配置中心&Feign远程调用/001 过滤工厂.md",
     "Ⅰ_integration_SSS_another/Ⅱ_004_java-stream/004 查找缺考学生_match.md",
-    "Ⅰ_integration_SSS_another/Ⅱ_004_java-stream/006 去重_过滤.md",
-    "Ⅰ_integration_001_javaBasic/004 stream流.md"
+    "Ⅰ_integration_SSS_another/Ⅱ_004_java-stream/006 去重_过滤.md"
   ]
 }
