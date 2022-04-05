@@ -1,6 +1,66 @@
 {
   "recentFiles": [
     {
+      "basename": "015 AOP日志收集",
+      "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/015 AOP日志收集.md"
+    },
+    {
+      "basename": "014 vo对象的静态init制作案例",
+      "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/014 vo对象的静态init制作案例.md"
+    },
+    {
+      "basename": "013 简单工厂模式",
+      "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/013 简单工厂模式.md"
+    },
+    {
+      "basename": "012 日志_行为记录_动态监听",
+      "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/012 日志_行为记录_动态监听.md"
+    },
+    {
+      "basename": "011 验证码生成",
+      "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/011 验证码生成.md"
+    },
+    {
+      "basename": "010 Nacos配置中心",
+      "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/010 Nacos配置中心.md"
+    },
+    {
+      "basename": "009 GateWay网关",
+      "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md"
+    },
+    {
+      "basename": "005 统一异常处理",
+      "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/005 统一异常处理.md"
+    },
+    {
+      "basename": "005 访问测试",
+      "path": "Ⅰ_project_003_funnyread/Ⅱ_001_环境搭建/005 访问测试.md"
+    },
+    {
+      "basename": "004 字段自动填充",
+      "path": "Ⅰ_project_003_funnyread/Ⅱ_001_环境搭建/004 字段自动填充.md"
+    },
+    {
+      "basename": "003 JWT-鉴权",
+      "path": "Ⅰ_project_003_funnyread/Ⅱ_001_环境搭建/003 JWT-鉴权.md"
+    },
+    {
+      "basename": "001 阿里云短信发送",
+      "path": "Ⅰ_project_003_funnyread/Ⅱ_001_环境搭建/001 阿里云短信发送.md"
+    },
+    {
+      "basename": "001 springboot_bean的制作",
+      "path": "Ⅰ_project_003_funnyread/Ⅱ_001_环境搭建/001 springboot_bean的制作.md"
+    },
+    {
+      "basename": "08 url拦截器_ip白名单",
+      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/08 url拦截器_ip白名单.md"
+    },
+    {
+      "basename": "03 全局异常",
+      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/03 全局异常.md"
+    },
+    {
       "basename": "vim",
       "path": "Ⅰ_integration_004_linux/Ⅱ_002_saddyfire/vim.md"
     },
@@ -11,10 +71,6 @@
     {
       "basename": "03 enums",
       "path": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/03 enums.md"
-    },
-    {
-      "basename": "03 全局异常",
-      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/03 全局异常.md"
     },
     {
       "basename": "01 ResponseResult_PageResult",
@@ -63,10 +119,6 @@
     {
       "basename": "07 接口限流",
       "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/07 接口限流.md"
-    },
-    {
-      "basename": "08 url拦截器_ip白名单",
-      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/08 url拦截器_ip白名单.md"
     },
     {
       "basename": "05 整合nacos",
@@ -147,58 +199,6 @@
     {
       "basename": "004 AES加密工具",
       "path": "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_001_技术熟悉/004 AES加密工具.md"
-    },
-    {
-      "basename": "002 redis配置",
-      "path": "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_002_环境配置/002 redis配置.md"
-    },
-    {
-      "basename": "003 nacos_redis注册至win_services",
-      "path": "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_002_环境配置/003 nacos_redis注册至win_services.md"
-    },
-    {
-      "basename": "003 post方法发送表单",
-      "path": "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_001_技术熟悉/003 post方法发送表单.md"
-    },
-    {
-      "basename": "002 获取html数据",
-      "path": "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_001_技术熟悉/002 获取html数据.md"
-    },
-    {
-      "basename": "001 DBhelper",
-      "path": "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_001_技术熟悉/001 DBhelper.md"
-    },
-    {
-      "basename": "005 (temp) idea删除git项目",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/005 (temp) idea删除git项目.md"
-    },
-    {
-      "basename": "012 拓展_spring底层原理",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/012 拓展_spring底层原理.md"
-    },
-    {
-      "basename": "013 幂等性",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/013 幂等性.md"
-    },
-    {
-      "basename": "006 application.yml 属性读取(已过时)",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/006 application.yml 属性读取(已过时).md"
-    },
-    {
-      "basename": "001 MyBatis整合(已过时)",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/001 MyBatis整合(已过时).md"
-    },
-    {
-      "basename": "004 异常处理类",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/004 异常处理类.md"
-    },
-    {
-      "basename": "00C springboot自动装配流程图",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/00C springboot自动装配流程图.md"
-    },
-    {
-      "basename": "014 springboot请求参数详解",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/014 springboot请求参数详解.md"
     }
   ],
   "omittedPaths": [],
