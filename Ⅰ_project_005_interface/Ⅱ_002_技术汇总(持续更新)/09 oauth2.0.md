@@ -31,3 +31,43 @@ JWT本质是一个加密的字符串
 #### 联合登录和单点登录
 
 
+## 3. SpringSecurity搭建
+### 01 依赖
+```xml
+<!--springboot 和 security 的整合-->
+<!--此处省略父依赖-->
+<dependency>
+	<groupId>org.springframework.boot</groupId>
+	<artifactId>spring-boot-starter-security</artifactId>
+</dependency>
+```
+
+### 02 启动类注解
+```java
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity;
+
+/**
+ * @author SaddyFire
+ * @date 2022/4/4
+ * @TIME:23:25
+ */
+@SpringBootApplication
+@EnableWebSecurity  //开启security
+public class SpringBootSecurityApplication {
+    public static void main(String[] args) {
+        SpringApplication.run(SpringBootSecurityApplication.class, args);
+    }
+}
+```
+启动后, 密码在控制台
+localhost:xxxx/login 为默认登录地址
+localhost:xxxx/logout 为默认登出地址
+
+
+### 03 拓展点
+1. 主体数据来源
+2. 密码解析器
+3. 自定义授权及安全拦截策略
+4. 拦截策略

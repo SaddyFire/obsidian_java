@@ -106,11 +106,12 @@ public class WebConfig implements WebMvcConfigurer {
 //    public HandlerInterceptor getAuthorizationInterceptor(){  
 //        return new AuthorizationInterceptor();  
 //    }  
-  
+     //第二种写法
 	 @Autowired  
 	 private AuthorizationInterceptor authorizationInterceptor;
 
     @Override
+	//注意, 此处是第一种写法
     public void addInterceptors(InterceptorRegistry registry) {
         //添加拦截器
         registry.addInterceptor(getDataInterceptor())

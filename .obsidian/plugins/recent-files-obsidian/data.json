@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "09 oauth2.0",
+      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/09 oauth2.0.md"
+    },
+    {
+      "basename": "08 url拦截器_ip白名单",
+      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/08 url拦截器_ip白名单.md"
+    },
+    {
+      "basename": "vim",
+      "path": "Ⅰ_integration_004_linux/Ⅱ_002_saddyfire/vim.md"
+    },
+    {
+      "basename": "004 获取nginx代理后的真实ip",
+      "path": "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_002_环境配置/004 获取nginx代理后的真实ip.md"
+    },
+    {
       "basename": "015 AOP日志收集",
       "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/015 AOP日志收集.md"
     },
@@ -53,20 +69,8 @@
       "path": "Ⅰ_project_003_funnyread/Ⅱ_001_环境搭建/001 springboot_bean的制作.md"
     },
     {
-      "basename": "08 url拦截器_ip白名单",
-      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/08 url拦截器_ip白名单.md"
-    },
-    {
       "basename": "03 全局异常",
       "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/03 全局异常.md"
-    },
-    {
-      "basename": "vim",
-      "path": "Ⅰ_integration_004_linux/Ⅱ_002_saddyfire/vim.md"
-    },
-    {
-      "basename": "09 oauth2.0",
-      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/09 oauth2.0.md"
     },
     {
       "basename": "03 enums",
@@ -195,10 +199,6 @@
     {
       "basename": "001 Linux各目录介绍",
       "path": "Ⅰ_integration_004_linux/Ⅱ_001_基础知识/001 Linux各目录介绍.md"
-    },
-    {
-      "basename": "004 AES加密工具",
-      "path": "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_001_技术熟悉/004 AES加密工具.md"
     }
   ],
   "omittedPaths": [],
