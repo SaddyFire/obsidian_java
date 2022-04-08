@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_001_技术熟悉/001 DBhelper.md",
+            "file": "Ⅰ_integration_002_spring/Ⅱ_006_redis/001 大纲.md",
             "mode": "preview",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "redis",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +89,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_001_技术熟悉/001 DBhelper.md",
+                "file": "Ⅰ_integration_002_spring/Ⅱ_006_redis/001 大纲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_001_技术熟悉/001 DBhelper.md"
+                "file": "Ⅰ_integration_002_spring/Ⅱ_006_redis/001 大纲.md"
               }
             }
           },
@@ -145,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_001_技术熟悉/001 DBhelper.md",
+                "file": "Ⅰ_integration_002_spring/Ⅱ_006_redis/001 大纲.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,15 +159,15 @@
   },
   "active": "8a70de46baeb7056",
   "lastOpenFiles": [
+    "Ⅰ_integration_002_spring/Ⅱ_006_redis/001 大纲.md",
+    "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/007 redis整理.md",
+    "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/008 FastDFS.md",
     "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_001_技术熟悉/001 DBhelper.md",
     "Ⅰ_integration_SSS_another/Ⅱ_004_java-stream/001 StreamOperation_stream用法.md",
     "Ⅰ_integration_SSS_another/Ⅱ_004_java-stream/004 查找缺考学生_match.md",
     "Ⅰ_integration_SSS_another/Ⅱ_004_java-stream/003 购物车商品过滤.md",
     "Ⅰ_integration_SSS_another/Ⅱ_004_java-stream/002 StreamCreate.md",
     "Ⅰ_integration_SSS_another/Ⅱ_004_java-stream/005 多条件排序.md",
-    "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/09 oauth2.0.md",
-    "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/08 url拦截器_ip白名单.md",
-    "Ⅰ_integration_004_linux/Ⅱ_002_saddyfire/vim.md",
-    "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_002_环境配置/004 获取nginx代理后的真实ip.md"
+    "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/09 oauth2.0.md"
   ]
 }
