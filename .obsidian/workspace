@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_integration_002_spring/Ⅱ_006_redis/001 大纲.md",
+            "file": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/007 redis整理.md",
             "mode": "preview",
             "source": false
           }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_006_redis/001 大纲.md",
+                "file": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/007 redis整理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_006_redis/001 大纲.md"
+                "file": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/007 redis整理.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_006_redis/001 大纲.md",
+                "file": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/007 redis整理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,10 +159,10 @@
   },
   "active": "8a70de46baeb7056",
   "lastOpenFiles": [
+    "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/007 redis整理.md",
     "Ⅰ_integration_002_spring/Ⅱ_006_redis/001 大纲.md",
     "Ⅰ_integration_002_spring/Ⅱ_006_redis/002 SpringCache注解.md",
     "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_001_技术熟悉/005 maven打本地jar包.md",
-    "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/007 redis整理.md",
     "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/008 FastDFS.md",
     "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_001_技术熟悉/001 DBhelper.md",
     "Ⅰ_integration_SSS_another/Ⅱ_004_java-stream/001 StreamOperation_stream用法.md",
