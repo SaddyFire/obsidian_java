@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "005 maven打本地jar包",
+      "path": "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_001_技术熟悉/005 maven打本地jar包.md"
+    },
+    {
       "basename": "001 大纲",
       "path": "Ⅰ_integration_002_spring/Ⅱ_006_redis/001 大纲.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "004 Nacos注册中心",
       "path": "Ⅰ_integration_003_springCloud/Ⅱ_001_Eureka&Ribbon/004 Nacos注册中心.md"
-    },
-    {
-      "basename": "001 bootstrap.ym",
-      "path": "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_002_环境配置/001 bootstrap.ym.md"
     }
   ],
   "omittedPaths": [],
