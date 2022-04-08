@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "005 maven打本地jar包",
-      "path": "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_001_技术熟悉/005 maven打本地jar包.md"
+      "basename": "002 SpringCache注解",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_006_redis/002 SpringCache注解.md"
     },
     {
       "basename": "001 大纲",
       "path": "Ⅰ_integration_002_spring/Ⅱ_006_redis/001 大纲.md"
+    },
+    {
+      "basename": "005 maven打本地jar包",
+      "path": "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_001_技术熟悉/005 maven打本地jar包.md"
     },
     {
       "basename": "007 redis整理",
@@ -195,10 +199,6 @@
     {
       "basename": "005 Nacos与Eureka的区别",
       "path": "Ⅰ_integration_003_springCloud/Ⅱ_001_Eureka&Ribbon/005 Nacos与Eureka的区别.md"
-    },
-    {
-      "basename": "004 Nacos注册中心",
-      "path": "Ⅰ_integration_003_springCloud/Ⅱ_001_Eureka&Ribbon/004 Nacos注册中心.md"
     }
   ],
   "omittedPaths": [],
