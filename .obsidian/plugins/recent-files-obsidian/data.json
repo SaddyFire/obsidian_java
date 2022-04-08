@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "002 SpringCache注解",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_006_redis/002 SpringCache注解.md"
-    },
-    {
       "basename": "001 大纲",
       "path": "Ⅰ_integration_002_spring/Ⅱ_006_redis/001 大纲.md"
+    },
+    {
+      "basename": "002 SpringCache注解",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_006_redis/002 SpringCache注解.md"
     },
     {
       "basename": "005 maven打本地jar包",
