@@ -31,9 +31,10 @@
     }
 
     /**
-     * Post方法发送form表单
-     *
-     * @param params code=001&name=测试
+     ** @param uri  访问路径
+     * @param headers  请求头
+     * @param params  请求参数
+     * @return
      */
     public String postform(String uri, HashMap<String, String> headers, HashMap<String, String> params) {
         try {
