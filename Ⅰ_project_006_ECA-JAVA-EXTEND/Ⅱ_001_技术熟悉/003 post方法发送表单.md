@@ -2,15 +2,42 @@
 
 
 ```java
-	/**  
-	 ** @param url  访问路径
-	 * @param headers  请求头
-	 * @param params  请求参数
-	 * @return  
-	 */
-    public String postform(String url, HashMap<String, String> headers, HashMap<String, String> params) {
+/**
+     * Get方法
+     */
+    public String get(String uri, HashMap<String, String> headers) {
         try {
-            URL url = new URL(url);
+            URL url = new URL(uri);
+            HttpURLConnection connection = (HttpURLConnection) url.openConnection();
+            connection.setDoOutput(true);
+            connection.setRequestMethod("GET");
+            if (headers != null)
+                for (Map.Entry<String, String> item : headers.entrySet()) {
+                    connection.setRequestProperty(item.getKey(), item.getValue());
+                }
+            BufferedReader br = new BufferedReader(
+                    new InputStreamReader(connection.getInputStream(), StandardCharsets.UTF_8));
+            String line;
+            StringBuilder result = new StringBuilder();
+            while ((line = br.readLine()) != null) {
+                result.append(line).append("\n");
+            }
+            connection.disconnect();
+            return result.toString();
+        } catch (Exception e) {
+            e.printStackTrace();
+            return "";
+        }
+    }
+
+    /**
+     * Post方法发送form表单
+     *
+     * @param params code=001&name=测试
+     */
+    public String postform(String uri, HashMap<String, String> headers, HashMap<String, String> params) {
+        try {
+            URL url = new URL(uri);
             HttpURLConnection connection = (HttpURLConnection) url.openConnection();
             connection.setDoInput(true);
             connection.setDoOutput(true);
@@ -18,11 +45,11 @@
             connection.setRequestProperty("Content-Type", "application/x-www-form-urlencoded; charset=UTF-8");
             if (headers != null)
                 for (Map.Entry<String, String> item : headers.entrySet()) {
-                    connection.setRequestProperty("strToken", headers.get("strToken"));
+                    connection.setRequestProperty(item.getKey(), item.getValue());
                 }
             String param = "";
             if (params != null)
-                for (Map.Entry<String, String> item : params.entrySet()) {
+                for (Map.Entry<String, String> item : headers.entrySet()) {
                     param += "&" + item.getKey() + "=" + item.getValue();
                 }
             param = param.substring(1);
@@ -40,7 +67,40 @@
             connection.disconnect();
             return result.toString();
         } catch (Exception e) {
-            logger.error("请求失败!详细错误:" + e.getMessage());
+            e.printStackTrace();
+            return "";
+        }
+    }
+
+    /**
+     * Post方法发送json数据
+     */
+    public String postjson(String uri, HashMap<String, String> headers, JSONObject data) {
+        try {
+            URL url = new URL(uri);
+            HttpURLConnection connection = (HttpURLConnection) url.openConnection();
+            connection.setDoInput(true);
+            connection.setDoOutput(true);
+            connection.setRequestMethod("POST");
+            connection.setRequestProperty("Content-Type", "application/json;charset=UTF-8");
+            if (headers != null)
+                for (Map.Entry<String, String> item : headers.entrySet()) {
+                    connection.setRequestProperty(item.getKey(), item.getValue());
+                }
+            PrintWriter pw = new PrintWriter(new BufferedOutputStream(connection.getOutputStream()));
+            pw.write(JSON.toJSONString(data));
+            pw.flush();
+            pw.close();
+            BufferedReader br = new BufferedReader(
+                    new InputStreamReader(connection.getInputStream(), StandardCharsets.UTF_8));
+            String line;
+            StringBuilder result = new StringBuilder();
+            while ((line = br.readLine()) != null) {
+                result.append(line).append("\n");
+            }
+            connection.disconnect();
+            return result.toString();
+        } catch (Exception e) {
             e.printStackTrace();
             return "";
         }

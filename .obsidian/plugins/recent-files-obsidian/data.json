@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "003 post方法发送表单",
+      "path": "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_001_技术熟悉/003 post方法发送表单.md"
+    },
+    {
       "basename": "007 redis整理",
       "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/007 redis整理.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "012 随机随机生成id或LocalDateTime的接收",
       "path": "Ⅰ_project_001_delivery/Ⅱ_002_技术汇总/012 随机随机生成id或LocalDateTime的接收.md"
-    },
-    {
-      "basename": "005 Nacos与Eureka的区别",
-      "path": "Ⅰ_integration_003_springCloud/Ⅱ_001_Eureka&Ribbon/005 Nacos与Eureka的区别.md"
     }
   ],
   "omittedPaths": [],
