@@ -6276,7 +6276,7 @@ body .table-view-table > tbody > tr > td {
   font-weight: var(--h3-weight);
   font-style: var(--h3-style);
   /*缩进*/
-  text-indent: 4px;
+  text-indent: 3px;
   background-color: #202124;
   /*saddyfire 标题左边线*/
   border-left: 4px solid ;
@@ -6301,7 +6301,7 @@ body .table-view-table > tbody > tr > td {
   font-weight: var(--h4-weight);
   font-style: var(--h4-style);
   /*缩进*/
-  text-indent: 8px;
+  text-indent: 12px;
 }
 
 .popover .markdown-embed .markdown-preview-view h4,
@@ -6323,7 +6323,7 @@ body .table-view-table > tbody > tr > td {
   font-weight: var(--h5-weight);
   font-style: var(--h5-style);
    /*缩进*/
-  text-indent: 12px;
+  text-indent: 16px;
 }
 
 .popover .markdown-embed .markdown-preview-view h5,
@@ -6345,7 +6345,7 @@ body .table-view-table > tbody > tr > td {
   font-weight: var(--h6-weight);
   font-style: var(--h6-style);
   /*缩进*/
-  text-indent: 15px;
+  text-indent: 20px;
 }
 
 .popover .markdown-embed .markdown-preview-view h6,
