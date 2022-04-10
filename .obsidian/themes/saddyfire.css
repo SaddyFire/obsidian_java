@@ -11,6 +11,7 @@ saddyfire6 大纲字体设置
 saddyfire7 列表项勾选过后字体设置
 saddyfire8 (序号),(列表项+选择项)颜色修改
 saddyfire9 h1-h6标题设置
+saddyfire 标题上标线
 
 =============================saddyfire 设置目录==============================
 */
@@ -6249,8 +6250,9 @@ body .table-view-table > tbody > tr > td {
   margin-bottom: calc(var(--h2-margin-bottom) * var(--editor-line-height-rem));
   font-weight: var(--h2-weight);
   font-style: var(--h2-style);
-    /*标题上标线*/
+    /*saddyfire 标题上标线*/
   text-decoration: overline;
+
 }
 
 .popover .markdown-embed .markdown-preview-view h2,
@@ -6271,8 +6273,10 @@ body .table-view-table > tbody > tr > td {
   margin-bottom: calc(var(--h3-margin-bottom) * var(--editor-line-height-rem));
   font-weight: var(--h3-weight);
   font-style: var(--h3-style);
-  /*标题上标线*/
-  text-decoration: overline;
+  /*saddyfire 标题上标线*/
+  text-indent: 1px;
+  /*text-decoration: overline;*/
+  border-left: 4px solid ;
 }
 
 .popover .markdown-embed .markdown-preview-view h3,
