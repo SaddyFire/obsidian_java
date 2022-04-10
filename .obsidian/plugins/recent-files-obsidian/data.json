@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "007 redis整理",
+      "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/007 redis整理.md"
+    },
+    {
       "basename": "001 redis",
       "path": "Ⅰ_integration_002_spring/Ⅱ_006_redis_SpringCache/001 redis.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "003 post方法发送表单",
       "path": "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_001_技术熟悉/003 post方法发送表单.md"
-    },
-    {
-      "basename": "007 redis整理",
-      "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/007 redis整理.md"
     },
     {
       "basename": "005 maven打本地jar包",
