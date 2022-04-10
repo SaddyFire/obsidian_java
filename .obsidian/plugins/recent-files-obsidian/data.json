@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "10 interface整合oauth2.0",
+      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/10 interface整合oauth2.0.md"
+    },
+    {
+      "basename": "09 oauth2.0",
+      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/09 oauth2.0.md"
+    },
+    {
       "basename": "003 post方法发送表单",
       "path": "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_001_技术熟悉/003 post方法发送表单.md"
     },
@@ -47,10 +55,6 @@
     {
       "basename": "005 多条件排序",
       "path": "Ⅰ_integration_SSS_another/Ⅱ_004_java-stream/005 多条件排序.md"
-    },
-    {
-      "basename": "09 oauth2.0",
-      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/09 oauth2.0.md"
     },
     {
       "basename": "08 url拦截器_ip白名单",
@@ -195,10 +199,6 @@
     {
       "basename": "004 Nacos配置中心",
       "path": "Ⅰ_integration_003_springCloud/Ⅱ_002_Nacos配置中心&Feign远程调用/004 Nacos配置中心.md"
-    },
-    {
-      "basename": "012 随机随机生成id或LocalDateTime的接收",
-      "path": "Ⅰ_project_001_delivery/Ⅱ_002_技术汇总/012 随机随机生成id或LocalDateTime的接收.md"
     }
   ],
   "omittedPaths": [],

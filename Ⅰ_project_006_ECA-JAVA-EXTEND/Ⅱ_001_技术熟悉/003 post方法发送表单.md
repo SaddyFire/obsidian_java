@@ -1,34 +1,34 @@
-##### 01 工具包
+### 01 工具包
 
 
 ```java
 /**
-     * Get方法
-     */
-    public String get(String uri, HashMap<String, String> headers) {
-        try {
-            URL url = new URL(uri);
-            HttpURLConnection connection = (HttpURLConnection) url.openConnection();
-            connection.setDoOutput(true);
-            connection.setRequestMethod("GET");
-            if (headers != null)
-                for (Map.Entry<String, String> item : headers.entrySet()) {
-                    connection.setRequestProperty(item.getKey(), item.getValue());
-                }
-            BufferedReader br = new BufferedReader(
-                    new InputStreamReader(connection.getInputStream(), StandardCharsets.UTF_8));
-            String line;
-            StringBuilder result = new StringBuilder();
-            while ((line = br.readLine()) != null) {
-                result.append(line).append("\n");
-            }
-            connection.disconnect();
-            return result.toString();
-        } catch (Exception e) {
-            e.printStackTrace();
-            return "";
-        }
-    }
+ * Get方法
+ */
+public String get(String uri, HashMap<String, String> headers) {
+	try {
+		URL url = new URL(uri);
+		HttpURLConnection connection = (HttpURLConnection) url.openConnection();
+		connection.setDoOutput(true);
+		connection.setRequestMethod("GET");
+		if (headers != null)
+			for (Map.Entry<String, String> item : headers.entrySet()) {
+				connection.setRequestProperty(item.getKey(), item.getValue());
+			}
+		BufferedReader br = new BufferedReader(
+				new InputStreamReader(connection.getInputStream(), StandardCharsets.UTF_8));
+		String line;
+		StringBuilder result = new StringBuilder();
+		while ((line = br.readLine()) != null) {
+			result.append(line).append("\n");
+		}
+		connection.disconnect();
+		return result.toString();
+	} catch (Exception e) {
+		e.printStackTrace();
+		return "";
+	}
+}
 
     /**
      ** @param uri  访问路径
@@ -110,7 +110,7 @@
 
 
 
-##### 02 调用该接口访问学信网
+### 02 调用该接口访问学信网
 核心参数: 
 姓名, 身份证
 ```java
