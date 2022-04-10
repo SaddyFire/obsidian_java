@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "007 redis整理",
-      "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/007 redis整理.md"
+      "basename": "003 redis项目运用",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_006_redis_SpringCache/003 redis项目运用.md"
     },
     {
       "basename": "001 redis",
       "path": "Ⅰ_integration_002_spring/Ⅱ_006_redis_SpringCache/001 redis.md"
+    },
+    {
+      "basename": "007 redis整理",
+      "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/007 redis整理.md"
     },
     {
       "basename": "002 SpringCache注解",
@@ -195,10 +199,6 @@
     {
       "basename": "004 gitignore文件",
       "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/004 gitignore文件.md"
-    },
-    {
-      "basename": "003 tortoise 推送",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/003 tortoise 推送.md"
     }
   ],
   "omittedPaths": [],
