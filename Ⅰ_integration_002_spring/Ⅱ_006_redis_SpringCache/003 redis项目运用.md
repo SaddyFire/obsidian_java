@@ -69,6 +69,23 @@ public class RedisConfig {
 
 
 ### 03 自增demo
+注意此处不要泛型
 ```java
+@Autowired
+private RedisTemplate redisTemplate;
 
+@GetMapping("/redis")
+public ResponseResult redisTest(){
+	Object testObj = redisTemplate.opsForValue().get("test");
+	Integer testInt;
+	if (testObj == null) {
+		redisTemplate.opsForValue().set("test",1);
+	}else {
+		//若存在则强转
+		testInt = Integer.valueOf((String) testObj);
+		System.out.println(testInt);
+	}
+	redisTemplate.opsForValue().increment("test",1L);
+	return ResponseResult.okResult(AppHttpCodeEnum.SUCCESS);
+}
 ```

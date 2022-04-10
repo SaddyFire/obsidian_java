@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "02 springboot_springcloud_alibaba对应版本",
+      "path": "Ⅰ_project_005_interface/Ⅱ_003_额外技术/02 springboot_springcloud_alibaba对应版本.md"
+    },
+    {
       "basename": "003 redis项目运用",
       "path": "Ⅰ_integration_002_spring/Ⅱ_006_redis_SpringCache/003 redis项目运用.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "002 开发过程",
       "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/002 开发过程.md"
-    },
-    {
-      "basename": "004 gitignore文件",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/004 gitignore文件.md"
     }
   ],
   "omittedPaths": [],
