@@ -442,4 +442,277 @@ public class WhiteListConfig {
 
 ```
 
-### 05 
+### 05 properties动态配置类
+#### 5.1 UaaProperties_定义uaa动态配置类
+`package com.consmation.uaa.autoconfig.properties;`
+```java
+import lombok.Data;
+import org.springframework.boot.context.properties.ConfigurationProperties;
+
+import java.util.List;
+
+/**
+ * @author SaddyFire
+ * @date 2022/3/28
+ * @TIME:17:58
+ */
+@Data
+@ConfigurationProperties(prefix="uaa")
+public class UaaProperties {
+    //白名单列表
+    private List<String> whiteList;
+
+}
+
+```
+
+### 06 filter过滤器类
+#### 6.1 MyAuthValidationFilter_白名单过滤器
+`package com.consmation.uaa.filter;`
+```java
+import com.consmation.uaa.autoconfig.properties.UaaProperties;
+import com.consmation.uaa.utils.Constant;
+import com.consmation.uaa.utils.ParameterRequestWrapper;
+import org.apache.commons.lang3.StringUtils;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
+import javax.servlet.*;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+import java.io.*;
+import java.net.URL;
+import java.util.HashMap;
+import java.util.List;
+
+
+/**
+ * @author SaddyFire
+ * @date 2022/4/9
+ * @TIME:23:02
+ * AbstractAuthenticationProcessingFilter
+ * ClientCredentialsTokenEndpointFilter client_credentials模式下的过滤器  attemptAuthentication
+ * UsernamePasswordAuthenticationFilter password模式下的过滤器
+ * TokenEndpoint 请求token路径
+ */
+@Component
+public class MyAuthValidationFilter implements Filter {
+
+    @Autowired
+    private UaaProperties uaaProperties;
+
+
+    @Override
+    public void doFilter(ServletRequest request, ServletResponse response, FilterChain filterChain) throws IOException, ServletException {
+        HttpServletRequest httpServletRequest = (HttpServletRequest) request;
+        HttpServletResponse httpServletResponse = (HttpServletResponse) response;
+
+        StringBuffer requestURL = httpServletRequest.getRequestURL();
+
+        URL url = new URL(requestURL.toString());
+        String host = url.getHost();
+        List<String> whiteList = uaaProperties.getWhiteList();
+
+        if (!whiteList.contains(host)) {
+            filterChain.doFilter(request, response);
+            return;
+        }
+        //获取所有参数集合
+        HashMap<String,String[]> parameterMap = new HashMap<>();
+
+        String clientId = request.getParameter("client_id");
+        String clientSecret = request.getParameter("client_secret");
+        String grantType = request.getParameter("grant_type");
+
+        //若核心参数未缺失, 则放行
+        if (StringUtils.isBlank(clientId)) {
+            parameterMap.put("client_id", new String[]{Constant.CLIENT_ID});
+        }
+        if (StringUtils.isBlank(clientSecret)) {
+            parameterMap.put("client_secret", new String[]{Constant.CLIENT_SECRET});
+        }
+        if (!Constant.GRANT_TYPE_CREDENTIALS.equals(grantType)) {
+            parameterMap.put("grant_type", new String[]{Constant.GRANT_TYPE_CREDENTIALS});
+        }
+
+        ParameterRequestWrapper parameterRequestWrapper = new ParameterRequestWrapper(httpServletRequest, parameterMap);
+        parameterRequestWrapper.setMethod("POST");
+
+        filterChain.doFilter(parameterRequestWrapper,httpServletResponse);
+
+    }
+    
+}
+```
+
+### 07 utils工具包
+#### 7.1 Constant_常量
+`package com.consmation.uaa.utils;`
+```java
+/**
+ * @author SaddyFire
+ * @date 2022/4/10
+ * @TIME:0:43
+ */
+public class Constant {
+
+    public static final String CLIENT_ID = "c1";
+
+    public static final String CLIENT_SECRET = "secret";
+
+    public static final String GRANT_TYPE_CREDENTIALS = "client_credentials";
+
+}
+```
+
+#### 7.2 ParameterRequestWrapper_参数装饰者类
+`package com.consmation.uaa.utils;`
+```java
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletRequestWrapper;
+import java.util.*;
+
+/**
+ * 继承HttpServletRequestWrapper，
+ * 装饰类，修改HttpServletRequest参数
+ */
+public class ParameterRequestWrapper extends HttpServletRequestWrapper {
+
+
+    private final Map<String, String[]> modifiableParameters;
+    private Map<String, String[]> allParameters = null;
+    //请求方法
+    private String method;
+
+    /**
+     * Create a new request wrapper that will merge additional parameters into
+     * the request object without prematurely reading parameters from the
+     * original request.
+     *
+     * @param request
+     * @param additionalParams
+     */
+    public ParameterRequestWrapper (final HttpServletRequest request,
+                                final Map<String, String[]> additionalParams) {
+        super(request);
+        modifiableParameters = new TreeMap<>();
+        modifiableParameters.putAll(additionalParams);
+    }
+
+    @Override
+    public String getParameter(final String name) {
+        String[] strings = getParameterMap().get(name);
+        if (strings != null) {
+            return strings[0];
+        }
+        return super.getParameter(name);
+    }
+
+    @Override
+    public Map<String, String[]> getParameterMap() {
+        if (allParameters == null) {
+            allParameters = new TreeMap<>();
+            allParameters.putAll(super.getParameterMap());
+            allParameters.putAll(modifiableParameters);
+        }
+        //Return an unmodifiable collection because we need to uphold the interface contract.
+        return Collections.unmodifiableMap(allParameters);
+    }
+
+    @Override
+    public Enumeration<String> getParameterNames() {
+        return Collections.enumeration(getParameterMap().keySet());
+    }
+
+    @Override
+    public String[] getParameterValues(final String name) {
+        return getParameterMap().get(name);
+    }
+
+    public void setMethod(String method){
+        this.method = method;
+    }
+
+
+    @Override
+    public String getMethod() {
+        return this.method;
+    }
+}
+```
+
+## 2. interface模块
+```xml
+<!--核心依赖: -->
+<dependency>
+	<groupId>org.springframework.cloud</groupId>
+	<artifactId>spring-cloud-starter-security</artifactId>
+</dependency>
+
+
+<!--核心依赖: oauth2支持-->
+<dependency>
+	<groupId>org.springframework.cloud</groupId>
+	<artifactId>spring-cloud-starter-oauth2</artifactId>
+	<version>2.1.0.RELEASE</version>
+</dependency>
+
+<!--spring security-->
+<dependency>
+	<groupId>org.springframework.security.oauth.boot</groupId>
+	<artifactId>spring-security-oauth2-autoconfigure</artifactId>
+	<version>2.1.2.RELEASE</version>
+	<exclusions>
+		<exclusion>
+			<groupId>org.springframework.security</groupId>
+			<artifactId>spring-security-jwt</artifactId>
+		</exclusion>
+	</exclusions>
+</dependency>
+<!--核心依赖: jwt令牌-->
+<dependency>
+	<groupId>org.springframework.security</groupId>
+	<artifactId>spring-security-jwt</artifactId>
+</dependency>
+<dependency>
+	<groupId>javax.interceptor</groupId>
+	<artifactId>javax.interceptor-api</artifactId>
+	<version>1.2</version>
+</dependency>
+
+
+<build>
+        <plugins>
+            <!-- 资源文件拷贝插件 -->
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-resources-plugin</artifactId>
+                <configuration>
+                    <encoding>UTF-8</encoding>
+                </configuration>
+            </plugin>
+            <!-- java编译插件 -->
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <configuration>
+                    <source>1.8</source>
+                    <target>1.8</target>
+                    <encoding>UTF-8</encoding>
+                </configuration>
+            </plugin>
+            <plugin>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+            </plugin>
+            <!--跳过单测-->
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-surefire-plugin</artifactId>
+                <version>2.22.2</version>
+                <configuration>
+                    <skipTests>true</skipTests>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+```

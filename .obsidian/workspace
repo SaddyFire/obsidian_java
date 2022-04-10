@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "8a70de46baeb7056",
+        "id": "ef085d66a4efcc22",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -156,9 +156,9 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.3333435058594
+    "width": 427.3333435058594
   },
-  "active": "8a70de46baeb7056",
+  "active": "ef085d66a4efcc22",
   "lastOpenFiles": [
     "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/10 interface整合oauth2.0.md",
     "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/09 oauth2.0.md",
