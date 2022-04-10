@@ -641,6 +641,7 @@ public class ParameterRequestWrapper extends HttpServletRequestWrapper {
 ```
 
 ## 2. interface模块
+### 01 依赖
 ```xml
 <!--核心依赖: -->
 <dependency>
@@ -681,38 +682,188 @@ public class ParameterRequestWrapper extends HttpServletRequestWrapper {
 
 
 <build>
-        <plugins>
-            <!-- 资源文件拷贝插件 -->
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-resources-plugin</artifactId>
-                <configuration>
-                    <encoding>UTF-8</encoding>
-                </configuration>
-            </plugin>
-            <!-- java编译插件 -->
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-compiler-plugin</artifactId>
-                <configuration>
-                    <source>1.8</source>
-                    <target>1.8</target>
-                    <encoding>UTF-8</encoding>
-                </configuration>
-            </plugin>
-            <plugin>
-                <groupId>org.springframework.boot</groupId>
-                <artifactId>spring-boot-maven-plugin</artifactId>
-            </plugin>
-            <!--跳过单测-->
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-surefire-plugin</artifactId>
-                <version>2.22.2</version>
-                <configuration>
-                    <skipTests>true</skipTests>
-                </configuration>
-            </plugin>
-        </plugins>
-    </build>
+	<plugins>
+		<!-- 资源文件拷贝插件 -->
+		<plugin>
+			<groupId>org.apache.maven.plugins</groupId>
+			<artifactId>maven-resources-plugin</artifactId>
+			<configuration>
+				<encoding>UTF-8</encoding>
+			</configuration>
+		</plugin>
+		<!-- java编译插件 -->
+		<plugin>
+			<groupId>org.apache.maven.plugins</groupId>
+			<artifactId>maven-compiler-plugin</artifactId>
+			<configuration>
+				<source>1.8</source>
+				<target>1.8</target>
+				<encoding>UTF-8</encoding>
+			</configuration>
+		</plugin>
+		<plugin>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-maven-plugin</artifactId>
+		</plugin>
+		<!--跳过单测-->
+		<plugin>
+			<groupId>org.apache.maven.plugins</groupId>
+			<artifactId>maven-surefire-plugin</artifactId>
+			<version>2.22.2</version>
+			<configuration>
+				<skipTests>true</skipTests>
+			</configuration>
+		</plugin>
+	</plugins>
+</build>
+```
+### 02 启动类
+开启 @EnableResourceServer
+`package com.consmation.demo;`
+```java
+import lombok.extern.slf4j.Slf4j;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.security.oauth2.config.annotation.web.configuration.EnableResourceServer;
+
+/**
+ * @author SaddyFire
+ * @date 2022/3/24
+ * @TIME:17:47
+ */
+@SpringBootApplication
+@Slf4j
+@EnableResourceServer   //开启 @EnableResourceServer
+public class InterfaceApplication {
+    public static void main(String[] args) {
+        SpringApplication.run(InterfaceApplication.class,args);
+        log.info("启动成功");
+    }
+}
+```
+
+### 03 config配置类
+#### 3.1 MyResourceServerConfig_资源配置类
+`package com.consmation.demo.config;`
+```java
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.annotation.Configuration;
+import org.springframework.security.config.annotation.web.builders.HttpSecurity;
+import org.springframework.security.config.http.SessionCreationPolicy;
+import org.springframework.security.oauth2.config.annotation.web.configuration.ResourceServerConfigurerAdapter;
+import org.springframework.security.oauth2.config.annotation.web.configurers.ResourceServerSecurityConfigurer;
+import org.springframework.security.oauth2.provider.token.RemoteTokenServices;
+import org.springframework.security.oauth2.provider.token.ResourceServerTokenServices;
+import org.springframework.security.oauth2.provider.token.TokenStore;
+
+/**
+ * @author SaddyFire
+ * @date 2022/4/7
+ * @TIME:17:55
+ */
+@Configuration
+public class MyResourceServerConfig extends ResourceServerConfigurerAdapter {
+
+    //使用JWT令牌，需要引入与uaa一致的tokenStore，存储策略。
+    @Autowired
+    private TokenStore tokenStore;
+
+    //与 uaa模块 客户端详细信息 相对应
+    public static final String RESOURCE_INTERFACE = "interface";
+
+    @Override
+    public void configure(ResourceServerSecurityConfigurer resources) throws Exception {
+        resources.resourceId(RESOURCE_INTERFACE) //资源ID
+                .tokenServices(tokenServices()) //使用远程服务验证令牌的服务
+                //使用JWT令牌
+                .tokenStore(tokenStore)
+                .stateless(true); //无状态模式
+    }
+    //配置安全策略
+    @Override
+    public void configure(HttpSecurity http) throws Exception {
+        http.authorizeRequests() //校验请求
+                .antMatchers("/**") // 路径匹配规则。
+                .access("#oauth2.hasScope('all')") // 需要匹配scope
+                .and().csrf().disable()
+                .sessionManagement().sessionCreationPolicy(SessionCreationPolicy.STATELESS);
+    }
+    //配置access_token远程验证策略。
+    public ResourceServerTokenServices tokenServices(){
+        // DefaultTokenServices services = new DefaultTokenServices();
+        RemoteTokenServices services = new RemoteTokenServices();
+        services.setCheckTokenEndpointUrl("http://localhost:8899/oauth/check_token");
+        services.setClientId("c1"); //客户端id
+//        services.setClientSecret("secret"); //客户端密钥
+        return services;
+    }
+
+
+}
+```
+#### 3.2 MyWebSecurityConfig_安全策略配置
+`package com.consmation.demo.config;`
+```java
+import org.springframework.context.annotation.Configuration;
+import org.springframework.security.config.annotation.method.configuration.EnableGlobalMethodSecurity;
+import org.springframework.security.config.annotation.web.builders.HttpSecurity;
+import org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter;
+
+
+/**
+ * @author SaddyFire
+ * @date 2022/4/7
+ * @TIME:18:01
+ * 安全策略配置
+ */
+@Configuration
+@EnableGlobalMethodSecurity(securedEnabled = true,prePostEnabled = true)
+public class MyWebSecurityConfig extends WebSecurityConfigurerAdapter {
+
+
+    @Override
+    protected void configure(HttpSecurity http) throws Exception {
+        http.csrf().disable()
+                .authorizeRequests()
+                .antMatchers("/demo/**") // 匹配/demo下资源
+                .hasIpAddress("192.168.141.1436")
+                .antMatchers("/demo/**")
+                .hasAuthority("interface") //必须要有interface资源
+                .anyRequest().denyAll();
+//                .anyRequest().permitAll();  //anyRequest之后不能再进行配置了
+    }
+}
+```
+
+#### 04 TokenConfig_令牌配置
+`package com.consmation.demo.config;`
+```java
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+import org.springframework.security.oauth2.provider.token.TokenStore;
+import org.springframework.security.oauth2.provider.token.store.JwtAccessTokenConverter;
+import org.springframework.security.oauth2.provider.token.store.JwtTokenStore;
+
+/**
+ * @author SaddyFire
+ * @date 2022/4/7
+ * @TIME:18:03
+ */
+@Configuration
+public class TokenConfig {
+
+    private static final String SIGN_KEY="uaa";
+    // 使用JWT令牌。
+    @Bean
+    public TokenStore tokenStore(){
+        return new JwtTokenStore(accessTokenConvert());
+    }
+    @Bean
+    public JwtAccessTokenConverter accessTokenConvert(){
+        JwtAccessTokenConverter converter = new JwtAccessTokenConverter();
+        converter.setSigningKey(SIGN_KEY);
+        return converter;
+    }
+
+}
 ```
