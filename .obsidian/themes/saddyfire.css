@@ -12,6 +12,8 @@ saddyfire7 列表项勾选过后字体设置
 saddyfire8 (序号),(列表项+选择项)颜色修改
 saddyfire9 h1-h6标题设置
 saddyfire 标题上标线
+缩进
+标题左边线
 
 =============================saddyfire 设置目录==============================
 */
@@ -6273,9 +6275,10 @@ body .table-view-table > tbody > tr > td {
   margin-bottom: calc(var(--h3-margin-bottom) * var(--editor-line-height-rem));
   font-weight: var(--h3-weight);
   font-style: var(--h3-style);
-  /*saddyfire 标题上标线*/
-  text-indent: 1px;
-  /*text-decoration: overline;*/
+  /*缩进*/
+  text-indent: 4px;
+  background-color: #202124;
+  /*saddyfire 标题左边线*/
   border-left: 4px solid ;
 }
 
@@ -6297,6 +6300,8 @@ body .table-view-table > tbody > tr > td {
   margin-bottom: calc(var(--h4-margin-bottom) * var(--editor-line-height-rem));
   font-weight: var(--h4-weight);
   font-style: var(--h4-style);
+  /*缩进*/
+  text-indent: 8px;
 }
 
 .popover .markdown-embed .markdown-preview-view h4,
@@ -6317,6 +6322,8 @@ body .table-view-table > tbody > tr > td {
   margin-bottom: calc(var(--h5-margin-bottom) * var(--editor-line-height-rem));
   font-weight: var(--h5-weight);
   font-style: var(--h5-style);
+   /*缩进*/
+  text-indent: 12px;
 }
 
 .popover .markdown-embed .markdown-preview-view h5,
@@ -6337,6 +6344,8 @@ body .table-view-table > tbody > tr > td {
   margin-bottom: calc(var(--h6-margin-bottom) * var(--editor-line-height-rem));
   font-weight: var(--h6-weight);
   font-style: var(--h6-style);
+  /*缩进*/
+  text-indent: 15px;
 }
 
 .popover .markdown-embed .markdown-preview-view h6,
