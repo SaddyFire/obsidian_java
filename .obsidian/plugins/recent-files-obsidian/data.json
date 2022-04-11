@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "05 达梦数据库_数据库密文处理",
+      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/05 达梦数据库_数据库密文处理.md"
+    },
+    {
       "basename": "002 obsidian常用插件",
       "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/002 obsidian常用插件.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "01 ResponseResult_PageResult",
       "path": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/01 ResponseResult_PageResult.md"
-    },
-    {
-      "basename": "02 Constants",
-      "path": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/02 Constants.md"
     }
   ],
   "omittedPaths": [],
