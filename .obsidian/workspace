@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_project_005_interface/Ⅱ_003_额外技术/02 springboot_springcloud_alibaba对应版本.md",
+            "file": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/11 整合redis.md",
             "mode": "preview",
             "source": false
           }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_project_005_interface/Ⅱ_003_额外技术/02 springboot_springcloud_alibaba对应版本.md",
+                "file": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/11 整合redis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_project_005_interface/Ⅱ_003_额外技术/02 springboot_springcloud_alibaba对应版本.md"
+                "file": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/11 整合redis.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_project_005_interface/Ⅱ_003_额外技术/02 springboot_springcloud_alibaba对应版本.md",
+                "file": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/11 整合redis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,15 +160,15 @@
   },
   "active": "ef085d66a4efcc22",
   "lastOpenFiles": [
-    "Ⅰ_project_005_interface/Ⅱ_003_额外技术/02 springboot_springcloud_alibaba对应版本.md",
+    "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/11 整合redis.md",
     "Ⅰ_integration_002_spring/Ⅱ_006_redis_SpringCache/003 redis项目运用.md",
+    "Ⅰ_project_005_interface/Ⅱ_003_额外技术/02 springboot_springcloud_alibaba对应版本.md",
     "Ⅰ_integration_002_spring/Ⅱ_006_redis_SpringCache/001 redis.md",
     "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/007 redis整理.md",
     "Ⅰ_integration_002_spring/Ⅱ_006_redis_SpringCache/002 SpringCache注解.md",
     "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/001 markdown常用语法 1.md",
     "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/10 interface整合oauth2.0.md",
     "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/09 oauth2.0.md",
-    "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_001_技术熟悉/003 post方法发送表单.md",
-    "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_001_技术熟悉/005 maven打本地jar包.md"
+    "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_001_技术熟悉/003 post方法发送表单.md"
   ]
 }

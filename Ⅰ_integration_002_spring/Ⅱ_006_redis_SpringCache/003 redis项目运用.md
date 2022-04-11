@@ -71,21 +71,23 @@ public class RedisConfig {
 ### 03 自增demo
 注意此处不要泛型
 ```java
-@Autowired
-private RedisTemplate redisTemplate;
+    @Autowired
+    private RedisTemplate redisTemplate;
 
-@GetMapping("/redis")
-public ResponseResult redisTest(){
-	Object testObj = redisTemplate.opsForValue().get("test");
-	Integer testInt;
-	if (testObj == null) {
-		redisTemplate.opsForValue().set("test",1);
-	}else {
-		//若存在则强转
-		testInt = Integer.valueOf((String) testObj);
-		System.out.println(testInt);
-	}
-	redisTemplate.opsForValue().increment("test",1L);
-	return ResponseResult.okResult(AppHttpCodeEnum.SUCCESS);
-}
+    @GetMapping("/redis")
+    public ResponseResult redisTest(String key) {
+        Object testObj = redisTemplate.opsForValue().get(key);
+        Integer testInt;
+        if (ObjectUtils.isEmpty(testObj)) {
+            redisTemplate.opsForValue().set(key, 1);
+        } else {
+            //若存在则强转
+            testInt = Integer.valueOf((String) testObj);
+            System.out.println(testInt);
+            redisTemplate.opsForValue().increment(key, 1L);
+        }
+        Object test = redisTemplate.opsForValue().get(key);
+        System.out.println((String) test);
+        return ResponseResult.okResult("递增之后的数据为: " + test);
+    }
 ```

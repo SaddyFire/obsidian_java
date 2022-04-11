@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "02 springboot_springcloud_alibaba对应版本",
-      "path": "Ⅰ_project_005_interface/Ⅱ_003_额外技术/02 springboot_springcloud_alibaba对应版本.md"
+      "basename": "11 整合redis",
+      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/11 整合redis.md"
     },
     {
       "basename": "003 redis项目运用",
       "path": "Ⅰ_integration_002_spring/Ⅱ_006_redis_SpringCache/003 redis项目运用.md"
+    },
+    {
+      "basename": "02 springboot_springcloud_alibaba对应版本",
+      "path": "Ⅰ_project_005_interface/Ⅱ_003_额外技术/02 springboot_springcloud_alibaba对应版本.md"
     },
     {
       "basename": "001 redis",
@@ -195,10 +199,6 @@
     {
       "basename": "001 基础命令",
       "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md"
-    },
-    {
-      "basename": "002 开发过程",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/002 开发过程.md"
     }
   ],
   "omittedPaths": [],
