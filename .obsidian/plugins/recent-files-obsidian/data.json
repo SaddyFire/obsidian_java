@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "006 乐观锁(拦截器)",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/006 乐观锁(拦截器).md"
+    },
+    {
+      "basename": "005 id生成策略 - 逻辑删除",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/005 id生成策略 - 逻辑删除.md"
+    },
+    {
+      "basename": "004 字段和表明映射(记忆)",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/004 字段和表明映射(记忆).md"
+    },
+    {
+      "basename": "003 查询功能(`)",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/003 查询功能(`).md"
+    },
+    {
+      "basename": "002 分页模糊查询(拦截器)",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/002 分页模糊查询(拦截器).md"
+    },
+    {
+      "basename": "001 起步配置",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/001 起步配置.md"
+    },
+    {
       "basename": "006 saddyfire_explain",
       "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/006 saddyfire_explain.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "001 过滤工厂",
       "path": "Ⅰ_integration_003_springCloud/Ⅱ_002_Nacos配置中心&Feign远程调用/001 过滤工厂.md"
-    },
-    {
-      "basename": "006 去重_过滤",
-      "path": "Ⅰ_integration_SSS_another/Ⅱ_004_java-stream/006 去重_过滤.md"
-    },
-    {
-      "basename": "004 stream流",
-      "path": "Ⅰ_integration_001_javaBasic/004 stream流.md"
-    },
-    {
-      "basename": "06 依赖配置",
-      "path": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/06 依赖配置.md"
-    },
-    {
-      "basename": "05 达梦数据库_数据库密文处理",
-      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/05 达梦数据库_数据库密文处理.md"
-    },
-    {
-      "basename": "04 mybatisplus分页插件_自动填充",
-      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/04 mybatisplus分页插件_自动填充.md"
-    },
-    {
-      "basename": "06 整合oss_封装OssTemplate",
-      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/06 整合oss_封装OssTemplate.md"
     }
   ],
   "omittedPaths": [],

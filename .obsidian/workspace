@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/006 saddyfire_explain.md",
+            "file": "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/006 乐观锁(拦截器).md",
             "mode": "preview",
             "source": false
           }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/006 saddyfire_explain.md",
+                "file": "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/006 乐观锁(拦截器).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/006 saddyfire_explain.md"
+                "file": "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/006 乐观锁(拦截器).md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/006 saddyfire_explain.md",
+                "file": "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/006 乐观锁(拦截器).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,15 +161,15 @@
   },
   "active": "ef085d66a4efcc22",
   "lastOpenFiles": [
+    "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/006 乐观锁(拦截器).md",
+    "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/005 id生成策略 - 逻辑删除.md",
+    "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/004 字段和表明映射(记忆).md",
+    "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/003 查询功能(`).md",
+    "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/002 分页模糊查询(拦截器).md",
+    "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/001 起步配置.md",
     "Ⅰ_integration_002_spring/Ⅱ_002_mysql/006 saddyfire_explain.md",
     "Ⅰ_integration_002_spring/Ⅱ_002_mysql/005 saddyfire_show_index.md",
     "Ⅰ_project_005_interface/Ⅱ_003_额外技术/@SelectProvider.md",
-    "Ⅰ_integration_002_spring/Ⅱ_006_redis_SpringCache/003 redis项目运用.md",
-    "Ⅰ_integration_002_spring/Ⅱ_006_redis_SpringCache/004 redis原生命令.md",
-    "Ⅰ_integration_002_spring/Ⅱ_006_redis_SpringCache/001 redis.md",
-    "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_001_技术熟悉/001 DBhelper.md",
-    "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/11 整合redis.md",
-    "Ⅰ_project_005_interface/Ⅱ_003_额外技术/02 springboot_springcloud_alibaba对应版本.md",
-    "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/007 redis整理.md"
+    "Ⅰ_integration_002_spring/Ⅱ_006_redis_SpringCache/003 redis项目运用.md"
   ]
 }
