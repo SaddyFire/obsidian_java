@@ -2,14 +2,14 @@
 # 设置key value
 set aa 
 
-# 可以直接设置不存在的key
+# 设置自增的键/进行自增  -->  INCR key
 incr dd
-# 设置过期时间
+# 设置过期时间  -->  EXPIRE key seconds
 expire dd 600
-# 查看过期时间
+# 查看过期时间  -->  TTL key
 ttl dd
-# 自增
-incrby dd increment
+# 自增  -->  INCRBY key increment
+incrby dd 5
 
 
 ```
