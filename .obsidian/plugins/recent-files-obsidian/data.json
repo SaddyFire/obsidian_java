@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "001 DBhelper",
-      "path": "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_001_技术熟悉/001 DBhelper.md"
+      "basename": "004 redis原生命令",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_006_redis_SpringCache/004 redis原生命令.md"
     },
     {
       "basename": "003 redis项目运用",
       "path": "Ⅰ_integration_002_spring/Ⅱ_006_redis_SpringCache/003 redis项目运用.md"
+    },
+    {
+      "basename": "001 redis",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_006_redis_SpringCache/001 redis.md"
+    },
+    {
+      "basename": "001 DBhelper",
+      "path": "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_001_技术熟悉/001 DBhelper.md"
     },
     {
       "basename": "11 整合redis",
@@ -15,10 +23,6 @@
     {
       "basename": "02 springboot_springcloud_alibaba对应版本",
       "path": "Ⅰ_project_005_interface/Ⅱ_003_额外技术/02 springboot_springcloud_alibaba对应版本.md"
-    },
-    {
-      "basename": "001 redis",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_006_redis_SpringCache/001 redis.md"
     },
     {
       "basename": "007 redis整理",
@@ -195,10 +199,6 @@
     {
       "basename": "04 applicaion.yml",
       "path": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/04 applicaion.yml.md"
-    },
-    {
-      "basename": "001 基础命令",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md"
     }
   ],
   "omittedPaths": [],
