@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Ⅰ_project_005_interface/Ⅱ_003_额外技术/02 springboot_springcloud_alibaba对应版本.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -156,8 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374.3333435058594,
-    "collapsed": true
+    "width": 374.3333435058594
   },
   "active": "ef085d66a4efcc22",
   "lastOpenFiles": [
