@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "002 obsidian常用插件",
+      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/002 obsidian常用插件.md"
+    },
+    {
+      "basename": "001 markdown常用语法",
+      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/001 markdown常用语法.md"
+    },
+    {
+      "basename": "001 markdown常用语法 1",
+      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/001 markdown常用语法 1.md"
+    },
+    {
       "basename": "006 乐观锁(拦截器)",
       "path": "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/006 乐观锁(拦截器).md"
     },
@@ -67,10 +79,6 @@
     {
       "basename": "002 SpringCache注解",
       "path": "Ⅰ_integration_002_spring/Ⅱ_006_redis_SpringCache/002 SpringCache注解.md"
-    },
-    {
-      "basename": "001 markdown常用语法 1",
-      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/001 markdown常用语法 1.md"
     },
     {
       "basename": "10 interface整合oauth2.0",
@@ -191,14 +199,6 @@
     {
       "basename": "02 Constants",
       "path": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/02 Constants.md"
-    },
-    {
-      "basename": "003 过滤器_用户鉴权",
-      "path": "Ⅰ_project_001_delivery/Ⅱ_002_技术汇总/003 过滤器_用户鉴权.md"
-    },
-    {
-      "basename": "001 过滤工厂",
-      "path": "Ⅰ_integration_003_springCloud/Ⅱ_002_Nacos配置中心&Feign远程调用/001 过滤工厂.md"
     }
   ],
   "omittedPaths": [],
