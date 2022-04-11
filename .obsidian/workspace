@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Ⅰ_project_005_interface/Ⅱ_003_额外技术/@SelectProvider.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323
+    "width": 323,
+    "collapsed": true
   },
   "right": {
     "id": "eaafcc4feb3ef58e",

@@ -26,7 +26,7 @@
 
 ### 03 mapper层
 `@SelectProvider(type = SelectUserProvider.class, method = "selectByCondition")`
-**type** --> 对应providerle
+**type**  -->  对应provider对应类, **method**  -->  类中具体方法
 ```java
 {
 	//type --> 对应provider类
@@ -42,7 +42,7 @@
 
 ### 04 provider层
 **注意:**
-1. 达梦数据库中, string类型字段要拼接引号  '
+1. 达梦数据库中, **string类型字段要拼接引号  '**
 2. 如果参数是 Integer, Long类型要注意, 无法直接强转(String), 也不能用toString()方法(可能会空指针), **需要用ObjectUtils.isNotEmpty()进行非空判断**
 `package com.consmation.demo.mapper.provider;`
 ```java
