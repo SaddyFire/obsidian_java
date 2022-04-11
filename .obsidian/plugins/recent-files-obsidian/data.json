@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "@SelectProvider",
+      "path": "Ⅰ_project_005_interface/Ⅱ_003_额外技术/@SelectProvider.md"
+    },
+    {
       "basename": "003 redis项目运用",
       "path": "Ⅰ_integration_002_spring/Ⅱ_006_redis_SpringCache/003 redis项目运用.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "05 整合nacos",
       "path": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/05 整合nacos.md"
-    },
-    {
-      "basename": "04 applicaion.yml",
-      "path": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/04 applicaion.yml.md"
     }
   ],
   "omittedPaths": [],
