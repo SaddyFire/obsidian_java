@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_integration_002_spring/Ⅱ_007_swagger/001 使用步骤.md",
-            "mode": "preview",
+            "file": "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/002 idea配置.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_007_swagger/001 使用步骤.md",
+                "file": "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/002 idea配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_007_swagger/001 使用步骤.md"
+                "file": "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/002 idea配置.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_007_swagger/001 使用步骤.md",
+                "file": "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/002 idea配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,6 +161,7 @@
   },
   "active": "ef085d66a4efcc22",
   "lastOpenFiles": [
+    "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/002 idea配置.md",
     "Ⅰ_integration_002_spring/Ⅱ_007_swagger/001 使用步骤.md",
     "Ⅰ_integration_002_spring/Ⅱ_007_swagger/002 访问页面.md",
     "Ⅰ_integration_002_spring/Ⅱ_007_swagger/003 常用注解.md",
@@ -169,7 +170,6 @@
     "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/001 markdown常用语法.md",
     "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/001 markdown常用语法 1.md",
     "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/006 乐观锁(拦截器).md",
-    "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/005 id生成策略 - 逻辑删除.md",
-    "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/004 字段和表明映射(记忆).md"
+    "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/005 id生成策略 - 逻辑删除.md"
   ]
 }

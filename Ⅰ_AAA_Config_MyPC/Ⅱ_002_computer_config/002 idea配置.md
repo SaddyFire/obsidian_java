@@ -82,21 +82,24 @@
 ## 3. 常用插件下载
 
 
-|     |     |
-| --- | --- |
-| 翻译  | translation |
-| 彩虹括号 | rainbow brackets |
-| 等待条 | nyan progress bar |
-| 重置注册 | ide eval reset |
-| 高亮控制台 | Grep Console |
-| mybatis小鸟插件 | MyBatisX |
-| maven必备插件 | Maven Helper |
-| 快速转换为web工程 | JBLJavaToWeb |
-| csdn | csdn |
-| 高亮提示 | HighlightBracketPair |
-| 驼峰命名法 | CamelCase   **Shift+alt + u** 调用 |
-| 一键调用所有getset方法 | GenerateAllSetter |
-| 代码生成器 | codehelper.generator |
+|                        |                                    |
+| ---------------------- | ---------------------------------- |
+| 翻译                   | translation                        |
+| 彩虹括号               | rainbow brackets                   |
+| 等待条                 | nyan progress bar                  |
+| 重置注册               | ide eval reset                     |
+| 高亮控制台             | Grep Console                       |
+| mybatis小鸟插件        | MyBatisX                           |
+| maven必备插件          | Maven Helper                       |
+| 快速转换为web工程      | JBLJavaToWeb                       |
+| 高亮提示               | HighlightBracketPair               |
+| 驼峰命名法             | CamelCase   **Shift+alt + u** 调用 |
+| 一键调用所有getset方法 | GenerateAllSetter                  |
+| 代码生成器             | codehelper.generator               |
+| 阿里巴巴代码规范       | Alibaba Java Coding Guidelines     |
+| 显示代码缩略图         | CodeGlance2                        |
+| Codota代码只能提示     | Codota AI Autocomplete for ...     |
+|                        |                                    |
 
 
 ## 我的 short_cut
