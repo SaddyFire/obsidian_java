@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "05 整合nacos",
+      "path": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/05 整合nacos.md"
+    },
+    {
       "basename": "002 idea配置",
       "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/002 idea配置.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "003 JWT-鉴权",
       "path": "Ⅰ_project_003_funnyread/Ⅱ_001_环境搭建/003 JWT-鉴权.md"
-    },
-    {
-      "basename": "001 阿里云短信发送",
-      "path": "Ⅰ_project_003_funnyread/Ⅱ_001_环境搭建/001 阿里云短信发送.md"
     }
   ],
   "omittedPaths": [],

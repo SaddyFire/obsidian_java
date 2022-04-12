@@ -98,8 +98,9 @@
 | 代码生成器             | codehelper.generator               |
 | 阿里巴巴代码规范       | Alibaba Java Coding Guidelines     |
 | 显示代码缩略图         | CodeGlance2                        |
-| Codota代码只能提示     | Codota AI Autocomplete for ...     |
-|                        |                                    |
+| Codota代码智能提示     | Codota AI Autocomplete for ...     |
+| 快捷键提示             | Key Promeoter X                    |
+| 代码质量检查           | SonarLint                          |
 
 
 ## 我的 short_cut
