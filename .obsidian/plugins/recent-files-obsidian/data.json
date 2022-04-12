@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "达梦数据库安装",
+      "path": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/达梦数据库安装.md"
+    },
+    {
+      "basename": "001 DBhelper",
+      "path": "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_001_技术熟悉/001 DBhelper.md"
+    },
+    {
+      "basename": "004 AES加密工具",
+      "path": "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_001_技术熟悉/004 AES加密工具.md"
+    },
+    {
+      "basename": "005 maven打本地jar包",
+      "path": "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_001_技术熟悉/005 maven打本地jar包.md"
+    },
+    {
+      "basename": "05 达梦数据库_数据库密文处理",
+      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/05 达梦数据库_数据库密文处理.md"
+    },
+    {
       "basename": "05 整合nacos",
       "path": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/05 整合nacos.md"
     },
@@ -19,10 +39,6 @@
     {
       "basename": "003 常用注解",
       "path": "Ⅰ_integration_002_spring/Ⅱ_007_swagger/003 常用注解.md"
-    },
-    {
-      "basename": "05 达梦数据库_数据库密文处理",
-      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/05 达梦数据库_数据库密文处理.md"
     },
     {
       "basename": "002 obsidian常用插件",
@@ -85,10 +101,6 @@
       "path": "Ⅰ_integration_002_spring/Ⅱ_006_redis_SpringCache/001 redis.md"
     },
     {
-      "basename": "001 DBhelper",
-      "path": "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_001_技术熟悉/001 DBhelper.md"
-    },
-    {
       "basename": "11 整合redis",
       "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/11 整合redis.md"
     },
@@ -115,10 +127,6 @@
     {
       "basename": "003 post方法发送表单",
       "path": "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_001_技术熟悉/003 post方法发送表单.md"
-    },
-    {
-      "basename": "005 maven打本地jar包",
-      "path": "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_001_技术熟悉/005 maven打本地jar包.md"
     },
     {
       "basename": "008 FastDFS",
@@ -191,14 +199,6 @@
     {
       "basename": "005 访问测试",
       "path": "Ⅰ_project_003_funnyread/Ⅱ_001_环境搭建/005 访问测试.md"
-    },
-    {
-      "basename": "004 字段自动填充",
-      "path": "Ⅰ_project_003_funnyread/Ⅱ_001_环境搭建/004 字段自动填充.md"
-    },
-    {
-      "basename": "003 JWT-鉴权",
-      "path": "Ⅰ_project_003_funnyread/Ⅱ_001_环境搭建/003 JWT-鉴权.md"
     }
   ],
   "omittedPaths": [],
