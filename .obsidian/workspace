@@ -7,9 +7,11 @@
         "id": "e50a9e48434d7df1",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/如何去写一手好SQL.pdf"
+            "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/001 mysql.md",
+            "mode": "preview",
+            "source": false
           }
         }
       }
@@ -87,7 +89,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -115,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/如何去写一手好SQL.pdf",
+                "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/001 mysql.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/如何去写一手好SQL.pdf"
+                "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/001 mysql.md"
               }
             }
           },
@@ -142,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/如何去写一手好SQL.pdf",
+                "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/001 mysql.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +160,9 @@
   },
   "active": "e50a9e48434d7df1",
   "lastOpenFiles": [
-    "Ⅰ_integration_002_spring/Ⅱ_002_mysql/如何去写一手好SQL.pdf",
-    "Ⅰ_integration_002_spring/Ⅱ_002_mysql/003 知识点整理.md",
     "Ⅰ_integration_002_spring/Ⅱ_002_mysql/001 mysql.md",
+    "Ⅰ_integration_002_spring/Ⅱ_002_mysql/003 知识点整理.md",
+    "Ⅰ_integration_002_spring/Ⅱ_002_mysql/如何去写一手好SQL.pdf",
     "Ⅰ_integration_002_spring/Ⅱ_002_mysql/002 mysql_advance.md",
     "Ⅰ_integration_002_spring/Ⅱ_002_mysql/004 saddyfire_语句.md",
     "Ⅰ_integration_002_spring/Ⅱ_002_mysql/005 saddyfire_show_index.md",
