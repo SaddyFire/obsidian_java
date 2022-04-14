@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "如何去写一手好SQL",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/如何去写一手好SQL.pdf"
+    },
+    {
+      "basename": "003 知识点整理",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/003 知识点整理.md"
+    },
+    {
+      "basename": "001 mysql",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/001 mysql.md"
+    },
+    {
+      "basename": "002 mysql_advance",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/002 mysql_advance.md"
+    },
+    {
+      "basename": "004 saddyfire_语句",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/004 saddyfire_语句.md"
+    },
+    {
+      "basename": "005 saddyfire_show_index",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/005 saddyfire_show_index.md"
+    },
+    {
+      "basename": "006 saddyfire_explain",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/006 saddyfire_explain.md"
+    },
+    {
       "basename": "003 idea_debug",
       "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/003 idea_debug.md"
     },
@@ -113,22 +141,6 @@
       "path": "Ⅰ_project_005_interface/Ⅱ_003_额外技术/@SelectProvider.md"
     },
     {
-      "basename": "001 mysql",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/001 mysql.md"
-    },
-    {
-      "basename": "002 mysql_advance",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/002 mysql_advance.md"
-    },
-    {
-      "basename": "003 知识点整理",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/003 知识点整理.md"
-    },
-    {
-      "basename": "004 saddyfire_语句",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/004 saddyfire_语句.md"
-    },
-    {
       "basename": "001 DBhelper",
       "path": "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_001_技术熟悉/001 DBhelper.md"
     },
@@ -187,14 +199,6 @@
     {
       "basename": "001 起步配置",
       "path": "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/001 起步配置.md"
-    },
-    {
-      "basename": "006 saddyfire_explain",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/006 saddyfire_explain.md"
-    },
-    {
-      "basename": "005 saddyfire_show_index",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/005 saddyfire_show_index.md"
     }
   ],
   "omittedPaths": [],
