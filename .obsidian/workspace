@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "ef085d66a4efcc22",
+        "id": "e50a9e48434d7df1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_AAA_Config_MyPC/Ⅰ_000_temp/git测试.md",
-            "mode": "source",
+            "file": "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/002 idea配置.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -89,8 +89,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_AAA_Config_MyPC/Ⅰ_000_temp/git测试.md",
+                "file": "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/002 idea配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_AAA_Config_MyPC/Ⅰ_000_temp/git测试.md"
+                "file": "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/002 idea配置.md"
               }
             }
           },
@@ -145,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_AAA_Config_MyPC/Ⅰ_000_temp/git测试.md",
+                "file": "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/002 idea配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,17 +158,17 @@
     "width": 374.3333435058594,
     "collapsed": true
   },
-  "active": "ef085d66a4efcc22",
+  "active": "e50a9e48434d7df1",
   "lastOpenFiles": [
+    "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/002 idea配置.md",
+    "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/003 idea_debug.md",
+    "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/001 加快github的访问速度.md",
+    "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/002 obsidian常用插件.md",
+    "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/001 markdown常用语法 1.md",
+    "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/001 markdown常用语法.md",
     "Ⅰ_AAA_Config_MyPC/Ⅰ_000_temp/git测试.md",
-    "Ⅰ_project_004_travel/Ⅱ_001_环境搭建/003 gateway.md",
     "unlinked files output.md",
-    "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_001_技术熟悉/003 post方法发送表单.md",
-    "Ⅰ_project_005_interface/Ⅱ_003_额外技术/02 springboot_springcloud_alibaba对应版本.md",
-    "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md",
-    "Ⅰ_integration_002_spring/Ⅱ_005_git/003 tortoise 推送.md",
-    "Ⅰ_integration_002_spring/Ⅱ_005_git/002 开发过程.md",
-    "Ⅰ_project_005_interface/Ⅱ_003_额外技术/@SelectProvider.md",
-    "Ⅰ_integration_002_spring/Ⅱ_002_mysql/001 mysql.md"
+    "_resources/Pasted image 20220111144646.png",
+    "_resources/Pasted image 20220115203436.png"
   ]
 }
