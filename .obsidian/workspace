@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/003 idea_debug.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323
+    "width": 323,
+    "collapsed": true
   },
   "right": {
     "id": "eaafcc4feb3ef58e",
@@ -155,14 +156,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374.3333435058594,
-    "collapsed": true
+    "width": 374.3333435058594
   },
   "active": "e50a9e48434d7df1",
   "lastOpenFiles": [
     "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/003 idea_debug.md",
-    "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/002 idea配置.md",
     "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/001 加快github的访问速度.md",
+    "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/002 idea配置.md",
     "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/002 obsidian常用插件.md",
     "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/001 markdown常用语法 1.md",
     "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/001 markdown常用语法.md",
