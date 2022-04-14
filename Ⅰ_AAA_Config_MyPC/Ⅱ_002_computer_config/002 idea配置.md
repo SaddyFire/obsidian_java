@@ -45,26 +45,27 @@
 ## 2.基础设置
 
 
-|     |     |
-| --- | --- |
-| 菜单字体大小设置 | Appearance -> Size |
-| 代码字体大小设置 | Editor -> Font |
-| 显示方法分割线 | Editor->Appearance->show method separators |
-| 模板生成 | Live templates -> “+” -> … |
-| 取消自动更新 | File->Setting->Appearance&Beha->System Setting—Updates<br>取消勾选     Automatically check updates |
-| 背景设置 | apprarence&behavior -> appearence -> background image |
-| 修改快捷键 keymap | keymap->Main menu->Code |
-| **idea标签多行显示** | windows -> Editor Tabs -> Configure Editor Tabs -> Show tabs in<br>把 Show pinned tabs in a separate row 勾去掉 |
-| **提醒忽略大小写** | ctrl + alt + s -> 搜索**Code Completion** -\> Match case 勾去掉 |
-| **Mave仓库设置** | ctrl + alt + s -> 搜索**maven** |
-| **Maven全局设置** |     |
-| **File Header设置** | ctrl + alt + s -> 搜索file and code -\> Includes -> /<br>\ @author YHF<br>\ @date ${DATE} <br>**<br> *@TIME:${TIME}/ |
-| **JS语言版本** | ctrl + alt + s -> 搜索 **javascript** -\> language version 选择 ECMAScript 6+ |
-| **热部署** | 导入依赖 -> <br>ctrl + alt + s -> 搜索 **compiler** -\> 勾选 \*\*Build project auto \*\*-> <br>Shift+Ctrl+Alt+/ -> 选择**Registry** -\> 勾选 **compiler.automake.allow.when.app.running** |
-| **git配置** | ctrl + alt + s -> 搜索 git -> 配置路径 |
-| 代码左侧折叠线设置 | ctrl + alt + s -> Editor -> Color Scheme -> General -> Editor -> Tear line |
-| 代码左侧行号颜色设置 | ctrl + alt + s -> Editor -> Color Scheme -> General -> code -> Line number |
-| 方法分割线颜色设置 | ctrl + alt + s -> Editor -> Color Scheme -> General -> code -> method separator color |
+|                      |                                                                                                                                                                                           |
+| -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 菜单字体大小设置     | Appearance -> Size                                                                                                                                                                        |
+| 代码字体大小设置     | Editor -> Font                                                                                                                                                                            |
+| 显示方法分割线       | Editor->Appearance->show method separators                                                                                                                                                |
+| 模板生成             | Live templates -> “+” -> …                                                                                                                                                                |
+| 取消自动更新         | File->Setting->Appearance&Beha->System Setting—Updates<br>取消勾选     Automatically check updates                                                                                        |
+| 背景设置             | apprarence&behavior -> appearence -> background image                                                                                                                                     |
+| 修改快捷键 keymap    | keymap->Main menu->Code                                                                                                                                                                   |
+| **idea标签多行显示** | windows -> Editor Tabs -> Configure Editor Tabs -> Show tabs in<br>把 Show pinned tabs in a separate row 勾去掉                                                                           |
+| **提醒忽略大小写**   | ctrl + alt + s -> 搜索**Code Completion** -\> Match case 勾去掉                                                                                                                           |
+| **Mave仓库设置**     | ctrl + alt + s -> 搜索**maven**                                                                                                                                                           |
+| **Maven全局设置**    |                                                                                                                                                                                           |
+| **File Header设置**  | ctrl + alt + s -> 搜索file and code -\> Includes -> /<br>\ @author YHF<br>\ @date ${DATE} <br>**<br> *@TIME:${TIME}/                                                                      |
+| **JS语言版本**       | ctrl + alt + s -> 搜索 **javascript** -\> language version 选择 ECMAScript 6+                                                                                                             |
+| **热部署**           | 导入依赖 -> <br>ctrl + alt + s -> 搜索 **compiler** -\> 勾选 \*\*Build project auto \*\*-> <br>Shift+Ctrl+Alt+/ -> 选择**Registry** -\> 勾选 **compiler.automake.allow.when.app.running** |
+| **git配置**          | ctrl + alt + s -> 搜索 git -> 配置路径                                                                                                                                                    |
+| 代码左侧折叠线设置   | ctrl + alt + s -> Editor -> Color Scheme -> General -> Editor -> Tear line                                                                                                                |
+| 代码左侧行号颜色设置 | ctrl + alt + s -> Editor -> Color Scheme -> General -> code -> Line number                                                                                                                |
+| 方法分割线颜色设置   | ctrl + alt + s -> Editor -> Color Scheme -> General -> code -> method separator color                                                                                                     |
+| 修改terminal         | ctrl + alt + s -> Terminal -> 改Shell path                                                                                                                                                |
 
 
 - 热部署依赖
