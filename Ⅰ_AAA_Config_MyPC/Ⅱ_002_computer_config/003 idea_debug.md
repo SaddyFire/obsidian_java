@@ -20,4 +20,18 @@
 ![[Pasted image 20220414212235.png]]
 ![[Pasted image 20220414212257.png]]
 
-@
+## 3. 进阶
+### 01 条件表达式
+![[Pasted image 20220414212811.png]]
+
+![[Pasted image 20220414212820.png]]
+
+
+### 02表达式解析_ evaluate(略)
+
+### 03 避免操作资源_force return
+
+
+
+
+
