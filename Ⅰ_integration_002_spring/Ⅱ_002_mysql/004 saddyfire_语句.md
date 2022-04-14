@@ -147,6 +147,9 @@ where up.university = '浙江大学'
 group by qd.difficult_level
 order by correct_rate
 
+
+-- DATEDIFF函数(待更新)
+
 ```
 
 ![[Pasted image 20220320000453.png]]
