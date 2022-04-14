@@ -30,7 +30,15 @@
 ### 02表达式解析_ evaluate(略)
 
 ### 03 避免操作资源_force return
+![[Pasted image 20220414213619.png]]
 
+### 04 其他功能
+1. Show Execution Point - 回到当前断点处
+2. Step Over - 下一行
+3. Step Into - 进入方法(不包括源码)
+4. Force Step Into - 强制进入一切方法
+5. Step Out - 跳出
+6. Run to Cursor - 定位到光标
 
 
 
