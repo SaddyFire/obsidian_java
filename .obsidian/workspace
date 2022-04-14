@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/001 mysql.md",
-            "mode": "preview",
+            "file": "Ⅰ_integration_002_spring/Ⅱ_005_git/003 tortoise 推送.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/001 mysql.md",
+                "file": "Ⅰ_integration_002_spring/Ⅱ_005_git/003 tortoise 推送.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/001 mysql.md"
+                "file": "Ⅰ_integration_002_spring/Ⅱ_005_git/003 tortoise 推送.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/001 mysql.md",
+                "file": "Ⅰ_integration_002_spring/Ⅱ_005_git/003 tortoise 推送.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,15 +160,15 @@
   },
   "active": "e50a9e48434d7df1",
   "lastOpenFiles": [
+    "Ⅰ_integration_002_spring/Ⅱ_005_git/003 tortoise 推送.md",
+    "Ⅰ_integration_002_spring/Ⅱ_005_git/005 (temp) idea删除git项目.md",
+    "Ⅰ_integration_002_spring/Ⅱ_005_git/006 idea下的git操作.md",
+    "Ⅰ_integration_002_spring/Ⅱ_005_git/004 gitignore文件.md",
+    "Ⅰ_integration_002_spring/Ⅱ_005_git/002 开发过程.md",
+    "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md",
+    "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/003 idea_debug.md",
     "Ⅰ_integration_002_spring/Ⅱ_002_mysql/001 mysql.md",
     "Ⅰ_integration_002_spring/Ⅱ_002_mysql/003 知识点整理.md",
-    "Ⅰ_integration_002_spring/Ⅱ_002_mysql/如何去写一手好SQL.pdf",
-    "Ⅰ_integration_002_spring/Ⅱ_002_mysql/002 mysql_advance.md",
-    "Ⅰ_integration_002_spring/Ⅱ_002_mysql/004 saddyfire_语句.md",
-    "Ⅰ_integration_002_spring/Ⅱ_002_mysql/005 saddyfire_show_index.md",
-    "Ⅰ_integration_002_spring/Ⅱ_002_mysql/006 saddyfire_explain.md",
-    "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/003 idea_debug.md",
-    "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/001 加快github的访问速度.md",
-    "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/002 idea配置.md"
+    "Ⅰ_integration_002_spring/Ⅱ_002_mysql/如何去写一手好SQL.pdf"
   ]
 }

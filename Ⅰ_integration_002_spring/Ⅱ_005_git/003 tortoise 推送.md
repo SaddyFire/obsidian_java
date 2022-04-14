@@ -11,3 +11,6 @@
 3. 右键 Git Bash Here -> 输入:(gitee仓库里有教程)
 	 git remote add origin https://gitee.com/saddyfire/obsidian_java.git
 4. git push -u origin master
+
+
+##

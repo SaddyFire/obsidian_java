@@ -40,6 +40,7 @@
 5. Step Out - 跳出
 6. Run to Cursor - 定位到光标
 
-
+### 05 stream debug
+![[Pasted image 20220414220746.png]]
 
 

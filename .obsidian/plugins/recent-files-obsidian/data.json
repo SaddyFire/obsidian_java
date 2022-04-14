@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "003 tortoise 推送",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/003 tortoise 推送.md"
+    },
+    {
+      "basename": "005 (temp) idea删除git项目",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/005 (temp) idea删除git项目.md"
+    },
+    {
+      "basename": "006 idea下的git操作",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/006 idea下的git操作.md"
+    },
+    {
+      "basename": "004 gitignore文件",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/004 gitignore文件.md"
+    },
+    {
+      "basename": "002 开发过程",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/002 开发过程.md"
+    },
+    {
+      "basename": "001 基础命令",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md"
+    },
+    {
+      "basename": "003 idea_debug",
+      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/003 idea_debug.md"
+    },
+    {
       "basename": "001 mysql",
       "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/001 mysql.md"
     },
@@ -27,10 +55,6 @@
     {
       "basename": "006 saddyfire_explain",
       "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/006 saddyfire_explain.md"
-    },
-    {
-      "basename": "003 idea_debug",
-      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/003 idea_debug.md"
     },
     {
       "basename": "001 加快github的访问速度",
@@ -125,18 +149,6 @@
       "path": "Ⅰ_project_005_interface/Ⅱ_003_额外技术/02 springboot_springcloud_alibaba对应版本.md"
     },
     {
-      "basename": "001 基础命令",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md"
-    },
-    {
-      "basename": "003 tortoise 推送",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/003 tortoise 推送.md"
-    },
-    {
-      "basename": "002 开发过程",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/002 开发过程.md"
-    },
-    {
       "basename": "@SelectProvider",
       "path": "Ⅰ_project_005_interface/Ⅱ_003_额外技术/@SelectProvider.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "004 字段和表明映射(记忆)",
       "path": "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/004 字段和表明映射(记忆).md"
-    },
-    {
-      "basename": "003 查询功能(`)",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/003 查询功能(`).md"
-    },
-    {
-      "basename": "002 分页模糊查询(拦截器)",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/002 分页模糊查询(拦截器).md"
-    },
-    {
-      "basename": "001 起步配置",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/001 起步配置.md"
     }
   ],
   "omittedPaths": [],
