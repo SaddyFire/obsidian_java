@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "@SelectProvider",
+      "path": "Ⅰ_project_005_interface/Ⅱ_003_额外技术/@SelectProvider.md"
+    },
+    {
       "basename": "001 mysql",
       "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/001 mysql.md"
     },
@@ -99,10 +103,6 @@
     {
       "basename": "005 saddyfire_show_index",
       "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/005 saddyfire_show_index.md"
-    },
-    {
-      "basename": "@SelectProvider",
-      "path": "Ⅰ_project_005_interface/Ⅱ_003_额外技术/@SelectProvider.md"
     },
     {
       "basename": "003 redis项目运用",
