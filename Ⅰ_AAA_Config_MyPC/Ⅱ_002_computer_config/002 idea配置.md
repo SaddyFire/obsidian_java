@@ -58,7 +58,7 @@
 | **提醒忽略大小写** | ctrl + alt + s -> 搜索**Code Completion** -\> Match case 勾去掉 |
 | **Mave仓库设置** | ctrl + alt + s -> 搜索**maven** |
 | **Maven全局设置** |     |
-| **File Header设置** | ctrl + alt + s -> 搜索**file and code** -\> Includes -> /**<br>\* @author YHF<br>\* @date ${DATE} <br>**<br> *@TIME:${TIME}<br>*/ |
+| **File Header设置** | ctrl + alt + s -> 搜索file and code -\> Includes -> /<br>\ @author YHF<br>\ @date ${DATE} <br>**<br> *@TIME:${TIME}/ |
 | **JS语言版本** | ctrl + alt + s -> 搜索 **javascript** -\> language version 选择 ECMAScript 6+ |
 | **热部署** | 导入依赖 -> <br>ctrl + alt + s -> 搜索 **compiler** -\> 勾选 \*\*Build project auto \*\*-> <br>Shift+Ctrl+Alt+/ -> 选择**Registry** -\> 勾选 **compiler.automake.allow.when.app.running** |
 | **git配置** | ctrl + alt + s -> 搜索 git -> 配置路径 |
