@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "git测试",
+      "path": "Ⅰ_AAA_Config_MyPC/Ⅰ_000_temp/git测试.md"
+    },
+    {
+      "basename": "003 gateway",
+      "path": "Ⅰ_project_004_travel/Ⅱ_001_环境搭建/003 gateway.md"
+    },
+    {
+      "basename": "unlinked files output",
+      "path": "unlinked files output.md"
+    },
+    {
+      "basename": "003 post方法发送表单",
+      "path": "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_001_技术熟悉/003 post方法发送表单.md"
+    },
+    {
+      "basename": "02 springboot_springcloud_alibaba对应版本",
+      "path": "Ⅰ_project_005_interface/Ⅱ_003_额外技术/02 springboot_springcloud_alibaba对应版本.md"
+    },
+    {
+      "basename": "001 基础命令",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md"
+    },
+    {
+      "basename": "003 tortoise 推送",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/003 tortoise 推送.md"
+    },
+    {
+      "basename": "002 开发过程",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/002 开发过程.md"
+    },
+    {
       "basename": "@SelectProvider",
       "path": "Ⅰ_project_005_interface/Ⅱ_003_额外技术/@SelectProvider.md"
     },
@@ -121,10 +153,6 @@
       "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/11 整合redis.md"
     },
     {
-      "basename": "02 springboot_springcloud_alibaba对应版本",
-      "path": "Ⅰ_project_005_interface/Ⅱ_003_额外技术/02 springboot_springcloud_alibaba对应版本.md"
-    },
-    {
       "basename": "007 redis整理",
       "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/007 redis整理.md"
     },
@@ -139,10 +167,6 @@
     {
       "basename": "09 oauth2.0",
       "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/09 oauth2.0.md"
-    },
-    {
-      "basename": "003 post方法发送表单",
-      "path": "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_001_技术熟悉/003 post方法发送表单.md"
     },
     {
       "basename": "008 FastDFS",
@@ -175,30 +199,6 @@
     {
       "basename": "vim",
       "path": "Ⅰ_integration_004_linux/Ⅱ_002_saddyfire/vim.md"
-    },
-    {
-      "basename": "004 获取nginx代理后的真实ip",
-      "path": "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_002_环境配置/004 获取nginx代理后的真实ip.md"
-    },
-    {
-      "basename": "015 AOP日志收集",
-      "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/015 AOP日志收集.md"
-    },
-    {
-      "basename": "014 vo对象的静态init制作案例",
-      "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/014 vo对象的静态init制作案例.md"
-    },
-    {
-      "basename": "013 简单工厂模式",
-      "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/013 简单工厂模式.md"
-    },
-    {
-      "basename": "012 日志_行为记录_动态监听",
-      "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/012 日志_行为记录_动态监听.md"
-    },
-    {
-      "basename": "011 验证码生成",
-      "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/011 验证码生成.md"
     }
   ],
   "omittedPaths": [],

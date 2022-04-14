@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_project_005_interface/Ⅱ_003_额外技术/@SelectProvider.md",
-            "mode": "preview",
+            "file": "Ⅰ_AAA_Config_MyPC/Ⅰ_000_temp/git测试.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_project_005_interface/Ⅱ_003_额外技术/@SelectProvider.md",
+                "file": "Ⅰ_AAA_Config_MyPC/Ⅰ_000_temp/git测试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_project_005_interface/Ⅱ_003_额外技术/@SelectProvider.md"
+                "file": "Ⅰ_AAA_Config_MyPC/Ⅰ_000_temp/git测试.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_project_005_interface/Ⅱ_003_额外技术/@SelectProvider.md",
+                "file": "Ⅰ_AAA_Config_MyPC/Ⅰ_000_temp/git测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,15 +161,15 @@
   },
   "active": "ef085d66a4efcc22",
   "lastOpenFiles": [
+    "Ⅰ_AAA_Config_MyPC/Ⅰ_000_temp/git测试.md",
+    "Ⅰ_project_004_travel/Ⅱ_001_环境搭建/003 gateway.md",
+    "unlinked files output.md",
+    "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_001_技术熟悉/003 post方法发送表单.md",
+    "Ⅰ_project_005_interface/Ⅱ_003_额外技术/02 springboot_springcloud_alibaba对应版本.md",
+    "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md",
+    "Ⅰ_integration_002_spring/Ⅱ_005_git/003 tortoise 推送.md",
+    "Ⅰ_integration_002_spring/Ⅱ_005_git/002 开发过程.md",
     "Ⅰ_project_005_interface/Ⅱ_003_额外技术/@SelectProvider.md",
-    "Ⅰ_integration_002_spring/Ⅱ_002_mysql/001 mysql.md",
-    "Ⅰ_integration_002_spring/Ⅱ_002_mysql/002 mysql_advance.md",
-    "Ⅰ_integration_002_spring/Ⅱ_002_mysql/003 知识点整理.md",
-    "Ⅰ_integration_002_spring/Ⅱ_002_mysql/004 saddyfire_语句.md",
-    "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_001_技术熟悉/001 DBhelper.md",
-    "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/达梦数据库安装.md",
-    "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_001_技术熟悉/004 AES加密工具.md",
-    "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_001_技术熟悉/005 maven打本地jar包.md",
-    "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/05 达梦数据库_数据库密文处理.md"
+    "Ⅰ_integration_002_spring/Ⅱ_002_mysql/001 mysql.md"
   ]
 }
