@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "003 购物车商品过滤",
+      "path": "Ⅰ_integration_SSS_another/Ⅱ_004_java-stream/003 购物车商品过滤.md"
+    },
+    {
+      "basename": "004 查找缺考学生_match",
+      "path": "Ⅰ_integration_SSS_another/Ⅱ_004_java-stream/004 查找缺考学生_match.md"
+    },
+    {
       "basename": "002 访问页面",
       "path": "Ⅰ_integration_002_spring/Ⅱ_007_swagger/002 访问页面.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "004 AES加密工具",
       "path": "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_001_技术汇总/004 AES加密工具.md"
-    },
-    {
-      "basename": "005 maven打本地jar包",
-      "path": "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_001_技术汇总/005 maven打本地jar包.md"
-    },
-    {
-      "basename": "05 达梦数据库_数据库密文处理",
-      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/05 达梦数据库_数据库密文处理.md"
     }
   ],
   "omittedPaths": [],
