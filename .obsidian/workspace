@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_integration_002_spring/Ⅱ_007_swagger/005 api制作注意事项.md",
+            "file": "Ⅰ_integration_002_spring/Ⅱ_007_swagger/003 常用注解.md",
             "mode": "preview",
             "source": false
           }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_007_swagger/005 api制作注意事项.md",
+                "file": "Ⅰ_integration_002_spring/Ⅱ_007_swagger/003 常用注解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_007_swagger/005 api制作注意事项.md"
+                "file": "Ⅰ_integration_002_spring/Ⅱ_007_swagger/003 常用注解.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_007_swagger/005 api制作注意事项.md",
+                "file": "Ⅰ_integration_002_spring/Ⅱ_007_swagger/003 常用注解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,10 +161,10 @@
   },
   "active": "0edb883dc27f8217",
   "lastOpenFiles": [
-    "Ⅰ_integration_002_spring/Ⅱ_007_swagger/005 api制作注意事项.md",
-    "Ⅰ_integration_002_spring/Ⅱ_007_swagger/004 简单静态结果类的制作.md",
     "Ⅰ_integration_002_spring/Ⅱ_007_swagger/003 常用注解.md",
     "Ⅰ_integration_002_spring/Ⅱ_007_swagger/002 访问页面.md",
+    "Ⅰ_integration_002_spring/Ⅱ_007_swagger/004 简单静态结果类的制作.md",
+    "Ⅰ_integration_002_spring/Ⅱ_007_swagger/005 api制作注意事项.md",
     "Ⅰ_integration_002_spring/Ⅱ_007_swagger/001 使用步骤.md",
     "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_001_技术汇总/006 String.format().md",
     "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_003_业务接口/001 施工许可详情获取.md",
