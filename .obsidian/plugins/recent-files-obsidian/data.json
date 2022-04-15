@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "005 api制作注意事项",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_007_swagger/005 api制作注意事项.md"
+    },
+    {
+      "basename": "004 简单静态结果类的制作",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_007_swagger/004 简单静态结果类的制作.md"
+    },
+    {
+      "basename": "003 常用注解",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_007_swagger/003 常用注解.md"
+    },
+    {
+      "basename": "002 访问页面",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_007_swagger/002 访问页面.md"
+    },
+    {
+      "basename": "001 使用步骤",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_007_swagger/001 使用步骤.md"
+    },
+    {
       "basename": "006 String.format()",
       "path": "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_001_技术汇总/006 String.format().md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "05 整合nacos",
       "path": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/05 整合nacos.md"
-    },
-    {
-      "basename": "001 使用步骤",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_007_swagger/001 使用步骤.md"
-    },
-    {
-      "basename": "002 访问页面",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_007_swagger/002 访问页面.md"
-    },
-    {
-      "basename": "003 常用注解",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_007_swagger/003 常用注解.md"
-    },
-    {
-      "basename": "006 乐观锁(拦截器)",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/006 乐观锁(拦截器).md"
-    },
-    {
-      "basename": "005 id生成策略 - 逻辑删除",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_004_mybatis高级/005 id生成策略 - 逻辑删除.md"
     }
   ],
   "omittedPaths": [],
