@@ -5,6 +5,10 @@
       "path": "Ⅰ_integration_002_spring/Ⅱ_007_swagger/001 使用步骤.md"
     },
     {
+      "basename": "003 常用注解",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_007_swagger/003 常用注解.md"
+    },
+    {
       "basename": "002 访问页面",
       "path": "Ⅰ_integration_002_spring/Ⅱ_007_swagger/002 访问页面.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "004 简单静态结果类的制作",
       "path": "Ⅰ_integration_002_spring/Ⅱ_007_swagger/004 简单静态结果类的制作.md"
-    },
-    {
-      "basename": "003 常用注解",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_007_swagger/003 常用注解.md"
     },
     {
       "basename": "006 String.format()",
