@@ -73,6 +73,7 @@ pause
 
 
 ### 03 winsw.xml
+注意端口设置
 ```xml
 <service>
   <!-- 指定在Windows系统内部使用的识别服务的ID。在系统中安装的所有服务中，这必须是唯一的，它应该完全由字母数字字符组成 -->
@@ -85,8 +86,8 @@ pause
   <env name="JAVA_HOME" value="%JAVA_HOME%"/>
   <!-- 启动方式: 开机自启 -->
   <startmode>Automatic</startmode>
-  <!-- 位置 -->
-  <arguments>-jar "D:\develop\sentinal\sentinel-dashboard-1.8.1.jar"</arguments>
+  <!-- 可执行文件传递的参数 -->
+  <arguments>-Xrs -Xmx256m -jar "%BASE%\sentinel-dashboard-1.8.1.jar"  --server.port=9999</arguments>
   <!-- 该元素指定要启动的可执行文件 -->
   <executable>java</executable>
   <!-- 日志输出位置 -->
