@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "004 win安装services服务",
-      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/004 win安装services服务.md"
+      "basename": "005 win安装services服务(jar)",
+      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/005 win安装services服务(jar).md"
+    },
+    {
+      "basename": "004 win安装services服务(bin文件)",
+      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/004 win安装services服务(bin文件).md"
+    },
+    {
+      "basename": "006 脚本文件运行nacos",
+      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/006 脚本文件运行nacos.md"
+    },
+    {
+      "basename": "003 idea_debug",
+      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/003 idea_debug.md"
     },
     {
       "basename": "002 全局异常",
@@ -97,10 +109,6 @@
       "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md"
     },
     {
-      "basename": "003 idea_debug",
-      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/003 idea_debug.md"
-    },
-    {
       "basename": "001 mysql",
       "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/001 mysql.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Pasted image 20220215163227",
       "path": "_resources/Pasted image 20220215163227.png"
-    },
-    {
-      "basename": "Pasted image 20220218213615",
-      "path": "_resources/Pasted image 20220218213615.png"
-    },
-    {
-      "basename": "Pasted image 20220219111331",
-      "path": "_resources/Pasted image 20220219111331.png"
     }
   ],
   "omittedPaths": [],
