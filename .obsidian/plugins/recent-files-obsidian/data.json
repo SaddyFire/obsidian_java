@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "001 Result类",
+      "path": "Ⅰ_project_002_health&kaoshi/Ⅱ_002_点名考试系统/001 Result类.md"
+    },
+    {
+      "basename": "004 注解制作_元注解_幂等",
+      "path": "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/004 注解制作_元注解_幂等.md"
+    },
+    {
+      "basename": "004 win安装services服务",
+      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/004 win安装services服务.md"
+    },
+    {
       "basename": "003 购物车商品过滤",
-      "path": "Ⅰ_integration_SSS_another/Ⅱ_004_java-stream/003 购物车商品过滤.md"
+      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_004_java-stream/003 购物车商品过滤.md"
     },
     {
       "basename": "004 查找缺考学生_match",
-      "path": "Ⅰ_integration_SSS_another/Ⅱ_004_java-stream/004 查找缺考学生_match.md"
+      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_004_java-stream/004 查找缺考学生_match.md"
     },
     {
       "basename": "002 访问页面",
@@ -102,15 +114,15 @@
     },
     {
       "basename": "002 obsidian常用插件",
-      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/002 obsidian常用插件.md"
+      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_markdown(obsidian)/002 obsidian常用插件.md"
     },
     {
       "basename": "001 markdown常用语法 1",
-      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/001 markdown常用语法 1.md"
+      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_markdown(obsidian)/001 markdown常用语法 1.md"
     },
     {
       "basename": "001 markdown常用语法",
-      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_instruction(obsidian)/001 markdown常用语法.md"
+      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_markdown(obsidian)/001 markdown常用语法.md"
     },
     {
       "basename": "Pasted image 20220115203436",
@@ -187,18 +199,6 @@
     {
       "basename": "@SelectProvider",
       "path": "Ⅰ_project_005_interface/Ⅱ_003_额外技术/@SelectProvider.md"
-    },
-    {
-      "basename": "001 DBhelper",
-      "path": "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_001_技术汇总/001 DBhelper.md"
-    },
-    {
-      "basename": "达梦数据库安装",
-      "path": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/达梦数据库安装.md"
-    },
-    {
-      "basename": "004 AES加密工具",
-      "path": "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_001_技术汇总/004 AES加密工具.md"
     }
   ],
   "omittedPaths": [],
