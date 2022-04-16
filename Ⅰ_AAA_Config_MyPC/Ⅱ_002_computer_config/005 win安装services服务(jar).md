@@ -16,13 +16,6 @@ echo -----------------------
 
 cd %~dp0
 
-:: 复制winsw.exe至 \bin
-xcopy /Y /E /i winsw.exe ..\bin\
-:: 复制winsw.xml 配置文件至 \bin
-copy /Y winsw.xml ..\bin\
-:: 进入 \bin
-cd ..\bin\
-
 echo saddyfire安装服务中
 winsw install
 echo saddyfire安装完成
@@ -39,7 +32,7 @@ echo -----------------------
 echo saddyfire 666 一键启动程序
 echo ----------------------- 
 
-net start Nacos
+net start Sentinel
 
 pause
 
@@ -53,7 +46,7 @@ echo saddyfire 666 一键关闭
 echo -----------------------
 
 :: 此处是服务名
-net stop Nacos
+net stop Sentinel
 
 pause
 
@@ -80,3 +73,23 @@ pause
 
 
 ### 03 winsw.xml
+```xml
+<service>
+  <!-- 指定在Windows系统内部使用的识别服务的ID。在系统中安装的所有服务中，这必须是唯一的，它应该完全由字母数字字符组成 -->
+  <id>Sentinel</id>
+   <!-- 服务的简短名称，它可以包含空格和其他字符。尽量简短，就像“id”一样，在系统的所有服务名称中，也要保持唯一 -->
+  <name>Sentinel</name>
+  <!-- 该服务可读描述。当选中该服务时，它将显示在Windows服务管理器中 -->
+  <description>Sentinel</description>
+  <!-- 环境变量设置 -->
+  <env name="JAVA_HOME" value="%JAVA_HOME%"/>
+  <!-- 启动方式: 开机自启 -->
+  <startmode>Automatic</startmode>
+  <!-- 位置 -->
+  <arguments>-jar "D:\develop\sentinal\sentinel-dashboard-1.8.1.jar"</arguments>
+  <!-- 该元素指定要启动的可执行文件 -->
+  <executable>java</executable>
+  <!-- 日志输出位置 -->
+  <logmode>rotate</logmode>
+</service>
+```
