@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "003 使用步骤",
+      "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/003 使用步骤.md"
+    },
+    {
+      "basename": "002 处理方式",
+      "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/002 处理方式.md"
+    },
+    {
+      "basename": "001 雪崩效应",
+      "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/001 雪崩效应.md"
+    },
+    {
       "basename": "004 win安装services服务(nacos_bin文件)",
       "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/004 win安装services服务(nacos_bin文件).md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Pasted image 20220116180153",
       "path": "_resources/Pasted image 20220116180153.png"
-    },
-    {
-      "basename": "Pasted Image 20220120145109_339",
-      "path": "_resources/Pasted Image 20220120145109_339.png"
-    },
-    {
-      "basename": "Pasted Image 20220120232832_867",
-      "path": "_resources/Pasted Image 20220120232832_867.png"
-    },
-    {
-      "basename": "Pasted Image 20220120231542_430",
-      "path": "_resources/Pasted Image 20220120231542_430.png"
     }
   ],
   "omittedPaths": [],
