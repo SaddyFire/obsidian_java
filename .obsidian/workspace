@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/005 win安装services服务(jar).md",
+            "file": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/10 interface整合oauth2.0.md",
             "mode": "preview",
             "source": false
           }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/005 win安装services服务(jar).md",
+                "file": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/10 interface整合oauth2.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/005 win安装services服务(jar).md"
+                "file": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/10 interface整合oauth2.0.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/005 win安装services服务(jar).md",
+                "file": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/10 interface整合oauth2.0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,11 +156,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374.3333435058594,
-    "collapsed": true
+    "width": 374.3333435058594
   },
   "active": "057c9dcd09e7504d",
   "lastOpenFiles": [
+    "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/10 interface整合oauth2.0.md",
+    "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/09 oauth2.0.md",
     "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/005 win安装services服务(jar).md",
     "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/006 脚本文件运行nacos.md",
     "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/004 win安装services服务(bin文件).md",
@@ -168,8 +169,6 @@
     "Ⅰ_project_004_travel/Ⅱ_001_环境搭建/002 全局异常.md",
     "Ⅰ_project_004_travel/Ⅱ_001_环境搭建/001 模块介绍.md",
     "Ⅰ_project_004_travel/Ⅱ_001_环境搭建/000 零零散散.md",
-    "Ⅰ_project_002_health&kaoshi/Ⅱ_002_点名考试系统/001 Result类.md",
-    "Ⅰ_project_001_delivery/Ⅱ_002_技术汇总/009 图片上传与下载.md",
-    "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/12 整合swagger.md"
+    "Ⅰ_project_002_health&kaoshi/Ⅱ_002_点名考试系统/001 Result类.md"
   ]
 }
