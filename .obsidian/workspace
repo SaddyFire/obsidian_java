@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/10 interface整合oauth2.0.md",
+            "file": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/06 依赖配置.md",
             "mode": "preview",
             "source": false
           }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/10 interface整合oauth2.0.md",
+                "file": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/06 依赖配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/10 interface整合oauth2.0.md"
+                "file": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/06 依赖配置.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/10 interface整合oauth2.0.md",
+                "file": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/06 依赖配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,6 +160,7 @@
   },
   "active": "057c9dcd09e7504d",
   "lastOpenFiles": [
+    "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/06 依赖配置.md",
     "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/10 interface整合oauth2.0.md",
     "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/09 oauth2.0.md",
     "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/005 win安装services服务(jar).md",
@@ -168,7 +169,6 @@
     "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/003 idea_debug.md",
     "Ⅰ_project_004_travel/Ⅱ_001_环境搭建/002 全局异常.md",
     "Ⅰ_project_004_travel/Ⅱ_001_环境搭建/001 模块介绍.md",
-    "Ⅰ_project_004_travel/Ⅱ_001_环境搭建/000 零零散散.md",
-    "Ⅰ_project_002_health&kaoshi/Ⅱ_002_点名考试系统/001 Result类.md"
+    "Ⅰ_project_004_travel/Ⅱ_001_环境搭建/000 零零散散.md"
   ]
 }

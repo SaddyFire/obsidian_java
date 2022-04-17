@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "06 依赖配置",
+      "path": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/06 依赖配置.md"
+    },
+    {
       "basename": "10 interface整合oauth2.0",
       "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/10 interface整合oauth2.0.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted Image 20220121203245_904",
       "path": "_resources/Pasted Image 20220121203245_904.png"
-    },
-    {
-      "basename": "Pasted Image 20220214110603_866",
-      "path": "_resources/Pasted Image 20220214110603_866.png"
     }
   ],
   "omittedPaths": [],
