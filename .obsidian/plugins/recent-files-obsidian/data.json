@@ -5,12 +5,12 @@
       "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/005 win安装services服务(jar).md"
     },
     {
-      "basename": "004 win安装services服务(bin文件)",
-      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/004 win安装services服务(bin文件).md"
-    },
-    {
       "basename": "006 脚本文件运行nacos",
       "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/006 脚本文件运行nacos.md"
+    },
+    {
+      "basename": "004 win安装services服务(bin文件)",
+      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/004 win安装services服务(bin文件).md"
     },
     {
       "basename": "003 idea_debug",

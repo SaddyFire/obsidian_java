@@ -9,16 +9,16 @@
 @echo off
 
 echo -----------------------
-echo saddyfire 666 一键安装程序
+echo saddyfire Sentinel 一键安装程序
 echo -----------------------
 
 %~d0
 
 cd %~dp0
 
-echo saddyfire安装服务中
+echo Sentinel安装服务中
 winsw install
-echo saddyfire安装完成
+echo Sentinel安装完成
 
 pause
 
@@ -29,7 +29,7 @@ pause
 @echo off
 
 echo -----------------------
-echo saddyfire 666 一键启动程序
+echo saddyfire Sentinel 一键启动程序
 echo ----------------------- 
 
 net start Sentinel
@@ -42,7 +42,7 @@ pause
 @echo off
 
 echo -----------------------
-echo saddyfire 666 一键关闭
+echo saddyfire Sentinel 一键关闭
 echo -----------------------
 
 :: 此处是服务名
@@ -56,16 +56,16 @@ pause
 @echo off
 
 echo -----------------------
-echo saddyfire 666 一键卸载程序
+echo saddyfire Sentinel 一键卸载程序
 echo -----------------------
 
 %~d0
 
 cd %~dp0
 
-echo Nacos卸载服务中
+echo Sentinel卸载服务中
 winsw uninstall
-echo Nacos卸载完成
+echo Sentinel卸载完成
 
 pause
 
