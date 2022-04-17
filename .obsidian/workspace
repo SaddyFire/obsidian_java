@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/003 处理方式.md",
-            "mode": "source",
+            "file": "Ⅰ_integration_002_spring/Ⅱ_007_swagger/004 简单静态结果类的制作.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -89,13 +89,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 301,
-    "collapsed": true
+    "width": 301
   },
   "right": {
     "id": "eaafcc4feb3ef58e",
@@ -119,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/003 处理方式.md",
+                "file": "Ⅰ_integration_002_spring/Ⅱ_007_swagger/004 简单静态结果类的制作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/003 处理方式.md"
+                "file": "Ⅰ_integration_002_spring/Ⅱ_007_swagger/004 简单静态结果类的制作.md"
               }
             }
           },
@@ -146,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/003 处理方式.md",
+                "file": "Ⅰ_integration_002_spring/Ⅱ_007_swagger/004 简单静态结果类的制作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,15 +159,15 @@
   },
   "active": "057c9dcd09e7504d",
   "lastOpenFiles": [
+    "Ⅰ_integration_002_spring/Ⅱ_007_swagger/004 简单静态结果类的制作.md",
+    "Ⅰ_integration_002_spring/Ⅱ_007_swagger/003 常用注解.md",
+    "Ⅰ_integration_002_spring/Ⅱ_007_swagger/001 使用步骤.md",
+    "Ⅰ_integration_002_spring/Ⅱ_007_swagger/002 访问页面.md",
+    "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/12 整合swagger.md",
     "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/003 处理方式.md",
     "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/002 使用步骤.md",
     "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/001 雪崩效应.md",
     "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/004 win安装services服务(nacos_bin文件).md",
-    "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/005 win安装services服务(sentinel_jar包).md",
-    "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/10 interface整合oauth2.0.md",
-    "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/11 整合redis.md",
-    "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/12 整合swagger.md",
-    "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/06 依赖配置.md",
-    "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/09 oauth2.0.md"
+    "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/005 win安装services服务(sentinel_jar包).md"
   ]
 }

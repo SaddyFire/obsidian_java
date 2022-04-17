@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "004 简单静态结果类的制作",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_007_swagger/004 简单静态结果类的制作.md"
+    },
+    {
+      "basename": "003 常用注解",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_007_swagger/003 常用注解.md"
+    },
+    {
+      "basename": "001 使用步骤",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_007_swagger/001 使用步骤.md"
+    },
+    {
+      "basename": "002 访问页面",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_007_swagger/002 访问页面.md"
+    },
+    {
+      "basename": "12 整合swagger",
+      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/12 整合swagger.md"
+    },
+    {
       "basename": "003 处理方式",
       "path": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/003 处理方式.md"
     },
@@ -27,10 +47,6 @@
     {
       "basename": "11 整合redis",
       "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/11 整合redis.md"
-    },
-    {
-      "basename": "12 整合swagger",
-      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/12 整合swagger.md"
     },
     {
       "basename": "06 依赖配置",
@@ -85,28 +101,12 @@
       "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_004_java-stream/004 查找缺考学生_match.md"
     },
     {
-      "basename": "002 访问页面",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_007_swagger/002 访问页面.md"
-    },
-    {
-      "basename": "003 常用注解",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_007_swagger/003 常用注解.md"
-    },
-    {
-      "basename": "004 简单静态结果类的制作",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_007_swagger/004 简单静态结果类的制作.md"
-    },
-    {
       "basename": "005 api制作注意事项",
       "path": "Ⅰ_integration_002_spring/Ⅱ_007_swagger/005 api制作注意事项.md"
     },
     {
       "basename": "006 配置类",
       "path": "Ⅰ_integration_002_spring/Ⅱ_007_swagger/006 配置类.md"
-    },
-    {
-      "basename": "001 使用步骤",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_007_swagger/001 使用步骤.md"
     },
     {
       "basename": "006 String.format()",
