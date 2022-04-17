@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/12 整合swagger.md",
-            "mode": "preview",
+            "file": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/10 interface整合oauth2.0.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/12 整合swagger.md",
+                "file": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/10 interface整合oauth2.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/12 整合swagger.md"
+                "file": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/10 interface整合oauth2.0.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/12 整合swagger.md",
+                "file": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/10 interface整合oauth2.0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,10 +160,10 @@
   },
   "active": "057c9dcd09e7504d",
   "lastOpenFiles": [
-    "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/12 整合swagger.md",
-    "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/11 整合redis.md",
-    "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/06 依赖配置.md",
     "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/10 interface整合oauth2.0.md",
+    "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/11 整合redis.md",
+    "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/12 整合swagger.md",
+    "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/06 依赖配置.md",
     "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/09 oauth2.0.md",
     "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/005 win安装services服务(jar).md",
     "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/006 脚本文件运行nacos.md",
