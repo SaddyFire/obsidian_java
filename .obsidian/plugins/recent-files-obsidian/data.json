@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "12 整合swagger",
+      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/12 整合swagger.md"
+    },
+    {
+      "basename": "11 整合redis",
+      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/11 整合redis.md"
+    },
+    {
       "basename": "06 依赖配置",
       "path": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/06 依赖配置.md"
     },
@@ -47,10 +55,6 @@
     {
       "basename": "009 图片上传与下载",
       "path": "Ⅰ_project_001_delivery/Ⅱ_002_技术汇总/009 图片上传与下载.md"
-    },
-    {
-      "basename": "12 整合swagger",
-      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/12 整合swagger.md"
     },
     {
       "basename": "01 RSA加密_aop元注解",
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted Image 20220120231542_430",
       "path": "_resources/Pasted Image 20220120231542_430.png"
-    },
-    {
-      "basename": "Pasted Image 20220121203245_904",
-      "path": "_resources/Pasted Image 20220121203245_904.png"
     }
   ],
   "omittedPaths": [],
