@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/003 使用步骤.md",
+            "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/003 处理方式.md",
             "mode": "source",
             "source": false
           }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/003 使用步骤.md",
+                "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/003 处理方式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/003 使用步骤.md"
+                "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/003 处理方式.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/003 使用步骤.md",
+                "file": "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/003 处理方式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,8 +160,8 @@
   },
   "active": "057c9dcd09e7504d",
   "lastOpenFiles": [
-    "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/003 使用步骤.md",
-    "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/002 处理方式.md",
+    "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/003 处理方式.md",
+    "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/002 使用步骤.md",
     "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/001 雪崩效应.md",
     "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/004 win安装services服务(nacos_bin文件).md",
     "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/005 win安装services服务(sentinel_jar包).md",
