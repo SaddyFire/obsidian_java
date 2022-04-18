@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/04 mybatisplus分页插件_自动填充.md",
+            "file": "Ⅰ_integration_002_spring/Ⅱ_005_git/004 gitignore文件.md",
             "mode": "preview",
             "source": false
           }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/04 mybatisplus分页插件_自动填充.md",
+                "file": "Ⅰ_integration_002_spring/Ⅱ_005_git/004 gitignore文件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/04 mybatisplus分页插件_自动填充.md"
+                "file": "Ⅰ_integration_002_spring/Ⅱ_005_git/004 gitignore文件.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/04 mybatisplus分页插件_自动填充.md",
+                "file": "Ⅰ_integration_002_spring/Ⅱ_005_git/004 gitignore文件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,6 +160,7 @@
   },
   "active": "aec846e07c132423",
   "lastOpenFiles": [
+    "Ⅰ_integration_002_spring/Ⅱ_005_git/004 gitignore文件.md",
     "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/04 mybatisplus分页插件_自动填充.md",
     "Ⅰ_integration_002_spring/Ⅱ_002_mysql/004 saddyfire_语句.md",
     "Ⅰ_integration_001_javaBasic/003 时间类完整版.md",
@@ -168,7 +169,6 @@
     "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/002 使用步骤.md",
     "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/001 雪崩效应.md",
     "Ⅰ_integration_002_spring/Ⅱ_007_swagger/001 使用步骤.md",
-    "Ⅰ_integration_002_spring/Ⅱ_007_swagger/002 访问页面.md",
-    "Ⅰ_integration_002_spring/Ⅱ_007_swagger/003 常用注解.md"
+    "Ⅰ_integration_002_spring/Ⅱ_007_swagger/002 访问页面.md"
   ]
 }
