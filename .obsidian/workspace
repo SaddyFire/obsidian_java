@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ⅰ_integration_002_spring/Ⅱ_005_git/004 gitignore文件.md",
+            "file": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/002 Spring整合(事务+AOP).md",
             "mode": "preview",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "aop",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_005_git/004 gitignore文件.md",
+                "file": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/002 Spring整合(事务+AOP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_005_git/004 gitignore文件.md"
+                "file": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/002 Spring整合(事务+AOP).md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ⅰ_integration_002_spring/Ⅱ_005_git/004 gitignore文件.md",
+                "file": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/002 Spring整合(事务+AOP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,15 +160,15 @@
   },
   "active": "aec846e07c132423",
   "lastOpenFiles": [
+    "Ⅰ_integration_002_spring/Ⅱ_003_SSM/002 Spring整合(事务+AOP).md",
+    "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/07 接口限流.md",
+    "Ⅰ_integration_002_spring/Ⅱ_003_SSM/011 元注解的制作(限流令牌).md",
+    "Ⅰ_AAA_Config_MyPC/Ⅱ_005_interview/Ⅲ_003_prepare/00 prepare.md",
     "Ⅰ_integration_002_spring/Ⅱ_005_git/004 gitignore文件.md",
     "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/04 mybatisplus分页插件_自动填充.md",
     "Ⅰ_integration_002_spring/Ⅱ_002_mysql/004 saddyfire_语句.md",
     "Ⅰ_integration_001_javaBasic/003 时间类完整版.md",
     "Ⅰ_integration_001_javaBasic/003 时间类&异常.md",
-    "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/003 详细使用.md",
-    "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/002 使用步骤.md",
-    "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/001 雪崩效应.md",
-    "Ⅰ_integration_002_spring/Ⅱ_007_swagger/001 使用步骤.md",
-    "Ⅰ_integration_002_spring/Ⅱ_007_swagger/002 访问页面.md"
+    "Ⅰ_integration_006_DistributeAdvance/Ⅱ_001_Sentinal/003 详细使用.md"
   ]
 }

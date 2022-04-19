@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "002 Spring整合(事务+AOP)",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/002 Spring整合(事务+AOP).md"
+    },
+    {
+      "basename": "07 接口限流",
+      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/07 接口限流.md"
+    },
+    {
+      "basename": "011 元注解的制作(限流令牌)",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/011 元注解的制作(限流令牌).md"
+    },
+    {
+      "basename": "00 prepare",
+      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_005_interview/Ⅲ_003_prepare/00 prepare.md"
+    },
+    {
       "basename": "004 gitignore文件",
       "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/004 gitignore文件.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "001 markdown常用语法",
       "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_markdown(obsidian)/001 markdown常用语法.md"
-    },
-    {
-      "basename": "Pasted image 20220115203436",
-      "path": "_resources/Pasted image 20220115203436.png"
-    },
-    {
-      "basename": "Pasted image 20220115210314",
-      "path": "_resources/Pasted image 20220115210314.png"
-    },
-    {
-      "basename": "Pasted image 20220116175744",
-      "path": "_resources/Pasted image 20220116175744.png"
-    },
-    {
-      "basename": "Pasted image 20220116180153",
-      "path": "_resources/Pasted image 20220116180153.png"
     }
   ],
   "omittedPaths": [],
