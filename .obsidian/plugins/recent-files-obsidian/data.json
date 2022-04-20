@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "002 达梦语法",
+      "path": "Ⅰ_project_006_浙江监管/Ⅱ_003_业务接口/002 达梦语法.md"
+    },
+    {
+      "basename": "004 saddyfire_语句",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/004 saddyfire_语句.md"
+    },
+    {
       "basename": "002 Spring整合(事务+AOP)",
       "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/002 Spring整合(事务+AOP).md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "04 mybatisplus分页插件_自动填充",
       "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/04 mybatisplus分页插件_自动填充.md"
-    },
-    {
-      "basename": "004 saddyfire_语句",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/004 saddyfire_语句.md"
     },
     {
       "basename": "003 时间类完整版",
@@ -134,11 +138,11 @@
     },
     {
       "basename": "006 String.format()",
-      "path": "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_001_技术汇总/006 String.format().md"
+      "path": "Ⅰ_project_006_浙江监管/Ⅱ_001_技术汇总/006 String.format().md"
     },
     {
       "basename": "001 施工许可详情获取",
-      "path": "Ⅰ_project_006_ECA-JAVA-EXTEND/Ⅱ_003_业务接口/001 施工许可详情获取.md"
+      "path": "Ⅰ_project_006_浙江监管/Ⅱ_003_业务接口/001 施工许可详情获取.md"
     },
     {
       "basename": "005 idea下的git操作",
@@ -195,10 +199,6 @@
     {
       "basename": "001 markdown常用语法 1",
       "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_markdown(obsidian)/001 markdown常用语法 1.md"
-    },
-    {
-      "basename": "001 markdown常用语法",
-      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_markdown(obsidian)/001 markdown常用语法.md"
     }
   ],
   "omittedPaths": [],
