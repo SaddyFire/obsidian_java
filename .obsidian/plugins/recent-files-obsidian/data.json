@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "08 url拦截器_ip白名单",
+      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/08 url拦截器_ip白名单.md"
+    },
+    {
+      "basename": "001 施工许可详情获取",
+      "path": "Ⅰ_project_006_浙江监管/Ⅱ_003_业务接口/001 施工许可详情获取.md"
+    },
+    {
       "basename": "002 达梦语法",
       "path": "Ⅰ_project_006_浙江监管/Ⅱ_003_业务接口/002 达梦语法.md"
     },
@@ -141,10 +149,6 @@
       "path": "Ⅰ_project_006_浙江监管/Ⅱ_001_技术汇总/006 String.format().md"
     },
     {
-      "basename": "001 施工许可详情获取",
-      "path": "Ⅰ_project_006_浙江监管/Ⅱ_003_业务接口/001 施工许可详情获取.md"
-    },
-    {
       "basename": "005 idea下的git操作",
       "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/005 idea下的git操作.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "002 obsidian常用插件",
       "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_markdown(obsidian)/002 obsidian常用插件.md"
-    },
-    {
-      "basename": "001 markdown常用语法 1",
-      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_001_markdown(obsidian)/001 markdown常用语法 1.md"
     }
   ],
   "omittedPaths": [],
