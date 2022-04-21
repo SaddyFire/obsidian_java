@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "002 idea配置",
+      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/002 idea配置.md"
+    },
+    {
       "basename": "004 saddyfire_语句",
       "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/004 saddyfire_语句.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "001 加快github的访问速度",
       "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/001 加快github的访问速度.md"
-    },
-    {
-      "basename": "002 idea配置",
-      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/002 idea配置.md"
     }
   ],
   "omittedPaths": [],
