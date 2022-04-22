@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "001 OOS文件存储",
+      "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/001 OOS文件存储.md"
+    },
+    {
+      "basename": "001 springboot_bean的制作",
+      "path": "Ⅰ_project_003_funnyread/Ⅱ_001_环境搭建/001 springboot_bean的制作.md"
+    },
+    {
       "basename": "002 达梦语法",
       "path": "Ⅰ_project_006_浙江监管/Ⅱ_003_业务接口/002 达梦语法.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "005 saddyfire_show_index",
       "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/005 saddyfire_show_index.md"
-    },
-    {
-      "basename": "006 saddyfire_explain",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/006 saddyfire_explain.md"
-    },
-    {
-      "basename": "001 加快github的访问速度",
-      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/001 加快github的访问速度.md"
     }
   ],
   "omittedPaths": [],
