@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "003 购物车商品过滤",
+      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_004_java-stream/003 购物车商品过滤.md"
+    },
+    {
+      "basename": "002 StreamCreate",
+      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_004_java-stream/002 StreamCreate.md"
+    },
+    {
+      "basename": "001 StreamOperation_stream用法",
+      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_004_java-stream/001 StreamOperation_stream用法.md"
+    },
+    {
+      "basename": "004 查找缺考学生_match",
+      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_004_java-stream/004 查找缺考学生_match.md"
+    },
+    {
+      "basename": "005 多条件排序",
+      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_004_java-stream/005 多条件排序.md"
+    },
+    {
+      "basename": "006 去重_过滤",
+      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_004_java-stream/006 去重_过滤.md"
+    },
+    {
+      "basename": "007 将集合流属性新建流",
+      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_004_java-stream/007 将集合流属性新建流.md"
+    },
+    {
       "basename": "002 达梦语法",
       "path": "Ⅰ_project_006_浙江监管/Ⅱ_003_业务接口/002 达梦语法.md"
     },
@@ -153,14 +181,6 @@
       "path": "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/004 注解制作_元注解_幂等.md"
     },
     {
-      "basename": "003 购物车商品过滤",
-      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_004_java-stream/003 购物车商品过滤.md"
-    },
-    {
-      "basename": "004 查找缺考学生_match",
-      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_004_java-stream/004 查找缺考学生_match.md"
-    },
-    {
       "basename": "006 String.format()",
       "path": "Ⅰ_project_006_浙江监管/Ⅱ_001_技术汇总/006 String.format().md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "001 基础命令",
       "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md"
-    },
-    {
-      "basename": "001 mysql",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/001 mysql.md"
-    },
-    {
-      "basename": "003 知识点整理",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/003 知识点整理.md"
-    },
-    {
-      "basename": "如何去写一手好SQL",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/如何去写一手好SQL.pdf"
-    },
-    {
-      "basename": "002 mysql_advance",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/002 mysql_advance.md"
-    },
-    {
-      "basename": "005 saddyfire_show_index",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/005 saddyfire_show_index.md"
     }
   ],
   "omittedPaths": [],
