@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "00B SpringMVC底层源码跟踪",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/00B SpringMVC底层源码跟踪.md"
+    },
+    {
+      "basename": "00C springboot自动装配流程图",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/00C springboot自动装配流程图.md"
+    },
+    {
       "basename": "002 达梦语法",
       "path": "Ⅰ_project_006_浙江监管/Ⅱ_003_业务接口/002 达梦语法.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "005 idea下的git操作",
       "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/005 idea下的git操作.md"
-    },
-    {
-      "basename": "003 tortoise 推送",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/003 tortoise 推送.md"
-    },
-    {
-      "basename": "002 开发过程",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/002 开发过程.md"
     }
   ],
   "omittedPaths": [],
