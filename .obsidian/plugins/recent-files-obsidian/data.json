@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "00B SpringMVC底层源码跟踪",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/00B SpringMVC底层源码跟踪.md"
+      "basename": "001 基础命令",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/001 基础命令.md"
+    },
+    {
+      "basename": "003 tortoise 推送",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/003 tortoise 推送.md"
+    },
+    {
+      "basename": "004 gitignore文件",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/004 gitignore文件.md"
+    },
+    {
+      "basename": "005 idea下的git操作",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/005 idea下的git操作.md"
     },
     {
       "basename": "00C springboot自动装配流程图",
       "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/00C springboot自动装配流程图.md"
+    },
+    {
+      "basename": "00B SpringMVC底层源码跟踪",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/00B SpringMVC底层源码跟踪.md"
     },
     {
       "basename": "002 达梦语法",
@@ -87,10 +103,6 @@
     {
       "basename": "00 prepare",
       "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_005_interview/Ⅲ_003_prepare/00 prepare.md"
-    },
-    {
-      "basename": "004 gitignore文件",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/004 gitignore文件.md"
     },
     {
       "basename": "04 mybatisplus分页插件_自动填充",
@@ -187,18 +199,6 @@
     {
       "basename": "01 RSA加密_aop元注解",
       "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/01 RSA加密_aop元注解.md"
-    },
-    {
-      "basename": "004 注解制作_元注解_幂等",
-      "path": "Ⅰ_project_002_health&kaoshi/Ⅱ_001_技术点汇总/004 注解制作_元注解_幂等.md"
-    },
-    {
-      "basename": "006 String.format()",
-      "path": "Ⅰ_project_006_浙江监管/Ⅱ_001_技术汇总/006 String.format().md"
-    },
-    {
-      "basename": "005 idea下的git操作",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_005_git/005 idea下的git操作.md"
     }
   ],
   "omittedPaths": [],

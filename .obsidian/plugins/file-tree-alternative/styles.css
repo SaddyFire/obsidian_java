@@ -26,21 +26,43 @@
 }
 
 .oz-nav-file-title {
-    padding-left: 2px !important;
-    padding-right: 2px !important;
     width: calc(100% - 30px);
     display: flex;
     white-space: nowrap;
     min-width: 100%;
+    cursor: pointer;
+    line-height: 22px;
+    border-radius: 3px;
+    font-size: 12px;
+    padding: 1px 2px 0px 2px;
+    min-width: 100%;
+    border: 1px solid transparent;
+    color: var(--text-muted);
 }
 
-.oz-nav-file-title .nav-file-title-content {
+.oz-nav-file-title .oz-nav-file-title-content {
     width: 100%;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
     vertical-align: middle;
     display: inline-block;
+}
+
+.oz-nav-file-tag {
+    color: var(--text-muted);
+    background-color: var(--background-secondary-alt);
+    border-radius: 3px;
+    font-size: 9px;
+    font-weight: 600;
+    letter-spacing: 0.05em;
+    line-height: 14px;
+    margin-left: 4px;
+    padding: 0 4px;
+    text-transform: uppercase;
+    align-self: center;
+    padding: 0px 4px 0px 4px;
+    margin-right: 2px;
 }
 
 div.workspace-leaf-content[data-type='file-tree-view'] > div.view-content {
@@ -73,11 +95,16 @@ div.workspace-leaf-content[data-type='file-tree-view'] > div.view-content {
     background-color: var(--text-selection);
 }
 
+.oz-nav-file {
+    margin-left: 3px;
+    padding-right: 3px;
+}
+
 .oz-folders-action-items {
     text-align: center;
 }
 
-.oz-folders-action-items .oz-nav-action-button {
+.oz-nav-action-button {
     margin-left: 5px;
     color: var(--text-muted);
     opacity: 0.5;
@@ -168,15 +195,6 @@ div.oz-folder-name.is-root-folder {
     padding-bottom: 5px;
     padding-left: 8px;
     height: 100%;
-}
-
-.oz-nav-file-tag {
-    font-size: 10px;
-    border-radius: 3px;
-    padding: 0px 4px 0px 4px;
-    background-color: var(--background-secondary-alt);
-    margin-right: 2px;
-    font-weight: 600;
 }
 
 .oz-folder-element {
@@ -280,4 +298,15 @@ svg.oz-folder-toggle path {
 /* Solution for React-Icon Center Issue */
 .oz-folder-name svg {
     vertical-align: middle !important;
+}
+
+.oz-nav-file-icon {
+    line-height: 1;
+    display: inline-block;
+    font-weight: normal;
+    font-style: normal;
+    font-variant: normal;
+    margin-right: 2px;
+    padding-bottom: 2.5px;
+    vertical-align: middle;
 }
