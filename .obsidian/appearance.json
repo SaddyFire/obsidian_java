@@ -1,7 +1,8 @@
 {
-  "baseFontSize": 17,
+  "baseFontSize": -23,
   "enabledCssSnippets": [],
   "cssTheme": "saddyfire",
   "theme": "obsidian",
-  "translucency": false
+  "translucency": false,
+  "baseFontSizeAction": true
 }

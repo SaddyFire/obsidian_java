@@ -89,14 +89,7 @@
       "key": "Y"
     }
   ],
-  "file-explorer:reveal-active-file": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "E"
-    }
-  ],
+  "file-explorer:reveal-active-file": [],
   "workspace:copy-path": [
     {
       "modifiers": [
@@ -177,5 +170,7 @@
       ],
       "key": "F"
     }
-  ]
+  ],
+  "obsidian-excalidraw-plugin:insert-link-to-element": [],
+  "obsidian-excalidraw-plugin:insert-link": []
 }
