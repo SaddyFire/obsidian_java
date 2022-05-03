@@ -15,14 +15,7 @@
       "key": "F6"
     }
   ],
-  "outline:open": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "4"
-    }
-  ],
+  "outline:open": [],
   "app:toggle-left-sidebar": [
     {
       "modifiers": [
@@ -172,5 +165,21 @@
     }
   ],
   "obsidian-excalidraw-plugin:insert-link-to-element": [],
-  "obsidian-excalidraw-plugin:insert-link": []
+  "obsidian-excalidraw-plugin:insert-link": [],
+  "file-tree-alternative:reveal-active-file": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "E"
+    }
+  ],
+  "file-tree-alternative:open-file-tree-leaf": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "4"
+    }
+  ]
 }

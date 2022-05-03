@@ -5,6 +5,14 @@
       "path": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/达梦数据库安装.md"
     },
     {
+      "basename": "04 mybatisplus分页插件_自动填充",
+      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/04 mybatisplus分页插件_自动填充.md"
+    },
+    {
+      "basename": "07 接口限流",
+      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/07 接口限流.md"
+    },
+    {
       "basename": "002 达梦语法",
       "path": "Ⅰ_project_006_浙江监管/Ⅱ_003_业务接口/002 达梦语法.md"
     },
@@ -97,20 +105,12 @@
       "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/002 Spring整合(事务+AOP).md"
     },
     {
-      "basename": "07 接口限流",
-      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/07 接口限流.md"
-    },
-    {
       "basename": "011 元注解的制作(限流令牌)",
       "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/011 元注解的制作(限流令牌).md"
     },
     {
       "basename": "00 prepare",
       "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_005_interview/Ⅲ_003_prepare/00 prepare.md"
-    },
-    {
-      "basename": "04 mybatisplus分页插件_自动填充",
-      "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/04 mybatisplus分页插件_自动填充.md"
     },
     {
       "basename": "003 时间类完整版",
