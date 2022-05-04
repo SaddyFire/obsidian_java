@@ -6,15 +6,14 @@
   "file-tree-alternative",
   "obsidian-git",
   "obsidian-image-toolkit",
-  "recent-files-obsidian",
   "obsidian-collapse-all-plugin",
   "quick-explorer",
   "find-unlinked-files",
-  "obsidian-Editor",
   "ProxyGithub",
   "table-editor-obsidian",
   "drawio-obsidian",
   "obsidian-enhancing-mindmap",
   "obsidian-excalidraw-plugin",
-  "obsidian-topic-linking"
+  "obsidian-topic-linking",
+  "recent-files-obsidian"
 ]
