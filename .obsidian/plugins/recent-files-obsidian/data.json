@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "009 GateWay网关",
+      "path": "Ⅰ_project_003_funnyread/Ⅱ_002_技术汇总(持续更新)/009 GateWay网关.md"
+    },
+    {
       "basename": "达梦数据库安装",
       "path": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/达梦数据库安装.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "001 Result类",
       "path": "Ⅰ_project_002_health&kaoshi/Ⅱ_002_点名考试系统/001 Result类.md"
-    },
-    {
-      "basename": "009 图片上传与下载",
-      "path": "Ⅰ_project_001_delivery/Ⅱ_002_技术汇总/009 图片上传与下载.md"
     }
   ],
   "omittedPaths": [],
