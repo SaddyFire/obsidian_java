@@ -22,31 +22,6 @@ from user_profile
 group by university
 having avg_question_cnt < 5 or avg_answer_cnt < 20
 
--- 先进行 group by 后 order by
-select up.university , 
-count(qpd.question_id)/count(distinct qpd.device_id)
-from user_profile as up join question_practice_detail as qpd on up.device_id = qpd.device_id
-group by up.university
-order by university
-
-
--- join连接 / 外连接查询转换
-select up.university,qd.difficult_level,
-count(qpd.question_id) / count(distinct qpd.device_id) as avg_answer_cnt
-from question_practice_detail as qpd
-left join user_profile as up on qpd.device_id = up.device_id
-left join question_detail as qd on qpd.question_id = qd.question_id
-where up.university = '山东大学'
-group by qd.difficult_level;
-
-SELECT t1.university,t3.difficult_level,
-COUNT(t2.question_id) / COUNT(DISTINCT (t2.device_id)) as avg_answer_cnt
-from user_profile as t1, question_practice_detail as t2, question_detail as t3
-WHERE t1.university = '山东大学' 
-and t1.device_id = t2.device_id 
-and t2.question_id = t3.question_id
-GROUP BY t3.difficult_level;
-
 -- case 条件函数 及其他写法(@-1)
 select (case when age >= 25 then '25岁及以上' else '25岁以下' end) as age_cut,
 count(id) as number 
@@ -110,8 +85,7 @@ group by age
 
 -- 找出每个学校GPA最低的同学 使用嵌套
 select device_id,university,gpa from user_profile
-where (university,gpa )
-in(select university, min(gpa) from user_profile group by university)
+where (university,gpa ) in (select university, min(gpa) from user_profile group by university)
 order by university
 
 -- 求复旦大学的每个用户在8月份练习的总题目数和回答正确的题目数情况，请取出相应明细数据，对于在8月份没有练习过的用户，答题数结果返回0.
@@ -120,15 +94,12 @@ select up.device_id, up.university ,
     count(qpd.question_id) as question_cnt,
     sum(if(qpd.result='right',1,0)) as right_question_cnt
 from question_practice_detail as qpd 
-right join user_profile as up 
-    on qpd.device_id = up.device_id
-    and month(qpd.date) = 8
+right join user_profile as up on qpd.device_id = up.device_id and month(qpd.date) = 8
 where up.university = '复旦大学' 
 group by up.device_id
 
 -- 浙江大学的用户在不同难度题目下答题的正确率情况  avg
-select qd.difficult_level , 
-(avg(if(qpd.result = 'right',1,0))) as correct_rate
+select qd.difficult_level , (avg(if(qpd.result = 'right',1,0))) as correct_rate
 from question_practice_detail as qpd 
 left join user_profile as up on qpd.device_id = up.device_id
 left join question_detail as qd on qd.question_id = qpd.question_id
