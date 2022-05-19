@@ -1,6 +1,4 @@
 ```sql
--- order by 和 limit 搭配顺序
-select device_id from user_profile order by 'device_id' desc limit 0,2
 
 -- between 不用加 ()
 select device_id, gender, age from user_profile where age between 20 and 23;
@@ -31,15 +29,6 @@ from user_profile as up join question_practice_detail as qpd on up.device_id = q
 group by up.university
 order by university
 
--- 用户信息表：user_profile
--- 题库练习明细表：question_practice_detail
--- question_detail
-select up.university , qd.difficult_level, 
-count(up.device_id)/ count(distinct qpd.device_id) as avg_answer_cnt
-from question_practice_detail as qpd 
-left join  user_profile as up on qpd.device_id = up.device_id 
-left join question_detail as qd on qpd.question_id = qd.question_id
-group by up.university , qd.difficult_level
 
 -- join连接 / 外连接查询转换
 select up.university,qd.difficult_level,
@@ -151,6 +140,7 @@ order by correct_rate
 -- DATEDIFF函数(待更新)
 
 ```
+[[002 达梦语法]]
 
 ![[Pasted image 20220320000453.png]]
 

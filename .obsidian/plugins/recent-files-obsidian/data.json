@@ -5,6 +5,22 @@
       "path": "Ⅰ_project_006_浙江监管/Ⅱ_003_业务接口/002 达梦语法.md"
     },
     {
+      "basename": "004 saddyfire_语句",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/004 saddyfire_语句.md"
+    },
+    {
+      "basename": "005 saddyfire_show_index",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/005 saddyfire_show_index.md"
+    },
+    {
+      "basename": "006 saddyfire_explain",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/006 saddyfire_explain.md"
+    },
+    {
+      "basename": "002 mysql_advance",
+      "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/002 mysql_advance.md"
+    },
+    {
       "basename": "003 时间类完整版",
       "path": "Ⅰ_integration_001_javaBasic/003 时间类完整版.md"
     },
@@ -71,10 +87,6 @@
     {
       "basename": "00B SpringMVC底层源码跟踪",
       "path": "Ⅰ_integration_002_spring/Ⅱ_003_SSM/00B SpringMVC底层源码跟踪.md"
-    },
-    {
-      "basename": "004 saddyfire_语句",
-      "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/004 saddyfire_语句.md"
     },
     {
       "basename": "003 购物车商品过滤",
@@ -187,18 +199,6 @@
     {
       "basename": "09 oauth2.0",
       "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/09 oauth2.0.md"
-    },
-    {
-      "basename": "006 脚本文件运行nacos",
-      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/006 脚本文件运行nacos.md"
-    },
-    {
-      "basename": "003 idea_debug",
-      "path": "Ⅰ_AAA_Config_MyPC/Ⅱ_002_computer_config/003 idea_debug.md"
-    },
-    {
-      "basename": "002 全局异常",
-      "path": "Ⅰ_project_004_travel/Ⅱ_001_环境搭建/002 全局异常.md"
     }
   ],
   "omittedPaths": [],
