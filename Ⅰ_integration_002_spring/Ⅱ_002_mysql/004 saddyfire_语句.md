@@ -64,15 +64,15 @@ from user_submit
 group by gender
 
 -- 切割、截取、删除、替换
--- -- 替换 -- --
+-- -- replace() -- --
 select device_id , 
 replace(blog_url,'http:/url/','') as user_name
 from user_submit 
--- -- 删除 -- --
+-- -- trim() -- --
 select device_id , 
 trim('http:/url/'from blog_url) as user_name
 from user_submit 
--- -- 字段切割 -- --(-1是指从后面开始)
+-- -- substring_index -- --(-1是指从后面开始)
 select device_id , 
 substring_index(blog_url,'/',-1) as user_name
 from user_submit 
@@ -82,11 +82,6 @@ count(device_id)
 from user_submit 
 group by age
 
-
--- 找出每个学校GPA最低的同学 使用嵌套
-select device_id,university,gpa from user_profile
-where (university,gpa ) in (select university, min(gpa) from user_profile group by university)
-order by university
 
 -- 求复旦大学的每个用户在8月份练习的总题目数和回答正确的题目数情况，请取出相应明细数据，对于在8月份没有练习过的用户，答题数结果返回0.
 -- 此处要注意 month(qpd.date) = 8 的条件要加在join中, 原因见下图

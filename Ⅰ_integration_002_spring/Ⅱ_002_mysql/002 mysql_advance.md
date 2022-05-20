@@ -18,11 +18,8 @@ CREATE TABLE emp (
 ```
 
 ### 3. 多表查询 √
-1. 隐式内连接
-2. 显式内连接
-3. 左/右 外连接
-4. 子查询
 
+#### 3.1 联表
 ```sql
 -- 子查询
 select c_name,grade from score where stu_id = (SELECT id from student where name = '李四' );
@@ -52,9 +49,12 @@ select e.ename,e.salary, j.jname,j.description,d.dname,d.loc ,s.grade from emp e
 select d.did,d.dname,d.loc, count(*) count from dept d join emp e on d.did = e.dept_id group by d.did;
 ```
 
-#### 3.5 union
+#### 3.2 union
 ```sql
 (SELECT * from student  ORDER BY score DESC limit 0,2 ) UNION all ( SELECT * from student  ORDER BY score2 DESC limit 0,2)
 ```
 
+#### 3.3 些许注意点
+```sql
 
+```

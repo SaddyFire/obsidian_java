@@ -54,6 +54,8 @@ select * from emp where ename not like '%R%';
 select EName,sal/30 as 日薪 from emp ;
 ----------------------------------------------------------
 
+
+
 ```
 
 ## 4 DCL
