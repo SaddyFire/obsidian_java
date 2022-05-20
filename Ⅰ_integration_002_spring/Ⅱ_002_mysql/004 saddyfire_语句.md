@@ -2,13 +2,12 @@
 -- regexp 匹配
 select prod_name,prod_desc from Products
 where prod_desc REGEXP 'toy';
-
+-- locate 函数
 select prod_name , prod_desc from Products
 # where prod_desc like '%toy%';
-# where instr(prod_desc , 'toy') >` 0``;`
-# having instr(prod_desc ,` `'toy'``);`
-
-having locate(``'toy'` `, prod_desc);`
+# where instr(prod_desc , 'toy') > 0;
+# having instr(prod_desc , 'toy');
+having locate('toy' , prod_desc);
 
 
 
