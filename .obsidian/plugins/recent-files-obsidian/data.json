@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "达梦数据库安装",
+      "path": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/达梦数据库安装.md"
+    },
+    {
+      "basename": "001 施工许可详情获取",
+      "path": "Ⅰ_project_006_浙江监管/Ⅱ_003_业务接口/001 施工许可详情获取.md"
+    },
+    {
+      "basename": "002 达梦语法",
+      "path": "Ⅰ_project_006_浙江监管/Ⅱ_003_业务接口/002 达梦语法.md"
+    },
+    {
       "basename": "002 mysql_advance",
       "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/002 mysql_advance.md"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "001 mysql",
       "path": "Ⅰ_integration_002_spring/Ⅱ_002_mysql/001 mysql.md"
-    },
-    {
-      "basename": "002 达梦语法",
-      "path": "Ⅰ_project_006_浙江监管/Ⅱ_003_业务接口/002 达梦语法.md"
     },
     {
       "basename": "006 saddyfire_explain",
@@ -61,20 +69,12 @@
       "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/10 interface整合oauth2.0.md"
     },
     {
-      "basename": "达梦数据库安装",
-      "path": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/达梦数据库安装.md"
-    },
-    {
       "basename": "04 mybatisplus分页插件_自动填充",
       "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/04 mybatisplus分页插件_自动填充.md"
     },
     {
       "basename": "07 接口限流",
       "path": "Ⅰ_project_005_interface/Ⅱ_002_技术汇总(持续更新)/07 接口限流.md"
-    },
-    {
-      "basename": "001 施工许可详情获取",
-      "path": "Ⅰ_project_006_浙江监管/Ⅱ_003_业务接口/001 施工许可详情获取.md"
     },
     {
       "basename": "001 基础命令",
