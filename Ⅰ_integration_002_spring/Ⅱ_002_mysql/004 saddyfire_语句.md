@@ -1,34 +1,32 @@
 ```sql
+-- regexp 匹配
+select prod_name,prod_desc from Products
+where prod_desc REGEXP 'toy';
 
+select prod_name , prod_desc from Products
+# where prod_desc like '%toy%';
+# where instr(prod_desc , 'toy') >` 0``;`
+# having instr(prod_desc ,` `'toy'``);`
 
+having locate(``'toy'` `, prod_desc);`
 
 
 
 -- case 条件函数 及其他写法(@-1)
-select (case when age >= 25 then '25岁及以上' else '25岁以下' end) as age_cut,
-count(id) as number 
-from user_profile
-group by age_cut
+select (case when age >= 25 then '25岁及以上' else '25岁以下' end) as age_cut, count(id) as number 
+from user_profile group by age_cut
 -- if -- -- -- -- -- 
-select if(age>=25,'25岁及以上','25岁以下') as age_cut,
-count(id) as number
-from user_profile
-group by age_cut
+select if(age>=25,'25岁及以上','25岁以下') as age_cut, count(id) as number
+from user_profile group by age_cut
 
 -- case 条件函数 (@-2)
 select device_id , gender , 
-(case when age >= 25 then '25岁及以上' 
-     when age >= 20 then '20-24岁'
-     when age < 20 then '20岁以下'
-     else '其他' end ) as age_cut
+(case when age >= 25 then '25岁及以上' when age >= 20 then '20-24岁' when age < 20 then '20岁以下' else '其他' end ) as age_cut
 from user_profile
 
 -- 日期函数
-select day(date) as day,
-count(id) as question_cnt
-from question_practice_detail
-where month(date) = 8 and year(date) = 2021
-group by date
+select day(date) as day, count(id) as question_cnt
+from question_practice_detail where month(date) = 8 and year(date) = 2021 group by date
 
 -- 日期函数2  date_add(qpd1.date1,interval 1 day) = qpd2.date2
 select count(date2) / count(date1) as avg_ret from 
