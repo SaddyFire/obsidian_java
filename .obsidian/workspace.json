@@ -99,7 +99,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -195,6 +196,6 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "9e1f423efc92ef53",
+  "active": "5f98cbc05ee1818e",
   "lastOpenFiles": []
 }
