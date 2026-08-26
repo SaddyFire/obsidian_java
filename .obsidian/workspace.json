@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/达梦数据库安装.md",
+                "file": "Ⅰ_integration_002_spring/Ⅱ_001_maven详解/01 maven详解.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "达梦数据库安装"
+              "title": "01 maven详解"
             }
           }
         ]
@@ -87,16 +87,6 @@
               "state": {},
               "icon": "sheets-in-box",
               "title": "File Tree"
-            }
-          },
-          {
-            "id": "5f98cbc05ee1818e",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
             }
           }
         ],
@@ -196,6 +186,10 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "5f98cbc05ee1818e",
-  "lastOpenFiles": []
+  "active": "87e63e91d496cf49",
+  "lastOpenFiles": [
+    "Ⅰ_AAA_Config_MyPC/Ⅱ_005_interview/Ⅲ_001_basic/Ⅲ_002_drawbrand/mytest.excalidraw.md",
+    "Ⅰ_AAA_Config_MyPC/Ⅱ_005_interview/Ⅲ_001_basic/route.md",
+    "Ⅰ_project_005_interface/Ⅱ_001_环境搭建/达梦数据库安装.md"
+  ]
 }
